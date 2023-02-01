@@ -58,7 +58,9 @@ if (dataFile != "template.json") {
     if (line.contains("%url%")) { line = process(line, data, "url") }
     if (line.contains("%doi%")) { line = processRich(line, data, "doi", "[https://doi.org/%doi%](https://doi.org/%doi%)") }
     if (line.contains("%description%")) { line = process(line, data, "description") }
-    if (line.contains("%screenshot%")) { line = processRich(line, data, "screenshot", "<img width=\"300\" align=\"right\" alt=\"screenshot of the service\" src=\"%screenshot%\">") }
+    // Here's the line added to make the service logo's consistent with the docs repo. The original line is still available (commented out) just below.
+    if (line.contains("%screenshot")) { line = processRich(line, data, "screenshot", "![screenshot of %service%](https://github.com/VHP4Safety/cloud/blob/main/docs/service/%screenshot% \"Click on the image to go to the service\")")}
+    //    if (line.contains("%screenshot%")) { line = processRich(line, data, "screenshot", "<img width=\"300\" align=\"right\" alt=\"screenshot of the service\" src=\"%screenshot%\">") }
     if (line.contains("%provider.name%")) { line = process(line, data, "provider.name") }
     if (line.contains("%provider.url%")) { line = processRich(line, data, "provider.url", "([%provider.url%](%provider.url%))") }
     if (line.contains("%provider.contact.name%")) { line = process(line, data, "provider.contact.name") }
