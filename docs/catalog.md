@@ -21,6 +21,14 @@ Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki
 -------------------------------------------------------------------------------
 
 
+## ArrayAnalysis
+
+A user-friendly solutions for microarray quality control and pre-processing [[more info](service/arrayanalysis.md)]
+
+
+-------------------------------------------------------------------------------
+
+
 ## BioModels
 
 BioModels is a repository of mathematical models of biological and biomedical systems. [[more info](service/biomodels.md)]
