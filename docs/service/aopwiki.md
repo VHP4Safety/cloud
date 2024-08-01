@@ -53,7 +53,7 @@ function initTeSSWidgets() {
 
 ## Technical tool specifications
 
-* Provided by: BiGCaT, Maastricht University 
+* Provided by: Department of Bioinformatics (BiGCaT), Maastricht University 
 * Citation: [https://doi.org/10.1089/aivt.2021.0010](https://doi.org/10.1089/aivt.2021.0010)
 * Version: 
 * License: 
