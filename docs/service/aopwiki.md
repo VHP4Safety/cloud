@@ -46,14 +46,14 @@ function initTeSSWidgets() {
 * TRL: 
 * Type: -
 * Contact: Marvin Martens marvin.martens@maastrichtuniversity.nl
-* API Type: 
+* API Type: SPARQL endpoint
 * Categories: -
 * Targeted users: -
 * Relevant VHP4Safety Use case: -
 
 ## Technical tool specifications
 
-* Provided by: Department of Bioinformatics (BiGCaT), Maastricht University 
+* Provided by: Department of Bioinformatics (BiGCaT), Maastricht University ([https://www.maastrichtuniversity.nl/research/bioinformatics](https://www.maastrichtuniversity.nl/research/bioinformatics))
 * Citation: [https://doi.org/10.1089/aivt.2021.0010](https://doi.org/10.1089/aivt.2021.0010)
 * Version: 
 * License: 
