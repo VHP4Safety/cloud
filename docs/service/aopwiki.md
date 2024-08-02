@@ -19,7 +19,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint.
 <div id="tess-widget-materials-list" class="tess-widget tess-widget-list"></div>
 <script>
 function initTeSSWidgets() {
-    var query = '';
+    var query = 'AOP-Wiki RDF';
     if (query.trim() != "") {
         TessWidget.Materials(document.getElementById('tess-widget-materials-list'),
             'SimpleList',
@@ -61,7 +61,7 @@ function initTeSSWidgets() {
 * Docker: [https://hub.docker.com/r/aammar/snorql-httpd](https://hub.docker.com/r/aammar/snorql-httpd)
 * Bio.tools: [https://bio.tools/aop-wiki_rdf](https://bio.tools/aop-wiki_rdf)
 * FAIRsharing: 
-* TeSS: 
+* TeSS: [https://tess.elixir-europe.org/search?q=AOP-Wiki RDF](https://tess.elixir-europe.org/search?q=AOP-Wiki RDF)
 * RSD: 
 * Wikipedia: 
 
