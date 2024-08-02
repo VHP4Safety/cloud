@@ -33,6 +33,7 @@
     "login": "No"
   },
   "ELIXIR": {
-    "biotools": "aop-wiki_rdf"
+    "biotools": "aop-wiki_rdf",
+     "tess": "AOP-Wiki RDF"
   }
 }
