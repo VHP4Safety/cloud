@@ -12,7 +12,7 @@ on:
       - 'docs/service/*.json'
 
 jobs:
-  webpage:
+  create-markdown:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -46,3 +46,34 @@ jobs:
               git commit -m 'Updated service Markdown '
               git push
           fi
+
+  # Build Jeckyll Website job
+  build:
+    runs-on: ubuntu-latest
+    needs: create-markdown
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Build with Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./docs
+          destination: ./_site
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  # Jeckyll Website Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
