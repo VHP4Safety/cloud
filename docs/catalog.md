@@ -20,11 +20,11 @@ Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki
 
 -------------------------------------------------------------------------------
 
-![AOP-Wiki API](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwikiapi.png "Click on the image to go to the service")
+![AOP-Wiki API logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwikiapi.png "Click on the image to go to the service")
 
 ## AOP-Wiki API
 
-REST API for AOP-Wiki content, using SPARQL. [[more info](service/aopwikiapi.md)]
+REST API for AOP-Wiki content, using SPARQL [[more info](service/aopwikiapi.md)]
 
 
 -------------------------------------------------------------------------------
