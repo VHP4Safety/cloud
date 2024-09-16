@@ -47,6 +47,7 @@ args.each { dataFile ->
 if (dataFile != "template.json") {
   fileContents = new File(dataFile).text
   def data = new JsonSlurper().parseText(fileContents)
+  // def data = new JsonSlurper().parseText(fileContents).setType(JsonParserType.LAX)
 
   outputFile = new File(data.id + ".md")
   outputFile.text = ""
