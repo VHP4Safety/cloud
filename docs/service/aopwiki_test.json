@@ -1,0 +1,44 @@
+/* A multiline comment
+for testing purpose */
+
+{
+  "id": "aopwiki",
+  "service": "AOP-Wiki Snorql UI",
+  "description": "Graphical interface to an AOP-Wiki SPARQL endpoint.",
+  "screenshot": "aopwiki.png",
+  "url": "https://aopwiki.cloud.vhp4safety.nl/",
+  "doi": "10.1089/aivt.2021.0010",
+  "instance": {
+    "type": "VHP4Safety",
+    "vhp-platform": "Development",
+    "url": "https://aopwiki.cloud.vhp4safety.nl/",
+    "source": "https://github.com/marvinm2/aopwiki-snorql-extended",
+    "docker": "https://hub.docker.com/r/aammar/snorql-httpd"
+  },
+  "intro": {
+    "title": "AOP-Wiki SNORQL introduction",
+    "url": "https://docs.vhp4safety.nl/en/latest/tutorials/aopwiki/aopwiki.html"
+  },
+  "workflow": {
+    /* An inline multiline comment
+    for testing purpose with workflow.title */
+    "title": "AOPLink: Extracting and Analyzing Data Related to an AOP of Interest",
+    "url": "https://docs.vhp4safety.nl/en/latest/tutorials/aoplink/aoplink.html"
+  },
+  "provider": {
+    "contact": {
+      "name": "Marvin Martens",
+      "email": "marvin.martens@maastrichtuniversity.nl"
+    },
+    "url": "https://www.maastrichtuniversity.nl/research/bioinformatics",
+    "name": "Department of Bioinformatics (BiGCaT), Maastricht University"
+  },
+  "access": {
+    "API": "SPARQL endpoint",
+    "login": "No"
+  },
+  "ELIXIR": {
+    "biotools": "aop-wiki_rdf",
+     "tess": "AOP-Wiki RDF"
+  }
+}
