@@ -85,6 +85,17 @@ ${data.description} [[more info](service/${data.id}.md)]
 }
 
 println """
+## Persona-Specific Catalogs
+
+You can reach the list of services that are associated with specific persona's below. 
+
+[Persona 1](persona1.md)
+[Persona 2](persona2.md)
+[Persona 3](persona3.md)
+"""
+
+
+println """
 ### Funding
 
 VHP4Safety – the Virtual Human Platform for safety assessment project
