@@ -11,7 +11,7 @@
     "contact": {
       "name": "Insilica.co",
       "email": "info@insilica.co"
-    },
+    }
   },
   "access": {
     "API": "REST",

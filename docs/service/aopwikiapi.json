@@ -7,19 +7,16 @@
   "instance": {
     "type": "Swagger UI",
     "vhp-platform": "Development",
-    "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries",
+    "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries"
   },
-
   "provider": {
     "contact": {
       "name": "Marvin Martens",
       "email": "marvin.martens@maastrichtuniversity.nl"
     },
-
     "url": "https://www.maastrichtuniversity.nl/research/bioinformatics",
     "name": "Department of Bioinformatics (BiGCaT), Maastricht University"
   },
-
   "access": {
     "API": "REST API",
     "login": "No"

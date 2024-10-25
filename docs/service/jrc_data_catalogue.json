@@ -12,6 +12,6 @@
     "name": "European Commission"
   },
   "access": {
-    "API": "https://data.jrc.ec.europa.eu/docs/index.html",
-  },
+    "API": "https://data.jrc.ec.europa.eu/docs/index.html"
+  }
 }

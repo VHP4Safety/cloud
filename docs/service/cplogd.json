@@ -13,7 +13,7 @@
     "license": "Copyrighted by Aros Bio",
     "version": "2.0.0",
     "source": "https://github.com/pharmbio/cplogd-v2.0",
-    "docker": "https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0",
+    "docker": "https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0"
   },
 
   "intro": {
@@ -28,5 +28,5 @@
     },
     "url": "https://arosbio.com/index.html",
     "name": "ArosBio"
-  },
+  }
 }
