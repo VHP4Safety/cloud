@@ -79,7 +79,7 @@ body:
       label: ELIXIR Bio.tools?
       description: If the tool is listed in the ELIXIR Bio.tools registry, what is the link?
   - type: input
-    id: bioTools
+    id: tess
     attributes:
       label: ELIXIR TeSS?
       description: If the tool has documentation in the ELIXIR TeSS platform, what is the link?
