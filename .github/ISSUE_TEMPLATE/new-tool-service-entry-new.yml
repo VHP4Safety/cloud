@@ -1,0 +1,85 @@
+name: New Tool Requwst
+description: Request to add a new tool to the catalogue
+title: "[SERVICE]: "
+labels: ["service"]
+
+body:
+  - type: markdown
+    attributes: 
+      value: |
+        Please fill out the below form as complete as possible, but empty fields can be filled out later. 
+  - type: input
+    id: name
+    attributes:
+      label: Name of the service
+      description: The service can be a website, a webservice, but also a standalone tool
+  - type: checkboxes
+    id: login
+    attributes:
+      label: Login required?
+      description: Tick this box if the service need users to login
+      options:
+        - label: the service requires a user login
+  - type: dropdown
+    id: api
+    attributes:
+      label: What is the type of Application Programming Interfance (if any)?
+      multiple: true
+      options:
+        - REST
+        - SOAP
+        - Other
+        - No API
+  - type: dropdown
+    id: casestudy
+    attributes:
+      label: Which VHP4Safety case study is relevant?
+      multiple: true
+      options:
+        - Kidney Disease
+        - Life Course Pesticide Exposure and Neurodegenerative Disease
+        - Thyroid Mediated Developmental Neurotoxicity
+  - type: markdown
+    attributes: 
+      value: |
+        ## Specification
+  - type: input
+    id: provider
+    attributes:
+      label: Name of the provider
+      description: Who is providing the services?
+  - type: input
+    id: citation
+    attributes:
+      label: Citation
+      description: Is there a journal article or book chapter describing the service? A simple DOI or URL is sufficient.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Which version of the service should be listed in the catalogue?
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: What is the license of the service?
+  - type: input
+    id: sourcecode
+    attributes:
+      label: Source code
+      description: Where can the source code be obtained?
+  - type: input
+    id: docker
+    attributes:
+      label: Docker?
+      description: (Optional) Where can a Docker-ized version be downloaded?
+  - type: input
+    id: bioTools
+    attributes:
+      label: ELIXIR Bio.tools?
+      description: If the tool is listed in the ELIXIR Bio.tools registry, what is the link?
+  - type: input
+    id: bioTools
+    attributes:
+      label: ELIXIR TeSS?
+      description: If the tool has documentation in the ELIXIR TeSS platform, what is the link?
