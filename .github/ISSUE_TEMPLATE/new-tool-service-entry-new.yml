@@ -13,6 +13,16 @@ body:
     attributes:
       label: Name of the service
       description: The service can be a website, a webservice, but also a standalone tool
+  - type: input
+    id: description
+    attributes:
+      label: Service description
+      description: A brief description for the service
+  - type: input
+    id: service-url
+    attributes:
+      label: Service website
+      description: A website address where the service can be found
   - type: checkboxes
     id: login
     attributes:
@@ -33,12 +43,15 @@ body:
   - type: dropdown
     id: casestudy
     attributes:
-      label: Which VHP4Safety case study is relevant?
+      label: Which VHP4Safety regulatory question(s) are relevant? Multiple selections are possible. Please see the regulatory questions at this [link](https://docs.vhp4safety.nl/en/latest/introduction/case_studies_and_regulatory_questions.html)
       multiple: true
       options:
-        - Kidney Disease
-        - Life Course Pesticide Exposure and Neurodegenerative Disease
-        - Thyroid Mediated Developmental Neurotoxicity
+        - Kidney Disease (a)
+        - Kidney Disease (b)
+        - Life Course Pesticide Exposure and Neurodegenerative Disease (a)
+        - Life Course Pesticide Exposure and Neurodegenerative Disease (b)
+        - Thyroid Mediated Developmental Neurotoxicity (a)
+        - Thyroid Mediated Developmental Neurotoxicity (b)
   - type: markdown
     attributes: 
       value: |
@@ -48,6 +61,11 @@ body:
     attributes:
       label: Name of the provider
       description: Who is providing the services?
+  - type: input
+    id: provider-email
+    attributes:
+      label: E-mail address of the provider
+      description: An e-mail address through which the provider can be contacted
   - type: input
     id: citation
     attributes:
