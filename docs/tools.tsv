@@ -1,0 +1,28 @@
+ID	Name	URL	CloudURL
+aopwiki	AOP-Wiki Snorql UI	https://aopwiki.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/aopwiki.html
+aopwikiapi	AOP-Wiki API	https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries	https://cloud.vhp4safety.nl/service/aopwikiapi.html
+arrayanalysis	ArrayAnalysis	null	https://cloud.vhp4safety.nl/service/arrayanalysis.html
+biomodels	BioModels	https://www.ebi.ac.uk/biomodels/	https://cloud.vhp4safety.nl/service/biomodels.html
+biotransformer	BioTransformer	https://biotransformer.ca/	https://cloud.vhp4safety.nl/service/biotransformer.html
+bridgedb	BridgeDb	https://bridgedb.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/bridgedb.html
+cdkdepict	CDK Depict	https://cdkdepict.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/cdkdepict.html
+celldesigner	CellDesigner	https://www.celldesigner.org/	https://cloud.vhp4safety.nl/service/celldesigner.html
+comptox	CompTox	https://comptox.epa.gov/dashboard/	https://cloud.vhp4safety.nl/service/comptox.html
+copasi	COPASI	http://copasi.org/	https://cloud.vhp4safety.nl/service/copasi.html
+cplogd	cpLogD	https://cplogd.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/cplogd.html
+decimer	DECIMER	https://decimer.ai/	https://cloud.vhp4safety.nl/service/decimer.html
+fairdomhub	FAIRDOMHub	https://fairdomhub.org/	https://cloud.vhp4safety.nl/service/fairdomhub.html
+fairspace	Fairspace	https://www.thehyve.nl/services/fairspace	https://cloud.vhp4safety.nl/service/fairspace.html
+flame	Flame	http://flame.cloud.vhp4safety.nl:8098/	https://cloud.vhp4safety.nl/service/flame.html
+jrc_data_catalogue	Joint Research Centre Data Catalogue	https://data.jrc.ec.europa.eu/	https://cloud.vhp4safety.nl/service/jrc_data_catalogue.html
+wikibase	VHP4Safety Wikibase User Interface	null	https://cloud.vhp4safety.nl/service/wikibase.html
+oecd_qsar_toolbox	The OECD QSAR Toolbox	https://qsartoolbox.org/	https://cloud.vhp4safety.nl/service/oecd_qsar_toolbox.html
+opsin	OPSIN: Open Parser for Systematic IUPAC nomenclature	https://opsin.ch.cam.ac.uk/	https://cloud.vhp4safety.nl/service/opsin.html
+popgen	PopGen	http://xnet.hsl.gov.uk/Popgen/	https://cloud.vhp4safety.nl/service/popgen.html
+qsprpred	QSPRpred	https://github.com/CDDLeiden/QSPRpred	https://cloud.vhp4safety.nl/service/qsprpred.html
+sombie	SOM Prediction	https://sombie.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/sombie.html
+sysrev	SysRev	https://sysrev.com/	https://cloud.vhp4safety.nl/service/sysrev.html
+txg_mapr	TXG-MAPr	https://txg-mapr.eu/	https://cloud.vhp4safety.nl/service/txg_mapr.html
+wikibase	VHP4Safety Wikibase	https://compoundcloud.wikibase.cloud/	https://cloud.vhp4safety.nl/service/wikibase.html
+wikipathways_aop	WikiPathways - AOP Portal	http://aop.wikipathways.org/	https://cloud.vhp4safety.nl/service/wikipathways_aop.html
+xploreaop	xploreaop	https://xploreaop.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/xploreaop.html
