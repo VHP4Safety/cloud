@@ -17,5 +17,9 @@
   "access": {
     "API": "SPARQL",
     "login": "No"
+  },
+  "workflow": {
+    "title": "Getting properties by SMILES using the VHP4Safety Compound Wiki",
+    "url": "https://colab.research.google.com/drive/15Ea2N2CMxjVS2zMrvW2-R4vhsEqk8Shv?usp=sharing"
   }
 }
