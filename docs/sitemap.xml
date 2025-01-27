@@ -66,6 +66,11 @@
   <changefreq>weekly</changefreq>
 </url>
 <url>
+  <loc>https://cloud.vhp4safety.nl/service/ema_documents.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
   <loc>https://cloud.vhp4safety.nl/service/fairdomhub.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
