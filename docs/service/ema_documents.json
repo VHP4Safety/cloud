@@ -1,0 +1,34 @@
+{
+  "id": "ema_documents",
+
+  // The (stylized) name of the service which will be shown as the name of the 
+  // service in the catalog. 
+  "service": "European Medicines Agency Documents",
+  "description": "Online reporistory of officiel EMA reports.",
+  "url": "https://www.ema.europa.eu/en/search",
+  
+  "provider": {
+    "url": "https://www.ema.europa.eu/",
+    "name": "European Medicines Agency"
+  },
+
+  "access": {
+    "login": "no",
+  },
+
+  "regulatory-question": {
+    // 1a: What is a safe dose for cisplatin/tacrolimus in patients with respect to chronic kidney disease?
+    "1a": "",
+    // 1b: How can we take into account variability in activity/expression of P-gp in patients that underwent a transplantation?
+    "1b": "",
+    // 2a: Can compound X cause Parkinson’s Disease?
+    "2a": "",
+    // 2b: Can we identify groups at extra risk to develop Parkinson’s Disease after exposure to compound X?
+    "2b": "",
+    // 3a: What information about a substance do we need to give an advice to women in their early pregnancy to decide whether the substance can be used?
+    "3a": "true",
+    // 3b: Does compound X influence the thyroid-mediated brain development in the fetus resulting in cognitive impairment in children?
+    "3b": "true"
+  }
+
+}
