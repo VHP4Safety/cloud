@@ -171,6 +171,14 @@ The OECD QSAR Toolbox is a software designed to support hazard assessment of che
 -------------------------------------------------------------------------------
 
 
+## OP PBK Model
+
+To be added [[more info](service/oppbk_model.md)]
+
+
+-------------------------------------------------------------------------------
+
+
 ## OPSIN: Open Parser for Systematic IUPAC nomenclature
 
 Website with a tool that can parse IUPAC names for chemicals into the chemical graph notation SMILES. [[more info](service/opsin.md)]
