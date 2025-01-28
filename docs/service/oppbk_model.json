@@ -1,24 +1,20 @@
 {
   "id": "oppbk_model",
-
   "service": "OP PBK Model",
-
   "description": "To be added",
-
   "url": "http://oppbk.cloud.vhp4safety.nl/",
-  
   "doi": "10.1021/acs.est.4c06534",
-
+  
   "instance": {
     "type": "VHP4Safety",
     "vhp-platform": "Development",
-    "url": "http://oppbk.cloud.vhp4safety.nl/",
+    "url": "http://oppbk.cloud.vhp4safety.nl/"
   },
 
   "provider": {
     "contact": {
       "name": "Thijs Moerenhout",
       "email": "thijs.moerenhout@wur.nl"
-    },
-  },
+    }
+  }
 }
