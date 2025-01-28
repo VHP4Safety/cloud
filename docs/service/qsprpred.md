@@ -12,7 +12,7 @@ Service to train and employ QSAR and PCM models. Takes a compound structure and 
 
 * Service introduction: []()
 * Workflow: []()
-* Demo: [Tutorial usage](https://github.com/CDDLeiden/QSPRpred/blob/main/tutorial/tutorial_usage.ipynb)
+* Demo: [Tutorials](https://github.com/CDDLeiden/QSPRpred/tree/main/tutorials)
 
 <h4 id="tess-widget-materials-header"></h4>
 
