@@ -96,6 +96,11 @@
   <changefreq>weekly</changefreq>
 </url>
 <url>
+  <loc>https://cloud.vhp4safety.nl/service/popgen.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<url>
   <loc>https://cloud.vhp4safety.nl/service/oecd_qsar_toolbox.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
@@ -107,11 +112,6 @@
 </url>
 <url>
   <loc>https://cloud.vhp4safety.nl/service/opsin.html</loc>
-  <priority>1.00</priority>
-  <changefreq>weekly</changefreq>
-</url>
-<url>
-  <loc>https://cloud.vhp4safety.nl/service/popgen.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>

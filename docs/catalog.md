@@ -161,6 +161,14 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 -------------------------------------------------------------------------------
 
+
+## PopGen
+
+An online service to generate a virtual human population. Note that the service has been retired. [[more info](service/popgen.md)]
+
+
+-------------------------------------------------------------------------------
+
 ![The OECD QSAR Toolbox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oecd_qsar_toolbox.png "Click on the image to go to the service")
 
 ## The OECD QSAR Toolbox
@@ -182,14 +190,6 @@ To be added [[more info](service/oppbk_model.md)]
 ## OPSIN: Open Parser for Systematic IUPAC nomenclature
 
 An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES. [[more info](service/opsin.md)]
-
-
--------------------------------------------------------------------------------
-
-
-## PopGen
-
-An online service to generate a virtual human population. Note that the service has been retired. [[more info](service/popgen.md)]
 
 
 -------------------------------------------------------------------------------
