@@ -15,7 +15,7 @@ and users can [request additional services](https://github.com/VHP4Safety/cloud/
 
 ## AOP-Wiki Snorql UI
 
-Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki.md)]
+A graphical interface to make queries to the AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki.md)]
 
 
 -------------------------------------------------------------------------------
@@ -24,7 +24,7 @@ Graphical interface to an AOP-Wiki SPARQL endpoint. [[more info](service/aopwiki
 
 ## AOP-Wiki API
 
-REST API for AOP-Wiki content, using SPARQL [[more info](service/aopwikiapi.md)]
+A REST API for AOP-Wiki content to make SPARQL queries. [[more info](service/aopwikiapi.md)]
 
 
 -------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ REST API for AOP-Wiki content, using SPARQL [[more info](service/aopwikiapi.md)]
 
 ## ArrayAnalysis
 
-A user-friendly solutions for microarray quality control and pre-processing [[more info](service/arrayanalysis.md)]
+A user-friendly service to conduct quality control and pre-processing analyses for microarray data. [[more info](service/arrayanalysis.md)]
 
 
 -------------------------------------------------------------------------------
@@ -40,7 +40,7 @@ A user-friendly solutions for microarray quality control and pre-processing [[mo
 
 ## BioModels
 
-BioModels is a repository of mathematical models of biological and biomedical systems. [[more info](service/biomodels.md)]
+A repository of mathematical models of biological and biomedical systems. [[more info](service/biomodels.md)]
 
 
 -------------------------------------------------------------------------------
@@ -48,7 +48,7 @@ BioModels is a repository of mathematical models of biological and biomedical sy
 
 ## BioTransformer
 
-Website with a tool that can predict metabolites for a SMILES. [[more info](service/biotransformer.md)]
+A software tool to predict metabolites based on inputs in SMILE format. [[more info](service/biotransformer.md)]
 
 
 -------------------------------------------------------------------------------
@@ -66,7 +66,7 @@ A framework to map identifiers between various biological databases and related 
 
 ## CDK Depict
 
-A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info](service/cdkdepict.md)]
+A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats. [[more info](service/cdkdepict.md)]
 
 
 -------------------------------------------------------------------------------
@@ -74,7 +74,7 @@ A webservice that converts a SMILES into 2D depictions (SVG or PNG). [[more info
 
 ## CellDesigner
 
-A modeling tool of biochemical networks. [[more info](service/celldesigner.md)]
+A structured diagram editor to draw gene-regulatory and biochemical networks. [[more info](service/celldesigner.md)]
 
 
 -------------------------------------------------------------------------------
@@ -90,7 +90,7 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 ## COPASI
 
-Open-source software application for creating and solving mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others. [[more info](service/copasi.md)]
+An open-source software application to create and solve mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others. [[more info](service/copasi.md)]
 
 
 -------------------------------------------------------------------------------
@@ -98,7 +98,7 @@ Open-source software application for creating and solving mathematical models of
 
 ## cpLogD
 
-A model to predict water–octanol distribution coefficient (logD) for chemical compounds. It is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more info](service/cplogd.md)]
+A model to predict water–octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more info](service/cplogd.md)]
 
 
 -------------------------------------------------------------------------------
@@ -107,7 +107,7 @@ A model to predict water–octanol distribution coefficient (logD) for chemical 
 
 ## DECIMER
 
-Online service to extract chemical structures from PDFs and images. [[more info](service/decimer.md)]
+An online service to extract chemical structures from PDF-formatted files and images. [[more info](service/decimer.md)]
 
 
 -------------------------------------------------------------------------------
@@ -115,7 +115,7 @@ Online service to extract chemical structures from PDFs and images. [[more info]
 
 ## European Medicines Agency Documents
 
-Online reporistory of officiel EMA reports. [[more info](service/ema_documents.md)]
+An online repository of official reports from the European Medicines Agency. [[more info](service/ema_documents.md)]
 
 
 -------------------------------------------------------------------------------
@@ -123,7 +123,7 @@ Online reporistory of officiel EMA reports. [[more info](service/ema_documents.m
 
 ## FAIRDOMHub
 
-A web-accessible registry for storing, sharing and publishing research assets of biology projects. [[more info](service/fairdomhub.md)]
+A web-accessible registry to store, share and publish research assets of biology projects. [[more info](service/fairdomhub.md)]
 
 
 -------------------------------------------------------------------------------
@@ -132,7 +132,7 @@ A web-accessible registry for storing, sharing and publishing research assets of
 
 ## Fairspace
 
-An open source (meta)data platform that also allows import/export of metadata and uses RDF (turtle) underneath. [[more info](service/fairspace.md)]
+An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF) [[more info](service/fairspace.md)]
 
 
 -------------------------------------------------------------------------------
@@ -140,7 +140,7 @@ An open source (meta)data platform that also allows import/export of metadata an
 
 ## Flame
 
-An open source framework for model development, hosting, and usage in production environments. [[more info](service/flame.md)]
+An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments. [[more info](service/flame.md)]
 
 
 -------------------------------------------------------------------------------
@@ -148,7 +148,7 @@ An open source framework for model development, hosting, and usage in production
 
 ## Joint Research Centre Data Catalogue
 
-A catalogue of metadata records about datasets. [[more info](service/jrc_data_catalogue.md)]
+An inventory of data produced by the Joint Research Centre (JRC) in accordance with the JRC Data Policy. [[more info](service/jrc_data_catalogue.md)]
 
 
 -------------------------------------------------------------------------------
@@ -165,7 +165,7 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 ## The OECD QSAR Toolbox
 
-The OECD QSAR Toolbox is a software designed to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. As a freely available computational tool, it promotes the use of assessment methods alternative to animals and minimizes unnecessary animal testing without reducing the safety of human health and environment. It is intended to be used by governments, chemical industry and other stakeholders. [[more info](service/oecd_qsar_toolbox.md)]
+A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more info](service/oecd_qsar_toolbox.md)]
 
 
 -------------------------------------------------------------------------------
@@ -181,7 +181,7 @@ To be added [[more info](service/oppbk_model.md)]
 
 ## OPSIN: Open Parser for Systematic IUPAC nomenclature
 
-Website with a tool that can parse IUPAC names for chemicals into the chemical graph notation SMILES. [[more info](service/opsin.md)]
+An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES. [[more info](service/opsin.md)]
 
 
 -------------------------------------------------------------------------------
@@ -189,7 +189,7 @@ Website with a tool that can parse IUPAC names for chemicals into the chemical g
 
 ## PopGen
 
-Service to generate online virtual human population. [[more info](service/popgen.md)]
+An online service to generate a virtual human population. Note that the service has been retired. [[more info](service/popgen.md)]
 
 
 -------------------------------------------------------------------------------
@@ -197,7 +197,7 @@ Service to generate online virtual human population. [[more info](service/popgen
 
 ## QSPRpred
 
-Service to train and employ QSAR and PCM models. Takes a compound structure and pretrained model as input and returns the predicted potency of said compound. [[more info](service/qsprpred.md)]
+A service to train and employ QSAR and PCM models that take a compound structure and pretrained model as input and returns the predicted potency of said compound. [[more info](service/qsprpred.md)]
 
 
 -------------------------------------------------------------------------------
@@ -205,7 +205,7 @@ Service to train and employ QSAR and PCM models. Takes a compound structure and 
 
 ## SOM Prediction
 
-A webservice for protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
+A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more info](service/sombie.md)]
 
 
 -------------------------------------------------------------------------------
@@ -213,7 +213,7 @@ A webservice for protein-structure and reactivity based (P450) site-of-metabolis
 
 ## SysRev
 
-Service to support literature research. [[more info](service/sysrev.md)]
+An online service to conduct literature review, data extraction and systematic review. [[more info](service/sysrev.md)]
 
 
 -------------------------------------------------------------------------------
@@ -222,7 +222,7 @@ Service to support literature research. [[more info](service/sysrev.md)]
 
 ## TXG-MAPr
 
-An R-Shiny-based implementation of weighted gene co-expression network analysis (WGCNA) obtained from the Primary Human Hepatocytes (PHH) TG-GATEs dataset. [[more info](service/txg_mapr.md)]
+An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets. [[more info](service/txg_mapr.md)]
 
 
 -------------------------------------------------------------------------------
@@ -231,7 +231,7 @@ An R-Shiny-based implementation of weighted gene co-expression network analysis 
 
 ## VHP4Safety Wikibase
 
-A Wikibase instance to hold information about compounds. [[more info](service/wikibase.md)]
+A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project. [[more info](service/wikibase.md)]
 
 
 -------------------------------------------------------------------------------
@@ -240,7 +240,7 @@ A Wikibase instance to hold information about compounds. [[more info](service/wi
 
 ## WikiPathways - AOP Portal
 
-This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs. [[more info](service/wikipathways_aop.md)]
+An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs. [[more info](service/wikipathways_aop.md)]
 
 
 -------------------------------------------------------------------------------
@@ -248,7 +248,7 @@ This Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the mole
 
 ## xploreaop
 
-Shiny webapplication to visualize Adverse Outcome Pathway (AOP) networks. So far data has been included to interactively explore the AOPs for two liver outcomes: Cholestasis and Steatosis [[more info](service/xploreaop.md)]
+A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis. [[more info](service/xploreaop.md)]
 
 
 
