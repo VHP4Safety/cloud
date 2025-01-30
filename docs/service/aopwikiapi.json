@@ -1,7 +1,7 @@
 {
   "id": "aopwikiapi",
   "service": "AOP-Wiki API",
-  "description": "REST API for AOP-Wiki content, using SPARQL",
+  "description": "A REST API for AOP-Wiki content to make SPARQL queries.",
   "screenshot": "aopwikiapi.png",
   "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries",
   "instance": {

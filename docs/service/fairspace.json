@@ -1,7 +1,7 @@
 {
   "id": "fairspace",
   "service": "Fairspace",
-  "description": "An open source (meta)data platform that also allows import/export of metadata and uses RDF (turtle) underneath.",
+  "description": "An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF)",
   "screenshot": "fairspace.png",
   "url": "https://www.thehyve.nl/services/fairspace",
   "instance": {

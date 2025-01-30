@@ -1,22 +1,17 @@
 {
   "id": "ema_documents",
-
   "service": "European Medicines Agency Documents",
-  "description": "Online reporistory of officiel EMA reports.",
+  "description": "An online repository of official reports from the European Medicines Agency.",
   "url": "https://www.ema.europa.eu/en/search",
-  
   "provider": {
     "url": "https://www.ema.europa.eu/",
     "name": "European Medicines Agency"
   },
-
   "access": {
     "login": "no"
   },
-
   "regulatory-question": {
     "3a": "true",
     "3b": "true"
   }
-
 }

@@ -1,7 +1,7 @@
 {
   "id": "decimer",
   "service": "DECIMER",
-  "description": "Online service to extract chemical structures from PDFs and images.",
+  "description": "An online service to extract chemical structures from PDF-formatted files and images.",
   "screenshot": "decimer.png",
   "url": "https://decimer.ai/",
   "doi": "10.1186/s13321-021-00538-8",

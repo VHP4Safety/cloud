@@ -1,7 +1,7 @@
 {
   "id": "xploreaop",
   "service": "xploreaop",
-  "description": "Shiny webapplication to visualize Adverse Outcome Pathway (AOP) networks. So far data has been included to interactively explore the AOPs for two liver outcomes: Cholestasis and Steatosis",
+  "description": "A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.",
   "url": "https://xploreaop.cloud.vhp4safety.nl/",
   "instance": {
     "type": "VHP4Safety",

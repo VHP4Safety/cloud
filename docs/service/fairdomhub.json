@@ -1,7 +1,7 @@
 {
   "id": "fairdomhub",
   "service": "FAIRDOMHub",
-  "description": "A web-accessible registry for storing, sharing and publishing research assets of biology projects.",
+  "description": "A web-accessible registry to store, share and publish research assets of biology projects.",
   "url": "https://fairdomhub.org/",
   "doi": "10.1093/nar/gkw1032",
   "provider": {

@@ -1,7 +1,7 @@
 {
   "id": "biotransformer",
   "service": "BioTransformer",
-  "description": "Website with a tool that can predict metabolites for a SMILES.",
+  "description": "A software tool to predict metabolites based on inputs in SMILE format.",
   "url": "https://biotransformer.ca/",
   "doi": "10.1186/s13321-018-0324-5",
   "access": {

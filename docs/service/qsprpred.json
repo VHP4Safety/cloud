@@ -1,7 +1,7 @@
 {
   "id": "qsprpred",
   "service": "QSPRpred",
-  "description": "Service to train and employ QSAR and PCM models. Takes a compound structure and pretrained model as input and returns the predicted potency of said compound.",
+  "description": "A service to train and employ QSAR and PCM models that take a compound structure and pretrained model as input and returns the predicted potency of said compound.",
   "url": "https://github.com/CDDLeiden/QSPRpred",
   "instance": {
     "type": "VHP4Safety",

@@ -1,7 +1,7 @@
 {
   "id": "opsin",
   "service": "OPSIN: Open Parser for Systematic IUPAC nomenclature",
-  "description": "Website with a tool that can parse IUPAC names for chemicals into the chemical graph notation SMILES.",
+  "description": "An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES.",
   "url": "https://opsin.ch.cam.ac.uk/",
   "doi": "10.1021/ci100384d",
   "provider": {

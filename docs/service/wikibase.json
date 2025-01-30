@@ -1,7 +1,7 @@
 {
   "id": "wikibase",
   "service": "VHP4Safety Wikibase",
-  "description": "A Wikibase instance to hold information about compounds.",
+  "description": "A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
   "screenshot": "VHP4Safety_ChemicalCompounds.png",
   "url": "https://compoundcloud.wikibase.cloud/",
   "instance": {

@@ -1,7 +1,7 @@
 {
   "id": "arrayanalysis",
   "service": "ArrayAnalysis",
-  "description": "A user-friendly solutions for microarray quality control and pre-processing",
+  "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
   "doi": "10.1093/nar/gkt293",
   "provider": {
     "contact": {
