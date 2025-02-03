@@ -195,6 +195,14 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 -------------------------------------------------------------------------------
 
 
+## PopGen
+
+An online service to generate a virtual human population. [[more info](service/popgen.md)]
+
+
+-------------------------------------------------------------------------------
+
+
 ## QSPRpred
 
 A service to train and employ QSAR and PCM models that take a compound structure and pretrained model as input and returns the predicted potency of said compound. [[more info](service/qsprpred.md)]
