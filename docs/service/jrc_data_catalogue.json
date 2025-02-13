@@ -2,6 +2,7 @@
   "id": "jrc_data_catalogue",
   "service": "Joint Research Centre Data Catalogue",
   "description": "An inventory of data produced by the Joint Research Centre (JRC) in accordance with the JRC Data Policy.",
+  "screenshot": "jrc_data_catalogue.png", 
   "url": "https://data.jrc.ec.europa.eu/",
   "doi": "10.3030/681002",
   "provider": {

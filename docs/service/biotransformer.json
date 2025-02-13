@@ -2,6 +2,7 @@
   "id": "biotransformer",
   "service": "BioTransformer",
   "description": "A software tool to predict metabolites based on inputs in SMILE format.",
+  "screenshot": "biotransformer.png",
   "url": "https://biotransformer.ca/",
   "doi": "10.1186/s13321-018-0324-5",
   "access": {
