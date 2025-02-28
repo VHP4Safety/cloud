@@ -37,6 +37,7 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 -------------------------------------------------------------------------------
 
+![BioModels logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biomodels.png "Click on the image to go to the service")
 
 ## BioModels
 
@@ -45,6 +46,7 @@ A repository of mathematical models of biological and biomedical systems. [[more
 
 -------------------------------------------------------------------------------
 
+![BioTransformer logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biotransformer.png "Click on the image to go to the service")
 
 ## BioTransformer
 
@@ -71,6 +73,7 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 -------------------------------------------------------------------------------
 
+![CellDesigner logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/celldesigner.png "Click on the image to go to the service")
 
 ## CellDesigner
 
@@ -79,6 +82,7 @@ A structured diagram editor to draw gene-regulatory and biochemical networks. [[
 
 -------------------------------------------------------------------------------
 
+![CompTox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/comptox.png "Click on the image to go to the service")
 
 ## CompTox
 
@@ -87,6 +91,7 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 -------------------------------------------------------------------------------
 
+![COPASI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/copasi.png "Click on the image to go to the service")
 
 ## COPASI
 
@@ -112,6 +117,7 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 -------------------------------------------------------------------------------
 
+![European Medicines Agency Documents logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ema_documents.png "Click on the image to go to the service")
 
 ## European Medicines Agency Documents
 
@@ -120,6 +126,7 @@ An online repository of official reports from the European Medicines Agency. [[m
 
 -------------------------------------------------------------------------------
 
+![FAIRDOMHub logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairdomhub.png "Click on the image to go to the service")
 
 ## FAIRDOMHub
 
@@ -145,6 +152,7 @@ An open source framework to develop, host, and use machine-learning models, such
 
 -------------------------------------------------------------------------------
 
+![Joint Research Centre Data Catalogue logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/jrc_data_catalogue.png "Click on the image to go to the service")
 
 ## Joint Research Centre Data Catalogue
 
@@ -178,6 +186,7 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 -------------------------------------------------------------------------------
 
+![OP PBK Model logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oppbk_model.png "Click on the image to go to the service")
 
 ## OP PBK Model
 
@@ -186,6 +195,7 @@ To be added [[more info](service/oppbk_model.md)]
 
 -------------------------------------------------------------------------------
 
+![OPSIN: Open Parser for Systematic IUPAC nomenclature logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/opsin.png "Click on the image to go to the service")
 
 ## OPSIN: Open Parser for Systematic IUPAC nomenclature
 
@@ -202,6 +212,7 @@ An online service to generate a virtual human population. [[more info](service/p
 
 -------------------------------------------------------------------------------
 
+![QSPRpred logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/qsprpred.png "Click on the image to go to the service")
 
 ## QSPRpred
 

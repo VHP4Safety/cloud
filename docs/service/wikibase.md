@@ -11,7 +11,7 @@ A Wikibase instance to store and present information about toxic, safe and poten
 #### VHP4Safety Documentation
 
 * Service introduction: [VHP4Safety Compound Wiki Overview](https://doi.org/10.5281/zenodo.13864849)
-* Workflow: [Getting properties by SMILES using the VHP4Safety Compound Wiki](https://colab.research.google.com/drive/15Ea2N2CMxjVS2zMrvW2-R4vhsEqk8Shv?usp=sharing)
+* Workflow: [Getting properties by SMILES using the VHP4Safety Compound Wiki](https://colab.research.google.com/drive/15Ea2N2CMxjVS2zMrvW2-R4vhsEqk8Shv)
 * Demo: []()
 
 <h4 id="tess-widget-materials-header"></h4>

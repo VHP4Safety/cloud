@@ -4,7 +4,7 @@
 
 An online database to provide access to chemistry, toxicity, and exposure information for chemicals.
 
-
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/comptox.png "Click on the image to go to the service")
 
 ## Documentation
 

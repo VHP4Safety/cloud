@@ -4,7 +4,7 @@
 
 A structured diagram editor to draw gene-regulatory and biochemical networks.
 
-
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/celldesigner.png "Click on the image to go to the service")
 
 ## Documentation
 

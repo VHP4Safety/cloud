@@ -4,7 +4,7 @@
 
 To be added
 
-
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oppbk_model.png "Click on the image to go to the service")
 
 ## Documentation
 

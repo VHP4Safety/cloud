@@ -4,7 +4,7 @@
 
 A repository of mathematical models of biological and biomedical systems.
 
-
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biomodels.png "Click on the image to go to the service")
 
 ## Documentation
 

@@ -4,7 +4,7 @@
 
 An online repository of official reports from the European Medicines Agency.
 
-
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ema_documents.png "Click on the image to go to the service")
 
 ## Documentation
 

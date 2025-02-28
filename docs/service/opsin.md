@@ -4,7 +4,7 @@
 
 An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES.
 
-
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/opsin.png "Click on the image to go to the service")
 
 ## Documentation
 

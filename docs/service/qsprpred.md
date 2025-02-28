@@ -4,7 +4,7 @@
 
 A service to train and employ QSAR and PCM models that take a compound structure and pretrained model as input and returns the predicted potency of said compound.
 
-
+![screenshot of %service%](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/qsprpred.png "Click on the image to go to the service")
 
 ## Documentation
 
