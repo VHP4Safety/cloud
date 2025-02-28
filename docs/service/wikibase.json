@@ -22,14 +22,15 @@
     "title": "VHP4Safety Compound Wiki Overview",
     "url": "https://doi.org/10.5281/zenodo.13864849"
   },
-  "workflow": [
+  "workflow":
     {
       "title": "Getting properties by SMILES using the VHP4Safety Compound Wiki",
       "url": "https://colab.research.google.com/drive/15Ea2N2CMxjVS2zMrvW2-R4vhsEqk8Shv"
     },
+  "workflow2":  
     {
+      "issue_note": "This workflow information is separated from the previous one so that the Github action runs correctly. The action will be updated to include multiple entries.",
       "title": "Getting names and SMILES for the VHP compounds",
       "url": "https://colab.research.google.com/drive/1azKtwlqLRwOPnpBY3p8ZHEFRfvw2LjVu"
     }
-  ]
 }
