@@ -25,10 +25,14 @@ Below you find an overview of services available in the context of the VHP4Safet
 [Additional services have been suggested](https://github.com/VHP4Safety/cloud/labels/service)
 and users can [request additional services](https://github.com/VHP4Safety/cloud/issues/new/choose).
 
-## Cloud catalog
+## Cloud Catalog
 
 The VHP4Safety Cloud catalog of potential, internal, and external services is
 available [here](catalog.md).
+
+### Service Contributions
+
+You are welcome to contribute to this catalog by requesting or adding new services. Please see [the manual](service/misc/creating_service_help_page.md) to see the options for contribute to the catalog. Please contact us through the issues using the [issue pages](https://github.com/VHP4Safety/cloud/issues) of this repository. 
 
 """
 
