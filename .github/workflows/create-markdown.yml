@@ -4,12 +4,12 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'docs/service/*.json'
+      - "docs/service/*.json"
   pull_request:
     branches:
       - main
     paths:
-      - 'docs/service/*.json'
+      - "docs/service/*.json"
 
 jobs:
   webpage:
