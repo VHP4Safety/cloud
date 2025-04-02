@@ -12,11 +12,13 @@ As the first option, you can make a request for a service addition through our G
 
 To request a service addition, please first visit the [issues page](https://github.com/VHP4Safety/cloud/issues) where you can create a new issue by pressing on the "New issue" button. This will open a pop-up menu (see Figure 1) where you can choose "New Service Catalogue Entry". 
 
-![Figure 1: The pop-up menu from which you can choose 'New Service Catalogue Entry' to continue.](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/misc/issue_popup.png "Figure 2: The pop-up menu from which you can choose 'New Service Catalogue Entry' to continue.")
+![Figure 1: The pop-up menu from which you can choose 'New Service Catalogue Entry' to continue.](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/misc/issue_popup.png)
+*Figure 1: The pop-up menu from which you can choose 'New Service Catalogue Entry' to continue.*
 
 You can simply make a request for a service addition by filling the form in the issue tracker (see Figure 2), found [here](https://github.com/VHP4Safety/cloud/issues/new?template=new-tool-service-entry.yml). In the form, you will be asked to fill in a few things about the service you request. The type of the information is explained briefly in the form, e.g., we ask you to enter `A brief description for the service` under the `Service description` field. 
 
-![Figure 2: The issue tracker for requesting a service addition.](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/misc/issue_tracker.png "Figure 2: The issue tracker for requesting a service addition.")
+![Figure 2: The issue tracker for requesting a service addition.](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/misc/issue_tracker.png)
+*Figure 2: The issue tracker for requesting a service addition.*
 
 In order to add the service correctly, some fields are essential to fill in. That is, we ask you kindly to fill at least 
 - `Add a title`,
