@@ -6,7 +6,7 @@
   "url": "https://qsprpred.cloud.vhp4safety.nl/",
   "instance": {
     "type": "VHP4Safety",
-    "vhp-platform": "",
+    "vhp-platform": "Development",
     "url": "https://qsprpred.cloud.vhp4safety.nl/",
     "license": "MIT",
     "source": "https://github.com/VHP4Safety/QSPRpred-Docker"
@@ -16,13 +16,11 @@
       "name": "Linde Schoenmaker",
       "email": "l.schoenmaker@lacdr.leidenuniv.nl"
     }
-    "name": "Leiden University"
+    "name": "Department of Medicinal Chemistry,Leiden University"
   },
   "access": {
     "API": "",
     "login": "No"
-    "packages": {
-      "Python": "yes"
     }
   }
 }
