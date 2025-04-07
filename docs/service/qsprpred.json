@@ -1,12 +1,12 @@
 {
   "id": "qsprpred",
   "service": "QSPRpred",
-  "description": "This tool allows users to predict the activity of their chemicals of interest for various molecular initiation events from the VHP4Safety case studies. This prediction is done by target-specific, pretrained QSAR models. Next to the model name the containers below also show some model properties. Compounds should be entered as SMILES strings. The predicted bioactivity is given as predicted pchembl. This translates to a concentration of 10^-pchembl for a half maximal response. For example, an IC50 measurement of 1nM would have a pChEMBL value of 9.",
+  "description": "This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies.",
   "screenshot": "qsprpred.png",
   "url": "https://qsprpred.cloud.vhp4safety.nl/",
   "instance": {
     "type": "VHP4Safety",
-    "vhp-platform": "",
+    "vhp-platform": "Development",
     "url": "https://qsprpred.cloud.vhp4safety.nl/",
     "license": "MIT",
     "source": "https://github.com/VHP4Safety/QSPRpred-Docker"
@@ -16,13 +16,10 @@
       "name": "Linde Schoenmaker",
       "email": "l.schoenmaker@lacdr.leidenuniv.nl"
     }
-    "name": "Leiden University"
+    "name": "Department of Medicinal Chemistry,Leiden University"
   },
   "access": {
     "API": "",
     "login": "No"
-    "packages": {
-      "Python": "yes"
-    }
   }
 }
