@@ -1,4 +1,5 @@
 ID	Name	URL	CloudURL
+aop-builder	AOP-Builder	https://crebuilder.vhp4safety.nl	https://cloud.vhp4safety.nl/service/aop-builder.html
 aopwiki	AOP-Wiki Snorql UI	https://aopwiki.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/aopwiki.html
 aopwikiapi	AOP-Wiki API	https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries	https://cloud.vhp4safety.nl/service/aopwikiapi.html
 arrayanalysis	ArrayAnalysis	null	https://cloud.vhp4safety.nl/service/arrayanalysis.html
@@ -22,7 +23,7 @@ oecd_qsar_toolbox	The OECD QSAR Toolbox	https://qsartoolbox.org/	https://cloud.v
 oppbk_model	OP PBK Model	http://oppbk.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/oppbk_model.html
 opsin	OPSIN: Open Parser for Systematic IUPAC nomenclature	https://opsin.ch.cam.ac.uk/	https://cloud.vhp4safety.nl/service/opsin.html
 popgen	PopGen	http://xnet.hsl.gov.uk/Popgen/	https://cloud.vhp4safety.nl/service/popgen.html
-qsprpred	QSPRpred	https://github.com/CDDLeiden/QSPRpred	https://cloud.vhp4safety.nl/service/qsprpred.html
+qsprpred	QSPRpred	https://qsprpred.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/qsprpred.html
 sombie	SOM Prediction	https://sombie.cloud.vhp4safety.nl/	https://cloud.vhp4safety.nl/service/sombie.html
 sysrev	SysRev	https://sysrev.com/	https://cloud.vhp4safety.nl/service/sysrev.html
 txg_mapr	TXG-MAPr	https://txg-mapr.eu/	https://cloud.vhp4safety.nl/service/txg_mapr.html

@@ -11,6 +11,14 @@ and users can [request additional services](https://github.com/VHP4Safety/cloud/
 
 -------------------------------------------------------------------------------
 
+
+## AOP-Builder
+
+A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI. [[more info](service/aop-builder.md)]
+
+
+-------------------------------------------------------------------------------
+
 ![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png "Click on the image to go to the service")
 
 ## AOP-Wiki Snorql UI
@@ -216,7 +224,7 @@ An online service to generate a virtual human population. [[more info](service/p
 
 ## QSPRpred
 
-A service to train and employ QSAR and PCM models that take a compound structure and pretrained model as input and returns the predicted potency of said compound. [[more info](service/qsprpred.md)]
+This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies. [[more info](service/qsprpred.md)]
 
 
 -------------------------------------------------------------------------------
