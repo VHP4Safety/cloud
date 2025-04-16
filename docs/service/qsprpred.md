@@ -40,10 +40,10 @@ function initTeSSWidgets() {
 
 ## VHP4Safety Service Metadata
 
-* Development cloud: [https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/) [https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/)
+* Development cloud: []() [https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/)
 * Login required: No
 * Implementation status: 
-* TRL: 
+* TRL: 3
 * Type: -
 * Contact: Linde Schoenmaker l.schoenmaker@lacdr.leidenuniv.nl
 * API Type: 
@@ -54,11 +54,11 @@ function initTeSSWidgets() {
 ## Technical tool specifications
 
 * Provided by: Department of Medicinal Chemistry,Leiden University 
-* Citation: 
+* Citation: [https://doi.org/https://doi.org/10.1186/s13321-024-00908-y](https://doi.org/https://doi.org/10.1186/s13321-024-00908-y)
 * Version: 
 * License: MIT
 * Source Code: [https://github.com/VHP4Safety/QSPRpred-Docker](https://github.com/VHP4Safety/QSPRpred-Docker)
-* Docker: 
+* Docker: [https://github.com/VHP4Safety/QSPRpred-Docker](https://github.com/VHP4Safety/QSPRpred-Docker)
 * Bio.tools: 
 * FAIRsharing: 
 * TeSS: 
@@ -75,6 +75,6 @@ function initTeSSWidgets() {
   "@id" : "https://vhp4safety.github.io/cloud/service/qsprpred",
   "name": "QSPRpred", 
   "description": "This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies.",
-  "url": "https://qsprpred.cloud.vhp4safety.nl/"
+  "url": ""
 }
 </script>
