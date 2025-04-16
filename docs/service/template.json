@@ -183,7 +183,7 @@
   },
 
   // Is the service usable by one, or more, of the VHP persona's?
-  // Answer yes or no.
+  // Answer true or false (e.g., 'persona-1: "true"' to attribute a service to a persona).
   // TODO: Replace placeholders (eg. "persona-1") with persona's and descriptions of persona. These are yet to be created.
   "VHP-persona": {
     // VHP persona 1
