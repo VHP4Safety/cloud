@@ -1,7 +1,7 @@
 
 ################################################################################
 # This is an R script to generate the material based on the service .json files
-# in the /docs/service directory. 
+# in the /docs/service/ directory. 
 
 
 ################################################################################
@@ -138,7 +138,7 @@ system(paste0("echo \"\" >> ", target))
 for(i in 1:length(json_files)) {
   # Add the service only if it is an 'internal' service. 
   if (!is.null(service_metadata[[i]][["instance"]][["type"]])) {
-    if (service_metadata[[i]][["instance"]][["type"]] == "internal") {
+    if (service_metadata[[i]][["instance"]][["type"]] %in% c("internal", "VHP4Safety")) {
       service_name        <- service_metadata[[i]][["service"]]
       service_description <- service_metadata[[i]][["description"]]
       file_name           <- paste0(service_metadata[[i]][["id"]], ".md")
@@ -160,7 +160,7 @@ system(paste0("echo \"\" >> ", target))
 for(i in 1:length(json_files)) {
   # Add the service only if it is an 'external' service.
   if (!is.null(service_metadata[[i]][["instance"]][["type"]])) {
-    if (service_metadata[[i]][["instance"]][["type"]] == "external") {
+    if (!service_metadata[[i]][["instance"]][["type"]] %in% c("internal", "VHP4Safety")) {
       service_name        <- service_metadata[[i]][["service"]]
       service_description <- service_metadata[[i]][["description"]]
       file_name           <- paste0(service_metadata[[i]][["id"]], ".md")
