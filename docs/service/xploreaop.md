@@ -49,7 +49,7 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 * TRL: Not available
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: Not available
 

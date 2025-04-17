@@ -49,7 +49,7 @@ An online application to implement weighted gene co-expression network analysis 
 
 * TRL: Not available
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: Steven J. Kunnen (s.j.kunnen@lacdr.leidenuniv.nl)
 

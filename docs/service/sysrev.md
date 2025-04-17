@@ -49,7 +49,7 @@ An online service to conduct literature review, data extraction and systematic r
 
 * TRL: Not available
 
-* Type: VHP4Safety Selection
+* Type: external
 
 * Contact: Insilica.co (info@insilica.co)
 

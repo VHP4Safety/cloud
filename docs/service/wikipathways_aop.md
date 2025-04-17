@@ -49,7 +49,7 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 * TRL: 
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
 

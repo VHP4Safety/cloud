@@ -49,7 +49,7 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 * TRL: 
 
-* Type: 
+* Type: external
 
 * Contact: Not available
 

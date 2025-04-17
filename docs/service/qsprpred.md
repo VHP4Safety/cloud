@@ -49,7 +49,7 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 * TRL: 3
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: Linde Schoenmaker (l.schoenmaker@lacdr.leidenuniv.nl)
 

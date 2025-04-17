@@ -49,7 +49,7 @@ A framework to map identifiers between various biological databases and related 
 
 * TRL: Not available
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: Not available
 

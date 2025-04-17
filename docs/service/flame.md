@@ -49,7 +49,7 @@ An open source framework to develop, host, and use machine-learning models, such
 
 * TRL: Not available
 
-* Type: Not available
+* Type: external
 
 * Contact: Manuel Pastor (manuel.pastor@upf.edu)
 

@@ -49,7 +49,7 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 * TRL: Not available
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: Marc Teunis (marc.teunis@hu.nl)
 

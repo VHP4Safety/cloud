@@ -49,7 +49,7 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 * TRL: Not available
 
-* Type: VHP4Safety Selection
+* Type: internal
 
 * Contact: Egon Willighagen (egon.willighagen@maastrichtuniversity.nl)
 

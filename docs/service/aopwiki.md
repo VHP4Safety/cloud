@@ -49,7 +49,7 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 * TRL: Not available
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
 

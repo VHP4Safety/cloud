@@ -49,7 +49,7 @@ To be added
 
 * TRL: Not available
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: Thijs Moerenhout (thijs.moerenhout@wur.nl)
 
