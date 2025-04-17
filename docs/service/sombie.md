@@ -49,7 +49,7 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 * TRL: Integrated application
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: David Poole (d.a.poole@vu.nl)
 

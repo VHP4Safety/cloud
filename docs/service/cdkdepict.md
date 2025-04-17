@@ -49,7 +49,7 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 * TRL: TRL 8 - system complete and qualified
 
-* Type: VHP4Safety
+* Type: internal
 
 * Contact: Not available
 

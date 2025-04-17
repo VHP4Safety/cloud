@@ -49,11 +49,11 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 * TRL: Not available
 
-* Type: Swagger UI
+* Type: internal
 
 * Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
 
-* API Type: REST API
+* API Type: REST API -- Swagger UI
 
 * Categories: To be added
 

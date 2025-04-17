@@ -49,7 +49,7 @@ An online service to generate a virtual human population.
 
 * TRL: 
 
-* Type: VHP4Safety Selection
+* Type: external
 
 * Contact:  (infoline@hse.gov.uk)
 

@@ -28,9 +28,89 @@ You are welcome to contribute to this catalog by requesting or adding new servic
 
 The current development platform runs several services.
 
+#### AOP-Builder
+
+A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI. [[more information](service/aop-builder.md)]
+
+#### AOP-Wiki Snorql UI
+
+A graphical interface to make queries to the AOP-Wiki SPARQL endpoint. [[more information](service/aopwiki.md)]
+
+#### AOP-Wiki API
+
+A REST API for AOP-Wiki content to make SPARQL queries. [[more information](service/aopwikiapi.md)]
+
+#### BridgeDb
+
+A framework to map identifiers between various biological databases and related sources. [[more information](service/bridgedb.md)]
+
+#### CDK Depict
+
+A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats. [[more information](service/cdkdepict.md)]
+
+#### VHP4Safety Wikibase User Interface
+
+A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/wikibase.md)]
+
+#### OP PBK Model
+
+To be added [[more information](service/oppbk_model.md)]
+
+#### QSPRpred
+
+This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies. [[more information](service/qsprpred.md)]
+
+#### SOM Prediction
+
+A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more information](service/sombie.md)]
+
+#### TXG-MAPr
+
+An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets. [[more information](service/txg_mapr.md)]
+
+#### VHP4Safety Wikibase
+
+A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project. [[more information](service/wikibase.md)]
+
+#### WikiPathways - AOP Portal
+
+An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs. [[more information](service/wikipathways_aop.md)]
+
+#### xploreaop
+
+A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis. [[more information](service/xploreaop.md)]
+
 ------------------------------------------
 
 ### External Services
+
+#### CellDesigner
+
+A structured diagram editor to draw gene-regulatory and biochemical networks. [[more information](service/celldesigner.md)]
+
+#### CompTox
+
+An online database to provide access to chemistry, toxicity, and exposure information for chemicals. [[more information](service/comptox.md)]
+
+#### cpLogD
+
+A model to predict water–octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more information](service/cplogd.md)]
+
+#### Flame
+
+An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments. [[more information](service/flame.md)]
+
+#### The OECD QSAR Toolbox
+
+A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
+
+#### PopGen
+
+An online service to generate a virtual human population. [[more information](service/popgen.md)]
+
+#### SysRev
+
+An online service to conduct literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
 
 ------------------------------------------
 

@@ -49,7 +49,7 @@ A model to predict water–octanol distribution coefficient (logD) for chemical 
 
 * TRL: Not available
 
-* Type: VHP4Safety
+* Type: external
 
 * Contact: Ola Spjuth ()
 
