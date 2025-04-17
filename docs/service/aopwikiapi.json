@@ -5,7 +5,7 @@
   "screenshot": "aopwikiapi.png",
   "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries",
   "instance": {
-    "type": "Swagger UI",
+    "type": "internal",
     "vhp-platform": "Development",
     "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries"
   },
@@ -18,7 +18,7 @@
     "name": "Department of Bioinformatics (BiGCaT), Maastricht University"
   },
   "access": {
-    "API": "REST API",
+    "API": "REST API -- Swagger UI",
     "login": "No"
   }
 }

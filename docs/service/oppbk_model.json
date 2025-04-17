@@ -7,7 +7,7 @@
   "doi": "10.1021/acs.est.4c06534",
   
   "instance": {
-    "type": "VHP4Safety",
+    "type": "internal",
     "vhp-platform": "Development",
     "url": "http://oppbk.cloud.vhp4safety.nl/"
   },

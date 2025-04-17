@@ -4,7 +4,7 @@
   "description": "A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.",
   "url": "https://xploreaop.cloud.vhp4safety.nl/",
   "instance": {
-    "type": "VHP4Safety",
+    "type": "internal",
     "vhp-platform": "Development",
     "version": "2.3.3",
     "source": "https://github.com/VHP4Safety/xploreaop"

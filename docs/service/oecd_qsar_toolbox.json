@@ -5,7 +5,7 @@
   "screenshot": "oecd_qsar_toolbox.png",
   "url": "https://qsartoolbox.org/",
   "instance": {
-    "type": "",
+    "type": "external",
     "vhp-platform": "",
     "url": "",
     "license": "[Terms of Conditions](https://www.oecd.org/termsandconditions/)",

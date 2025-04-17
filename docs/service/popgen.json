@@ -6,7 +6,7 @@
   "url": "http://xnet.hsl.gov.uk/Popgen/",
   "doi": "10.1007/s10928-007-9053-5",
   "instance": {
-    "type": "VHP4Safety Selection",
+    "type": "external",
     "license": "Copyright by Bayer CropScience AG 2008",
     "version": "0.3.11183.0",
     "source": "",
