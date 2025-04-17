@@ -1,3 +1,4 @@
+<!-- Sitemap created on 2025-04-17 13:06:55.125148. -->
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -115,13 +116,7 @@
 </url>
 <!-- parsing file: docs/service/kb.json -->
 <url>
-  <loc>https://cloud.vhp4safety.nl/service/wikibase.html</loc>
-  <priority>1.00</priority>
-  <changefreq>weekly</changefreq>
-</url>
-<!-- parsing file: docs/service/misc/obsolete/popgen.json -->
-<url>
-  <loc>https://cloud.vhp4safety.nl/service/popgen.html</loc>
+  <loc>https://cloud.vhp4safety.nl/service/kb.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
