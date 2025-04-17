@@ -25,7 +25,6 @@ dir.eachFileRecurse (FileType.FILES) { file ->
 list = list.sort()
 
 list.each { file ->
-  println "<!-- parsing file: ${file} -->"
   fileContents = file.text
   def data = new JsonSlurper().parseText(fileContents)
   println """<url>
