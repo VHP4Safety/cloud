@@ -1,15 +1,15 @@
-name: Create Markdown
+name: Generate material (R version)
 
 on:
   workflow_dispatch:
   push:
     paths:
-      - "docs/service/*.json"
+      - 'docs/service/*.json'
   pull_request:
     branches:
       - main
     paths:
-      - "docs/service/*.json"
+      - 'docs/service/*.json'
 
 jobs:
   webpage:
@@ -20,36 +20,29 @@ jobs:
           submodules: true
           fetch-depth: 0
 
+      - name: Update the list of available libraries
+        run: sudo apt update
+
       - name: Install groovy
         run: sudo apt install groovy
 
+      - name: Install R and the rjson package
+        run: sudo apt install r-base; sudo apt install r-cran-rjson
+
       - name: Generate sitemap.xml
-        run: groovy createSitemap.groovy > docs/sitemap.xml
+        run: cd misc/workflow_in_r/ ; Rscript create_sitemap.r
 
-      - name: Generate tools.tsv
-        run: groovy createToolsTSV.groovy > docs/tools.tsv
-
-      - name: Generate catalog
-        run: cd docs ; groovy createCatalog.groovy > catalog.md ; groovy createIndex.groovy > index.md
+      - name: Generate tools.tsv, catalog.md and index.md
+        run: cd misc/workflow_in_r/ ; Rscript workflow_rscript.r
 
       - name: Generate persona pages
-        run: cd docs; groovy createPersona1.groovy > persona1.md ; groovy createPersona2.groovy > persona2.md ; groovy createPersona3.groovy > persona3.md
-
-      - name: Generate service pages
-        run: cd docs/service ; groovy createMarkdown.groovy *.json
+        run: cd docs ; groovy createPersona1.groovy > persona1.md ; groovy createPersona2.groovy > persona2.md ; groovy createPersona3.groovy > persona3.md
 
       - name: Commit report
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add docs/sitemap.xml
-          git add docs/tools.tsv
-          git add docs/index.md
-          git add docs/catalog.md
-          git add docs/persona1.md
-          git add docs/persona2.md
-          git add docs/persona3.md
-          git add docs/service/*.md
+          git add .
           if git diff --exit-code --staged; then
               echo "No changes"
           else
