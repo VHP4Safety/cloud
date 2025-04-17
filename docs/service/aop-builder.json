@@ -4,7 +4,7 @@
   "description": "A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI.",
   "url": "https://crebuilder.vhp4safety.nl",
   "instance": {
-    "type": "VHP4Safety",
+    "type": "internal",
     "license": "CC-BY NC 4.0",
     "version": "1.0"
   },

@@ -6,7 +6,7 @@
   "url": "https://txg-mapr.eu/",
   "doi": "10.1007/s00204-021-03141-w",
   "instance": {
-    "type": "VHP4Safety",
+    "type": "internal",
     "vhp-platform": "External",
     "license": "Proprietary"
   },

@@ -5,7 +5,7 @@
   "url": "https://cplogd.cloud.vhp4safety.nl/",
   "doi": "10.1186/s13321-018-0271-1",
   "instance": {
-    "type": "VHP4Safety",
+    "type": "external",
     "vhp-platform": "Development",
     "url": "https://cplogd.cloud.vhp4safety.nl/",
     "license": "Copyrighted by Aros Bio",

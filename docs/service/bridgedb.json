@@ -6,7 +6,7 @@
   "url": "https://bridgedb.cloud.vhp4safety.nl/",
   "doi": "10.1186/1471-2105-11-5",
   "instance": {
-    "type": "VHP4Safety",
+    "type": "internal",
     "vhp-platform": "Development",
     "license": "Apache-2.0",
     "version": "2.3.3",

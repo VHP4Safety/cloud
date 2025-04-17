@@ -5,7 +5,7 @@
   "screenshot": "VHP4Safety_ChemicalCompounds.png",
   "url": "https://compoundcloud.wikibase.cloud/",
   "instance": {
-    "type": "VHP4Safety Selection"
+    "type": "internal"
   },
   "provider": {
     "contact": {

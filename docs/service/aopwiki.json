@@ -6,7 +6,7 @@
   "url": "https://aopwiki.cloud.vhp4safety.nl/",
   "doi": "10.1089/aivt.2021.0010",
   "instance": {
-    "type": "VHP4Safety",
+    "type": "internal",
     "vhp-platform": "Development",
     "url": "https://aopwiki.cloud.vhp4safety.nl/",
     "source": "https://github.com/marvinm2/aopwiki-snorql-extended",
