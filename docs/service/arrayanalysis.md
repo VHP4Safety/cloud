@@ -5,7 +5,7 @@
 
 A user-friendly service to conduct quality control and pre-processing analyses for microarray data.
 
-![ArrayAnalysis logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/arrayanalysis.png) '[ArrayAnalysis logo']
+![ArrayAnalysis logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/arrayanalysis.png) '[ArrayAnalysis logo]'
 
 ## Documentation
 

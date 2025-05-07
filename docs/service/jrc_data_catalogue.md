@@ -5,7 +5,7 @@
 
 An inventory of data produced by the Joint Research Centre (JRC) in accordance with the JRC Data Policy.
 
-![Joint Research Centre Data Catalogue logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/jrc_data_catalogue.png) '[Joint Research Centre Data Catalogue logo']
+![Joint Research Centre Data Catalogue logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/jrc_data_catalogue.png) '[Joint Research Centre Data Catalogue logo]'
 
 ## Documentation
 

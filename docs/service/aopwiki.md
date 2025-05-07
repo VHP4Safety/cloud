@@ -5,7 +5,7 @@
 
 A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
-![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png) '[AOP-Wiki Snorql UI logo']
+![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png) '[AOP-Wiki Snorql UI logo]'
 
 ## Documentation
 

@@ -5,7 +5,7 @@
 
 A REST API for AOP-Wiki content to make SPARQL queries.
 
-![AOP-Wiki API logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwikiapi.png) '[AOP-Wiki API logo']
+![AOP-Wiki API logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwikiapi.png) '[AOP-Wiki API logo]'
 
 ## Documentation
 

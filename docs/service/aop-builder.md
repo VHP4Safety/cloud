@@ -5,7 +5,7 @@
 
 A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI.
 
-![AOP-Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aop-builder.png) '[AOP-Builder logo']
+![AOP-Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aop-builder.png) '[AOP-Builder logo]'
 
 ## Documentation
 

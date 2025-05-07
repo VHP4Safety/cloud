@@ -5,7 +5,7 @@
 
 An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets.
 
-![TXG-MAPr logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/txg_mapr.png) '[TXG-MAPr logo']
+![TXG-MAPr logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/txg_mapr.png) '[TXG-MAPr logo]'
 
 ## Documentation
 

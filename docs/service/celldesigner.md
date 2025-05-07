@@ -5,7 +5,7 @@
 
 A structured diagram editor to draw gene-regulatory and biochemical networks.
 
-![CellDesigner logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/celldesigner.png) '[CellDesigner logo']
+![CellDesigner logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/celldesigner.png) '[CellDesigner logo]'
 
 ## Documentation
 

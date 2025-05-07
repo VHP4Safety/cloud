@@ -5,7 +5,7 @@
 
 A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way.
 
-![The OECD QSAR Toolbox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oecd_qsar_toolbox.png) '[The OECD QSAR Toolbox logo']
+![The OECD QSAR Toolbox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oecd_qsar_toolbox.png) '[The OECD QSAR Toolbox logo]'
 
 ## Documentation
 

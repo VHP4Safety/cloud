@@ -5,7 +5,7 @@
 
 An online repository of official reports from the European Medicines Agency.
 
-![European Medicines Agency Documents logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ema_documents.png) '[European Medicines Agency Documents logo']
+![European Medicines Agency Documents logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ema_documents.png) '[European Medicines Agency Documents logo]'
 
 ## Documentation
 

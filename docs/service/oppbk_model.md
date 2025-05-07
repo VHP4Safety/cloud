@@ -5,7 +5,7 @@
 
 To be added
 
-![OP PBK Model logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oppbk_model.png) '[OP PBK Model logo']
+![OP PBK Model logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oppbk_model.png) '[OP PBK Model logo]'
 
 ## Documentation
 

@@ -5,7 +5,7 @@
 
 An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES.
 
-![OPSIN: Open Parser for Systematic IUPAC nomenclature logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/opsin.png) '[OPSIN: Open Parser for Systematic IUPAC nomenclature logo']
+![OPSIN: Open Parser for Systematic IUPAC nomenclature logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/opsin.png) '[OPSIN: Open Parser for Systematic IUPAC nomenclature logo]'
 
 ## Documentation
 

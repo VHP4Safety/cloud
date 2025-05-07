@@ -5,7 +5,7 @@
 
 A software tool to predict metabolites based on inputs in SMILE format.
 
-![BioTransformer logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biotransformer.png) '[BioTransformer logo']
+![BioTransformer logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biotransformer.png) '[BioTransformer logo]'
 
 ## Documentation
 

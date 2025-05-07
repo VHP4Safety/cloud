@@ -5,7 +5,7 @@
 
 A framework to map identifiers between various biological databases and related sources.
 
-![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png) '[BridgeDb logo']
+![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png) '[BridgeDb logo]'
 
 ## Documentation
 

@@ -5,7 +5,7 @@
 
 An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.
 
-![WikiPathways - AOP Portal logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikipathways_aop.png) '[WikiPathways - AOP Portal logo']
+![WikiPathways - AOP Portal logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikipathways_aop.png) '[WikiPathways - AOP Portal logo]'
 
 ## Documentation
 
