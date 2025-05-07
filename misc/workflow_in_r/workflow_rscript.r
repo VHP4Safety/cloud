@@ -86,7 +86,8 @@ for(i in 1:length(json_files)) {
   # Adding the screenshot if it is available. 
   if (!is.null(service_metadata[[i]][["screenshot"]])) {
     image_file <- service_metadata[[i]][["screenshot"]]
-    system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", image_file, ") '", service_name, " logo'\" >> ", target))
+    # system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", image_file, ") '", service_name, " logo'\" >> ", target))
+    system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", image_file, ")\" >> ", target))
     system(paste0("echo \"\" >> ", target))
   }
   
