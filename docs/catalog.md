@@ -13,7 +13,7 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 ------------------------
 
-![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png) 'AOP-Wiki Snorql UI logo'
+![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png)
 
 ## AOP-Wiki Snorql UI
 
@@ -21,7 +21,7 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint. [[more in
 
 ------------------------
 
-![AOP-Wiki API logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwikiapi.png) 'AOP-Wiki API logo'
+![AOP-Wiki API logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwikiapi.png)
 
 ## AOP-Wiki API
 
@@ -35,7 +35,7 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 ------------------------
 
-![BioModels logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biomodels.png) 'BioModels logo'
+![BioModels logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biomodels.png)
 
 ## BioModels
 
@@ -43,7 +43,7 @@ A repository of mathematical models of biological and biomedical systems. [[more
 
 ------------------------
 
-![BioTransformer logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biotransformer.png) 'BioTransformer logo'
+![BioTransformer logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biotransformer.png)
 
 ## BioTransformer
 
@@ -51,7 +51,7 @@ A software tool to predict metabolites based on inputs in SMILE format. [[more i
 
 ------------------------
 
-![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png) 'BridgeDb logo'
+![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png)
 
 ## BridgeDb
 
@@ -59,7 +59,7 @@ A framework to map identifiers between various biological databases and related 
 
 ------------------------
 
-![CDK Depict logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdkdepict.png) 'CDK Depict logo'
+![CDK Depict logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdkdepict.png)
 
 ## CDK Depict
 
@@ -67,7 +67,7 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 ------------------------
 
-![CellDesigner logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/celldesigner.png) 'CellDesigner logo'
+![CellDesigner logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/celldesigner.png)
 
 ## CellDesigner
 
@@ -75,7 +75,7 @@ A structured diagram editor to draw gene-regulatory and biochemical networks. [[
 
 ------------------------
 
-![CompTox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/comptox.png) 'CompTox logo'
+![CompTox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/comptox.png)
 
 ## CompTox
 
@@ -83,7 +83,7 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 ------------------------
 
-![COPASI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/copasi.png) 'COPASI logo'
+![COPASI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/copasi.png)
 
 ## COPASI
 
@@ -97,7 +97,7 @@ A model to predict water–octanol distribution coefficient (logD) for chemical 
 
 ------------------------
 
-![DECIMER logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/decimer.png) 'DECIMER logo'
+![DECIMER logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/decimer.png)
 
 ## DECIMER
 
@@ -105,7 +105,7 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 ------------------------
 
-![European Medicines Agency Documents logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ema_documents.png) 'European Medicines Agency Documents logo'
+![European Medicines Agency Documents logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ema_documents.png)
 
 ## European Medicines Agency Documents
 
@@ -113,7 +113,7 @@ An online repository of official reports from the European Medicines Agency. [[m
 
 ------------------------
 
-![FAIRDOMHub logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairdomhub.png) 'FAIRDOMHub logo'
+![FAIRDOMHub logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairdomhub.png)
 
 ## FAIRDOMHub
 
@@ -121,7 +121,7 @@ A web-accessible registry to store, share and publish research assets of biology
 
 ------------------------
 
-![Fairspace logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairspace.png) 'Fairspace logo'
+![Fairspace logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairspace.png)
 
 ## Fairspace
 
@@ -135,7 +135,7 @@ An open source framework to develop, host, and use machine-learning models, such
 
 ------------------------
 
-![Joint Research Centre Data Catalogue logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/jrc_data_catalogue.png) 'Joint Research Centre Data Catalogue logo'
+![Joint Research Centre Data Catalogue logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/jrc_data_catalogue.png)
 
 ## Joint Research Centre Data Catalogue
 
@@ -149,7 +149,7 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 ------------------------
 
-![The OECD QSAR Toolbox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oecd_qsar_toolbox.png) 'The OECD QSAR Toolbox logo'
+![The OECD QSAR Toolbox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oecd_qsar_toolbox.png)
 
 ## The OECD QSAR Toolbox
 
@@ -157,7 +157,7 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 ------------------------
 
-![OP PBK Model logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oppbk_model.png) 'OP PBK Model logo'
+![OP PBK Model logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oppbk_model.png)
 
 ## OP PBK Model
 
@@ -165,7 +165,7 @@ To be added [[more information](service/oppbk_model.md)]
 
 ------------------------
 
-![OPSIN: Open Parser for Systematic IUPAC nomenclature logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/opsin.png) 'OPSIN: Open Parser for Systematic IUPAC nomenclature logo'
+![OPSIN: Open Parser for Systematic IUPAC nomenclature logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/opsin.png)
 
 ## OPSIN: Open Parser for Systematic IUPAC nomenclature
 
@@ -173,7 +173,7 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 ------------------------
 
-![PopGen logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/) 'PopGen logo'
+![PopGen logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
 
 ## PopGen
 
@@ -181,7 +181,7 @@ An online service to generate a virtual human population. [[more information](se
 
 ------------------------
 
-![QSPRpred logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/qsprpred.png) 'QSPRpred logo'
+![QSPRpred logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/qsprpred.png)
 
 ## QSPRpred
 
@@ -201,7 +201,7 @@ An online service to conduct literature review, data extraction and systematic r
 
 ------------------------
 
-![TXG-MAPr logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/txg_mapr.png) 'TXG-MAPr logo'
+![TXG-MAPr logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/txg_mapr.png)
 
 ## TXG-MAPr
 
@@ -209,7 +209,7 @@ An online application to implement weighted gene co-expression network analysis 
 
 ------------------------
 
-![VHP4Safety Wikibase logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/VHP4Safety_ChemicalCompounds.png) 'VHP4Safety Wikibase logo'
+![VHP4Safety Wikibase logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/VHP4Safety_ChemicalCompounds.png)
 
 ## VHP4Safety Wikibase
 
@@ -217,7 +217,7 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 ------------------------
 
-![WikiPathways - AOP Portal logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikipathways_aop.png) 'WikiPathways - AOP Portal logo'
+![WikiPathways - AOP Portal logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikipathways_aop.png)
 
 ## WikiPathways - AOP Portal
 
