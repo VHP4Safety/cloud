@@ -210,7 +210,7 @@ for (i in 1:length(service_metadata)) {
   system(paste0("echo \"", service_description, "\" >> ", target))
   system(paste0("echo \"\" >> ", target))
   
-  system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", service_metadata[[i]][["id"]], ".png) '[", service_name, " logo']\" >> ", target))
+  system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", service_metadata[[i]][["id"]], ".png) '[", service_name, " logo]'\" >> ", target))
   system(paste0("echo \"\" >> ", target))
   
   #### VHP4Safety Documentation
