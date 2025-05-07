@@ -5,7 +5,7 @@
 
 A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.
 
-![xploreaop logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/xploreaop.png) '[xploreaop logo]'
+![xploreaop logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/xploreaop.png)
 
 ## Documentation
 

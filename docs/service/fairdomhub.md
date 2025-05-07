@@ -5,7 +5,7 @@
 
 A web-accessible registry to store, share and publish research assets of biology projects.
 
-![FAIRDOMHub logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairdomhub.png) '[FAIRDOMHub logo]'
+![FAIRDOMHub logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairdomhub.png)
 
 ## Documentation
 

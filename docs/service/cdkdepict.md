@@ -5,7 +5,7 @@
 
 A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats.
 
-![CDK Depict logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdkdepict.png) '[CDK Depict logo]'
+![CDK Depict logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdkdepict.png)
 
 ## Documentation
 

@@ -5,7 +5,7 @@
 
 This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies.
 
-![QSPRpred logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/qsprpred.png) '[QSPRpred logo]'
+![QSPRpred logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/qsprpred.png)
 
 ## Documentation
 

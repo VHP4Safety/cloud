@@ -5,7 +5,7 @@
 
 An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.
 
-![Flame logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/flame.png) '[Flame logo]'
+![Flame logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/flame.png)
 
 ## Documentation
 

@@ -5,7 +5,7 @@
 
 An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF)
 
-![Fairspace logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairspace.png) '[Fairspace logo]'
+![Fairspace logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairspace.png)
 
 ## Documentation
 

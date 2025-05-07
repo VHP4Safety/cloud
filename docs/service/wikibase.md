@@ -5,7 +5,7 @@
 
 A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.
 
-![VHP4Safety Wikibase logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikibase.png) '[VHP4Safety Wikibase logo]'
+![VHP4Safety Wikibase logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikibase.png)
 
 ## Documentation
 

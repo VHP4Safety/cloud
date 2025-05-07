@@ -5,7 +5,7 @@
 
 An online database to provide access to chemistry, toxicity, and exposure information for chemicals.
 
-![CompTox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/comptox.png) '[CompTox logo]'
+![CompTox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/comptox.png)
 
 ## Documentation
 

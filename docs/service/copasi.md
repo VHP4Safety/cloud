@@ -5,7 +5,7 @@
 
 An open-source software application to create and solve mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others.
 
-![COPASI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/copasi.png) '[COPASI logo]'
+![COPASI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/copasi.png)
 
 ## Documentation
 

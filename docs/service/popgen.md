@@ -5,7 +5,7 @@
 
 An online service to generate a virtual human population.
 
-![PopGen logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/popgen.png) '[PopGen logo]'
+![PopGen logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/popgen.png)
 
 ## Documentation
 

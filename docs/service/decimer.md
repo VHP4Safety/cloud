@@ -5,7 +5,7 @@
 
 An online service to extract chemical structures from PDF-formatted files and images.
 
-![DECIMER logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/decimer.png) '[DECIMER logo]'
+![DECIMER logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/decimer.png)
 
 ## Documentation
 
