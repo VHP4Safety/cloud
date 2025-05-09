@@ -224,27 +224,70 @@ for (i in 1:length(service_metadata)) {
   system(paste0("echo \"#### VHP4Safety Documentation\" >> ", target))
   system(paste0("echo \"\" >> ", target))
   
+  # Intro 
   if (!is.null(service_metadata[[i]][["intro"]][["title"]]) & !is.null(service_metadata[[i]][["intro"]][["url"]])) {
-    system(paste0("echo \"* Service Introduction: [", service_metadata[[i]][["intro"]][["title"]], "](", service_metadata[[i]][["intro"]][["url"]], ") \" >> ", target))
+    titles  <- unlist(strsplit(service_metadata[[i]][["intro"]][["title"]], ";"))
+    urls    <- unlist(strsplit(service_metadata[[i]][["intro"]][["url"]], ";"))
+    if (length(titles) > 1 | length(urls) > 1) {
+      if (length(titles) == length(urls)) {
+        res <- paste0("[", titles, "](", urls, ")")
+        res <- paste(res, collapse=", ")
+        system(paste0("echo \"* Service Introduction: ", res, "\" >> ", target))
+      } else {
+        res <- paste0("[", urls, "](", urls, ")", collapse=", ")
+        system(paste0("echo \"* Service Introduction: ", res, "\" >> ", target))
+      }
+    } else {
+      system(paste0("echo \"* Service Introduction: [", service_metadata[[i]][["intro"]][["title"]], "](", service_metadata[[i]][["intro"]][["url"]], ") \" >> ", target))
+    }
   } else {
     system(paste0("echo \"* Service Introduction: To be added\" >> ", target))
   }
   system(paste0("echo \"\" >> ", target))
   
+  # Workflow
   if (!is.null(service_metadata[[i]][["workflow"]][["title"]]) & !is.null(service_metadata[[i]][["workflow"]][["url"]])) {
-    system(paste0("echo \"* Workflow: [", service_metadata[[i]][["workflow"]][["title"]], "](", service_metadata[[i]][["workflow"]][["url"]], ") \" >> ", target))
+    titles  <- unlist(strsplit(service_metadata[[i]][["workflow"]][["title"]], ";"))
+    urls    <- unlist(strsplit(service_metadata[[i]][["workflow"]][["url"]], ";"))
+    if (length(titles) > 1 | length(urls) > 1) {
+      if (length(titles) == length(urls)) {
+        res <- paste0("[", titles, "](", urls, ")")
+        res <- paste(res, collapse=", ")
+        system(paste0("echo \"* Workflow: ", res, "\" >> ", target))
+      } else {
+        res <- paste0("[", urls, "](", urls, ")", collapse=", ")
+        system(paste0("echo \"* Workflow: ", res, "\" >> ", target))
+      }
+    } else {
+      system(paste0("echo \"* Workflow: [", service_metadata[[i]][["workflow"]][["title"]], "](", service_metadata[[i]][["workflow"]][["url"]], ") \" >> ", target))
+    }
   } else {
     system(paste0("echo \"* Workflow: To be added\" >> ", target))
   }
   system(paste0("echo \"\" >> ", target))
   
+  # Demo
   if (!is.null(service_metadata[[i]][["demo"]][["title"]]) & !is.null(service_metadata[[i]][["demo"]][["url"]])) {
-    system(paste0("echo \"* Demo: [", service_metadata[[i]][["demo"]][["title"]], "](", service_metadata[[i]][["demo"]][["url"]], ") \" >> ", target))
+    titles  <- unlist(strsplit(service_metadata[[i]][["demo"]][["title"]], ";"))
+    urls    <- unlist(strsplit(service_metadata[[i]][["demo"]][["url"]], ";"))
+    if (length(titles) > 1 | length(urls) > 1) {
+      if (length(titles) == length(urls)) {
+        res <- paste0("[", titles, "](", urls, ")")
+        res <- paste(res, collapse=", ")
+        system(paste0("echo \"* Demo: ", res, "\" >> ", target))
+      } else {
+        res <- paste0("[", urls, "](", urls, ")", collapse=", ")
+        system(paste0("echo \"* Demo: ", res, "\" >> ", target))
+      }
+    } else {
+      system(paste0("echo \"* Demo: [", service_metadata[[i]][["demo"]][["title"]], "](", service_metadata[[i]][["demo"]][["url"]], ") \" >> ", target))
+    }
   } else {
     system(paste0("echo \"* Demo: To be added\" >> ", target))
   }
   system(paste0("echo \"\" >> ", target))
   
+  # Adding the text for TeSS communication.
   add_tess_html(id=service_metadata[[i]][["id"]], target=target)
   system(paste0("echo \"\" >> ", target))
   
