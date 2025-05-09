@@ -1,4 +1,4 @@
-<!-- Sitemap created on 2025-05-09 13:51:11.874621. -->
+<!-- Sitemap created on 2025-05-09 13:56:02.686975. -->
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -6,12 +6,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-<!-- parsing file: docs/service/aop-builder_test.json -->
-<url>
-  <loc>https://cloud.vhp4safety.nl/service/aop-builder_test.html</loc>
-  <priority>1.00</priority>
-  <changefreq>weekly</changefreq>
-</url>
 <!-- parsing file: docs/service/aop-builder.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/aop-builder.html</loc>
