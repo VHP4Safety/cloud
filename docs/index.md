@@ -30,6 +30,10 @@ The current development platform runs several services.
 
 #### AOP-Builder
 
+A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI. [[more information](service/aop-builder-test.md)]
+
+#### AOP-Builder
+
 A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI. [[more information](service/aop-builder.md)]
 
 #### AOP-Wiki Snorql UI
