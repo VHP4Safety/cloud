@@ -11,16 +11,15 @@ if (file.exists("../../docs/sitemap.xml")) {
 ################################################################################
 ### Defining the functions to create the sitemap.xml.
 sitemap_intro_fun <- function() {
-  # Function to add the chunk at the top of the file. 
-  # Note that it starts by adding the date at the top of the file in a comment.
-  system(paste0('echo \"<!-- Sitemap created on ', Sys.time(), '. -->\" >> ../../docs/sitemap.xml'))
-  
+  # Function to add the chunk at the top of the file.   
   system(paste0('echo \"<?xml version=\\"1.0\\" encoding=\\"UTF-8\\"?>\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"<urlset\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"      xmlns=\\"http://www.sitemaps.org/schemas/sitemap/0.9\\"\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"      xmlns:xsi=\\"http://www.w3.org/2001/XMLSchema-instance\\"\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"      xsi:schemaLocation=\\"http://www.sitemaps.org/schemas/sitemap/0.9\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd\\">\" >> ../../docs/sitemap.xml'))
+  # We include the creation date at the top of the file in a comment.
+  system(paste0('echo \"<!-- Sitemap created on ', Sys.time(), '. -->\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"\" >> ../../docs/sitemap.xml'))
 }
   
