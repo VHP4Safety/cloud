@@ -23,6 +23,9 @@
   "_ins_doi": "The DOI of the document (article, preprint, etc.) related to the service.",
   "doi": "",
 
+  "_ins_release_notes": "A url where there are release notes regarding the service.",
+  "release_notes": "",
+
   "instance": {
 
     "_ins_type": "Whether the instance 'internal' or 'external'",
