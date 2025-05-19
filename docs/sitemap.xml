@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- Sitemap created on 2025-05-19 11:16:20.977446. -->
+<!-- Sitemap created on 2025-05-19 13:26:31.994256. -->
 
 <!-- parsing file: docs/service/aop-builder.json -->
 <url>
@@ -114,9 +114,9 @@
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
-<!-- parsing file: docs/service/kb.json -->
+<!-- parsing file: docs/service/vhp4safety_wikibase.json -->
 <url>
-  <loc>https://cloud.vhp4safety.nl/service/kb.html</loc>
+  <loc>https://cloud.vhp4safety.nl/service/vhp4safety_wikibase.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
@@ -187,9 +187,3 @@
   <changefreq>weekly</changefreq>
 </url>
 </urlset>
-<!-- parsing file: docs/service/1.json -->
-<url>
-  <loc>https://cloud.vhp4safety.nl/service/1.html</loc>
-  <priority>1.00</priority>
-  <changefreq>weekly</changefreq>
-</url>
