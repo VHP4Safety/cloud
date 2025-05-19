@@ -46,11 +46,25 @@ sitemap_outro_fun <- function() {
 # Adding the chunk at the top.
 sitemap_intro_fun()
 
-# Adding the lists one by one, after getting the list of .json files. 
-service_list <- dir("../../docs/service/")
-service_list <- service_list[grep(".json", service_list)]
-service_list <- gsub(".json", "", service_list)
-service_list <- service_list[-which(service_list == "template")]
+
+# service_list <- dir("../../docs/service/")
+# service_list <- service_list[grep(".json", service_list)]
+# service_list <- gsub(".json", "", service_list)
+# service_list <- service_list[-which(service_list == "template")]
+
+# Adding the lists one by one, after getting the list of .json files and the 
+# values in the id fields in them. 
+require("rjson")
+json_files <- grep(".json", dir("../../docs/service/"))
+json_files <- dir("../../docs/service/")[json_files]
+json_files <- json_files[-which(json_files == "template.json")]
+
+# Creating an empty list object to store the id fields.
+service_list <- rep(NA, length(json_files))
+for (i in 1:length(json_files)) {
+  service_list[i] <- fromJSON(file=paste0("../../docs/service/", json_files[i]))$id
+}
+  
 for (i in service_list) {
   sitemap_main_fun(i)
 }
