@@ -145,7 +145,7 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 ## VHP4Safety Wikibase User Interface
 
-A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/wikibase.md)]
+A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/vhp4safety_wikibase.md)]
 
 ------------------------
 

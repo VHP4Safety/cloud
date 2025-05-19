@@ -17,7 +17,7 @@ fairdomhub	FAIRDOMHub	https://fairdomhub.org/	NA
 fairspace	Fairspace	https://www.thehyve.nl/services/fairspace	NA
 flame	Flame	http://flame.cloud.vhp4safety.nl:8098/	NA
 jrc_data_catalogue	Joint Research Centre Data Catalogue	https://data.jrc.ec.europa.eu/	NA
-wikibase	VHP4Safety Wikibase User Interface	NA	https://kb.cloud.vhp4safety.nl/
+vhp4safety_wikibase	VHP4Safety Wikibase User Interface	NA	https://kb.cloud.vhp4safety.nl/
 oecd_qsar_toolbox	The OECD QSAR Toolbox	https://qsartoolbox.org/	
 oppbk_model	OP PBK Model	http://oppbk.cloud.vhp4safety.nl/	http://oppbk.cloud.vhp4safety.nl/
 opsin	OPSIN: Open Parser for Systematic IUPAC nomenclature	https://opsin.ch.cam.ac.uk/	NA
