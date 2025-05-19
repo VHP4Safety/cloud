@@ -1,5 +1,5 @@
 {
-  "id": "wikibase",
+  "id": "vhp4safety_wikibase",
   "service": "VHP4Safety Wikibase User Interface",
   "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries.",
   "instance": {
