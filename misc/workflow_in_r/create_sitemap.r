@@ -26,7 +26,7 @@ sitemap_intro_fun <- function() {
 
 sitemap_main_fun <- function(file_name, service_name) {
   # Function to add the chunks in the body of the file. 
-  system(paste0('echo \"<!-- parsing file: docs/service/', file_name, '.json -->\" >> ../../docs/sitemap.xml'))
+  system(paste0('echo \"<!-- parsing file: docs/service/', file_name, ' -->\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"<url>\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"  <loc>https://cloud.vhp4safety.nl/service/', service_name, '.html</loc>\" >> ../../docs/sitemap.xml'))
   system(paste0('echo \"  <priority>1.00</priority>\" >> ../../docs/sitemap.xml'))
