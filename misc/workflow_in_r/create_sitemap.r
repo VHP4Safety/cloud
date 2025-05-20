@@ -65,7 +65,7 @@ for (i in 1:length(json_files)) {
   service_list[i] <- fromJSON(file=paste0("../../docs/service/", json_files[i]))$id
 }
   
-for (i in service_list) {
+for (i in 1:length(service_list)) {
   sitemap_main_fun(json_files[i], service_list[i])
 }
 
