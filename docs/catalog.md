@@ -93,7 +93,7 @@ An open-source software application to create and solve mathematical models of b
 
 ## cpLogD
 
-A model to predict water–octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more information](service/cplogd.md)]
+A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more information](service/cplogd.md)]
 
 ------------------------
 
