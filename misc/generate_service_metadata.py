@@ -32,6 +32,9 @@ for filename in os.listdir(service_dir):
             except json.JSONDecodeError as e:
                 print(f"Skipping invalid JSON file: {filename}")
 
+# Sorting services in the alphabetical order.
+services.sort(key=lambda x: x['service'].lower())
+
 # Writing the output.
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(services, f, indent=2)
