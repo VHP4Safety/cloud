@@ -21,7 +21,7 @@ jobs:
           python-version: '3.10'
 
       - name: Generate combined JSON file
-        run: python misc/generate_service_index.py
+        run: python misc/generate_service_metadata.py
 
       - name: Commit report
         run: |
