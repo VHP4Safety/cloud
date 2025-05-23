@@ -1,0 +1,212 @@
+[
+  {
+    "service": "ArrayAnalysis",
+    "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
+    "html_name": "arrayanalysis.html",
+    "md_file_name": "arrayanalysis.md",
+    "png_file_name": "arrayanalysis.png"
+  },
+  {
+    "service": "FAIRDOMHub",
+    "description": "A web-accessible registry to store, share and publish research assets of biology projects.",
+    "html_name": "fairdomhub.html",
+    "md_file_name": "fairdomhub.md",
+    "png_file_name": "fairdomhub.png"
+  },
+  {
+    "service": "PopGen",
+    "description": "An online service to generate a virtual human population.",
+    "html_name": "popgen.html",
+    "md_file_name": "popgen.md",
+    "png_file_name": "popgen.png"
+  },
+  {
+    "service": "European Medicines Agency Documents",
+    "description": "An online repository of official reports from the European Medicines Agency.",
+    "html_name": "ema_documents.html",
+    "md_file_name": "ema_documents.md",
+    "png_file_name": "ema_documents.png"
+  },
+  {
+    "service": "AOP-Wiki Snorql UI",
+    "description": "A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.",
+    "html_name": "aopwiki.html",
+    "md_file_name": "aopwiki.md",
+    "png_file_name": "aopwiki.png"
+  },
+  {
+    "service": "COPASI",
+    "description": "An open-source software application to create and solve mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others.",
+    "html_name": "copasi.html",
+    "md_file_name": "copasi.md",
+    "png_file_name": "copasi.png"
+  },
+  {
+    "service": "xploreaop",
+    "description": "A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.",
+    "html_name": "xploreaop.html",
+    "md_file_name": "xploreaop.md",
+    "png_file_name": "xploreaop.png"
+  },
+  {
+    "service": "BridgeDb",
+    "description": "A framework to map identifiers between various biological databases and related sources.",
+    "html_name": "bridgedb.html",
+    "md_file_name": "bridgedb.md",
+    "png_file_name": "bridgedb.png"
+  },
+  {
+    "service": "QSPRpred",
+    "description": "This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies.",
+    "html_name": "qsprpred.html",
+    "md_file_name": "qsprpred.md",
+    "png_file_name": "qsprpred.png"
+  },
+  {
+    "service": "Joint Research Centre Data Catalogue",
+    "description": "An inventory of data produced by the Joint Research Centre (JRC) in accordance with the JRC Data Policy.",
+    "html_name": "jrc_data_catalogue.html",
+    "md_file_name": "jrc_data_catalogue.md",
+    "png_file_name": "jrc_data_catalogue.png"
+  },
+  {
+    "service": "SysRev",
+    "description": "An online service to conduct literature review, data extraction and systematic review.",
+    "html_name": "sysrev.html",
+    "md_file_name": "sysrev.md",
+    "png_file_name": "sysrev.png"
+  },
+  {
+    "service": "Fairspace",
+    "description": "An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF)",
+    "html_name": "fairspace.html",
+    "md_file_name": "fairspace.md",
+    "png_file_name": "fairspace.png"
+  },
+  {
+    "service": "TXG-MAPr",
+    "description": "An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets.",
+    "html_name": "txg_mapr.html",
+    "md_file_name": "txg_mapr.md",
+    "png_file_name": "txg_mapr.png"
+  },
+  {
+    "service": "CompTox",
+    "description": "An online database to provide access to chemistry, toxicity, and exposure information for chemicals.",
+    "html_name": "comptox.html",
+    "md_file_name": "comptox.md",
+    "png_file_name": "comptox.png"
+  },
+  {
+    "service": "BioTransformer",
+    "description": "A software tool to predict metabolites based on inputs in SMILE format.",
+    "html_name": "biotransformer.html",
+    "md_file_name": "biotransformer.md",
+    "png_file_name": "biotransformer.png"
+  },
+  {
+    "service": "Flame",
+    "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
+    "html_name": "flame.html",
+    "md_file_name": "flame.md",
+    "png_file_name": "flame.png"
+  },
+  {
+    "service": "CDK Depict",
+    "description": "A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats.",
+    "html_name": "cdkdepict.html",
+    "md_file_name": "cdkdepict.md",
+    "png_file_name": "cdkdepict.png"
+  },
+  {
+    "service": "cpLogD",
+    "description": "A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates.",
+    "html_name": "cplogd.html",
+    "md_file_name": "cplogd.md",
+    "png_file_name": "cplogd.png"
+  },
+  {
+    "service": "OPSIN: Open Parser for Systematic IUPAC nomenclature",
+    "description": "An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES.",
+    "html_name": "opsin.html",
+    "md_file_name": "opsin.md",
+    "png_file_name": "opsin.png"
+  },
+  {
+    "service": "CellDesigner",
+    "description": "A structured diagram editor to draw gene-regulatory and biochemical networks.",
+    "html_name": "celldesigner.html",
+    "md_file_name": "celldesigner.md",
+    "png_file_name": "celldesigner.png"
+  },
+  {
+    "service": "The OECD QSAR Toolbox",
+    "description": "A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way.",
+    "html_name": "oecd_qsar_toolbox.html",
+    "md_file_name": "oecd_qsar_toolbox.md",
+    "png_file_name": "oecd_qsar_toolbox.png"
+  },
+  {
+    "service": "VHP4Safety Wikibase",
+    "description": "A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
+    "html_name": "wikibase.html",
+    "md_file_name": "wikibase.md",
+    "png_file_name": "wikibase.png"
+  },
+  {
+    "service": "WikiPathways - AOP Portal",
+    "description": "An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.",
+    "html_name": "wikipathways_aop.html",
+    "md_file_name": "wikipathways_aop.md",
+    "png_file_name": "wikipathways_aop.png"
+  },
+  {
+    "service": "AOP-Builder",
+    "description": "A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI.",
+    "html_name": "aop-builder.html",
+    "md_file_name": "aop-builder.md",
+    "png_file_name": "aop-builder.png"
+  },
+  {
+    "service": "AOP-Wiki API",
+    "description": "A REST API for AOP-Wiki content to make SPARQL queries.",
+    "html_name": "aopwikiapi.html",
+    "md_file_name": "aopwikiapi.md",
+    "png_file_name": "aopwikiapi.png"
+  },
+  {
+    "service": "SOM Prediction",
+    "description": "A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction.",
+    "html_name": "sombie.html",
+    "md_file_name": "sombie.md",
+    "png_file_name": "sombie.png"
+  },
+  {
+    "service": "DECIMER",
+    "description": "An online service to extract chemical structures from PDF-formatted files and images.",
+    "html_name": "decimer.html",
+    "md_file_name": "decimer.md",
+    "png_file_name": "decimer.png"
+  },
+  {
+    "service": "OP PBK Model",
+    "description": "To be added",
+    "html_name": "oppbk_model.html",
+    "md_file_name": "oppbk_model.md",
+    "png_file_name": "oppbk_model.png"
+  },
+  {
+    "service": "BioModels",
+    "description": "A repository of mathematical models of biological and biomedical systems.",
+    "html_name": "biomodels.html",
+    "md_file_name": "biomodels.md",
+    "png_file_name": "biomodels.png"
+  },
+  {
+    "service": "VHP4Safety Wikibase User Interface",
+    "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries.",
+    "html_name": "kb.html",
+    "md_file_name": "kb.md",
+    "png_file_name": "kb.png"
+  }
+]
