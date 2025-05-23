@@ -4,8 +4,8 @@ import json
 
 # Setting the paths to the service json files and the output file where the 
 # meta-data will be stored. 
-service_dir = '../docs/service'
-output_dir  = '../cap/'
+service_dir = 'docs/service'
+output_dir  = 'cap'
 output_file = os.path.join(output_dir, 'service_index.json')
 
 # Creating an empty list to store the meta-data.
