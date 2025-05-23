@@ -1,0 +1,36 @@
+name: Collect Service Meta-Data for CAP
+
+on:
+  push:
+    paths:
+      - 'docs/service/*.json'
+  workflow_dispatch:
+
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Generate combined JSON file
+        run: python misc/generate_service_metadata.py
+
+      - name: Commit report
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add .
+          if git diff --exit-code --staged; then
+              echo "No changes"
+          else
+              git commit -m 'Updated service meta-data collection'
+              git push
+          fi

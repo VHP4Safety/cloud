@@ -94,7 +94,7 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 #### cpLogD
 
-A model to predict water–octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more information](service/cplogd.md)]
+A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more information](service/cplogd.md)]
 
 #### Flame
 
