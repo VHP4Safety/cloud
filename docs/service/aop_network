@@ -1,0 +1,39 @@
+{
+  "id": "aopnetwork",
+  "service": "AOP Network Tool",
+  "description": "Populate a network with AOPs and add weights to the edges based on custom tabular data, queries to other VHP tools and external databases, via BioDataFuse ",
+  "screenshot": "",
+  "url": "",
+  "doi": "",
+  "instance": {
+    "type": "internal",
+    "vhp-platform": "Development",
+    "url": "",
+    "source": "https://github.com/jmillanacosta/aopapp",
+    "docker": ""
+  },
+  "intro": {
+    "title": "AOP Network Tool introduction",
+    "url": ""
+  },
+  "workflow": {
+    "title": "",
+    "url": ""
+  },
+  "provider": {
+    "contact": {
+      "name": "Javier Millán Acosta",
+      "email": "javier.millanacosta@maastrichtuniversity.nl"
+    },
+    "url": "https://www.maastrichtuniversity.nl/research/bioinformatics",
+    "name": "Department of Bioinformatics (BiGCaT), Maastricht University"
+  },
+  "access": {
+    "API": "REST API, Flask",
+    "login": "No"
+  },
+  "ELIXIR": {
+    "biotools": "",
+     "tess": ""
+  }
+}
