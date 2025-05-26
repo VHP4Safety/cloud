@@ -2,6 +2,8 @@
   "id": "aopwiki",
   "service": "AOP-Wiki Snorql UI",
   "description": "A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.",
+  "stage":"hazard",
+  "substage":"existing AOP",
   "screenshot": "aopwiki.png",
   "url": "https://aopwiki.cloud.vhp4safety.nl/",
   "doi": "10.1089/aivt.2021.0010",
