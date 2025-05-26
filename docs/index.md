@@ -56,6 +56,10 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 To be added [[more information](service/oppbk_model.md)]
 
+#### qAOP-App
+
+An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies. [[more information](service/qaop_app.md)]
+
 #### QSPRpred
 
 This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies. [[more information](service/qsprpred.md)]

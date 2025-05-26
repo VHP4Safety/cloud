@@ -181,6 +181,12 @@ An online service to generate a virtual human population. [[more information](se
 
 ------------------------
 
+## qAOP-App
+
+An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies. [[more information](service/qaop_app.md)]
+
+------------------------
+
 ![QSPRpred logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/qsprpred.png)
 
 ## QSPRpred
