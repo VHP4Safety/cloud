@@ -6,6 +6,12 @@
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- Sitemap created on 2025-05-26 14:06:49.231338. -->
 
+<!-- parsing file: docs/service/aop_network.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/aopnetwork.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
 <!-- parsing file: docs/service/aop-builder.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/aop-builder.html</loc>
