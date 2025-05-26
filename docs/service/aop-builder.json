@@ -2,6 +2,8 @@
   "id": "aop-builder",
   "service": "AOP-Builder",
   "description": "A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI.",
+  "stage":"hazard",
+  "substage":"mechanisms of toxicity",
   "url": "https://crebuilder.vhp4safety.nl",
   "instance": {
     "type": "internal",
