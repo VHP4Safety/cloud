@@ -2,6 +2,8 @@
   "id": "wikipathways_aop",
   "service": "WikiPathways - AOP Portal",
   "description": "An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.",
+  "stage": "Hazard",
+  "substage":"Explore existing AOPs",
   "screenshot": "wikipathways_aop.png",
   "url": "http://aop.wikipathways.org/",
   "doi": "10.3389/fgene.2018.00661",
