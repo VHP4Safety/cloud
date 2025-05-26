@@ -10,6 +10,10 @@
     "url": "https://qaop.vhp4safety.nl/",
     "source": "https://github.com/VHP4Safety/qAOP-app"
   },
+  "intro": {
+    "title": "qAOP App: Predicting Key Events and Adverse Outcomes Over Time",
+    "url": "https://docs.vhp4safety.nl/en/latest/tutorials/qaop_app/qaop_tutorial.html"
+  },
   "provider": {
     "contact": {
       "name": "Filippo Di Tillio",
