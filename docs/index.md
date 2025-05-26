@@ -108,10 +108,6 @@ An open source framework to develop, host, and use machine-learning models, such
 
 A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
 
-#### PopGen
-
-An online service to generate a virtual human population. [[more information](service/popgen.md)]
-
 #### SysRev
 
 An online service to conduct literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
