@@ -140,13 +140,6 @@
     "png_file_name": "opsin.png"
   },
   {
-    "service": "PopGen",
-    "description": "An online service to generate a virtual human population.",
-    "html_name": "popgen.html",
-    "md_file_name": "popgen.md",
-    "png_file_name": "popgen.png"
-  },
-  {
     "service": "qAOP-App",
     "description": "An interactive tool offering an overview and dynamic time\u2010course predictions of KEs and AOs via ODE\u2010based qAOP models, based on VHP4Safety case studies.",
     "html_name": "qaop_app.html",
