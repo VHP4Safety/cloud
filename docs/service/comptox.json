@@ -2,6 +2,8 @@
   "id": "comptox",
   "service": "CompTox",
   "description": "An online database to provide access to chemistry, toxicity, and exposure information for chemicals.",
+  "stage": "generic",
+  "substage": "compound characteristics",
   "screenshot": "comptox.png",
   "url": "https://comptox.epa.gov/dashboard/",
   "doi": "10.1186/s13321-017-0247-6",
