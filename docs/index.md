@@ -54,7 +54,7 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 #### OP PBK Model
 
-To be added [[more information](service/oppbk_model.md)]
+Physiologically based pharmacokinetic model for organophosphates [[more information](service/oppbk_model.md)]
 
 #### qAOP-App
 
