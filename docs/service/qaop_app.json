@@ -2,6 +2,8 @@
   "id": "qaop_app",
   "service": "qAOP-App",
   "description": "An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies.",
+  "stage":"hazard",
+  "substage":"quantification of key event activation",
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
