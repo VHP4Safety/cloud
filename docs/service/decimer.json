@@ -2,6 +2,8 @@
   "id": "decimer",
   "service": "DECIMER",
   "description": "An online service to extract chemical structures from PDF-formatted files and images.",
+  "stage": "generic",
+  "substage": "compound characteristics",
   "screenshot": "decimer.png",
   "url": "https://decimer.ai/",
   "doi": "10.1186/s13321-021-00538-8",
