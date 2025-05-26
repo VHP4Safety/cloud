@@ -2,6 +2,8 @@
   "id": "sombie",
   "service": "SOM Prediction",
   "description": "A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction.",
+  "stage": "generic / adme",
+  "substage": "compound characteristics / pbpk model",  
   "url": "https://sombie.cloud.vhp4safety.nl/",
   "doi": "",
   "instance": {
