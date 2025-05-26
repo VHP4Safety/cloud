@@ -147,6 +147,13 @@
     "png_file_name": "popgen.png"
   },
   {
+    "service": "qAOP-App",
+    "description": "An interactive tool offering an overview and dynamic time\u2010course predictions of KEs and AOs via ODE\u2010based qAOP models, based on VHP4Safety case studies.",
+    "html_name": "qaop_app.html",
+    "md_file_name": "qaop_app.md",
+    "png_file_name": "qaop_app.png"
+  },
+  {
     "service": "QSPRpred",
     "description": "This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies.",
     "html_name": "qsprpred.html",
