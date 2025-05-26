@@ -2,6 +2,8 @@
   "id": "xploreaop",
   "service": "xploreaop",
   "description": "A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.",
+  "stage": "Hazard",
+  "substage": "Existing AOP",
   "url": "https://xploreaop.cloud.vhp4safety.nl/",
   "instance": {
     "type": "internal",
