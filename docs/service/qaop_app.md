@@ -43,6 +43,10 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 ## VHP4Safety Service Metadata
 
+* Stage: hazard
+
+* Sub-Stage: quantification of key event activation
+
 * Development Cloud: [https://qaop.vhp4safety.nl/](https://qaop.vhp4safety.nl/) 
 
 * Login Required: Not available

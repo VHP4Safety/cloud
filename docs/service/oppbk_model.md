@@ -43,6 +43,10 @@ Physiologically based pharmacokinetic model for organophosphates
 
 ## VHP4Safety Service Metadata
 
+* Stage: adme
+
+* Sub-Stage: pbpk model
+
 * Development Cloud: [http://oppbk.cloud.vhp4safety.nl/](http://oppbk.cloud.vhp4safety.nl/) 
 
 * Login Required: Not available

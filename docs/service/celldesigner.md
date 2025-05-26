@@ -43,6 +43,10 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
 
 ## VHP4Safety Service Metadata
 
+* Stage: hazard
+
+* Sub-Stage: visualization of biochemical pathways
+
 * Development Cloud: Not available
 
 * Login Required: Not available

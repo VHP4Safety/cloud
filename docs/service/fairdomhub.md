@@ -43,6 +43,10 @@ A web-accessible registry to store, share and publish research assets of biology
 
 ## VHP4Safety Service Metadata
 
+* Stage: Not available
+
+* Sub-Stage: Not available
+
 * Development Cloud: Not available
 
 * Login Required: Not available

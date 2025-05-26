@@ -43,6 +43,10 @@ An online service to conduct literature review, data extraction and systematic r
 
 ## VHP4Safety Service Metadata
 
+* Stage: Not available
+
+* Sub-Stage: Not available
+
 * Development Cloud: Not available
 
 * Login Required: Yes

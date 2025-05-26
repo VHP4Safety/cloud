@@ -43,6 +43,10 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 ## VHP4Safety Service Metadata
 
+* Stage: hazard
+
+* Sub-Stage: mechanisms of toxicity
+
 * Development Cloud: Not available
 
 * Login Required: Not available

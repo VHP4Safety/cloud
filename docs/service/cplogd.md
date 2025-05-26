@@ -43,6 +43,10 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
 
 ## VHP4Safety Service Metadata
 
+* Stage: generic
+
+* Sub-Stage: compound characteristics
+
 * Development Cloud: [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/) 
 
 * Login Required: Not available

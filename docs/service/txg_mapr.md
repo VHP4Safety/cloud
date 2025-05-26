@@ -43,6 +43,10 @@ An online application to implement weighted gene co-expression network analysis 
 
 ## VHP4Safety Service Metadata
 
+* Stage: hazard
+
+* Sub-Stage: mechanisms of toxicity (derived from gene co-expression networks)
+
 * Development Cloud: Not available
 
 * Login Required: Yes

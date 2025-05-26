@@ -43,6 +43,10 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 ## VHP4Safety Service Metadata
 
+* Stage: hazard
+
+* Sub-Stage: existing aop
+
 * Development Cloud: [https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries) 
 
 * Login Required: No

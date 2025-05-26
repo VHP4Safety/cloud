@@ -43,6 +43,10 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 ## VHP4Safety Service Metadata
 
+* Stage: generic
+
+* Sub-Stage: compound characteristics
+
 * Development Cloud: Not available
 
 * Login Required: No

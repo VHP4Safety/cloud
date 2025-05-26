@@ -43,6 +43,10 @@ A framework to map identifiers between various biological databases and related 
 
 ## VHP4Safety Service Metadata
 
+* Stage: generic
+
+* Sub-Stage: 
+
 * Development Cloud: Not available
 
 * Login Required: no

@@ -43,6 +43,10 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 ## VHP4Safety Service Metadata
 
+* Stage: Not available
+
+* Sub-Stage: Not available
+
 * Development Cloud: Not available
 
 * Login Required: no

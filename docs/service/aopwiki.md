@@ -43,6 +43,10 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 ## VHP4Safety Service Metadata
 
+* Stage: hazard
+
+* Sub-Stage: existing AOP
+
 * Development Cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/) 
 
 * Login Required: No

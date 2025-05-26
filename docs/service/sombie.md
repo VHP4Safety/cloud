@@ -43,6 +43,10 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 ## VHP4Safety Service Metadata
 
+* Stage: generic / adme
+
+* Sub-Stage: compound characteristics / pbpk model
+
 * Development Cloud: [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/) 
 
 * Login Required: No

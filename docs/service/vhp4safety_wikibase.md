@@ -43,6 +43,10 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 ## VHP4Safety Service Metadata
 
+* Stage: generic / hazard
+
+* Sub-Stage: compound characteristics
+
 * Development Cloud: [https://kb.cloud.vhp4safety.nl/](https://kb.cloud.vhp4safety.nl/) 
 
 * Login Required: No

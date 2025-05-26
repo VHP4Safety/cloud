@@ -43,6 +43,10 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 ## VHP4Safety Service Metadata
 
+* Stage: generic
+
+* Sub-Stage: compound characteristics
+
 * Development Cloud: Not available
 
 * Login Required: no

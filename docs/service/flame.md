@@ -43,6 +43,10 @@ An open source framework to develop, host, and use machine-learning models, such
 
 ## VHP4Safety Service Metadata
 
+* Stage: generic
+
+* Sub-Stage: 
+
 * Development Cloud: Not available
 
 * Login Required: Not available

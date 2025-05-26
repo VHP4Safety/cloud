@@ -43,6 +43,10 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 ## VHP4Safety Service Metadata
 
+* Stage: Not available
+
+* Sub-Stage: Not available
+
 * Development Cloud: Not available
 
 * Login Required: Not available
