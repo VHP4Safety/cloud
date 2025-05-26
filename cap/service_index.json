@@ -134,7 +134,7 @@
   },
   {
     "service": "OP PBK Model",
-    "description": "To be added",
+    "description": "Physiologically based pharmacokinetic model for organophosphates",
     "html_name": "oppbk_model.html",
     "md_file_name": "oppbk_model.md",
     "png_file_name": "oppbk_model.png"
