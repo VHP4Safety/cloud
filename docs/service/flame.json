@@ -2,6 +2,8 @@
   "id": "flame",
   "service": "Flame",
   "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
+  "stage":"generic",
+  "substage":"",
   "url": "http://flame.cloud.vhp4safety.nl:8098/",
   "doi": "10.1186/s13321-021-00509-z",
   "instance": {
