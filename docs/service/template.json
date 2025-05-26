@@ -14,6 +14,12 @@
   "_ins_description": "A short description for the service.",
   "description": "",
 
+  "_ins_stage": "Stage / place in the workflow categories",
+  "stage": "",
+  
+  "_ins_substage": "Substage for the category",
+  "substage": "",  
+  
   "_ins_screenshot": "The name of the file for the service logo, needs to be the same name as the service id but with a different extension.", 
   "screenshot": "",
 

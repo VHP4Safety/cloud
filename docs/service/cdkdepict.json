@@ -2,6 +2,8 @@
   "id": "cdkdepict",
   "service": "CDK Depict",
   "description": "A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats.",
+  "stage": "generic",
+  "substage": "compound characteristics",
   "screenshot": "cdkdepict.png",
   "url": "https://cdkdepict.cloud.vhp4safety.nl/",
   "doi": "10.1186/s13321-017-0220-4",

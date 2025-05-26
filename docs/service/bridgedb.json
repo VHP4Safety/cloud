@@ -2,6 +2,7 @@
   "id": "bridgedb",
   "service": "BridgeDb",
   "description": "A framework to map identifiers between various biological databases and related sources.",
+  "stage":"generic",
   "screenshot": "bridgedb.png",
   "url": "https://bridgedb.cloud.vhp4safety.nl/",
   "doi": "10.1186/1471-2105-11-5",

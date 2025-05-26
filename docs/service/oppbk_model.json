@@ -1,7 +1,9 @@
 {
   "id": "oppbk_model",
   "service": "OP PBK Model",
-  "description": "To be added",
+  "description": "Physiologically based pharmacokinetic model for organophosphates",
+  "stage":"adme",
+  "substage":"pbpk model",
   "screenshot": "oppbk_model.png",
   "url": "http://oppbk.cloud.vhp4safety.nl/",
   "doi": "10.1021/acs.est.4c06534",

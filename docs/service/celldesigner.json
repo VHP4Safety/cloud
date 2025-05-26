@@ -2,6 +2,8 @@
   "id": "celldesigner",
   "service": "CellDesigner",
   "description": "A structured diagram editor to draw gene-regulatory and biochemical networks.",
+  "stage": "hazard",
+  "substage": "visualization of biochemical pathways",
   "screenshot": "celldesigner.png",
   "url": "https://www.celldesigner.org/",
   "doi": "10.1016/S1478-5382(03)02370-9",

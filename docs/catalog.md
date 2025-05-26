@@ -169,7 +169,7 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 ## OP PBK Model
 
-To be added [[more information](service/oppbk_model.md)]
+Physiologically based pharmacokinetic model for organophosphates [[more information](service/oppbk_model.md)]
 
 ------------------------
 
