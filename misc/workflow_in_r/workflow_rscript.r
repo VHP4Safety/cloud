@@ -296,6 +296,22 @@ for (i in 1:length(service_metadata)) {
   
   ## VHP4Safety Service Metadata
   
+  # Stage
+  if (!is.null(service_metadata[[i]][["stage"]])) {
+    system(paste0("echo \"* Stage: ", service_metadata[[i]][["stage"]], "\" >> ", target))
+  } else {
+    system(paste0("echo \"* Stage: Not available\" >> ", target))
+  }
+  system(paste0("echo \"\" >> ", target))
+  
+  # Sub-Stage
+  if (!is.null(service_metadata[[i]][["stage"]])) {
+    system(paste0("echo \"* Sub-Stage: ", service_metadata[[i]][["substage"]], "\" >> ", target))
+  } else {
+    system(paste0("echo \"* Sub-Stage: Not available\" >> ", target))
+  }
+  system(paste0("echo \"\" >> ", target))
+  
   # Development Cloud
   if (!is.null(service_metadata[[i]][["instance"]][["url"]])) {
     system(paste0("echo \"* Development Cloud: [", service_metadata[[i]][["instance"]][["url"]], "](", service_metadata[[i]][["instance"]][["url"]], ") \" >> ", target))
