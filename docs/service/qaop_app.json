@@ -2,28 +2,12 @@
   "id": "qaop_app",
   "service": "qAOP-App",
   "description": "An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies.",
-  "screenshot": "",
-
-  "_ins_url": "The original URL to the service.",
-  "url": "",
-  
-  "_ins_doi": "The DOI of the document (article, preprint, etc.) related to the service.",
-  "doi": "",
-
-  "_ins_release_notes": "A url where there are release notes regarding the service.",
-  "release_notes": "",
-
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
     "url": "https://qaop.vhp4safety.nl/",
-    "license": "",
-    "version": "",
-    "source": "https://github.com/VHP4Safety/qAOP-app",
-    "docker": "",
-    "TRL": ""
+    "source": "https://github.com/VHP4Safety/qAOP-app"
   },
-
   "provider": {
     "contact": {
       "name": "Filippo Di Tillio",
@@ -31,106 +15,5 @@
     },
     "name": "Leiden University",
     "url": "https://www.universiteitleiden.nl/en"
-  },
-
-  "access": {
-    "_ins_API": "The type of API, if available.",
-    "API": "",
-    
-    "_ins_login": "Whether the API requires authenication.",
-    "login": "",
-
-    "packages": {
-      "R": "",
-      "Python": ""
-    }
-  },
-
-  "_ins_intro": "Information regarding an available demo documentation available on the docs repo.", 
-  "intro": {
-    "_ins_title": "The title of the intro on the VHP4Safety platform. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
-    "title": "",
-    "_ins_url": "Link to the intro on the VHP4Safety platform. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
-    "url": ""
-  },
-
-  "demo": {
-    "_ins_title": "The title of the demo?",
-    "title": "",
-    "_ins_url": "The link to the demo?", 
-    "url": ""
-  },
-
-  "workflow": {
-    "_ins_title": "The title of the VHP4Safety workflow where it is being used. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
-    "title": "",
-    "_ins_url": "Link to the workflow. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
-    "url": "",
-  },
-
-  "_ins_ELIXIR": "Information regarding sources available on ELIXIR.",
-  "ELIXIR": {
-    "_ins_biotools": "The keyword for the link to the source on bio.tools.",
-    "biotools": "",
-    
-    "_ins_tess": "The keyword for link to the source on TeSS.",
-    "tess": "",
-    
-    "_ins_fairsharing": "The DOI for the entry on FAIRsharing.org",
-    "fairsharing": ""
-  },
-
-  "Other": {
-    "_ins_wikipedia": "Wikipedia page",
-    "wikipedia": "",
-    "_ins_rsd": "Dutch Research Software Directory.",
-    "rsd": ""
-  },
-
-  
-  "_ins_NAM-validation": "Information about NAM validation stage as described in the 2017 RIVM report (https://www.rivm.nl/documenten/landschap-3v-methoden-risicobeoordeling-chemische-stoffen), Answer whether the service has completed the stage using as 'yes' or 'no'.",
-  "NAM-validation": {
-    "_ins_NAM-stage1": "Stage 1: Research & development.",
-    "NAM-stage-1": "",
-    
-    "_ins_NAM-stage2": "Stage 2: Validation.",
-    "NAM-stage-2": "",
-    
-    "_ins_NAM-stage3": "Stage 3: Evaluation.",
-    "NAM-stage-3": "",
-    
-    "_ins_NAM-stage4": "Stage 4: Acceptation.",
-    "NAM-stage-4": "",
-    
-    "_ins_NAM-stage5": "Stage 5: Implementation.",
-    "NAM-stage-5": ""
-  },
-
-  "_ins_VHP-persona": "Whether the service is used by one or more of the VHP persona's. Answer as 'true' or 'false' (e.g., persona-1: 'true' to attribute a service to a persona).",
-  "VHP-persona": {
-    "persona-1": "",
-    "persona-2": "",
-    "persona-3": ""
-  },
-
-  "_ins_regulatory-question": "Whether the service is relevant to any of the regulatory questions (https://docs.vhp4safety.nl/en/latest/introduction/case_studies_and_regulatory_questions.html). Answer either 'true' or 'false'",
-  "regulatory-question": {
-    "_ins_1a": "1a: What is a safe dose for cisplatin/tacrolimus in patients with respect to chronic kidney disease?",
-    "1a": "",
-    
-    "_ins_1b": "1b: How can we take into account variability in activity/expression of P-gp in patients that underwent a transplantation?",
-    "1b": "",
-    
-    "_ins_2a": "2a: Can compound X cause Parkinson’s Disease?",
-    "2a": "",
-    
-    "_ins_2b": "2b: Can we identify groups at extra risk to develop Parkinson’s Disease after exposure to compound X?",
-    "2b": "",
-    
-    "_ins_3a": "3a: What information about a substance do we need to give an advice to women in their early pregnancy to decide whether the substance can be used?",
-    "3a": "",
-
-    "_ins_3b": "3b: Does compound X influence the thyroid-mediated brain development in the fetus resulting in cognitive impairment in children?",
-    "3b": ""
   }
 }
