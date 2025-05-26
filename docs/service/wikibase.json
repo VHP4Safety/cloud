@@ -2,6 +2,8 @@
   "id": "wikibase",
   "service": "VHP4Safety Wikibase",
   "description": "A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
+  "stage": "generic / hazard",
+  "substage": "compound characteristics",  
   "screenshot": "VHP4Safety_ChemicalCompounds.png",
   "url": "https://compoundcloud.wikibase.cloud/",
   "instance": {
