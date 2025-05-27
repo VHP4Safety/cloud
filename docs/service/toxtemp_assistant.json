@@ -29,7 +29,7 @@
   },
   "access": {
     "API": "",
-    "login": "",
+    "login": ""
   },
   "intro": {
     "title": "",
@@ -41,7 +41,7 @@
   },
   "workflow": {
     "title": "",
-    "url": "",
+    "url": ""
   },
   "ELIXIR": {
     "biotools": "",
