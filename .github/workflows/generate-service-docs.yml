@@ -30,6 +30,11 @@ jobs:
       - name: Install mustache CLI
         run: npm install -g mustache
 
+      - name: Get glossary
+        run: |
+            cd docs/resource
+            wget https://raw.githubusercontent.com/VHP4Safety/glossary/refs/heads/main/glossary.owl
+
       - name: Generate service documentation
         run: |
           rm -f docs/service/*.md
@@ -60,6 +65,7 @@ jobs:
           git config --global user.email 'action@github.com'
           git pull
           git add docs/service/*.md
+          git adds docs/resource/glossary.owl
           if git diff --exit-code --staged; then
               echo "No changes to commit"
           else
