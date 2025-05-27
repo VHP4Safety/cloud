@@ -4,7 +4,7 @@
 
 A user-friendly service to conduct quality control and pre-processing analyses for microarray data.
 
-![ArrayAnalysis logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+No screenshot available.
 
 ## Documentation
 
@@ -38,8 +38,7 @@ A user-friendly service to conduct quality control and pre-processing analyses f
     }
 }
 </script>
-<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
-
+<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 ## VHP4Safety Service Metadata
 
 * Stage: NA

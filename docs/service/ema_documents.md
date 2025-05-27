@@ -38,8 +38,7 @@ An online repository of official reports from the European Medicines Agency.
     }
 }
 </script>
-<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
-
+<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 ## VHP4Safety Service Metadata
 
 * Stage: 

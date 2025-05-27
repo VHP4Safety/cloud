@@ -4,7 +4,7 @@
 
 A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates.
 
-![cpLogD logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+No screenshot available.
 
 ## Documentation
 
@@ -38,8 +38,7 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
     }
 }
 </script>
-<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
-
+<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 ## VHP4Safety Service Metadata
 
 * Stage: https://vhp4safety.github.io/glossary#VHP0000149

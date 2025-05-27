@@ -4,7 +4,7 @@
 
 An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies.
 
-![qAOP-App logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+No screenshot available.
 
 ## Documentation
 
@@ -38,8 +38,7 @@ An interactive tool offering an overview and dynamic time‐course predictions o
     }
 }
 </script>
-<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
-
+<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 ## VHP4Safety Service Metadata
 
 * Stage: https://vhp4safety.github.io/glossary#VHP0000102

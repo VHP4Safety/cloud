@@ -4,7 +4,7 @@
 
 A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries.
 
-![VHP4Safety Wikibase User Interface logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+No screenshot available.
 
 ## Documentation
 
@@ -38,8 +38,7 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
     }
 }
 </script>
-<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
-
+<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 ## VHP4Safety Service Metadata
 
 * Stage: https://vhp4safety.github.io/glossary#VHP0000149
