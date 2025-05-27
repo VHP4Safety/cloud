@@ -68,7 +68,7 @@ No screenshot available.
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: {{#provider.name}}[{{{provider.name}}}]({{{provider.url}}}){{/provider.name}}{{^provider.name}}Not available{{/provider.name}}
 
