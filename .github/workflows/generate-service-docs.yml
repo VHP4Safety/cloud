@@ -6,13 +6,14 @@ on:
     paths:
       - 'docs/service/*.json'
       - '.github/service_template.md'
+      - '.github/workflows/generate-service-docs.yml'
   pull_request:
     branches:
       - main
     paths:
       - 'docs/service/*.json'
       - '.github/service_template.md'
-
+      - '.github/workflows/generate-service-docs.yml'
 jobs:
   generate-docs:
     runs-on: ubuntu-latest
