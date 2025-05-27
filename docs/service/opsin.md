@@ -63,7 +63,7 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: Not available
 

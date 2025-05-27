@@ -63,7 +63,7 @@ An online repository of official reports from the European Medicines Agency.
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [European Medicines Agency](https://www.ema.europa.eu/)
 

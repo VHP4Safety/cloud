@@ -63,7 +63,7 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [BiGCaT UM]()
 

@@ -63,7 +63,7 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [United States Environmental Protection Agency](https://www.epa.gov/)
 

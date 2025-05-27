@@ -63,7 +63,7 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Systems Biology Institute (SBI)](https://sbi.jp/)
 

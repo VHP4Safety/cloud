@@ -63,7 +63,7 @@ A repository of mathematical models of biological and biomedical systems.
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [EMBL-EBI](https://www.ebi.ac.uk/)
 

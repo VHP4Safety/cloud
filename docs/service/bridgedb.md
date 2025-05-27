@@ -63,7 +63,7 @@ A framework to map identifiers between various biological databases and related 
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Dept. of Bioinformatics - BiGCaT, NUTRIM, Maastricht University]()
 

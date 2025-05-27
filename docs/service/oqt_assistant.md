@@ -63,7 +63,7 @@ A tool to analyze chemicals, assess hazards, and get Read-Across recommendations
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Utrecht University](https://www.uu.nl/en)
 

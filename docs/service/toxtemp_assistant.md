@@ -63,7 +63,7 @@ A tool that uses Large Language Models to harmonize and complete method descript
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Maastricht University](https://www.maastrichtuniversity.nl/)
 

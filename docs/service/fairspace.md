@@ -63,7 +63,7 @@ An open source data management platform that allows importing and exporting meta
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [The Hyve](https://www.thehyve.nl/)
 

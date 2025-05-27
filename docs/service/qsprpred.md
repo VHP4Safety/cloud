@@ -63,7 +63,7 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Department of Medicinal Chemistry,Leiden University]()
 

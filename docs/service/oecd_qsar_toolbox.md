@@ -63,7 +63,7 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [The Organisation for Economic Co-operation and Development](https://www.oecd.org/)
 

@@ -63,7 +63,7 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Maastricht University]()
 

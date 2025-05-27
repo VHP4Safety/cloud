@@ -63,7 +63,7 @@ No screenshot available.
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
 

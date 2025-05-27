@@ -63,7 +63,7 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
 

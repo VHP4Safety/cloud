@@ -63,7 +63,7 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [simolecule]()
 

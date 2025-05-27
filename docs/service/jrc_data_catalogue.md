@@ -63,7 +63,7 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [European Commission](https://commission.europa.eu/about-european-commission/contact_en)
 

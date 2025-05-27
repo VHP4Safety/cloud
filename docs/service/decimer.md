@@ -63,7 +63,7 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Steinbeck Group at the Friedrich Schiller University Jena](https://cheminf.uni-jena.de/research/deep-learning/)
 

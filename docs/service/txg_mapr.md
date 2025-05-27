@@ -63,7 +63,7 @@ An online application to implement weighted gene co-expression network analysis 
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Leiden University]()
 

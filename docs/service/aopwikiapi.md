@@ -63,7 +63,7 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 * Relevant VHP4Safety Use Case: To be added
 
-## Techincal Tool Specifications
+## Technical Tool Specifications
 
 * Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
 
