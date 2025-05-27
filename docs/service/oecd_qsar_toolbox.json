@@ -2,7 +2,7 @@
   "id": "oecd_qsar_toolbox",
   "service": "The OECD QSAR Toolbox",
   "description": "A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way.",
-  "stage":"hazard / adme",
+  "stage":"https://vhp4safety.github.io/glossary#VHP0000056",
   "substage":"",
   "screenshot": "oecd_qsar_toolbox.png",
   "url": "https://qsartoolbox.org/",

@@ -43,9 +43,9 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 ## VHP4Safety Service Metadata
 
-* Stage: hazard
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: mie activation
+* Sub-Stage: 
 
 * Development Cloud: [https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/) 
 

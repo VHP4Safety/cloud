@@ -43,7 +43,7 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 ## VHP4Safety Service Metadata
 
-* Stage: hazard / adme
+* Stage: https://vhp4safety.github.io/glossary#VHP0000056
 
 * Sub-Stage: 
 

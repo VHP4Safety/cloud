@@ -43,9 +43,9 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 ## VHP4Safety Service Metadata
 
-* Stage: Hazard
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: Existing AOP
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
 * Development Cloud: Not available
 

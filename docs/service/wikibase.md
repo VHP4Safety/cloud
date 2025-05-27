@@ -43,9 +43,9 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 ## VHP4Safety Service Metadata
 
-* Stage: generic / hazard
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: compound characteristics
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
 * Development Cloud: Not available
 

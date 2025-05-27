@@ -59,6 +59,14 @@ A software tool to predict metabolites based on inputs in SMILE format. [[more i
 
 ------------------------
 
+![BMDExpress-3 logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+
+## BMDExpress-3
+
+A tool to perform dose response modeling for high dimensional dose-response analysis. [[more information](service/bmdexpress_3.md)]
+
+------------------------
+
 ![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png)
 
 ## BridgeDb
@@ -181,6 +189,14 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 ------------------------
 
+![O'QT: The OECD QSAR Toolbox AI Assistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oqt_assistant.png)
+
+## O'QT: The OECD QSAR Toolbox AI Assistant
+
+A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox. [[more information](service/oqt_assistant.md)]
+
+------------------------
+
 ## qAOP-App
 
 An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies. [[more information](service/qaop_app.md)]
@@ -204,6 +220,14 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 ## SysRev
 
 An online service to conduct literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
+
+------------------------
+
+![ToxTempAssistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/toxtemp_assistant.png)
+
+## ToxTempAssistant
+
+A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template. [[more information](service/toxtemp_assistant.md)]
 
 ------------------------
 

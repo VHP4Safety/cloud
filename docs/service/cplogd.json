@@ -2,8 +2,8 @@
   "id": "cplogd",
   "service": "cpLogD",
   "description": "A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates.",
-  "stage": "generic",
-  "substage": "compound characteristics",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+  "substage": "https://vhp4safety.github.io/glossary#VHP0000148",
   "url": "https://cplogd.cloud.vhp4safety.nl/",
   "doi": "10.1186/s13321-018-0271-1",
   "instance": {

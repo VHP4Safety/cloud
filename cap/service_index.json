@@ -49,6 +49,13 @@
     "png_file_name": "biotransformer.png"
   },
   {
+    "service": "BMDExpress-3",
+    "description": "A tool to perform dose response modeling for high dimensional dose-response analysis.",
+    "html_name": "bmdexpress_3.html",
+    "md_file_name": "bmdexpress_3.md",
+    "png_file_name": "bmdexpress_3.png"
+  },
+  {
     "service": "BridgeDb",
     "description": "A framework to map identifiers between various biological databases and related sources.",
     "html_name": "bridgedb.html",
@@ -154,6 +161,13 @@
     "png_file_name": "dsld.png"
   },
   {
+    "service": "O'QT: The OECD QSAR Toolbox AI Assistant",
+    "description": "A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox.",
+    "html_name": "oqt_assistant.html",
+    "md_file_name": "oqt_assistant.md",
+    "png_file_name": "oqt_assistant.png"
+  },
+  {
     "service": "OP PBK Model",
     "description": "Physiologically based pharmacokinetic model for organophosphates",
     "html_name": "oppbk_model.html",
@@ -201,6 +215,13 @@
     "html_name": "oecd_qsar_toolbox.html",
     "md_file_name": "oecd_qsar_toolbox.md",
     "png_file_name": "oecd_qsar_toolbox.png"
+  },
+  {
+    "service": "ToxTempAssistant",
+    "description": "A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template.",
+    "html_name": "toxtemp_assistant.html",
+    "md_file_name": "toxtemp_assistant.md",
+    "png_file_name": "toxtemp_assistant.png"
   },
   {
     "service": "TXG-MAPr",

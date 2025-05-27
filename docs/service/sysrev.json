@@ -2,6 +2,8 @@
   "id": "sysrev",
   "service": "SysRev",
   "description": "An online service to conduct literature review, data extraction and systematic review.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+  "substage": "https://vhp4safety.github.io/glossary#VHP0000053",
   "url": "https://sysrev.com/",
   "doi": "10.3389/frai.2021.685298",
   "instance": {

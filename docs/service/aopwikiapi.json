@@ -2,8 +2,8 @@
   "id": "aopwikiapi",
   "service": "AOP-Wiki API",
   "description": "A REST API for AOP-Wiki content to make SPARQL queries.",
-  "stage":"hazard",
-  "substage":"existing aop",
+  "stage":"https://vhp4safety.github.io/glossary#VHP0000102",
+  "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "aopwikiapi.png",
   "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries",
   "instance": {

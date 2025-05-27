@@ -72,6 +72,10 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more information](service/sombie.md)]
 
+#### ToxTempAssistant
+
+A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template. [[more information](service/toxtemp_assistant.md)]
+
 #### TXG-MAPr
 
 An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets. [[more information](service/txg_mapr.md)]
@@ -92,6 +96,10 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 ### External Services
 
+#### BMDExpress-3
+
+A tool to perform dose response modeling for high dimensional dose-response analysis. [[more information](service/bmdexpress_3.md)]
+
 #### CellDesigner
 
 A structured diagram editor to draw gene-regulatory and biochemical networks. [[more information](service/celldesigner.md)]
@@ -111,6 +119,10 @@ An open source framework to develop, host, and use machine-learning models, such
 #### The OECD QSAR Toolbox
 
 A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
+
+#### O'QT: The OECD QSAR Toolbox AI Assistant
+
+A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox. [[more information](service/oqt_assistant.md)]
 
 #### SysRev
 
