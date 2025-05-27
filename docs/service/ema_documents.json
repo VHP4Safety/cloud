@@ -4,6 +4,10 @@
   "description": "An online repository of official reports from the European Medicines Agency.",
   "screenshot": "ema_documents.png",
   "url": "https://www.ema.europa.eu/en/search",
+
+  "stage": "external exposure",
+  "substage": "compound characteristics",
+
   "provider": {
     "url": "https://www.ema.europa.eu/",
     "name": "European Medicines Agency"
