@@ -122,9 +122,9 @@ if (document.readyState === 'loading') {
 
 ## VHP4Safety Service Metadata
 
-* Stage: {{#stage}}[{{{stage}}}]({{{stage}}}){{/stage}}{{^stage}}<span class="glossary_term">Not available</span>{{/stage}}
+* Stage: <span class="glossary_term">{{#stage}}[{{{stage}}}]({{{stage}}})</span>{{/stage}}{{^stage}}Not available{{/stage}}
 
-* Sub-Stage: {{#substage}}[{{{substage}}}]({{{substage}}}){{/substage}}{{^substage}}<span class="glossary_term">Not available</span>{{/substage}}
+* Sub-stage: <span class="glossary_term">{{#substage}}[{{{substage}}}]({{{substage}}})</span>{{/substage}}{{^substage}}Not available{{/substage}}
 
 * Development Cloud: {{#instance.url}}[{{{instance.url}}}]({{{instance.url}}}){{/instance.url}}{{^instance.url}}Not available{{/instance.url}}
 
