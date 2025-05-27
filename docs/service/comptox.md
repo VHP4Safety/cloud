@@ -66,13 +66,13 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 ## Techincal Tool Specifications
 
-* Provider: [United States Environmental Protection Agency](https:&#x2F;&#x2F;www.epa.gov&#x2F;)
+* Provider: [United States Environmental Protection Agency](https://www.epa.gov/)
 
-* Citation: [10.1186&#x2F;s13321-017-0247-6](https://doi.org/10.1186&#x2F;s13321-017-0247-6)
+* Citation: [10.1186/s13321-017-0247-6](https://doi.org/10.1186/s13321-017-0247-6)Not available
 
 * Version: 2.1.1
 
-* License: Public Domain
+* License: Public DomainNot available
 
 * Source Code: ]()Not available
 

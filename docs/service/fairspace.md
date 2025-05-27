@@ -66,13 +66,13 @@ An open source data management platform that allows importing and exporting meta
 
 ## Techincal Tool Specifications
 
-* Provider: [The Hyve](https:&#x2F;&#x2F;www.thehyve.nl&#x2F;)
+* Provider: [The Hyve](https://www.thehyve.nl/)
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: [0.7.8](https:&#x2F;&#x2F;github.com&#x2F;thehyve&#x2F;fairspace&#x2F;blob&#x2F;dev&#x2F;VERSION)
 
-* License: [Apache 2.0 License](https:&#x2F;&#x2F;www.apache.org&#x2F;licenses&#x2F;LICENSE-2.0.txt)
+* License: [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt)Not available
 
 * Source Code: ](https://github.com/thehyve/fairspace)Not available
 

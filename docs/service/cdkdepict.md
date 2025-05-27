@@ -56,7 +56,7 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 * Contact: Egon Willighagen ()
 
-* API Type: REST
+* API Type: RESTNot available
 
 * Categories: To be added
 
@@ -68,11 +68,11 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 * Provider: [simolecule]()
 
-* Citation: [10.1186&#x2F;s13321-017-0220-4](https://doi.org/10.1186&#x2F;s13321-017-0220-4)
+* Citation: [10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)Not available
 
 * Version: 1.9.3
 
-* License: LGPL 2.1
+* License: LGPL 2.1Not available
 
 * Source Code: ](https://github.com/cdk/depict)Not available
 

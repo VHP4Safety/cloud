@@ -66,9 +66,9 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 ## Techincal Tool Specifications
 
-* Provider: [Leiden University](https:&#x2F;&#x2F;www.universiteitleiden.nl&#x2F;en)
+* Provider: [Leiden University](https://www.universiteitleiden.nl/en)
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: Not available
 

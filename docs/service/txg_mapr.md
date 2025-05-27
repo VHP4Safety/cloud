@@ -68,11 +68,11 @@ An online application to implement weighted gene co-expression network analysis 
 
 * Provider: [Leiden University]()
 
-* Citation: [10.1007&#x2F;s00204-021-03141-w](https://doi.org/10.1007&#x2F;s00204-021-03141-w)
+* Citation: [10.1007/s00204-021-03141-w](https://doi.org/10.1007/s00204-021-03141-w)Not available
 
 * Version: Not available
 
-* License: Proprietary
+* License: ProprietaryNot available
 
 * Source Code: ]()Not available
 

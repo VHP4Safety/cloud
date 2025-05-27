@@ -56,7 +56,7 @@ Populate a network with AOPs and add weights to the edges based on custom tabula
 
 * Contact: Javier Millán Acosta (javier.millanacosta@maastrichtuniversity.nl)
 
-* API Type: REST API, Flask
+* API Type: REST API, FlaskNot available
 
 * Categories: To be added
 
@@ -66,9 +66,9 @@ Populate a network with AOPs and add weights to the edges based on custom tabula
 
 ## Techincal Tool Specifications
 
-* Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https:&#x2F;&#x2F;www.maastrichtuniversity.nl&#x2F;research&#x2F;bioinformatics)
+* Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: Not available
 

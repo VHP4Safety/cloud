@@ -66,9 +66,9 @@ A repository of mathematical models of biological and biomedical systems.
 
 ## Techincal Tool Specifications
 
-* Provider: [EMBL-EBI](https:&#x2F;&#x2F;www.ebi.ac.uk&#x2F;)
+* Provider: [EMBL-EBI](https://www.ebi.ac.uk/)
 
-* Citation: [10.1093&#x2F;nar&#x2F;gkz1055](https://doi.org/10.1093&#x2F;nar&#x2F;gkz1055)
+* Citation: [10.1093/nar/gkz1055](https://doi.org/10.1093/nar/gkz1055)Not available
 
 * Version: Not available
 

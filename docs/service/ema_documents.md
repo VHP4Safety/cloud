@@ -66,9 +66,9 @@ An online repository of official reports from the European Medicines Agency.
 
 ## Techincal Tool Specifications
 
-* Provider: [European Medicines Agency](https:&#x2F;&#x2F;www.ema.europa.eu&#x2F;)
+* Provider: [European Medicines Agency](https://www.ema.europa.eu/)
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: Not available
 

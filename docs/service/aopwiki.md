@@ -56,7 +56,7 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 * Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
 
-* API Type: SPARQL endpoint
+* API Type: SPARQL endpointNot available
 
 * Categories: To be added
 
@@ -66,9 +66,9 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 ## Techincal Tool Specifications
 
-* Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https:&#x2F;&#x2F;www.maastrichtuniversity.nl&#x2F;research&#x2F;bioinformatics)
+* Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
 
-* Citation: [10.1089&#x2F;aivt.2021.0010](https://doi.org/10.1089&#x2F;aivt.2021.0010)
+* Citation: [10.1089/aivt.2021.0010](https://doi.org/10.1089/aivt.2021.0010)Not available
 
 * Version: Not available
 

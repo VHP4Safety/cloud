@@ -54,7 +54,7 @@ An open-source software application to create and solve mathematical models of b
 
 * Type: Not available
 
-* Contact: The COPASI Project (http:&#x2F;&#x2F;copasi.org&#x2F;About&#x2F;Team&#x2F;)
+* Contact: The COPASI Project (http://copasi.org/About/Team/)
 
 * API Type: Not available
 
@@ -68,7 +68,7 @@ An open-source software application to create and solve mathematical models of b
 
 * Provider: Not available
 
-* Citation: [10.1093&#x2F;bioinformatics&#x2F;btl485](https://doi.org/10.1093&#x2F;bioinformatics&#x2F;btl485)
+* Citation: [10.1093/bioinformatics/btl485](https://doi.org/10.1093/bioinformatics/btl485)Not available
 
 * Version: Not available
 

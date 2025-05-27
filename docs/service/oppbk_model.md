@@ -68,7 +68,7 @@ Physiologically based pharmacokinetic model for organophosphates
 
 * Provider: Not available
 
-* Citation: [10.1021&#x2F;acs.est.4c06534](https://doi.org/10.1021&#x2F;acs.est.4c06534)
+* Citation: [10.1021/acs.est.4c06534](https://doi.org/10.1021/acs.est.4c06534)Not available
 
 * Version: Not available
 

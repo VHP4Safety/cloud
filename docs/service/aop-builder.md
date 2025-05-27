@@ -68,11 +68,11 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 * Provider: Not available
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: 1.0
 
-* License: CC-BY NC 4.0
+* License: CC-BY NC 4.0Not available
 
 * Source Code: ]()Not available
 

@@ -56,7 +56,7 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 * Contact: Not available
 
-* API Type: https:&#x2F;&#x2F;data.jrc.ec.europa.eu&#x2F;docs&#x2F;index.html
+* API Type: https://data.jrc.ec.europa.eu/docs/index.htmlNot available
 
 * Categories: To be added
 
@@ -66,9 +66,9 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 ## Techincal Tool Specifications
 
-* Provider: [European Commission](https:&#x2F;&#x2F;commission.europa.eu&#x2F;about-european-commission&#x2F;contact_en)
+* Provider: [European Commission](https://commission.europa.eu/about-european-commission/contact_en)
 
-* Citation: [10.3030&#x2F;681002](https://doi.org/10.3030&#x2F;681002)
+* Citation: [10.3030/681002](https://doi.org/10.3030/681002)Not available
 
 * Version: Not available
 
