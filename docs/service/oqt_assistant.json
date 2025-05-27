@@ -1,0 +1,93 @@
+
+{
+  "id": "oqt_assistant",
+  "service": "O'QT: The OECD QSAR Toolbox AI Assistant",
+  "description": "A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox.",
+
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+  "substage": "",
+
+  "screenshot": "oqt_assistant.png",
+  "url": "",
+  "doi": "",
+  "release_notes": "",
+
+  "instance": {
+    "type": "external",
+    "vhp-platform": "",
+    "url": "",
+    "license": "Apache 2.0",
+    "version": "",
+    "source": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assisstant/tree/main",
+    "docker": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assisstant/tree/main",
+    "TRL": ""
+  },
+
+  "provider": {
+    "contact": {
+      "name": "Ivo Djodrovski",
+      "email": "i.djidrovski@uu.nl"
+    },
+
+    "name": "Utrecht University",
+    "url": "https://www.uu.nl/en"
+  },
+
+  "access": {
+    "API": "",
+    "login": "",
+    "packages": {
+      "R": "",
+      "Python": ""
+    }
+  },
+
+  "intro": {
+    "title": "How to Use the Assistant",
+    "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assisstant/tree/main?tab=readme-ov-file#how-to-use-the-assistant"
+  },
+
+  "demo": {
+    "title": "",
+    "url": ""
+  },
+
+  "workflow": {
+    "title": "",
+    "url": ""
+  },
+
+  "ELIXIR": {
+    "biotools": "",
+    "tess": "",
+    "fairsharing": ""
+  },
+
+  "Other": {
+    "wikipedia": "",
+    "rsd": ""
+  },
+
+  "NAM-validation": {
+    "NAM-stage-1": "",
+    "NAM-stage-2": "",
+    "NAM-stage-3": "",
+    "NAM-stage-4": "",
+    "NAM-stage-5": ""
+  },
+
+  "VHP-persona": {
+    "persona-1": "",
+    "persona-2": "",
+    "persona-3": ""
+  },
+
+  "regulatory-question": {
+    "1a": "true",
+    "1b": "true",
+    "2a": "true",
+    "2b": "true",
+    "3a": "true",
+    "3b": "true"
+  }
+}
