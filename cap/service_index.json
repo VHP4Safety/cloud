@@ -182,6 +182,13 @@
     "png_file_name": "oecd_qsar_toolbox.png"
   },
   {
+    "service": "ToxTempAssistant",
+    "description": "A Large Language Models (LLM) assisted tool to help filling in data templates.",
+    "html_name": "toxtemp_assistant.html",
+    "md_file_name": "toxtemp_assistant.md",
+    "png_file_name": "toxtemp_assistant.png"
+  },
+  {
     "service": "TXG-MAPr",
     "description": "An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets.",
     "html_name": "txg_mapr.html",
