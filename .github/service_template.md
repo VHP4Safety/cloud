@@ -59,24 +59,34 @@ async function loadGlossaryTerms() {
     // Create a map to store term data
     const glossaryData = new Map();
     
-    // Extract all classes/concepts with their labels and descriptions
-    const classes = xmlDoc.querySelectorAll('owl\\:Class, Class');
-    classes.forEach(cls => {
-      console.log(cls);
-      const about = cls.getAttribute('rdf:about') || cls.getAttribute('about');
-      if (about) {
-        const label = cls.querySelector('rdfs\\:label, label')?.textContent?.trim();
-        const description = cls.querySelector('dc\\:description, description')?.textContent?.trim();
+    // Extract all RDF descriptions (entities) with their labels and descriptions
+    const descriptions = xmlDoc.querySelectorAll('rdf\\:Description, Description');
+    descriptions.forEach(desc => {
+      const about = desc.getAttribute('rdf:about') || desc.getAttribute('about');
+      if (about && about.includes('vhp4safety.github.io/glossary#')) {
+        const label = desc.querySelector('rdfs\\:label, label')?.textContent?.trim();
+        const description = desc.querySelector('dc\\:description, description')?.textContent?.trim();
         
         if (label) {
-          glossaryData.set(label.toLowerCase(), {
+          // Store by both the full URL and just the fragment identifier
+          const fragment = about.split('#')[1];
+          glossaryData.set(about, {
             label: label,
             description: description || '',
             url: about
           });
+          if (fragment) {
+            glossaryData.set(fragment, {
+              label: label,
+              description: description || '',
+              url: about
+            });
+          }
         }
       }
     });
+    
+    console.log('Loaded glossary terms:', glossaryData);
     
     // Process all elements with class 'glossary_term'
     const glossaryElements = document.querySelectorAll('.glossary_term');
@@ -85,8 +95,12 @@ async function loadGlossaryTerms() {
       if (!anchor) return;
 
       const href = anchor.getAttribute('href').trim();
-      const termData = glossaryData.get(href);
-
+      // Try to find term data by exact URL match or fragment match
+      let termData = glossaryData.get(href);
+      if (!termData && href.includes('#')) {
+        const fragment = href.split('#')[1];
+        termData = glossaryData.get(fragment);
+      }
       
       if (termData) {
         // Create the glossary info element
