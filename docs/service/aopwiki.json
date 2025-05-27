@@ -37,5 +37,8 @@
   "ELIXIR": {
     "biotools": "aop-wiki_rdf",
      "tess": "AOP-Wiki RDF"
+  },
+  "regulatory-question": {
+    "3b": "true"
   }
 }
