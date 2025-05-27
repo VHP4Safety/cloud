@@ -54,9 +54,9 @@
 
 * Type: {{#instance.type}}{{instance.type}}{{/instance.type}}{{^instance.type}}Not available{{/instance.type}}
 
-* Contact: {{#provider.contact.name}}{{provider.contact.name}} ({{provider.contact.email}}){{/provider.contact.name}}{{^provider.contact.name}}Not available{{/provider.contact.name}}
+* Contact: {{#provider.contact.name}}{{provider.contact.name}} ({{{provider.contact.email}}}){{/provider.contact.name}}{{^provider.contact.name}}Not available{{/provider.contact.name}}
 
-* API Type: {{#access.API}}{{access.API}}{{/access.API}}{{^access.API}}Not available{{/access.API}}
+* API Type: {{{#access.API}}}{{{access.API}}}{{{/access.API}}}{{{^access.API}}}Not available{{{/access.API}}}
 
 * Categories: To be added
 
@@ -66,13 +66,13 @@
 
 ## Techincal Tool Specifications
 
-* Provider: {{#provider.name}}[{{provider.name}}]({{provider.url}}){{/provider.name}}{{^provider.name}}Not available{{/provider.name}}
+* Provider: {{#provider.name}}[{{provider.name}}]({{{provider.url}}}){{/provider.name}}{{^provider.name}}Not available{{/provider.name}}
 
-* Citation: {{#doi}}[{{doi}}](https://doi.org/{{doi}}){{/doi}}{{^doi}}Not available{{/doi}}
+* Citation: {{{#doi}}}[{{{doi}}}](https://doi.org/{{{doi}}}){{{/doi}}}{{{^doi}}}Not available{{{/doi}}}
 
 * Version: {{#instance.version}}{{instance.version}}{{/instance.version}}{{^instance.version}}Not available{{/instance.version}}
 
-* License: {{#instance.license}}{{instance.license}}{{/instance.license}}{{^instance.license}}Not available{{/instance.license}}
+* License: {{{#instance.license}}}{{{instance.license}}}{{{/instance.license}}}{{{^instance.license}}}Not available{{{/instance.license}}}
 
 * Source Code: {{{#instance.source}.}}[{{{instance.source}}}]({{{instance.source}}}){{{/instance.source}}}{{{^instance.source}}}Not available{{{/instance.source}}}
 
