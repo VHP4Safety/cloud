@@ -8,8 +8,6 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

@@ -8,8 +8,6 @@ No screenshot available.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: [SOM Prediction: Site-of-Metabolism Prediction](https://docs.vhp4safety.nl/en/latest/tutorials/sombie/site_of_metabolism_prediction.html)
 
 * Workflow: To be added

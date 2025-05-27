@@ -8,8 +8,6 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

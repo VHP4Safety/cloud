@@ -8,8 +8,6 @@ A tool that uses Large Language Models to harmonize and complete method descript
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: []()
 
 * Workflow: []()

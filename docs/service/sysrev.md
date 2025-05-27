@@ -8,8 +8,6 @@ No screenshot available.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

@@ -8,8 +8,6 @@ A software tool to predict metabolites based on inputs in SMILE format.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

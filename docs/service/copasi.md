@@ -8,8 +8,6 @@ An open-source software application to create and solve mathematical models of b
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

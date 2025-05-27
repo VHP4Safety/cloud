@@ -8,8 +8,6 @@ No screenshot available.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: [AOP Network Tool introduction]()
 
 * Workflow: []()

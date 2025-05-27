@@ -8,8 +8,6 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

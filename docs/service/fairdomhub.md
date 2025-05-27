@@ -8,8 +8,6 @@ A web-accessible registry to store, share and publish research assets of biology
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

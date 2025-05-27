@@ -8,8 +8,6 @@ Physiologically based pharmacokinetic model for organophosphates
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

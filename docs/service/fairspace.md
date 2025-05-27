@@ -8,8 +8,6 @@ An open source data management platform that allows importing and exporting meta
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

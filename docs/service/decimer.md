@@ -8,8 +8,6 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

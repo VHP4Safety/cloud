@@ -8,8 +8,6 @@ A repository of mathematical models of biological and biomedical systems.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

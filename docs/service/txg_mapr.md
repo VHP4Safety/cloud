@@ -8,8 +8,6 @@ An online application to implement weighted gene co-expression network analysis 
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

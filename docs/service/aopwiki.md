@@ -8,8 +8,6 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: [AOP-Wiki SNORQL introduction](https://docs.vhp4safety.nl/en/latest/tutorials/aopwiki/aopwiki.html)
 
 * Workflow: [AOPLink: Extracting and Analyzing Data Related to an AOP of Interest](https://docs.vhp4safety.nl/en/latest/tutorials/aoplink/aoplink.html)

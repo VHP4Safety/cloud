@@ -8,8 +8,6 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

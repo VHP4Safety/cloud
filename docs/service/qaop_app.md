@@ -8,8 +8,6 @@ No screenshot available.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: [qAOP App: Predicting Key Events and Adverse Outcomes Over Time](https://docs.vhp4safety.nl/en/latest/tutorials/qaop_app/qaop_tutorial.html)
 
 * Workflow: To be added

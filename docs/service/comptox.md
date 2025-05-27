@@ -8,8 +8,6 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

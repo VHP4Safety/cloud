@@ -8,8 +8,6 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

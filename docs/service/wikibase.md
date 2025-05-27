@@ -8,8 +8,6 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: [VHP4Safety Compound Wiki Overview](https://doi.org/10.5281/zenodo.13864849)
 
 * Workflow: [Getting properties by SMILES using the VHP4Safety Compound Wiki](https://colab.research.google.com/drive/15Ea2N2CMxjVS2zMrvW2-R4vhsEqk8Shv)

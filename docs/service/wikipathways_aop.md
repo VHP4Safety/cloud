@@ -8,8 +8,6 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

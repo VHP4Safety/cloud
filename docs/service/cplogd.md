@@ -8,8 +8,6 @@ No screenshot available.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: [Predicting Water–Octanol Distribution Coefficient (logD) for Chemical Compounds](https://docs.vhp4safety.nl/en/latest/tutorials/cplogd/cplogd_tutorial.html)
 
 * Workflow: To be added

@@ -8,8 +8,6 @@ An online repository of official reports from the European Medicines Agency.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

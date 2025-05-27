@@ -8,8 +8,6 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: To be added
 
 * Workflow: To be added

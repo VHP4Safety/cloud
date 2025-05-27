@@ -8,8 +8,6 @@ A tool to analyze chemicals, assess hazards, and get Read-Across recommendations
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: [How to Use the Assistant](https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assisstant/tree/main?tab=readme-ov-file#how-to-use-the-assistant)
 
 * Workflow: []()
