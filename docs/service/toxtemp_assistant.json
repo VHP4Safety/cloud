@@ -1,0 +1,75 @@
+
+{
+  "id": "toxtemp_assistant",
+  "service": "ToxTempAssistant",
+  "description": "A Large Language Models (LLM) assisted tool to help filling in data templates.",
+  "stage": "",
+  "substage": "",
+  "screenshot": "toxtemp_assistant.png",
+  "url": "",
+  "doi": "",
+  "release_notes": "",
+  "instance": {
+    "type": "internal",
+    "vhp-platform": "development",
+    "url": "https://toxtempassistant.vhp4safety.nl/",
+    "license": "",
+    "version": "",
+    "source": "https://github.com/johannehouweling/ToxTempAssistant",
+    "docker": "",
+    "TRL": ""
+  },
+  "provider": {
+    "contact": {
+      "name": "Jente Houweling",
+      "email": "jente.houweling@rivm.nl"
+    },
+    "name": "National Institute for Public Health and the Environment",
+    "url": "https://www.rivm.nl/en"
+  },
+  "access": {
+    "API": "",
+    "login": "",
+  },
+  "intro": {
+    "title": "",
+    "url": ""
+  },
+  "demo": {
+    "title": "",
+    "url": ""
+  },
+  "workflow": {
+    "title": "",
+    "url": "",
+  },
+  "ELIXIR": {
+    "biotools": "",
+    "tess": "",
+    "fairsharing": ""
+  },
+  "Other": {
+    "wikipedia": "",
+    "rsd": ""
+  },
+  "NAM-validation": {
+    "NAM-stage-1": "",
+    "NAM-stage-2": "",
+    "NAM-stage-3": "",
+    "NAM-stage-4": "",
+    "NAM-stage-5": ""
+  },
+  "VHP-persona": {
+    "persona-1": "",
+    "persona-2": "",
+    "persona-3": ""
+  },
+  "regulatory-question": {
+    "1a": "",
+    "1b": "",
+    "2a": "",
+    "2b": "",
+    "3a": "",
+    "3b": ""
+  }
+}
