@@ -140,6 +140,13 @@
     "png_file_name": "jrc_data_catalogue.png"
   },
   {
+    "service": "O'QT: The OECD QSAR Toolbox AI Assistant",
+    "description": "A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox.",
+    "html_name": "oqt_assistant.html",
+    "md_file_name": "oqt_assistant.md",
+    "png_file_name": "oqt_assistant.png"
+  },
+  {
     "service": "OP PBK Model",
     "description": "Physiologically based pharmacokinetic model for organophosphates",
     "html_name": "oppbk_model.html",
