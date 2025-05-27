@@ -38,7 +38,7 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: no
 
@@ -56,7 +56,7 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 * Contact: Egon Willighagen ()
 
-* API Type: RESTNot available
+* API Type: REST
 
 * Categories: To be added
 
@@ -68,15 +68,15 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 * Provider: [simolecule]()
 
-* Citation: [10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)Not available
+* Citation: [10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
 
 * Version: 1.9.3
 
-* License: LGPL 2.1Not available
+* License: LGPL 2.1
 
-* Source Code: ](https://github.com/cdk/depict)Not available
+* Source Code: [https://github.com/cdk/depict](https://github.com/cdk/depict)
 
-* Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)Not available
+* Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)
 
 * Bio.tools: [cdk_depict](cdk_depict)
 

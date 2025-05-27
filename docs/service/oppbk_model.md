@@ -38,7 +38,7 @@ Physiologically based pharmacokinetic model for organophosphates
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ Physiologically based pharmacokinetic model for organophosphates
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000061
 
-* Development Cloud: http://oppbk.cloud.vhp4safety.nl/[http://oppbk.cloud.vhp4safety.nl/](http://oppbk.cloud.vhp4safety.nl/)Not available
+* Development Cloud: [http://oppbk.cloud.vhp4safety.nl/](http://oppbk.cloud.vhp4safety.nl/)
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ Physiologically based pharmacokinetic model for organophosphates
 
 * Provider: Not available
 
-* Citation: [10.1021/acs.est.4c06534](https://doi.org/10.1021/acs.est.4c06534)Not available
+* Citation: [10.1021/acs.est.4c06534](https://doi.org/10.1021/acs.est.4c06534)
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

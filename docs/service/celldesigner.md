@@ -38,7 +38,7 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
 
 * Sub-Stage: 
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
 
 * Provider: [Systems Biology Institute (SBI)](https://sbi.jp/)
 
-* Citation: [10.1016/S1478-5382(03)02370-9](https://doi.org/10.1016/S1478-5382(03)02370-9)Not available
+* Citation: [10.1016/S1478-5382(03)02370-9](https://doi.org/10.1016/S1478-5382(03)02370-9)
 
 * Version: 4.4.2
 
-* License: [See licence agreement](https://www.celldesigner.org/license.txt)Not available
+* License: [See licence agreement](https://www.celldesigner.org/license.txt)
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

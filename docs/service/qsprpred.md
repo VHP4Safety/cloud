@@ -38,7 +38,7 @@ This tool allows users to predict the activity of their chemicals of interest fo
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 * Sub-Stage: 
 
-* Development Cloud: https://qsprpred.cloud.vhp4safety.nl/[https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/)Not available
+* Development Cloud: [https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/)
 
 * Login Required: No
 
@@ -68,15 +68,15 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 * Provider: [Department of Medicinal Chemistry,Leiden University]()
 
-* Citation: [https://doi.org/10.1186/s13321-024-00908-y](https://doi.org/https://doi.org/10.1186/s13321-024-00908-y)Not available
+* Citation: [https://doi.org/10.1186/s13321-024-00908-y](https://doi.org/https://doi.org/10.1186/s13321-024-00908-y)
 
 * Version: Not available
 
-* License: MITNot available
+* License: MIT
 
-* Source Code: ](https://github.com/VHP4Safety/QSPRpred-Docker)Not available
+* Source Code: [https://github.com/VHP4Safety/QSPRpred-Docker](https://github.com/VHP4Safety/QSPRpred-Docker)
 
-* Docker: [https://github.com/VHP4Safety/QSPRpred-Docker](https://github.com/VHP4Safety/QSPRpred-Docker)Not available
+* Docker: [https://github.com/VHP4Safety/QSPRpred-Docker](https://github.com/VHP4Safety/QSPRpred-Docker)
 
 * Bio.tools: Not available
 

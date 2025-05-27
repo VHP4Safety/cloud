@@ -38,7 +38,7 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: https://cplogd.cloud.vhp4safety.nl/[https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/)Not available
+* Development Cloud: [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/)
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
 
 * Provider: [ArosBio](https://arosbio.com/index.html)
 
-* Citation: [10.1186/s13321-018-0271-1](https://doi.org/10.1186/s13321-018-0271-1)Not available
+* Citation: [10.1186/s13321-018-0271-1](https://doi.org/10.1186/s13321-018-0271-1)
 
 * Version: 2.0.0
 
-* License: Copyrighted by Aros BioNot available
+* License: Copyrighted by Aros Bio
 
-* Source Code: ](https://github.com/pharmbio/cplogd-v2.0)Not available
+* Source Code: [https://github.com/pharmbio/cplogd-v2.0](https://github.com/pharmbio/cplogd-v2.0)
 
-* Docker: [https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0](https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0)Not available
+* Docker: [https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0](https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0)
 
 * Bio.tools: Not available
 

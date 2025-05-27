@@ -38,7 +38,7 @@ An open-source software application to create and solve mathematical models of b
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An open-source software application to create and solve mathematical models of b
 
 * Sub-Stage: 
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ An open-source software application to create and solve mathematical models of b
 
 * Provider: Not available
 
-* Citation: [10.1093/bioinformatics/btl485](https://doi.org/10.1093/bioinformatics/btl485)Not available
+* Citation: [10.1093/bioinformatics/btl485](https://doi.org/10.1093/bioinformatics/btl485)
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: [copasi](copasi)
 

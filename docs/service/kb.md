@@ -38,7 +38,7 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: https://kb.cloud.vhp4safety.nl/[https://kb.cloud.vhp4safety.nl/](https://kb.cloud.vhp4safety.nl/)Not available
+* Development Cloud: [https://kb.cloud.vhp4safety.nl/](https://kb.cloud.vhp4safety.nl/)
 
 * Login Required: No
 
@@ -68,15 +68,15 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 * Provider: [BiGCaT UM]()
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

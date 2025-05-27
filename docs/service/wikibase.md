@@ -38,7 +38,7 @@ A Wikibase instance to store and present information about toxic, safe and poten
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: No
 
@@ -56,7 +56,7 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 * Contact: Egon Willighagen (egon.willighagen@maastrichtuniversity.nl)
 
-* API Type: SPARQLNot available
+* API Type: SPARQL
 
 * Categories: To be added
 
@@ -68,15 +68,15 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 * Provider: [BiGCaT UM]()
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

@@ -38,7 +38,7 @@ An online database to provide access to chemistry, toxicity, and exposure inform
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 * Sub-Stage: 
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 * Provider: [United States Environmental Protection Agency](https://www.epa.gov/)
 
-* Citation: [10.1186/s13321-017-0247-6](https://doi.org/10.1186/s13321-017-0247-6)Not available
+* Citation: [10.1186/s13321-017-0247-6](https://doi.org/10.1186/s13321-017-0247-6)
 
 * Version: 2.1.1
 
-* License: Public DomainNot available
+* License: Public Domain
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

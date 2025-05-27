@@ -38,7 +38,7 @@ An online service to conduct literature review, data extraction and systematic r
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An online service to conduct literature review, data extraction and systematic r
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000053
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Yes
 
@@ -56,7 +56,7 @@ An online service to conduct literature review, data extraction and systematic r
 
 * Contact: Insilica.co (info@insilica.co)
 
-* API Type: RESTNot available
+* API Type: REST
 
 * Categories: To be added
 
@@ -68,15 +68,15 @@ An online service to conduct literature review, data extraction and systematic r
 
 * Provider: Not available
 
-* Citation: [10.3389/frai.2021.685298](https://doi.org/10.3389/frai.2021.685298)Not available
+* Citation: [10.3389/frai.2021.685298](https://doi.org/10.3389/frai.2021.685298)
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: [sysrev](sysrev)
 

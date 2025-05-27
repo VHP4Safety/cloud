@@ -38,7 +38,7 @@ A REST API for AOP-Wiki content to make SPARQL queries.
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries[https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries)Not available
+* Development Cloud: [https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries)
 
 * Login Required: No
 
@@ -56,7 +56,7 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 * Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
 
-* API Type: REST API -- Swagger UINot available
+* API Type: REST API -- Swagger UI
 
 * Categories: To be added
 
@@ -68,15 +68,15 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 * Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

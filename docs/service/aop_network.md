@@ -38,7 +38,7 @@ Populate a network with AOPs and add weights to the edges based on custom tabula
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ Populate a network with AOPs and add weights to the edges based on custom tabula
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: No
 
@@ -56,7 +56,7 @@ Populate a network with AOPs and add weights to the edges based on custom tabula
 
 * Contact: Javier Millán Acosta (javier.millanacosta@maastrichtuniversity.nl)
 
-* API Type: REST API, FlaskNot available
+* API Type: REST API, Flask
 
 * Categories: To be added
 
@@ -68,15 +68,15 @@ Populate a network with AOPs and add weights to the edges based on custom tabula
 
 * Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ](https://github.com/jmillanacosta/aopapp)Not available
+* Source Code: [https://github.com/jmillanacosta/aopapp](https://github.com/jmillanacosta/aopapp)
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

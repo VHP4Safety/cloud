@@ -38,7 +38,7 @@ A tool to explore scientific literature to extract relevant entities and their r
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 * Provider: Not available
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
 * Version: 1.0
 
-* License: CC-BY NC 4.0Not available
+* License: CC-BY NC 4.0
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

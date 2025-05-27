@@ -38,7 +38,7 @@ An open source framework to develop, host, and use machine-learning models, such
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An open source framework to develop, host, and use machine-learning models, such
 
 * Sub-Stage: 
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ An open source framework to develop, host, and use machine-learning models, such
 
 * Provider: Not available
 
-* Citation: [10.1186/s13321-021-00509-z](https://doi.org/10.1186/s13321-021-00509-z)Not available
+* Citation: [10.1186/s13321-021-00509-z](https://doi.org/10.1186/s13321-021-00509-z)
 
 * Version: 1.2.0
 
-* License: GNU General Public License v3.0Not available
+* License: GNU General Public License v3.0
 
-* Source Code: ](https://github.com/phi-grib/flame)Not available
+* Source Code: [https://github.com/phi-grib/flame](https://github.com/phi-grib/flame)
 
-* Docker: [https://hub.docker.com/r/mpastorphi/flame](https://hub.docker.com/r/mpastorphi/flame)Not available
+* Docker: [https://hub.docker.com/r/mpastorphi/flame](https://hub.docker.com/r/mpastorphi/flame)
 
 * Bio.tools: Not available
 

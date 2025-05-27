@@ -38,7 +38,7 @@ An open source data management platform that allows importing and exporting meta
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An open source data management platform that allows importing and exporting meta
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000049
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ An open source data management platform that allows importing and exporting meta
 
 * Provider: [The Hyve](https://www.thehyve.nl/)
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
-* Version: [0.7.8](https:&#x2F;&#x2F;github.com&#x2F;thehyve&#x2F;fairspace&#x2F;blob&#x2F;dev&#x2F;VERSION)
+* Version: [0.7.8](https://github.com/thehyve/fairspace/blob/dev/VERSION)
 
-* License: [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt)Not available
+* License: [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
-* Source Code: ](https://github.com/thehyve/fairspace)Not available
+* Source Code: [https://github.com/thehyve/fairspace](https://github.com/thehyve/fairspace)
 
-* Docker: [https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser)Not available
+* Docker: [https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser)
 
 * Bio.tools: Not available
 

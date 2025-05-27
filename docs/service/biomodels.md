@@ -38,7 +38,7 @@ A repository of mathematical models of biological and biomedical systems.
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A repository of mathematical models of biological and biomedical systems.
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000055
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: no
 
@@ -68,15 +68,15 @@ A repository of mathematical models of biological and biomedical systems.
 
 * Provider: [EMBL-EBI](https://www.ebi.ac.uk/)
 
-* Citation: [10.1093/nar/gkz1055](https://doi.org/10.1093/nar/gkz1055)Not available
+* Citation: [10.1093/nar/gkz1055](https://doi.org/10.1093/nar/gkz1055)
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: [biomodels](biomodels)
 

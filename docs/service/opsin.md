@@ -38,7 +38,7 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: no
 
@@ -68,15 +68,15 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 * Provider: Not available
 
-* Citation: [10.1021/ci100384d](https://doi.org/10.1021/ci100384d)Not available
+* Citation: [10.1021/ci100384d](https://doi.org/10.1021/ci100384d)
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

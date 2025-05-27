@@ -38,7 +38,7 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 * Provider: [Hogeschool Utrecht]()
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
 * Version: 2.3.3
 
 * License: Not available
 
-* Source Code: ](https://github.com/VHP4Safety/xploreaop)Not available
+* Source Code: [https://github.com/VHP4Safety/xploreaop](https://github.com/VHP4Safety/xploreaop)
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

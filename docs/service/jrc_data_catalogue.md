@@ -38,7 +38,7 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000049
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -56,7 +56,7 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 * Contact: Not available
 
-* API Type: https://data.jrc.ec.europa.eu/docs/index.htmlNot available
+* API Type: https://data.jrc.ec.europa.eu/docs/index.html
 
 * Categories: To be added
 
@@ -68,15 +68,15 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 * Provider: [European Commission](https://commission.europa.eu/about-european-commission/contact_en)
 
-* Citation: [10.3030/681002](https://doi.org/10.3030/681002)Not available
+* Citation: [10.3030/681002](https://doi.org/10.3030/681002)
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

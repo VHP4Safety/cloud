@@ -38,7 +38,7 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: https://aopwiki.cloud.vhp4safety.nl/[https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/)Not available
+* Development Cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/)
 
 * Login Required: No
 
@@ -56,7 +56,7 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 * Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
 
-* API Type: SPARQL endpointNot available
+* API Type: SPARQL endpoint
 
 * Categories: To be added
 
@@ -68,15 +68,15 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 * Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
 
-* Citation: [10.1089/aivt.2021.0010](https://doi.org/10.1089/aivt.2021.0010)Not available
+* Citation: [10.1089/aivt.2021.0010](https://doi.org/10.1089/aivt.2021.0010)
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ](https://github.com/marvinm2/aopwiki-snorql-extended)Not available
+* Source Code: [https://github.com/marvinm2/aopwiki-snorql-extended](https://github.com/marvinm2/aopwiki-snorql-extended)
 
-* Docker: [https://hub.docker.com/r/aammar/snorql-httpd](https://hub.docker.com/r/aammar/snorql-httpd)Not available
+* Docker: [https://hub.docker.com/r/aammar/snorql-httpd](https://hub.docker.com/r/aammar/snorql-httpd)
 
 * Bio.tools: [aop-wiki_rdf](aop-wiki_rdf)
 

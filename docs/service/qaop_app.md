@@ -38,7 +38,7 @@ An interactive tool offering an overview and dynamic time‐course predictions o
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: https://qaop.vhp4safety.nl/[https://qaop.vhp4safety.nl/](https://qaop.vhp4safety.nl/)Not available
+* Development Cloud: [https://qaop.vhp4safety.nl/](https://qaop.vhp4safety.nl/)
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 * Provider: [Leiden University](https://www.universiteitleiden.nl/en)
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ](https://github.com/VHP4Safety/qAOP-app)Not available
+* Source Code: [https://github.com/VHP4Safety/qAOP-app](https://github.com/VHP4Safety/qAOP-app)
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

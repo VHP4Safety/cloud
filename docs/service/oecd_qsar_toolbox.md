@@ -38,7 +38,7 @@ A software to support hazard assessment of chemicals as well as to increase mech
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 * Sub-Stage: 
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 * Provider: [The Organisation for Economic Co-operation and Development](https://www.oecd.org/)
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
 * Version: 4.6
 
-* License: [Terms of Conditions](https://www.oecd.org/termsandconditions/)Not available
+* License: [Terms of Conditions](https://www.oecd.org/termsandconditions/)
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

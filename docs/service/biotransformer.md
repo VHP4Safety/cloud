@@ -38,7 +38,7 @@ A software tool to predict metabolites based on inputs in SMILE format.
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A software tool to predict metabolites based on inputs in SMILE format.
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: no
 
@@ -68,15 +68,15 @@ A software tool to predict metabolites based on inputs in SMILE format.
 
 * Provider: Not available
 
-* Citation: [10.1186/s13321-018-0324-5](https://doi.org/10.1186/s13321-018-0324-5)Not available
+* Citation: [10.1186/s13321-018-0324-5](https://doi.org/10.1186/s13321-018-0324-5)
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: [biotransformer](biotransformer)
 

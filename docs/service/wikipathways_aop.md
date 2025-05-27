@@ -38,7 +38,7 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: No
 
@@ -56,7 +56,7 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 * Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
 
-* API Type: SPARQLNot available
+* API Type: SPARQL
 
 * Categories: To be added
 
@@ -68,15 +68,15 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 * Provider: [Maastricht University]()
 
-* Citation: [10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)Not available
+* Citation: [10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)
 
 * Version: Not available
 
-* License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)Not available
+* License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: [wikipathways](wikipathways)
 

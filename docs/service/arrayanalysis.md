@@ -38,7 +38,7 @@ A user-friendly service to conduct quality control and pre-processing analyses f
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 * Sub-Stage: NA
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: Not available
 
@@ -68,15 +68,15 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 * Provider: [BiGCaT, Maastricht University](https://www.bigcat.unimaas.nl/)
 
-* Citation: [10.1093/nar/gkt293](https://doi.org/10.1093/nar/gkt293)Not available
+* Citation: [10.1093/nar/gkt293](https://doi.org/10.1093/nar/gkt293)
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

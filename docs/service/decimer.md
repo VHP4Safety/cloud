@@ -38,7 +38,7 @@ An online service to extract chemical structures from PDF-formatted files and im
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: No
 
@@ -68,15 +68,15 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 * Provider: [Steinbeck Group at the Friedrich Schiller University Jena](https://cheminf.uni-jena.de/research/deep-learning/)
 
-* Citation: [10.1186/s13321-021-00538-8](https://doi.org/10.1186/s13321-021-00538-8)Not available
+* Citation: [10.1186/s13321-021-00538-8](https://doi.org/10.1186/s13321-021-00538-8)
 
 * Version: Latest
 
-* License: [MIT license](https://github.com/Kohulan/DECIMER-Image_Transformer/blob/master/LICENSE)Not available
+* License: [MIT license](https://github.com/Kohulan/DECIMER-Image_Transformer/blob/master/LICENSE)
 
-* Source Code: ](https://github.com/Kohulan/DECIMER-Image_Transformer)Not available
+* Source Code: [https://github.com/Kohulan/DECIMER-Image_Transformer](https://github.com/Kohulan/DECIMER-Image_Transformer)
 
-* Docker: [https://github.com/OBrink/DECIMER_Web](https://github.com/OBrink/DECIMER_Web)Not available
+* Docker: [https://github.com/OBrink/DECIMER_Web](https://github.com/OBrink/DECIMER_Web)
 
 * Bio.tools: Not available
 

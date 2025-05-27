@@ -38,7 +38,7 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 * Sub-Stage: 
 
-* Development Cloud: https://sombie.cloud.vhp4safety.nl/[https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)Not available
+* Development Cloud: [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)
 
 * Login Required: No
 
@@ -56,7 +56,7 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 * Contact: David Poole (d.a.poole@vu.nl)
 
-* API Type: RESTNot available
+* API Type: REST
 
 * Categories: To be added
 
@@ -68,15 +68,15 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 * Provider: Not available
 
-* Citation: [](https://doi.org/)Not available
+* Citation: Not available
 
 * Version: Not available
 
 * License: Not available
 
-* Source Code: ]()Not available
+* Source Code: Not available
 
-* Docker: []()Not available
+* Docker: Not available
 
 * Bio.tools: Not available
 

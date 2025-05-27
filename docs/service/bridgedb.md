@@ -38,7 +38,7 @@ A framework to map identifiers between various biological databases and related 
     }
 }
 </script>
-<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
+<script async defer src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 
 ## VHP4Safety Service Metadata
 
@@ -46,7 +46,7 @@ A framework to map identifiers between various biological databases and related 
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000047
 
-* Development Cloud: []()Not available
+* Development Cloud: Not available
 
 * Login Required: no
 
@@ -56,7 +56,7 @@ A framework to map identifiers between various biological databases and related 
 
 * Contact: Egon Willighagen ()
 
-* API Type: RESTNot available
+* API Type: REST
 
 * Categories: To be added
 
@@ -68,19 +68,19 @@ A framework to map identifiers between various biological databases and related 
 
 * Provider: [Dept. of Bioinformatics - BiGCaT, NUTRIM, Maastricht University]()
 
-* Citation: [10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)Not available
+* Citation: [10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)
 
 * Version: 2.3.3
 
-* License: Apache-2.0Not available
+* License: Apache-2.0
 
-* Source Code: ](https://github.com/bridgedb/BridgeDb)Not available
+* Source Code: [https://github.com/bridgedb/BridgeDb](https://github.com/bridgedb/BridgeDb)
 
-* Docker: [https://hub.docker.com/r/bigcatum/bridgedb](https://hub.docker.com/r/bigcatum/bridgedb)Not available
+* Docker: [https://hub.docker.com/r/bigcatum/bridgedb](https://hub.docker.com/r/bigcatum/bridgedb)
 
 * Bio.tools: [bridgedb](bridgedb)
 
-* FAIRsharing: [10.25504&#x2F;FAIRsharing.5ry74y](10.25504&#x2F;FAIRsharing.5ry74y)
+* FAIRsharing: [10.25504/FAIRsharing.5ry74y](10.25504/FAIRsharing.5ry74y)
 
 * TeSS: [bridgedb](bridgedb)
 
