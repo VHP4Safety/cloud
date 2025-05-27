@@ -3,7 +3,7 @@
   "service": "VHP4Safety Wikibase",
   "description": "A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
   "stage": "generic / hazard",
-  "substage": "compound characteristics",  
+  "substage": "compound characteristics",
   "screenshot": "VHP4Safety_ChemicalCompounds.png",
   "url": "https://compoundcloud.wikibase.cloud/",
   "instance": {
@@ -29,10 +29,13 @@
       "title": "Getting properties by SMILES using the VHP4Safety Compound Wiki",
       "url": "https://colab.research.google.com/drive/15Ea2N2CMxjVS2zMrvW2-R4vhsEqk8Shv"
     },
-  "workflow2":  
+  "workflow2":
     {
       "issue_note": "This workflow information is separated from the previous one so that the Github action runs correctly. The action will be updated to include multiple entries.",
       "title": "Getting names and SMILES for the VHP compounds",
       "url": "https://colab.research.google.com/drive/1azKtwlqLRwOPnpBY3p8ZHEFRfvw2LjVu"
-    }
+    },
+  "regulatory-question": {
+    "3b": "true"
+  }
 }
