@@ -112,9 +112,21 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more information](service/cplogd.md)]
 
+#### NIH Dietary Supplement Label Database
+
+The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States. [[more information](service/dsld.md)]
+
 #### Flame
 
 An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments. [[more information](service/flame.md)]
+
+#### Google Search
+
+Web search engine by Google. [[more information](service/gscholar.md)]
+
+#### Google Scholar
+
+Search engine for (scientific) literature. [[more information](service/gscholar.md)]
 
 #### The OECD QSAR Toolbox
 

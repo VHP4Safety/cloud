@@ -133,11 +133,32 @@
     "png_file_name": "flame.png"
   },
   {
+    "service": "Google Scholar",
+    "description": "Search engine for (scientific) literature.",
+    "html_name": "gscholar.html",
+    "md_file_name": "gscholar.md",
+    "png_file_name": "gscholar.png"
+  },
+  {
+    "service": "Google Search",
+    "description": "Web search engine by Google.",
+    "html_name": "google.html",
+    "md_file_name": "google.md",
+    "png_file_name": "google.png"
+  },
+  {
     "service": "Joint Research Centre Data Catalogue",
     "description": "An inventory of data produced by the Joint Research Centre (JRC) in accordance with the JRC Data Policy.",
     "html_name": "jrc_data_catalogue.html",
     "md_file_name": "jrc_data_catalogue.md",
     "png_file_name": "jrc_data_catalogue.png"
+  },
+  {
+    "service": "NIH Dietary Supplement Label Database",
+    "description": "The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States.",
+    "html_name": "dsld.html",
+    "md_file_name": "dsld.md",
+    "png_file_name": "dsld.png"
   },
   {
     "service": "O'QT: The OECD QSAR Toolbox AI Assistant",

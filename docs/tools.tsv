@@ -14,10 +14,13 @@ comptox	CompTox	https://comptox.epa.gov/dashboard/	NA
 copasi	COPASI	http://copasi.org/	NA
 cplogd	cpLogD	https://cplogd.cloud.vhp4safety.nl/	https://cplogd.cloud.vhp4safety.nl/
 decimer	DECIMER	https://decimer.ai/	NA
+dsld	NIH Dietary Supplement Label Database	https://dsld.od.nih.gov/	NA
 ema_documents	European Medicines Agency Documents	https://www.ema.europa.eu/en/search	NA
 fairdomhub	FAIRDOMHub	https://fairdomhub.org/	NA
 fairspace	Fairspace	https://www.thehyve.nl/services/fairspace	NA
 flame	Flame	http://flame.cloud.vhp4safety.nl:8098/	NA
+gscholar	Google Search	https://google.com/	NA
+gscholar	Google Scholar	https://scholar.google.com/	NA
 jrc_data_catalogue	Joint Research Centre Data Catalogue	https://data.jrc.ec.europa.eu/	NA
 vhp4safety_wikibase	VHP4Safety Wikibase User Interface	NA	https://kb.cloud.vhp4safety.nl/
 oecd_qsar_toolbox	The OECD QSAR Toolbox	https://qsartoolbox.org/	
