@@ -1,27 +1,59 @@
 <script>
   async function fetchGlossaryData() {
-    const response = await fetch('https://raw.githubusercontent.com/VHP4Safety/glossary/refs/heads/main/glossary.owl');
-    const text = await response.text();
-    const parser = new DOMParser();
-    const rdf = parser.parseFromString(text, 'application/rdf+xml');
-    const namespace = 'https://vhp4safety.github.io/glossary#';
-    const glossaryData = {};
+    try {
+      const response = await fetch('https://raw.githubusercontent.com/VHP4Safety/glossary/refs/heads/main/glossary.ttl');
+      const text = await response.text();
+      const namespace = 'https://vhp4safety.github.io/glossary#';
+      const glossaryData = {};
 
-    const rdfNodes = rdf.getElementsByTagNameNS(null, 'Description');
-    for (const node of rdfNodes) {
-      const about = node.getAttributeNS('http://www.w3.org/1999/02/22-rdf-syntax-ns#', 'about');
-      if (about && about.startsWith(namespace)) {
-        const id = about.replace(namespace, '');
-        const labelNode = node.getElementsByTagNameNS['http://www.w3.org/2000/01/rdf-schema#', 'label'](0);
-        const descNode = node.getElementsByTagNameNS['http://purl.org/dc/elements/1.1/', 'description'](0);
-        const label = labelNode?.textContent || 'Not available';
-        const description = descNode?.textContent || 'Not available';
-        glossaryData[id] = { label, description };
+      // Parse Turtle format using regular expressions
+      const lines = text.split('\n');
+      let currentSubject = null;
+      let currentData = {};
+
+      for (const line of lines) {
+        const trimmed = line.trim();
+        
+        // Skip comments and empty lines
+        if (trimmed.startsWith('#') || trimmed === '') continue;
+        
+        // Check for new subject (IRI)
+        const subjectMatch = trimmed.match(/<([^>]+)>/);
+        if (subjectMatch && subjectMatch[1].startsWith(namespace)) {
+          // Save previous subject if it exists
+          if (currentSubject) {
+            const id = currentSubject.replace(namespace, '');
+            glossaryData[id] = currentData;
+          }
+          
+          currentSubject = subjectMatch[1];
+          currentData = { label: 'Not available', description: 'Not available' };
+        }
+        
+        // Extract rdfs:label
+        const labelMatch = trimmed.match(/rdfs:label\s+"([^"]+)"/);
+        if (labelMatch && currentSubject) {
+          currentData.label = labelMatch[1];
+        }
+        
+        // Extract dc:description
+        const descMatch = trimmed.match(/dc:description\s+"([^"]+)"/);
+        if (descMatch && currentSubject) {
+          currentData.description = descMatch[1];
+        }
       }
+      
+      // Don't forget the last subject
+      if (currentSubject) {
+        const id = currentSubject.replace(namespace, '');
+        glossaryData[id] = currentData;
+      }
+
+      return glossaryData;
+    } catch (error) {
+      console.error('Error fetching glossary data:', error);
+      return {};
     }
-
-
-    return glossaryData;
   }
 
   async function initGlossaryButtons() {
