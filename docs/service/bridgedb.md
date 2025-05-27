@@ -44,7 +44,7 @@ A framework to map identifiers between various biological databases and related 
 async function loadGlossaryTerms() {
   try {
     // Fetch the TURTLE/OWL file
-    const response = await fetch('/docs/resource/glossary.owl');
+    const response = await fetch('/cloud/docs/resource/glossary.owl');
     const xmlText = await response.text();
     
     // Parse XML

@@ -44,7 +44,7 @@ An open-source software application to create and solve mathematical models of b
 async function loadGlossaryTerms() {
   try {
     // Fetch the TURTLE/OWL file
-    const response = await fetch('/docs/resource/glossary.owl');
+    const response = await fetch('/cloud/docs/resource/glossary.owl');
     const xmlText = await response.text();
     
     // Parse XML
