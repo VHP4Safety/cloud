@@ -207,6 +207,14 @@ An online service to conduct literature review, data extraction and systematic r
 
 ------------------------
 
+![ToxTempAssistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/toxtemp_assistant.png)
+
+## ToxTempAssistant
+
+A Large Language Models (LLM) assisted tool to help filling in data templates. [[more information](service/toxtemp_assistant.md)]
+
+------------------------
+
 ![TXG-MAPr logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/txg_mapr.png)
 
 ## TXG-MAPr

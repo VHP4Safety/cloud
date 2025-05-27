@@ -72,6 +72,10 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more information](service/sombie.md)]
 
+#### ToxTempAssistant
+
+A Large Language Models (LLM) assisted tool to help filling in data templates. [[more information](service/toxtemp_assistant.md)]
+
 #### TXG-MAPr
 
 An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets. [[more information](service/txg_mapr.md)]

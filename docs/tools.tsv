@@ -26,6 +26,7 @@ qaop_app	qAOP-App	NA	https://qaop.vhp4safety.nl/
 qsprpred	QSPRpred	NA	https://qsprpred.cloud.vhp4safety.nl/
 sombie	SOM Prediction	https://sombie.cloud.vhp4safety.nl/	https://sombie.cloud.vhp4safety.nl/
 sysrev	SysRev	https://sysrev.com/	NA
+toxtemp_assistant	ToxTempAssistant		https://toxtempassistant.vhp4safety.nl/
 txg_mapr	TXG-MAPr	https://txg-mapr.eu/	NA
 wikibase	VHP4Safety Wikibase	https://compoundcloud.wikibase.cloud/	NA
 wikipathways_aop	WikiPathways - AOP Portal	http://aop.wikipathways.org/	
