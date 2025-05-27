@@ -37,9 +37,17 @@ jobs:
           # Process each JSON file
           for json_file in docs/service/*.json; do
             if [ -f "$json_file" ]; then
+              # Skip template.json
+              if [ "$(basename "$json_file")" = "template.json" ]; then
+                echo "Skipping $json_file"
+                continue
+              fi
+              
               # Extract filename without extension
               basename=$(basename "$json_file" .json)
-              
+              # Test json
+              jq empty "$json_file" || { echo "Invalid JSON: $json_file"; exit 1; }
+
               # Generate markdown file using mustache
               mustache "$json_file" .github/service_template.md > "docs/service/${basename}.md"
               
