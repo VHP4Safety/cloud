@@ -10,11 +10,11 @@
 
 #### VHP4Safety Documentation
 
-* Service Introduction: {{#intro}}[{{title}}]({{url}}){{/intro}}{{^intro}}To be added{{/intro}}
+* Service Introduction: {{#intro}}[{{title}}]({{{url}}}){{/intro}}{{^intro}}To be added{{/intro}}
 
-* Workflow: {{#workflow}}[{{title}}]({{url}}){{/workflow}}{{^workflow}}To be added{{/workflow}}
+* Workflow: {{#workflow}}[{{title}}]({{{url}}}){{/workflow}}{{^workflow}}To be added{{/workflow}}
 
-* Demo: {{#demo}}[{{title}}]({{url}}){{/demo}}{{^demo}}To be added{{/demo}}
+* Demo: {{#demo}}[{{title}}]({{{url}}}){{/demo}}{{^demo}}To be added{{/demo}}
 
 <h4 id='tess-widget-materials-header'></h4>
 
@@ -42,11 +42,11 @@
 
 ## VHP4Safety Service Metadata
 
-* Stage: {{stage}}
+* Stage: {{{stage}}}
 
-* Sub-Stage: {{substage}}
+* Sub-Stage: {{{substage}}}
 
-* Development Cloud: {{#instance.url}}[{{instance.url}}]({{instance.url}}){{/instance.url}}{{^instance.url}}Not available{{/instance.url}}
+* Development Cloud: {{{instance.url}}}[{{{instance.url}}}]({{{instance.url}}}){{{/instance.url}}}{{{^instance.url}}}Not available{{{/instance.url}}}
 
 * Login Required: {{#access.login}}{{access.login}}{{/access.login}}{{^access.login}}Not available{{/access.login}}
 
@@ -74,9 +74,9 @@
 
 * License: {{#instance.license}}{{instance.license}}{{/instance.license}}{{^instance.license}}Not available{{/instance.license}}
 
-* Source Code: {{#instance.source}}[{{instance.source}}]({{instance.source}}){{/instance.source}}{{^instance.source}}Not available{{/instance.source}}
+* Source Code: {{{#instance.source}.}}[{{{instance.source}}}]({{{instance.source}}}){{{/instance.source}}}{{{^instance.source}}}Not available{{{/instance.source}}}
 
-* Docker: {{#instance.docker}}[{{instance.docker}}]({{instance.docker}}){{/instance.docker}}{{^instance.docker}}Not available{{/instance.docker}}
+* Docker: {{{#instance.docker}}}[{{{instance.docker}}}]({{{instance.docker}}}){{{/instance.docker}}}{{{^instance.docker}}}Not available{{{/instance.docker}}}
 
 * Bio.tools: {{#ELIXIR.biotools}}[{{ELIXIR.biotools}}]({{ELIXIR.biotools}}){{/ELIXIR.biotools}}{{^ELIXIR.biotools}}Not available{{/ELIXIR.biotools}}
 
@@ -98,6 +98,6 @@
     "@id" : "https://vhp4safety.github.io/cloud/service/{{id}}",
     "name": "{{service}}",
     "description": "{{description}}",
-    "url": "{{url}}"
+    "url": "{{{url}}}"
   }
 </script>
