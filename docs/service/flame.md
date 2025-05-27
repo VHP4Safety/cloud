@@ -68,11 +68,11 @@ An open source framework to develop, host, and use machine-learning models, such
 
 * Provider: Not available
 
-* Citation: [10.1186&#x2F;s13321-021-00509-z](https://doi.org/10.1186&#x2F;s13321-021-00509-z)
+* Citation: [10.1186/s13321-021-00509-z](https://doi.org/10.1186/s13321-021-00509-z)Not available
 
 * Version: 1.2.0
 
-* License: GNU General Public License v3.0
+* License: GNU General Public License v3.0Not available
 
 * Source Code: ](https://github.com/phi-grib/flame)Not available
 

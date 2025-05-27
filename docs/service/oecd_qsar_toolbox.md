@@ -66,13 +66,13 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 ## Techincal Tool Specifications
 
-* Provider: [The Organisation for Economic Co-operation and Development](https:&#x2F;&#x2F;www.oecd.org&#x2F;)
+* Provider: [The Organisation for Economic Co-operation and Development](https://www.oecd.org/)
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: 4.6
 
-* License: [Terms of Conditions](https:&#x2F;&#x2F;www.oecd.org&#x2F;termsandconditions&#x2F;)
+* License: [Terms of Conditions](https://www.oecd.org/termsandconditions/)Not available
 
 * Source Code: ]()Not available
 

@@ -68,7 +68,7 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 * Provider: Not available
 
-* Citation: [10.1021&#x2F;ci100384d](https://doi.org/10.1021&#x2F;ci100384d)
+* Citation: [10.1021/ci100384d](https://doi.org/10.1021/ci100384d)Not available
 
 * Version: Not available
 

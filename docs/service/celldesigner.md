@@ -66,13 +66,13 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
 
 ## Techincal Tool Specifications
 
-* Provider: [Systems Biology Institute (SBI)](https:&#x2F;&#x2F;sbi.jp&#x2F;)
+* Provider: [Systems Biology Institute (SBI)](https://sbi.jp/)
 
-* Citation: [10.1016&#x2F;S1478-5382(03)02370-9](https://doi.org/10.1016&#x2F;S1478-5382(03)02370-9)
+* Citation: [10.1016/S1478-5382(03)02370-9](https://doi.org/10.1016/S1478-5382(03)02370-9)Not available
 
 * Version: 4.4.2
 
-* License: [See licence agreement](https:&#x2F;&#x2F;www.celldesigner.org&#x2F;license.txt)
+* License: [See licence agreement](https://www.celldesigner.org/license.txt)Not available
 
 * Source Code: ]()Not available
 

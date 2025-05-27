@@ -56,7 +56,7 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 * Contact: Egon Willighagen (egon.willighagen@maastrichtuniversity.nl)
 
-* API Type: SPARQL
+* API Type: SPARQLNot available
 
 * Categories: To be added
 
@@ -68,7 +68,7 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 * Provider: [BiGCaT UM]()
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: Not available
 

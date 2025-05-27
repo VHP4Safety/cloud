@@ -56,7 +56,7 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 * Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
 
-* API Type: REST API -- Swagger UI
+* API Type: REST API -- Swagger UINot available
 
 * Categories: To be added
 
@@ -66,9 +66,9 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 ## Techincal Tool Specifications
 
-* Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https:&#x2F;&#x2F;www.maastrichtuniversity.nl&#x2F;research&#x2F;bioinformatics)
+* Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: Not available
 

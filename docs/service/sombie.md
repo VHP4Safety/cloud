@@ -56,7 +56,7 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 * Contact: David Poole (d.a.poole@vu.nl)
 
-* API Type: REST
+* API Type: RESTNot available
 
 * Categories: To be added
 
@@ -68,7 +68,7 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 * Provider: Not available
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: Not available
 

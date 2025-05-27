@@ -66,9 +66,9 @@ A web-accessible registry to store, share and publish research assets of biology
 
 ## Techincal Tool Specifications
 
-* Provider: [FAIRDOM](https:&#x2F;&#x2F;fair-dom.org&#x2F;)
+* Provider: [FAIRDOM](https://fair-dom.org/)
 
-* Citation: [10.1093&#x2F;nar&#x2F;gkw1032](https://doi.org/10.1093&#x2F;nar&#x2F;gkw1032)
+* Citation: [10.1093/nar/gkw1032](https://doi.org/10.1093/nar/gkw1032)Not available
 
 * Version: Not available
 

@@ -66,9 +66,9 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 ## Techincal Tool Specifications
 
-* Provider: [BiGCaT, Maastricht University](https:&#x2F;&#x2F;www.bigcat.unimaas.nl&#x2F;)
+* Provider: [BiGCaT, Maastricht University](https://www.bigcat.unimaas.nl/)
 
-* Citation: [10.1093&#x2F;nar&#x2F;gkt293](https://doi.org/10.1093&#x2F;nar&#x2F;gkt293)
+* Citation: [10.1093/nar/gkt293](https://doi.org/10.1093/nar/gkt293)Not available
 
 * Version: Not available
 

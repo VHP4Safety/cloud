@@ -68,7 +68,7 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 * Provider: [Hogeschool Utrecht]()
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: 2.3.3
 

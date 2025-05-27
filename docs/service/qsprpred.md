@@ -68,11 +68,11 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 * Provider: [Department of Medicinal Chemistry,Leiden University]()
 
-* Citation: [https:&#x2F;&#x2F;doi.org&#x2F;10.1186&#x2F;s13321-024-00908-y](https://doi.org/https:&#x2F;&#x2F;doi.org&#x2F;10.1186&#x2F;s13321-024-00908-y)
+* Citation: [https://doi.org/10.1186/s13321-024-00908-y](https://doi.org/https://doi.org/10.1186/s13321-024-00908-y)Not available
 
 * Version: Not available
 
-* License: MIT
+* License: MITNot available
 
 * Source Code: ](https://github.com/VHP4Safety/QSPRpred-Docker)Not available
 

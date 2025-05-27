@@ -68,7 +68,7 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 * Provider: [BiGCaT UM]()
 
-* Citation: Not available
+* Citation: [](https://doi.org/)Not available
 
 * Version: Not available
 

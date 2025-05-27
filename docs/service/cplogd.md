@@ -66,13 +66,13 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
 
 ## Techincal Tool Specifications
 
-* Provider: [ArosBio](https:&#x2F;&#x2F;arosbio.com&#x2F;index.html)
+* Provider: [ArosBio](https://arosbio.com/index.html)
 
-* Citation: [10.1186&#x2F;s13321-018-0271-1](https://doi.org/10.1186&#x2F;s13321-018-0271-1)
+* Citation: [10.1186/s13321-018-0271-1](https://doi.org/10.1186/s13321-018-0271-1)Not available
 
 * Version: 2.0.0
 
-* License: Copyrighted by Aros Bio
+* License: Copyrighted by Aros BioNot available
 
 * Source Code: ](https://github.com/pharmbio/cplogd-v2.0)Not available
 

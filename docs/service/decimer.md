@@ -66,13 +66,13 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 ## Techincal Tool Specifications
 
-* Provider: [Steinbeck Group at the Friedrich Schiller University Jena](https:&#x2F;&#x2F;cheminf.uni-jena.de&#x2F;research&#x2F;deep-learning&#x2F;)
+* Provider: [Steinbeck Group at the Friedrich Schiller University Jena](https://cheminf.uni-jena.de/research/deep-learning/)
 
-* Citation: [10.1186&#x2F;s13321-021-00538-8](https://doi.org/10.1186&#x2F;s13321-021-00538-8)
+* Citation: [10.1186/s13321-021-00538-8](https://doi.org/10.1186/s13321-021-00538-8)Not available
 
 * Version: Latest
 
-* License: [MIT license](https:&#x2F;&#x2F;github.com&#x2F;Kohulan&#x2F;DECIMER-Image_Transformer&#x2F;blob&#x2F;master&#x2F;LICENSE)
+* License: [MIT license](https://github.com/Kohulan/DECIMER-Image_Transformer/blob/master/LICENSE)Not available
 
 * Source Code: ](https://github.com/Kohulan/DECIMER-Image_Transformer)Not available
 

@@ -56,7 +56,7 @@ An online service to conduct literature review, data extraction and systematic r
 
 * Contact: Insilica.co (info@insilica.co)
 
-* API Type: REST
+* API Type: RESTNot available
 
 * Categories: To be added
 
@@ -68,7 +68,7 @@ An online service to conduct literature review, data extraction and systematic r
 
 * Provider: Not available
 
-* Citation: [10.3389&#x2F;frai.2021.685298](https://doi.org/10.3389&#x2F;frai.2021.685298)
+* Citation: [10.3389/frai.2021.685298](https://doi.org/10.3389/frai.2021.685298)Not available
 
 * Version: Not available
 

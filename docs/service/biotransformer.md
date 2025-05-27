@@ -68,7 +68,7 @@ A software tool to predict metabolites based on inputs in SMILE format.
 
 * Provider: Not available
 
-* Citation: [10.1186&#x2F;s13321-018-0324-5](https://doi.org/10.1186&#x2F;s13321-018-0324-5)
+* Citation: [10.1186/s13321-018-0324-5](https://doi.org/10.1186/s13321-018-0324-5)Not available
 
 * Version: Not available
 

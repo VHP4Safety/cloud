@@ -56,7 +56,7 @@ A framework to map identifiers between various biological databases and related 
 
 * Contact: Egon Willighagen ()
 
-* API Type: REST
+* API Type: RESTNot available
 
 * Categories: To be added
 
@@ -68,11 +68,11 @@ A framework to map identifiers between various biological databases and related 
 
 * Provider: [Dept. of Bioinformatics - BiGCaT, NUTRIM, Maastricht University]()
 
-* Citation: [10.1186&#x2F;1471-2105-11-5](https://doi.org/10.1186&#x2F;1471-2105-11-5)
+* Citation: [10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)Not available
 
 * Version: 2.3.3
 
-* License: Apache-2.0
+* License: Apache-2.0Not available
 
 * Source Code: ](https://github.com/bridgedb/BridgeDb)Not available
 

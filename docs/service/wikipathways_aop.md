@@ -56,7 +56,7 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 * Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
 
-* API Type: SPARQL
+* API Type: SPARQLNot available
 
 * Categories: To be added
 
@@ -68,11 +68,11 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 * Provider: [Maastricht University]()
 
-* Citation: [10.3389&#x2F;fgene.2018.00661](https://doi.org/10.3389&#x2F;fgene.2018.00661)
+* Citation: [10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)Not available
 
 * Version: Not available
 
-* License: [CC0](https:&#x2F;&#x2F;creativecommons.org&#x2F;share-your-work&#x2F;public-domain&#x2F;cc0&#x2F;)
+* License: [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)Not available
 
 * Source Code: ]()Not available
 
