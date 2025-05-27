@@ -111,7 +111,7 @@
     "_ins_biotools": "The keyword for the link to the source on bio.tools.",
     "biotools": "",
 
-    "_ins_tess": "The keyword for link to the source on TeSS.",
+    "_ins_tess": "The keyword for a search link to the source on ELIXIR TeSS (https://tess.elixir-europe.org/).",
     "tess": "",
 
     "_ins_fairsharing": "The DOI for the entry on FAIRsharing.org",
