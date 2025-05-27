@@ -10,9 +10,9 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 #### VHP4Safety Documentation
 
-* Service Introduction: [VHP4Safety Compound Wiki Overview](https:&#x2F;&#x2F;doi.org&#x2F;10.5281&#x2F;zenodo.13864849)
+* Service Introduction: [VHP4Safety Compound Wiki Overview](https://doi.org/10.5281/zenodo.13864849)
 
-* Workflow: [Getting properties by SMILES using the VHP4Safety Compound Wiki](https:&#x2F;&#x2F;colab.research.google.com&#x2F;drive&#x2F;15Ea2N2CMxjVS2zMrvW2-R4vhsEqk8Shv)
+* Workflow: [Getting properties by SMILES using the VHP4Safety Compound Wiki](https://colab.research.google.com/drive/15Ea2N2CMxjVS2zMrvW2-R4vhsEqk8Shv)
 
 * Demo: To be added
 
@@ -42,11 +42,11 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000148
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: No
 
@@ -74,9 +74,9 @@ A Wikibase instance to store and present information about toxic, safe and poten
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ A Wikibase instance to store and present information about toxic, safe and poten
     "@id" : "https://vhp4safety.github.io/cloud/service/wikibase",
     "name": "VHP4Safety Wikibase",
     "description": "A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
-    "url": "https:&#x2F;&#x2F;compoundcloud.wikibase.cloud&#x2F;"
+    "url": "https://compoundcloud.wikibase.cloud/"
   }
 </script>

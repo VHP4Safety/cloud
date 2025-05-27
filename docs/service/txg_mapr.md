@@ -42,11 +42,11 @@ An online application to implement weighted gene co-expression network analysis 
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000018
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000018
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Yes
 
@@ -74,9 +74,9 @@ An online application to implement weighted gene co-expression network analysis 
 
 * License: Proprietary
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: [TXG-MAPr](TXG-MAPr)
 
@@ -98,6 +98,6 @@ An online application to implement weighted gene co-expression network analysis 
     "@id" : "https://vhp4safety.github.io/cloud/service/txg_mapr",
     "name": "TXG-MAPr",
     "description": "An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets.",
-    "url": "https:&#x2F;&#x2F;txg-mapr.eu&#x2F;"
+    "url": "https://txg-mapr.eu/"
   }
 </script>

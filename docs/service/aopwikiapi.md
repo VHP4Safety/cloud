@@ -42,11 +42,11 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000023
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: [https:&#x2F;&#x2F;aopwiki-api.cloud.vhp4safety.nl&#x2F;api&#x2F;marvinm2&#x2F;AOPWikiQueries](https:&#x2F;&#x2F;aopwiki-api.cloud.vhp4safety.nl&#x2F;api&#x2F;marvinm2&#x2F;AOPWikiQueries)
+* Development Cloud: https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries[https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries)Not available
 
 * Login Required: No
 
@@ -74,9 +74,9 @@ A REST API for AOP-Wiki content to make SPARQL queries.
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ A REST API for AOP-Wiki content to make SPARQL queries.
     "@id" : "https://vhp4safety.github.io/cloud/service/aopwikiapi",
     "name": "AOP-Wiki API",
     "description": "A REST API for AOP-Wiki content to make SPARQL queries.",
-    "url": "https:&#x2F;&#x2F;aopwiki-api.cloud.vhp4safety.nl&#x2F;api&#x2F;marvinm2&#x2F;AOPWikiQueries"
+    "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries"
   }
 </script>

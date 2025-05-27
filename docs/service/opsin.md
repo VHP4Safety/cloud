@@ -42,11 +42,11 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000148
+* Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: no
 
@@ -74,9 +74,9 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
     "@id" : "https://vhp4safety.github.io/cloud/service/opsin",
     "name": "OPSIN: Open Parser for Systematic IUPAC nomenclature",
     "description": "An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES.",
-    "url": "https:&#x2F;&#x2F;opsin.ch.cam.ac.uk&#x2F;"
+    "url": "https://opsin.ch.cam.ac.uk/"
   }
 </script>

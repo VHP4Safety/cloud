@@ -42,11 +42,11 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000023
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: No
 
@@ -74,9 +74,9 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 * License: [CC0](https:&#x2F;&#x2F;creativecommons.org&#x2F;share-your-work&#x2F;public-domain&#x2F;cc0&#x2F;)
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: [wikipathways](wikipathways)
 
@@ -98,6 +98,6 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
     "@id" : "https://vhp4safety.github.io/cloud/service/wikipathways_aop",
     "name": "WikiPathways - AOP Portal",
     "description": "An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.",
-    "url": "http:&#x2F;&#x2F;aop.wikipathways.org&#x2F;"
+    "url": "http://aop.wikipathways.org/"
   }
 </script>

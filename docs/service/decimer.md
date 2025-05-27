@@ -42,11 +42,11 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000148
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: No
 
@@ -74,9 +74,9 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 * License: [MIT license](https:&#x2F;&#x2F;github.com&#x2F;Kohulan&#x2F;DECIMER-Image_Transformer&#x2F;blob&#x2F;master&#x2F;LICENSE)
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;Kohulan&#x2F;DECIMER-Image_Transformer](https:&#x2F;&#x2F;github.com&#x2F;Kohulan&#x2F;DECIMER-Image_Transformer)
+* Source Code: ](https://github.com/Kohulan/DECIMER-Image_Transformer)Not available
 
-* Docker: [https:&#x2F;&#x2F;github.com&#x2F;OBrink&#x2F;DECIMER_Web](https:&#x2F;&#x2F;github.com&#x2F;OBrink&#x2F;DECIMER_Web)
+* Docker: [https://github.com/OBrink/DECIMER_Web](https://github.com/OBrink/DECIMER_Web)Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ An online service to extract chemical structures from PDF-formatted files and im
     "@id" : "https://vhp4safety.github.io/cloud/service/decimer",
     "name": "DECIMER",
     "description": "An online service to extract chemical structures from PDF-formatted files and images.",
-    "url": "https:&#x2F;&#x2F;decimer.ai&#x2F;"
+    "url": "https://decimer.ai/"
   }
 </script>

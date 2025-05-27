@@ -42,11 +42,11 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
 * Sub-Stage: 
 
-* Development Cloud: [https:&#x2F;&#x2F;qsprpred.cloud.vhp4safety.nl&#x2F;](https:&#x2F;&#x2F;qsprpred.cloud.vhp4safety.nl&#x2F;)
+* Development Cloud: https://qsprpred.cloud.vhp4safety.nl/[https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/)Not available
 
 * Login Required: No
 
@@ -74,9 +74,9 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 * License: MIT
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;VHP4Safety&#x2F;QSPRpred-Docker](https:&#x2F;&#x2F;github.com&#x2F;VHP4Safety&#x2F;QSPRpred-Docker)
+* Source Code: ](https://github.com/VHP4Safety/QSPRpred-Docker)Not available
 
-* Docker: [https:&#x2F;&#x2F;github.com&#x2F;VHP4Safety&#x2F;QSPRpred-Docker](https:&#x2F;&#x2F;github.com&#x2F;VHP4Safety&#x2F;QSPRpred-Docker)
+* Docker: [https://github.com/VHP4Safety/QSPRpred-Docker](https://github.com/VHP4Safety/QSPRpred-Docker)Not available
 
 * Bio.tools: Not available
 

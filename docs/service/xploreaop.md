@@ -42,11 +42,11 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000023
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 * License: Not available
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;VHP4Safety&#x2F;xploreaop](https:&#x2F;&#x2F;github.com&#x2F;VHP4Safety&#x2F;xploreaop)
+* Source Code: ](https://github.com/VHP4Safety/xploreaop)Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
     "@id" : "https://vhp4safety.github.io/cloud/service/xploreaop",
     "name": "xploreaop",
     "description": "A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.",
-    "url": "https:&#x2F;&#x2F;xploreaop.cloud.vhp4safety.nl&#x2F;"
+    "url": "https://xploreaop.cloud.vhp4safety.nl/"
   }
 </script>

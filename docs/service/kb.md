@@ -42,11 +42,11 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000148
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: [https:&#x2F;&#x2F;kb.cloud.vhp4safety.nl&#x2F;](https:&#x2F;&#x2F;kb.cloud.vhp4safety.nl&#x2F;)
+* Development Cloud: https://kb.cloud.vhp4safety.nl/[https://kb.cloud.vhp4safety.nl/](https://kb.cloud.vhp4safety.nl/)Not available
 
 * Login Required: No
 
@@ -74,9 +74,9 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 

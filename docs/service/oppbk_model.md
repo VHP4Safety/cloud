@@ -42,11 +42,11 @@ Physiologically based pharmacokinetic model for organophosphates
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000056
+* Stage: https://vhp4safety.github.io/glossary#VHP0000056
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000061
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000061
 
-* Development Cloud: [http:&#x2F;&#x2F;oppbk.cloud.vhp4safety.nl&#x2F;](http:&#x2F;&#x2F;oppbk.cloud.vhp4safety.nl&#x2F;)
+* Development Cloud: http://oppbk.cloud.vhp4safety.nl/[http://oppbk.cloud.vhp4safety.nl/](http://oppbk.cloud.vhp4safety.nl/)Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ Physiologically based pharmacokinetic model for organophosphates
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ Physiologically based pharmacokinetic model for organophosphates
     "@id" : "https://vhp4safety.github.io/cloud/service/oppbk_model",
     "name": "OP PBK Model",
     "description": "Physiologically based pharmacokinetic model for organophosphates",
-    "url": "http:&#x2F;&#x2F;oppbk.cloud.vhp4safety.nl&#x2F;"
+    "url": "http://oppbk.cloud.vhp4safety.nl/"
   }
 </script>

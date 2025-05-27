@@ -42,11 +42,11 @@ An open source data management platform that allows importing and exporting meta
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000049
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000049
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ An open source data management platform that allows importing and exporting meta
 
 * License: [Apache 2.0 License](https:&#x2F;&#x2F;www.apache.org&#x2F;licenses&#x2F;LICENSE-2.0.txt)
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;thehyve&#x2F;fairspace](https:&#x2F;&#x2F;github.com&#x2F;thehyve&#x2F;fairspace)
+* Source Code: ](https://github.com/thehyve/fairspace)Not available
 
-* Docker: [https:&#x2F;&#x2F;console.cloud.google.com&#x2F;artifacts&#x2F;docker&#x2F;fairspace-207108&#x2F;europe&#x2F;eu.gcr.io&#x2F;pluto, https:&#x2F;&#x2F;console.cloud.google.com&#x2F;artifacts&#x2F;docker&#x2F;fairspace-207108&#x2F;europe&#x2F;eu.gcr.io&#x2F;saturn, https:&#x2F;&#x2F;console.cloud.google.com&#x2F;artifacts&#x2F;docker&#x2F;fairspace-207108&#x2F;europe&#x2F;eu.gcr.io&#x2F;jupyterhub-hub, https:&#x2F;&#x2F;console.cloud.google.com&#x2F;artifacts&#x2F;docker&#x2F;fairspace-207108&#x2F;europe&#x2F;eu.gcr.io&#x2F;jupyterhub-singleuser](https:&#x2F;&#x2F;console.cloud.google.com&#x2F;artifacts&#x2F;docker&#x2F;fairspace-207108&#x2F;europe&#x2F;eu.gcr.io&#x2F;pluto, https:&#x2F;&#x2F;console.cloud.google.com&#x2F;artifacts&#x2F;docker&#x2F;fairspace-207108&#x2F;europe&#x2F;eu.gcr.io&#x2F;saturn, https:&#x2F;&#x2F;console.cloud.google.com&#x2F;artifacts&#x2F;docker&#x2F;fairspace-207108&#x2F;europe&#x2F;eu.gcr.io&#x2F;jupyterhub-hub, https:&#x2F;&#x2F;console.cloud.google.com&#x2F;artifacts&#x2F;docker&#x2F;fairspace-207108&#x2F;europe&#x2F;eu.gcr.io&#x2F;jupyterhub-singleuser)
+* Docker: [https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser](https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/pluto, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/saturn, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-hub, https://console.cloud.google.com/artifacts/docker/fairspace-207108/europe/eu.gcr.io/jupyterhub-singleuser)Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ An open source data management platform that allows importing and exporting meta
     "@id" : "https://vhp4safety.github.io/cloud/service/fairspace",
     "name": "Fairspace",
     "description": "An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF)",
-    "url": "https:&#x2F;&#x2F;www.thehyve.nl&#x2F;services&#x2F;fairspace"
+    "url": "https://www.thehyve.nl/services/fairspace"
   }
 </script>

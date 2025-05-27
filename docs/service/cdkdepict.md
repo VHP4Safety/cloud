@@ -42,11 +42,11 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000148
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: no
 
@@ -74,9 +74,9 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 * License: LGPL 2.1
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;cdk&#x2F;depict](https:&#x2F;&#x2F;github.com&#x2F;cdk&#x2F;depict)
+* Source Code: ](https://github.com/cdk/depict)Not available
 
-* Docker: [https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;simolecule&#x2F;cdkdepict](https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;simolecule&#x2F;cdkdepict)
+* Docker: [https://hub.docker.com/r/simolecule/cdkdepict](https://hub.docker.com/r/simolecule/cdkdepict)Not available
 
 * Bio.tools: [cdk_depict](cdk_depict)
 
@@ -98,6 +98,6 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
     "@id" : "https://vhp4safety.github.io/cloud/service/cdkdepict",
     "name": "CDK Depict",
     "description": "A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats.",
-    "url": "https:&#x2F;&#x2F;cdkdepict.cloud.vhp4safety.nl&#x2F;"
+    "url": "https://cdkdepict.cloud.vhp4safety.nl/"
   }
 </script>

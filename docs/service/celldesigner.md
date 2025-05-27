@@ -42,11 +42,11 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
 * Sub-Stage: 
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
 
 * License: [See licence agreement](https:&#x2F;&#x2F;www.celldesigner.org&#x2F;license.txt)
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
     "@id" : "https://vhp4safety.github.io/cloud/service/celldesigner",
     "name": "CellDesigner",
     "description": "A structured diagram editor to draw gene-regulatory and biochemical networks.",
-    "url": "https:&#x2F;&#x2F;www.celldesigner.org&#x2F;"
+    "url": "https://www.celldesigner.org/"
   }
 </script>

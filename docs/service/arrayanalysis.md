@@ -46,7 +46,7 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 * Sub-Stage: NA
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 

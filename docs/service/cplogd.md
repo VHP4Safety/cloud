@@ -10,7 +10,7 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
 
 #### VHP4Safety Documentation
 
-* Service Introduction: [Predicting Water–Octanol Distribution Coefficient (logD) for Chemical Compounds](https:&#x2F;&#x2F;docs.vhp4safety.nl&#x2F;en&#x2F;latest&#x2F;tutorials&#x2F;cplogd&#x2F;cplogd_tutorial.html)
+* Service Introduction: [Predicting Water–Octanol Distribution Coefficient (logD) for Chemical Compounds](https://docs.vhp4safety.nl/en/latest/tutorials/cplogd/cplogd_tutorial.html)
 
 * Workflow: To be added
 
@@ -42,11 +42,11 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000148
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: [https:&#x2F;&#x2F;cplogd.cloud.vhp4safety.nl&#x2F;](https:&#x2F;&#x2F;cplogd.cloud.vhp4safety.nl&#x2F;)
+* Development Cloud: https://cplogd.cloud.vhp4safety.nl/[https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/)Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
 
 * License: Copyrighted by Aros Bio
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;pharmbio&#x2F;cplogd-v2.0](https:&#x2F;&#x2F;github.com&#x2F;pharmbio&#x2F;cplogd-v2.0)
+* Source Code: ](https://github.com/pharmbio/cplogd-v2.0)Not available
 
-* Docker: [https:&#x2F;&#x2F;github.com&#x2F;pharmbio&#x2F;cplogd-v2.0&#x2F;pkgs&#x2F;container&#x2F;cplogd-v2.0](https:&#x2F;&#x2F;github.com&#x2F;pharmbio&#x2F;cplogd-v2.0&#x2F;pkgs&#x2F;container&#x2F;cplogd-v2.0)
+* Docker: [https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0](https://github.com/pharmbio/cplogd-v2.0/pkgs/container/cplogd-v2.0)Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ A model to predict water-octanol distribution coefficient (logD) for chemical co
     "@id" : "https://vhp4safety.github.io/cloud/service/cplogd",
     "name": "cpLogD",
     "description": "A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates.",
-    "url": "https:&#x2F;&#x2F;cplogd.cloud.vhp4safety.nl&#x2F;"
+    "url": "https://cplogd.cloud.vhp4safety.nl/"
   }
 </script>

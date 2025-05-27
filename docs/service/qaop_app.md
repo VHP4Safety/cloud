@@ -10,7 +10,7 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 #### VHP4Safety Documentation
 
-* Service Introduction: [qAOP App: Predicting Key Events and Adverse Outcomes Over Time](https:&#x2F;&#x2F;docs.vhp4safety.nl&#x2F;en&#x2F;latest&#x2F;tutorials&#x2F;qaop_app&#x2F;qaop_tutorial.html)
+* Service Introduction: [qAOP App: Predicting Key Events and Adverse Outcomes Over Time](https://docs.vhp4safety.nl/en/latest/tutorials/qaop_app/qaop_tutorial.html)
 
 * Workflow: To be added
 
@@ -42,11 +42,11 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000023
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: [https:&#x2F;&#x2F;qaop.vhp4safety.nl&#x2F;](https:&#x2F;&#x2F;qaop.vhp4safety.nl&#x2F;)
+* Development Cloud: https://qaop.vhp4safety.nl/[https://qaop.vhp4safety.nl/](https://qaop.vhp4safety.nl/)Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 * License: Not available
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;VHP4Safety&#x2F;qAOP-app](https:&#x2F;&#x2F;github.com&#x2F;VHP4Safety&#x2F;qAOP-app)
+* Source Code: ](https://github.com/VHP4Safety/qAOP-app)Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 

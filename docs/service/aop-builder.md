@@ -42,11 +42,11 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000023
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 * License: CC-BY NC 4.0
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ A tool to explore scientific literature to extract relevant entities and their r
     "@id" : "https://vhp4safety.github.io/cloud/service/aop-builder",
     "name": "AOP-Builder",
     "description": "A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI.",
-    "url": "https:&#x2F;&#x2F;crebuilder.vhp4safety.nl"
+    "url": "https://crebuilder.vhp4safety.nl"
   }
 </script>

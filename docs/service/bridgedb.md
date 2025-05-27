@@ -10,9 +10,9 @@ A framework to map identifiers between various biological databases and related 
 
 #### VHP4Safety Documentation
 
-* Service Introduction: [BridgeDb: Mapping Gene Identifiers](https:&#x2F;&#x2F;docs.vhp4safety.nl&#x2F;en&#x2F;latest&#x2F;tutorials&#x2F;bridgedb&#x2F;gene_hgnc_name_to_ensembl.html)
+* Service Introduction: [BridgeDb: Mapping Gene Identifiers](https://docs.vhp4safety.nl/en/latest/tutorials/bridgedb/gene_hgnc_name_to_ensembl.html)
 
-* Workflow: [Information about chemicals](https:&#x2F;&#x2F;docs.vhp4safety.nl&#x2F;en&#x2F;latest&#x2F;tutorials&#x2F;cheminfo&#x2F;intro.html)
+* Workflow: [Information about chemicals](https://docs.vhp4safety.nl/en/latest/tutorials/cheminfo/intro.html)
 
 * Demo: To be added
 
@@ -42,11 +42,11 @@ A framework to map identifiers between various biological databases and related 
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000047
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000047
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: no
 
@@ -74,9 +74,9 @@ A framework to map identifiers between various biological databases and related 
 
 * License: Apache-2.0
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;bridgedb&#x2F;BridgeDb](https:&#x2F;&#x2F;github.com&#x2F;bridgedb&#x2F;BridgeDb)
+* Source Code: ](https://github.com/bridgedb/BridgeDb)Not available
 
-* Docker: [https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;bigcatum&#x2F;bridgedb](https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;bigcatum&#x2F;bridgedb)
+* Docker: [https://hub.docker.com/r/bigcatum/bridgedb](https://hub.docker.com/r/bigcatum/bridgedb)Not available
 
 * Bio.tools: [bridgedb](bridgedb)
 
@@ -98,6 +98,6 @@ A framework to map identifiers between various biological databases and related 
     "@id" : "https://vhp4safety.github.io/cloud/service/bridgedb",
     "name": "BridgeDb",
     "description": "A framework to map identifiers between various biological databases and related sources.",
-    "url": "https:&#x2F;&#x2F;bridgedb.cloud.vhp4safety.nl&#x2F;"
+    "url": "https://bridgedb.cloud.vhp4safety.nl/"
   }
 </script>

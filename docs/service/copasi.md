@@ -46,7 +46,7 @@ An open-source software application to create and solve mathematical models of b
 
 * Sub-Stage: 
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ An open-source software application to create and solve mathematical models of b
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: [copasi](copasi)
 
@@ -98,6 +98,6 @@ An open-source software application to create and solve mathematical models of b
     "@id" : "https://vhp4safety.github.io/cloud/service/copasi",
     "name": "COPASI",
     "description": "An open-source software application to create and solve mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others.",
-    "url": "http:&#x2F;&#x2F;copasi.org&#x2F;"
+    "url": "http://copasi.org/"
   }
 </script>

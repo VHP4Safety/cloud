@@ -10,7 +10,7 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 #### VHP4Safety Documentation
 
-* Service Introduction: [SOM Prediction: Site-of-Metabolism Prediction](https:&#x2F;&#x2F;docs.vhp4safety.nl&#x2F;en&#x2F;latest&#x2F;tutorials&#x2F;sombie&#x2F;site_of_metabolism_prediction.html)
+* Service Introduction: [SOM Prediction: Site-of-Metabolism Prediction](https://docs.vhp4safety.nl/en/latest/tutorials/sombie/site_of_metabolism_prediction.html)
 
 * Workflow: To be added
 
@@ -42,11 +42,11 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000056
+* Stage: https://vhp4safety.github.io/glossary#VHP0000056
 
 * Sub-Stage: 
 
-* Development Cloud: [https:&#x2F;&#x2F;sombie.cloud.vhp4safety.nl&#x2F;](https:&#x2F;&#x2F;sombie.cloud.vhp4safety.nl&#x2F;)
+* Development Cloud: https://sombie.cloud.vhp4safety.nl/[https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)Not available
 
 * Login Required: No
 
@@ -74,9 +74,9 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
     "@id" : "https://vhp4safety.github.io/cloud/service/sombie",
     "name": "SOM Prediction",
     "description": "A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction.",
-    "url": "https:&#x2F;&#x2F;sombie.cloud.vhp4safety.nl&#x2F;"
+    "url": "https://sombie.cloud.vhp4safety.nl/"
   }
 </script>

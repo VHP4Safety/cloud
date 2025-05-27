@@ -42,11 +42,11 @@ An open source framework to develop, host, and use machine-learning models, such
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
 * Sub-Stage: 
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ An open source framework to develop, host, and use machine-learning models, such
 
 * License: GNU General Public License v3.0
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;phi-grib&#x2F;flame](https:&#x2F;&#x2F;github.com&#x2F;phi-grib&#x2F;flame)
+* Source Code: ](https://github.com/phi-grib/flame)Not available
 
-* Docker: [https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;mpastorphi&#x2F;flame](https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;mpastorphi&#x2F;flame)
+* Docker: [https://hub.docker.com/r/mpastorphi/flame](https://hub.docker.com/r/mpastorphi/flame)Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ An open source framework to develop, host, and use machine-learning models, such
     "@id" : "https://vhp4safety.github.io/cloud/service/flame",
     "name": "Flame",
     "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
-    "url": "http:&#x2F;&#x2F;flame.cloud.vhp4safety.nl:8098&#x2F;"
+    "url": "http://flame.cloud.vhp4safety.nl:8098/"
   }
 </script>

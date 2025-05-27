@@ -42,11 +42,11 @@ A repository of mathematical models of biological and biomedical systems.
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000055
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000055
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: no
 
@@ -74,9 +74,9 @@ A repository of mathematical models of biological and biomedical systems.
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: [biomodels](biomodels)
 
@@ -98,6 +98,6 @@ A repository of mathematical models of biological and biomedical systems.
     "@id" : "https://vhp4safety.github.io/cloud/service/biomodels",
     "name": "BioModels",
     "description": "A repository of mathematical models of biological and biomedical systems.",
-    "url": "https:&#x2F;&#x2F;www.ebi.ac.uk&#x2F;biomodels&#x2F;"
+    "url": "https://www.ebi.ac.uk/biomodels/"
   }
 </script>

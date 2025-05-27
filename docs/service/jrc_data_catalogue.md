@@ -42,11 +42,11 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000049
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000049
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
     "@id" : "https://vhp4safety.github.io/cloud/service/jrc_data_catalogue",
     "name": "Joint Research Centre Data Catalogue",
     "description": "An inventory of data produced by the Joint Research Centre (JRC) in accordance with the JRC Data Policy.",
-    "url": "https:&#x2F;&#x2F;data.jrc.ec.europa.eu&#x2F;"
+    "url": "https://data.jrc.ec.europa.eu/"
   }
 </script>

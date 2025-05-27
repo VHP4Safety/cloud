@@ -42,11 +42,11 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000148
+* Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
 * Sub-Stage: 
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 * License: Public Domain
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ An online database to provide access to chemistry, toxicity, and exposure inform
     "@id" : "https://vhp4safety.github.io/cloud/service/comptox",
     "name": "CompTox",
     "description": "An online database to provide access to chemistry, toxicity, and exposure information for chemicals.",
-    "url": "https:&#x2F;&#x2F;comptox.epa.gov&#x2F;dashboard&#x2F;"
+    "url": "https://comptox.epa.gov/dashboard/"
   }
 </script>

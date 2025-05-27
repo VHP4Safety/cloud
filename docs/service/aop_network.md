@@ -42,11 +42,11 @@ Populate a network with AOPs and add weights to the edges based on custom tabula
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000023
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: No
 
@@ -74,9 +74,9 @@ Populate a network with AOPs and add weights to the edges based on custom tabula
 
 * License: Not available
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;jmillanacosta&#x2F;aopapp](https:&#x2F;&#x2F;github.com&#x2F;jmillanacosta&#x2F;aopapp)
+* Source Code: ](https://github.com/jmillanacosta/aopapp)Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 

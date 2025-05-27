@@ -42,11 +42,11 @@ An online service to conduct literature review, data extraction and systematic r
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000149
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000053
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000053
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Yes
 
@@ -74,9 +74,9 @@ An online service to conduct literature review, data extraction and systematic r
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: [sysrev](sysrev)
 
@@ -98,6 +98,6 @@ An online service to conduct literature review, data extraction and systematic r
     "@id" : "https://vhp4safety.github.io/cloud/service/sysrev",
     "name": "SysRev",
     "description": "An online service to conduct literature review, data extraction and systematic review.",
-    "url": "https:&#x2F;&#x2F;sysrev.com&#x2F;"
+    "url": "https://sysrev.com/"
   }
 </script>

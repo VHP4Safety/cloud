@@ -10,9 +10,9 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 #### VHP4Safety Documentation
 
-* Service Introduction: [AOP-Wiki SNORQL introduction](https:&#x2F;&#x2F;docs.vhp4safety.nl&#x2F;en&#x2F;latest&#x2F;tutorials&#x2F;aopwiki&#x2F;aopwiki.html)
+* Service Introduction: [AOP-Wiki SNORQL introduction](https://docs.vhp4safety.nl/en/latest/tutorials/aopwiki/aopwiki.html)
 
-* Workflow: [AOPLink: Extracting and Analyzing Data Related to an AOP of Interest](https:&#x2F;&#x2F;docs.vhp4safety.nl&#x2F;en&#x2F;latest&#x2F;tutorials&#x2F;aoplink&#x2F;aoplink.html)
+* Workflow: [AOPLink: Extracting and Analyzing Data Related to an AOP of Interest](https://docs.vhp4safety.nl/en/latest/tutorials/aoplink/aoplink.html)
 
 * Demo: To be added
 
@@ -42,11 +42,11 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000023
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: [https:&#x2F;&#x2F;aopwiki.cloud.vhp4safety.nl&#x2F;](https:&#x2F;&#x2F;aopwiki.cloud.vhp4safety.nl&#x2F;)
+* Development Cloud: https://aopwiki.cloud.vhp4safety.nl/[https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/)Not available
 
 * Login Required: No
 
@@ -74,9 +74,9 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 * License: Not available
 
-* Source Code: [https:&#x2F;&#x2F;github.com&#x2F;marvinm2&#x2F;aopwiki-snorql-extended](https:&#x2F;&#x2F;github.com&#x2F;marvinm2&#x2F;aopwiki-snorql-extended)
+* Source Code: ](https://github.com/marvinm2/aopwiki-snorql-extended)Not available
 
-* Docker: [https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;aammar&#x2F;snorql-httpd](https:&#x2F;&#x2F;hub.docker.com&#x2F;r&#x2F;aammar&#x2F;snorql-httpd)
+* Docker: [https://hub.docker.com/r/aammar/snorql-httpd](https://hub.docker.com/r/aammar/snorql-httpd)Not available
 
 * Bio.tools: [aop-wiki_rdf](aop-wiki_rdf)
 
@@ -98,6 +98,6 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
     "@id" : "https://vhp4safety.github.io/cloud/service/aopwiki",
     "name": "AOP-Wiki Snorql UI",
     "description": "A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.",
-    "url": "https:&#x2F;&#x2F;aopwiki.cloud.vhp4safety.nl&#x2F;"
+    "url": "https://aopwiki.cloud.vhp4safety.nl/"
   }
 </script>

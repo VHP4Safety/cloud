@@ -46,7 +46,7 @@ An online repository of official reports from the European Medicines Agency.
 
 * Sub-Stage: 
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: no
 
@@ -74,9 +74,9 @@ An online repository of official reports from the European Medicines Agency.
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ An online repository of official reports from the European Medicines Agency.
     "@id" : "https://vhp4safety.github.io/cloud/service/ema_documents",
     "name": "European Medicines Agency Documents",
     "description": "An online repository of official reports from the European Medicines Agency.",
-    "url": "https:&#x2F;&#x2F;www.ema.europa.eu&#x2F;en&#x2F;search"
+    "url": "https://www.ema.europa.eu/en/search"
   }
 </script>

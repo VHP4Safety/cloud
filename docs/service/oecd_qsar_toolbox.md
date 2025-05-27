@@ -42,11 +42,11 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 ## VHP4Safety Service Metadata
 
-* Stage: https:&#x2F;&#x2F;vhp4safety.github.io&#x2F;glossary#VHP0000056
+* Stage: https://vhp4safety.github.io/glossary#VHP0000056
 
 * Sub-Stage: 
 
-* Development Cloud: Not available
+* Development Cloud: []()Not available
 
 * Login Required: Not available
 
@@ -74,9 +74,9 @@ A software to support hazard assessment of chemicals as well as to increase mech
 
 * License: [Terms of Conditions](https:&#x2F;&#x2F;www.oecd.org&#x2F;termsandconditions&#x2F;)
 
-* Source Code: Not available
+* Source Code: ]()Not available
 
-* Docker: Not available
+* Docker: []()Not available
 
 * Bio.tools: Not available
 
@@ -98,6 +98,6 @@ A software to support hazard assessment of chemicals as well as to increase mech
     "@id" : "https://vhp4safety.github.io/cloud/service/oecd_qsar_toolbox",
     "name": "The OECD QSAR Toolbox",
     "description": "A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way.",
-    "url": "https:&#x2F;&#x2F;qsartoolbox.org&#x2F;"
+    "url": "https://qsartoolbox.org/"
   }
 </script>
