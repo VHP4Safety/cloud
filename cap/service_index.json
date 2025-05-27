@@ -2,9 +2,9 @@
   {
     "service": "AOP Network Tool",
     "description": "Populate a network with AOPs and add weights to the edges based on custom tabular data, queries to other VHP tools and external databases, via BioDataFuse ",
-    "html_name": "aop_network.html",
-    "md_file_name": "aop_network.md",
-    "png_file_name": "aop_network.png"
+    "html_name": "aopnetwork.html",
+    "md_file_name": "aopnetwork.md",
+    "png_file_name": "aopnetwork.png"
   },
   {
     "service": "AOP-Builder",
