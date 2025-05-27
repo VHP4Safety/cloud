@@ -96,6 +96,10 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 ### External Services
 
+#### BMDExpress-3
+
+A tool to perform dose response modeling for high dimensional dose-response analysis. [[more information](service/bmdexpress_3.md)]
+
 #### CellDesigner
 
 A structured diagram editor to draw gene-regulatory and biochemical networks. [[more information](service/celldesigner.md)]

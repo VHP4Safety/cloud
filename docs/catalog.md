@@ -59,6 +59,14 @@ A software tool to predict metabolites based on inputs in SMILE format. [[more i
 
 ------------------------
 
+![BMDExpress-3 logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+
+## BMDExpress-3
+
+A tool to perform dose response modeling for high dimensional dose-response analysis. [[more information](service/bmdexpress_3.md)]
+
+------------------------
+
 ![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png)
 
 ## BridgeDb

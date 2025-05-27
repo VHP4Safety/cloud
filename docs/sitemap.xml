@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- Sitemap created on 2025-05-27 11:28:02.726559. -->
+<!-- Sitemap created on 2025-05-27 11:58:15.883727. -->
 
 <!-- parsing file: docs/service/aop_network.json -->
 <url>
@@ -45,6 +45,12 @@
 <!-- parsing file: docs/service/biotransformer.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/biotransformer.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!-- parsing file: docs/service/bmdexpress_3.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/bmdexpress_3.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
