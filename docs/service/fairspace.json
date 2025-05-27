@@ -2,6 +2,8 @@
   "id": "fairspace",
   "service": "Fairspace",
   "description": "An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF)",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+  "substage": "https://vhp4safety.github.io/glossary#VHP0000049",
   "screenshot": "fairspace.png",
   "url": "https://www.thehyve.nl/services/fairspace",
   "instance": {

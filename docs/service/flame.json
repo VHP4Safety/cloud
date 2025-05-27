@@ -2,7 +2,7 @@
   "id": "flame",
   "service": "Flame",
   "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
-  "stage":"generic",
+  "stage":"https://vhp4safety.github.io/glossary#VHP0000149",
   "substage":"",
   "url": "http://flame.cloud.vhp4safety.nl:8098/",
   "doi": "10.1186/s13321-021-00509-z",
