@@ -13,8 +13,6 @@ No screenshot available.
 
 ## Documentation
 
-#### VHP4Safety Documentation
-
 * Service Introduction: {{#intro}}[{{{title}}}]({{{url}}}){{/intro}}{{^intro}}To be added{{/intro}}
 
 * Workflow: {{#workflow}}[{{{title}}}]({{{url}}}){{/workflow}}{{^workflow}}To be added{{/workflow}}
