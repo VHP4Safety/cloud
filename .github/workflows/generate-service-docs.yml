@@ -34,7 +34,6 @@ jobs:
         run: |
             mkdir -p docs/resource
             cd docs/resource
-            rm *
             wget https://raw.githubusercontent.com/VHP4Safety/glossary/refs/heads/main/glossary.owl
 
       - name: Generate service documentation
