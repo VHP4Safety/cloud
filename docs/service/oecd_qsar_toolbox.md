@@ -44,7 +44,7 @@ A software to support hazard assessment of chemicals as well as to increase mech
 async function loadGlossaryTerms() {
   try {
     // Fetch the TURTLE/OWL file
-    const response = await fetch('https://raw.githubusercontent.com/VHP4Safety/glossary/refs/heads/main/glossary.owl');
+    const response = await fetch('/docs/resource/glossary.owl');
     const xmlText = await response.text();
     
     // Parse XML

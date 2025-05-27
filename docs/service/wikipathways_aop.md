@@ -44,7 +44,7 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 async function loadGlossaryTerms() {
   try {
     // Fetch the TURTLE/OWL file
-    const response = await fetch('https://raw.githubusercontent.com/VHP4Safety/glossary/refs/heads/main/glossary.owl');
+    const response = await fetch('/docs/resource/glossary.owl');
     const xmlText = await response.text();
     
     // Parse XML
