@@ -43,9 +43,9 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
 
 ## VHP4Safety Service Metadata
 
-* Stage: hazard
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: explore existing AOPs
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
 * Development Cloud: []() 
 

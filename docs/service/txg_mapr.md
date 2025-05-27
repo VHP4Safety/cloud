@@ -43,9 +43,9 @@ An online application to implement weighted gene co-expression network analysis 
 
 ## VHP4Safety Service Metadata
 
-* Stage: hazard
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: mechanisms of toxicity (derived from gene co-expression networks)
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000018
 
 * Development Cloud: Not available
 

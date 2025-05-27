@@ -43,9 +43,9 @@ A software tool to predict metabolites based on inputs in SMILE format.
 
 ## VHP4Safety Service Metadata
 
-* Stage: Not available
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: Not available
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
 * Development Cloud: Not available
 

@@ -43,9 +43,9 @@ An online service to conduct literature review, data extraction and systematic r
 
 ## VHP4Safety Service Metadata
 
-* Stage: Not available
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: Not available
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000053
 
 * Development Cloud: Not available
 

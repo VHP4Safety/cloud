@@ -43,9 +43,9 @@ A repository of mathematical models of biological and biomedical systems.
 
 ## VHP4Safety Service Metadata
 
-* Stage: Not available
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: Not available
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000055
 
 * Development Cloud: Not available
 

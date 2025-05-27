@@ -43,9 +43,9 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 ## VHP4Safety Service Metadata
 
-* Stage: generic
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: compound characteristics
+* Sub-Stage: 
 
 * Development Cloud: Not available
 

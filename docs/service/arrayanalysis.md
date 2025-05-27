@@ -43,9 +43,9 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 ## VHP4Safety Service Metadata
 
-* Stage: Not available
+* Stage: NA
 
-* Sub-Stage: Not available
+* Sub-Stage: NA
 
 * Development Cloud: Not available
 
