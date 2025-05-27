@@ -121,6 +121,12 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 ------------------------
 
+## NIH Dietary Supplement Label Database
+
+The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States. [[more information](service/dsld.md)]
+
+------------------------
+
 ![European Medicines Agency Documents logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ema_documents.png)
 
 ## European Medicines Agency Documents
@@ -148,6 +154,18 @@ An open source data management platform that allows importing and exporting meta
 ## Flame
 
 An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments. [[more information](service/flame.md)]
+
+------------------------
+
+## Google Search
+
+Web search engine by Google. [[more information](service/gscholar.md)]
+
+------------------------
+
+## Google Scholar
+
+Search engine for (scientific) literature. [[more information](service/gscholar.md)]
 
 ------------------------
 
