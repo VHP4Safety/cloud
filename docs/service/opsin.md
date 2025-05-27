@@ -44,7 +44,7 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 async function loadGlossaryTerms() {
   try {
     // Fetch the TURTLE/OWL file
-    const response = await fetch('/docs/resource/glossary.owl');
+    const response = await fetch('/cloud/docs/resource/glossary.owl');
     const xmlText = await response.text();
     
     // Parse XML

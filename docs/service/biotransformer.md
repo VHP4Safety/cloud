@@ -44,7 +44,7 @@ A software tool to predict metabolites based on inputs in SMILE format.
 async function loadGlossaryTerms() {
   try {
     // Fetch the TURTLE/OWL file
-    const response = await fetch('/docs/resource/glossary.owl');
+    const response = await fetch('/cloud/docs/resource/glossary.owl');
     const xmlText = await response.text();
     
     // Parse XML

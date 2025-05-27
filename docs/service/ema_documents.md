@@ -44,7 +44,7 @@ An online repository of official reports from the European Medicines Agency.
 async function loadGlossaryTerms() {
   try {
     // Fetch the TURTLE/OWL file
-    const response = await fetch('/docs/resource/glossary.owl');
+    const response = await fetch('/cloud/docs/resource/glossary.owl');
     const xmlText = await response.text();
     
     // Parse XML
