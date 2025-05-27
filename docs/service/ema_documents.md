@@ -43,9 +43,9 @@ An online repository of official reports from the European Medicines Agency.
 
 ## VHP4Safety Service Metadata
 
-* Stage: Not available
+* Stage: 
 
-* Sub-Stage: Not available
+* Sub-Stage: 
 
 * Development Cloud: Not available
 

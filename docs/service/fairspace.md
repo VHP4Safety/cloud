@@ -43,9 +43,9 @@ An open source data management platform that allows importing and exporting meta
 
 ## VHP4Safety Service Metadata
 
-* Stage: Not available
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
-* Sub-Stage: Not available
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000049
 
 * Development Cloud: Not available
 

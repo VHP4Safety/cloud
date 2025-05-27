@@ -2,6 +2,8 @@
   "id": "biomodels",
   "service": "BioModels",
   "description": "A repository of mathematical models of biological and biomedical systems.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+  "substage": "https://vhp4safety.github.io/glossary#VHP0000055",
   "screenshot": "biomodels.png",
   "url": "https://www.ebi.ac.uk/biomodels/",
   "doi": "10.1093/nar/gkz1055",

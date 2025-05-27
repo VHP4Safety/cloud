@@ -2,6 +2,8 @@
   "id": "aopnetwork",
   "service": "AOP Network Tool",
   "description": "Populate a network with AOPs and add weights to the edges based on custom tabular data, queries to other VHP tools and external databases, via BioDataFuse ",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+  "substage": "https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "",
   "url": "",
   "doi": "",

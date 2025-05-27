@@ -2,6 +2,8 @@
   "id": "fairdomhub",
   "service": "FAIRDOMHub",
   "description": "A web-accessible registry to store, share and publish research assets of biology projects.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+  "substage": "",
   "screenshot": "fairdomhub.png",
   "url": "https://fairdomhub.org/",
   "doi": "10.1093/nar/gkw1032",

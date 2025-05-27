@@ -43,9 +43,9 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 ## VHP4Safety Service Metadata
 
-* Stage: hazard
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
-* Sub-Stage: quantification of key event activation
+* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
 * Development Cloud: [https://qaop.vhp4safety.nl/](https://qaop.vhp4safety.nl/) 
 
