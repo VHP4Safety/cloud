@@ -117,9 +117,9 @@ if (document.readyState === 'loading') {
 
 ## VHP4Safety Service Metadata
 
-* Stage: [NA](NA)
+* Stage: <span class="glossary_term">[NA](NA)</span>
 
-* Sub-Stage: [NA](NA)
+* Sub-stage: <span class="glossary_term">[NA](NA)</span>
 
 * Development Cloud: Not available
 

@@ -117,9 +117,9 @@ if (document.readyState === 'loading') {
 
 ## VHP4Safety Service Metadata
 
-* Stage: [https://vhp4safety.github.io/glossary#VHP0000149](https://vhp4safety.github.io/glossary#VHP0000149)
+* Stage: <span class="glossary_term">[https://vhp4safety.github.io/glossary#VHP0000149](https://vhp4safety.github.io/glossary#VHP0000149)</span>
 
-* Sub-Stage: [https://vhp4safety.github.io/glossary#VHP0000049](https://vhp4safety.github.io/glossary#VHP0000049)
+* Sub-stage: <span class="glossary_term">[https://vhp4safety.github.io/glossary#VHP0000049](https://vhp4safety.github.io/glossary#VHP0000049)</span>
 
 * Development Cloud: Not available
 
