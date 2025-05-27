@@ -19,6 +19,10 @@
     "url": "https://www.nih.gov/"
   },
 
+  "ELIXIR": {
+    "fairsharing": "https://fairsharing.org/6486/"
+  },
+
   "regulatory-question": {
     "1a": "false",
     "1b": "false",
