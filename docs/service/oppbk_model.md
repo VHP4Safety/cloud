@@ -7,12 +7,19 @@
     const namespace = 'https://vhp4safety.github.io/glossary#';
     const glossaryData = {};
 
-    rdf.querySelectorAll(`[rdf\\:about^="${namespace}"]`).forEach(node => {
-      const id = node.getAttribute('rdf:about').replace(namespace, '');
-      const label = node.querySelector('rdfs\\:label')?.textContent || 'Not available';
-      const description = node.querySelector('dc\\:description')?.textContent || 'Not available';
-      glossaryData[id] = { label, description };
-    });
+    const rdfNodes = rdf.getElementsByTagNameNS(null, 'Description');
+    for (const node of rdfNodes) {
+      const about = node.getAttributeNS('http://www.w3.org/1999/02/22-rdf-syntax-ns#', 'about');
+      if (about && about.startsWith(namespace)) {
+        const id = about.replace(namespace, '');
+        const labelNode = node.getElementsByTagNameNS['http://www.w3.org/2000/01/rdf-schema#', 'label'](0);
+        const descNode = node.getElementsByTagNameNS['http://purl.org/dc/elements/1.1/', 'description'](0);
+        const label = labelNode?.textContent || 'Not available';
+        const description = descNode?.textContent || 'Not available';
+        glossaryData[id] = { label, description };
+      }
+    }
+
 
     return glossaryData;
   }
@@ -79,9 +86,9 @@ Physiologically based pharmacokinetic model for organophosphates
 <script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000056
+* Stage: [https://vhp4safety.github.io/glossary#VHP0000056](https://vhp4safety.github.io/glossary#VHP0000056)
 
-* Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000061
+* Sub-Stage: [https://vhp4safety.github.io/glossary#VHP0000061](https://vhp4safety.github.io/glossary#VHP0000061)
 
 * Development Cloud: [http://oppbk.cloud.vhp4safety.nl/](http://oppbk.cloud.vhp4safety.nl/)
 
