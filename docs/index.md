@@ -120,6 +120,10 @@ An open source framework to develop, host, and use machine-learning models, such
 
 A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
 
+#### O'QT: The OECD QSAR Toolbox AI Assistant
+
+A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox. [[more information](service/oqt_assistant.md)]
+
 #### SysRev
 
 An online service to conduct literature review, data extraction and systematic review. [[more information](service/sysrev.md)]

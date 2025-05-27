@@ -189,6 +189,14 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 ------------------------
 
+![O'QT: The OECD QSAR Toolbox AI Assistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oqt_assistant.png)
+
+## O'QT: The OECD QSAR Toolbox AI Assistant
+
+A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox. [[more information](service/oqt_assistant.md)]
+
+------------------------
+
 ## qAOP-App
 
 An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies. [[more information](service/qaop_app.md)]
