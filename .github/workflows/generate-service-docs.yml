@@ -32,9 +32,7 @@ jobs:
 
       - name: Generate service documentation
         run: |
-          # Create output directory if it doesn't exist
-          mkdir -p docs/service
-          
+          rm -f docs/service/*.md
           # Process each JSON file
           for json_file in docs/service/*.json; do
             if [ -f "$json_file" ]; then
