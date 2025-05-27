@@ -2,8 +2,8 @@
 {
   "id": "toxtemp_assistant",
   "service": "ToxTempAssistant",
-  "description": "A Large Language Models (LLM) assisted tool to help filling in data templates.",
-  "stage": "",
+  "description": "A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "",
   "screenshot": "toxtemp_assistant.png",
   "url": "",
@@ -13,19 +13,19 @@
     "type": "internal",
     "vhp-platform": "development",
     "url": "https://toxtempassistant.vhp4safety.nl/",
-    "license": "",
-    "version": "",
+    "license": "GNU Affero General Public License v3.0",
+    "version": "0.9",
     "source": "https://github.com/johannehouweling/ToxTempAssistant",
-    "docker": "",
-    "TRL": ""
+    "docker": "https://github.com/johannehouweling/ToxTempAssistant",
+    "TRL": "TRL6"
   },
   "provider": {
     "contact": {
       "name": "Jente Houweling",
       "email": "jente.houweling@rivm.nl"
     },
-    "name": "National Institute for Public Health and the Environment",
-    "url": "https://www.rivm.nl/en"
+    "name": "Maastricht University",
+    "url": "https://www.maastrichtuniversity.nl/"
   },
   "access": {
     "API": "",
@@ -53,23 +53,23 @@
     "rsd": ""
   },
   "NAM-validation": {
-    "NAM-stage-1": "",
-    "NAM-stage-2": "",
-    "NAM-stage-3": "",
-    "NAM-stage-4": "",
-    "NAM-stage-5": ""
+    "NAM-stage-1": "false",
+    "NAM-stage-2": "false",
+    "NAM-stage-3": "false",
+    "NAM-stage-4": "false",
+    "NAM-stage-5": "false"
   },
   "VHP-persona": {
-    "persona-1": "",
-    "persona-2": "",
-    "persona-3": ""
+    "persona-1": "true",
+    "persona-2": "true",
+    "persona-3": "true"
   },
   "regulatory-question": {
-    "1a": "",
-    "1b": "",
-    "2a": "",
-    "2b": "",
-    "3a": "",
-    "3b": ""
+    "1a": "false",
+    "1b": "false",
+    "2a": "true",
+    "2b": "false",
+    "3a": "false",
+    "3b": "true"
   }
 }
