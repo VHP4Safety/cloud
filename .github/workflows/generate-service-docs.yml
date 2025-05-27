@@ -1,0 +1,60 @@
+name: Generate Service Documentation with Mustache
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'docs/service/*.json'
+      - '.github/service_template.md'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'docs/service/*.json'
+      - '.github/service_template.md'
+
+jobs:
+  generate-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install mustache CLI
+        run: npm install -g mustache
+
+      - name: Generate service documentation
+        run: |
+          # Create output directory if it doesn't exist
+          mkdir -p docs/service
+          
+          # Process each JSON file
+          for json_file in docs/service/*.json; do
+            if [ -f "$json_file" ]; then
+              # Extract filename without extension
+              basename=$(basename "$json_file" .json)
+              
+              # Generate markdown file using mustache
+              mustache "$json_file" .github/service_template.md > "docs/service/${basename}.md"
+              
+              echo "Generated docs/service/${basename}.md from $json_file"
+            fi
+          done
+
+      - name: Commit and push generated documentation
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add docs/service/*.md
+          if git diff --exit-code --staged; then
+              echo "No changes to commit"
+          else
+              git commit -m 'Generate service documentation from JSON files'
+              git push
+          fi
