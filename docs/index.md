@@ -72,6 +72,10 @@ This tool allows users to predict the activity of their chemicals of interest fo
 
 A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more information](service/sombie.md)]
 
+#### ToxTempAssistant
+
+A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template. [[more information](service/toxtemp_assistant.md)]
+
 #### TXG-MAPr
 
 An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets. [[more information](service/txg_mapr.md)]
@@ -92,6 +96,10 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 ### External Services
 
+#### BMDExpress-3
+
+A tool to perform dose response modeling for high dimensional dose-response analysis. [[more information](service/bmdexpress_3.md)]
+
 #### CellDesigner
 
 A structured diagram editor to draw gene-regulatory and biochemical networks. [[more information](service/celldesigner.md)]
@@ -104,13 +112,29 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more information](service/cplogd.md)]
 
+#### NIH Dietary Supplement Label Database
+
+The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States. [[more information](service/dsld.md)]
+
 #### Flame
 
 An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments. [[more information](service/flame.md)]
 
+#### Google Search
+
+Web search engine by Google. [[more information](service/gscholar.md)]
+
+#### Google Scholar
+
+Search engine for (scientific) literature. [[more information](service/gscholar.md)]
+
 #### The OECD QSAR Toolbox
 
 A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
+
+#### O'QT: The OECD QSAR Toolbox AI Assistant
+
+A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox. [[more information](service/oqt_assistant.md)]
 
 #### SysRev
 

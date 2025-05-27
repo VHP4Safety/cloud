@@ -6,6 +6,7 @@ aopwikiapi	AOP-Wiki API	https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOP
 arrayanalysis	ArrayAnalysis	NA	NA
 biomodels	BioModels	https://www.ebi.ac.uk/biomodels/	NA
 biotransformer	BioTransformer	https://biotransformer.ca/	NA
+bmdexpress_3	BMDExpress-3	https://github.com/auerbachs/BMDExpress-3	NA
 bridgedb	BridgeDb	https://bridgedb.cloud.vhp4safety.nl/	NA
 cdkdepict	CDK Depict	https://cdkdepict.cloud.vhp4safety.nl/	NA
 celldesigner	CellDesigner	https://www.celldesigner.org/	NA
@@ -13,19 +14,24 @@ comptox	CompTox	https://comptox.epa.gov/dashboard/	NA
 copasi	COPASI	http://copasi.org/	NA
 cplogd	cpLogD	https://cplogd.cloud.vhp4safety.nl/	https://cplogd.cloud.vhp4safety.nl/
 decimer	DECIMER	https://decimer.ai/	NA
+dsld	NIH Dietary Supplement Label Database	https://dsld.od.nih.gov/	NA
 ema_documents	European Medicines Agency Documents	https://www.ema.europa.eu/en/search	NA
 fairdomhub	FAIRDOMHub	https://fairdomhub.org/	NA
 fairspace	Fairspace	https://www.thehyve.nl/services/fairspace	NA
 flame	Flame	http://flame.cloud.vhp4safety.nl:8098/	NA
+gscholar	Google Search	https://google.com/	NA
+gscholar	Google Scholar	https://scholar.google.com/	NA
 jrc_data_catalogue	Joint Research Centre Data Catalogue	https://data.jrc.ec.europa.eu/	NA
 vhp4safety_wikibase	VHP4Safety Wikibase User Interface	NA	https://kb.cloud.vhp4safety.nl/
 oecd_qsar_toolbox	The OECD QSAR Toolbox	https://qsartoolbox.org/	
 oppbk_model	OP PBK Model	http://oppbk.cloud.vhp4safety.nl/	http://oppbk.cloud.vhp4safety.nl/
 opsin	OPSIN: Open Parser for Systematic IUPAC nomenclature	https://opsin.ch.cam.ac.uk/	NA
+oqt_assistant	O'QT: The OECD QSAR Toolbox AI Assistant		
 qaop_app	qAOP-App	NA	https://qaop.vhp4safety.nl/
 qsprpred	QSPRpred	NA	https://qsprpred.cloud.vhp4safety.nl/
 sombie	SOM Prediction	https://sombie.cloud.vhp4safety.nl/	https://sombie.cloud.vhp4safety.nl/
 sysrev	SysRev	https://sysrev.com/	NA
+toxtemp_assistant	ToxTempAssistant		https://toxtempassistant.vhp4safety.nl/
 txg_mapr	TXG-MAPr	https://txg-mapr.eu/	NA
 wikibase	VHP4Safety Wikibase	https://compoundcloud.wikibase.cloud/	NA
 wikipathways_aop	WikiPathways - AOP Portal	http://aop.wikipathways.org/	

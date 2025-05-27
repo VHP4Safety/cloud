@@ -39,5 +39,8 @@
   },
   "Other": {
     "wikipedia": "WikiPathways"
+  },
+  "regulatory-question": {
+    "3b": "true"
   }
 }

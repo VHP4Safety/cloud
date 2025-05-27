@@ -1,0 +1,28 @@
+
+{
+
+  "id": "gscholar",
+
+  "service": "Google Scholar",
+
+  "description": "Search engine for (scientific) literature.",
+
+  "stage": "generic",
+
+  "substage": "mechanisms of toxicity / compound characteristics​",
+
+  "url": "https://scholar.google.com/",
+
+  "instance": {
+    "type": "external"
+  },
+
+  "provider": {
+    "name": "Google",
+    "url": "https://google.com/"
+  },
+
+  "regulatory-question": {
+    "3b": "true"
+  }
+}

@@ -48,6 +48,12 @@
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
+<!-- parsing file: docs/service/bmdexpress_3.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/bmdexpress_3.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
 <!-- parsing file: docs/service/bridgedb.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/bridgedb.html</loc>
@@ -90,6 +96,12 @@
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
+<!-- parsing file: docs/service/dsld.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/dsld.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
 <!-- parsing file: docs/service/ema_documents.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/ema_documents.html</loc>
@@ -111,6 +123,18 @@
 <!-- parsing file: docs/service/flame.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/flame.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!-- parsing file: docs/service/google.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/gscholar.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!-- parsing file: docs/service/gscholar.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/gscholar.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
@@ -144,6 +168,12 @@
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
+<!-- parsing file: docs/service/oqt_assistant.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/oqt_assistant.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
 <!-- parsing file: docs/service/qaop_app.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/qaop_app.html</loc>
@@ -165,6 +195,12 @@
 <!-- parsing file: docs/service/sysrev.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/sysrev.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!-- parsing file: docs/service/toxtemp_assistant.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/toxtemp_assistant.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>

@@ -59,6 +59,14 @@ A software tool to predict metabolites based on inputs in SMILE format. [[more i
 
 ------------------------
 
+![BMDExpress-3 logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+
+## BMDExpress-3
+
+A tool to perform dose response modeling for high dimensional dose-response analysis. [[more information](service/bmdexpress_3.md)]
+
+------------------------
+
 ![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png)
 
 ## BridgeDb
@@ -113,6 +121,12 @@ An online service to extract chemical structures from PDF-formatted files and im
 
 ------------------------
 
+## NIH Dietary Supplement Label Database
+
+The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States. [[more information](service/dsld.md)]
+
+------------------------
+
 ![European Medicines Agency Documents logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ema_documents.png)
 
 ## European Medicines Agency Documents
@@ -140,6 +154,18 @@ An open source data management platform that allows importing and exporting meta
 ## Flame
 
 An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments. [[more information](service/flame.md)]
+
+------------------------
+
+## Google Search
+
+Web search engine by Google. [[more information](service/gscholar.md)]
+
+------------------------
+
+## Google Scholar
+
+Search engine for (scientific) literature. [[more information](service/gscholar.md)]
 
 ------------------------
 
@@ -181,6 +207,14 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 ------------------------
 
+![O'QT: The OECD QSAR Toolbox AI Assistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oqt_assistant.png)
+
+## O'QT: The OECD QSAR Toolbox AI Assistant
+
+A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox. [[more information](service/oqt_assistant.md)]
+
+------------------------
+
 ## qAOP-App
 
 An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies. [[more information](service/qaop_app.md)]
@@ -204,6 +238,14 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 ## SysRev
 
 An online service to conduct literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
+
+------------------------
+
+![ToxTempAssistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/toxtemp_assistant.png)
+
+## ToxTempAssistant
+
+A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template. [[more information](service/toxtemp_assistant.md)]
 
 ------------------------
 

@@ -1,0 +1,27 @@
+
+{
+
+  "id": "gscholar",
+
+  "service": "Google Search",
+
+  "description": "Web search engine by Google.",
+
+  "stage": "generic",
+  "substage": "mechanisms of toxicity / compound characteristics​",
+
+  "url": "https://google.com/",
+
+  "instance": {
+    "type": "external"
+  },
+
+  "provider": {
+    "name": "Google",
+    "url": "https://google.com/"
+  },
+
+  "regulatory-question": {
+    "3b": "true"
+  }
+}

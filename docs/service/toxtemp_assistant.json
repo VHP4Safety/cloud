@@ -1,0 +1,75 @@
+
+{
+  "id": "toxtemp_assistant",
+  "service": "ToxTempAssistant",
+  "description": "A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+  "substage": "",
+  "screenshot": "toxtemp_assistant.png",
+  "url": "",
+  "doi": "",
+  "release_notes": "",
+  "instance": {
+    "type": "internal",
+    "vhp-platform": "development",
+    "url": "https://toxtempassistant.vhp4safety.nl/",
+    "license": "GNU Affero General Public License v3.0",
+    "version": "0.9",
+    "source": "https://github.com/johannehouweling/ToxTempAssistant",
+    "docker": "https://github.com/johannehouweling/ToxTempAssistant",
+    "TRL": "TRL6"
+  },
+  "provider": {
+    "contact": {
+      "name": "Jente Houweling",
+      "email": "jente.houweling@rivm.nl"
+    },
+    "name": "Maastricht University",
+    "url": "https://www.maastrichtuniversity.nl/"
+  },
+  "access": {
+    "API": "",
+    "login": ""
+  },
+  "intro": {
+    "title": "",
+    "url": ""
+  },
+  "demo": {
+    "title": "",
+    "url": ""
+  },
+  "workflow": {
+    "title": "",
+    "url": ""
+  },
+  "ELIXIR": {
+    "biotools": "",
+    "tess": "",
+    "fairsharing": ""
+  },
+  "Other": {
+    "wikipedia": "",
+    "rsd": ""
+  },
+  "NAM-validation": {
+    "NAM-stage-1": "false",
+    "NAM-stage-2": "false",
+    "NAM-stage-3": "false",
+    "NAM-stage-4": "false",
+    "NAM-stage-5": "false"
+  },
+  "VHP-persona": {
+    "persona-1": "true",
+    "persona-2": "true",
+    "persona-3": "true"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "true",
+    "2b": "false",
+    "3a": "false",
+    "3b": "true"
+  }
+}
