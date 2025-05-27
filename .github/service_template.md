@@ -4,17 +4,17 @@
 
 {{description}}
 
-![{{service}} logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/{{id}}.png)
+![{{service}} logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/{{screenshot}})
 
 ## Documentation
 
 #### VHP4Safety Documentation
 
-* Service Introduction: {{intro.title_url}}
+* Service Introduction: {{#intro}}[{{title}}]({{url}}){{/intro}}{{^intro}}To be added{{/intro}}
 
-* Workflow: {{workflow.title_url}}
+* Workflow: {{#workflow}}[{{title}}]({{url}}){{/workflow}}{{^workflow}}To be added{{/workflow}}
 
-* Demo: {{demo.title_url}}
+* Demo: {{#demo}}[{{title}}]({{url}}){{/demo}}{{^demo}}To be added{{/demo}}
 
 <h4 id='tess-widget-materials-header'></h4>
 
@@ -46,17 +46,17 @@
 
 * Sub-Stage: {{substage}}
 
-* Development Cloud: {{instance.url_link}}
+* Development Cloud: {{#instance.url}}[{{instance.url}}]({{instance.url}}){{/instance.url}}{{^instance.url}}Not available{{/instance.url}}
 
-* Login Required: {{access.login}}
+* Login Required: {{#access.login}}{{access.login}}{{/access.login}}{{^access.login}}Not available{{/access.login}}
 
-* TRL: {{instance.TRL}}
+* TRL: {{#instance.TRL}}{{instance.TRL}}{{/instance.TRL}}{{^instance.TRL}}Not available{{/instance.TRL}}
 
-* Type: {{instance.type}}
+* Type: {{#instance.type}}{{instance.type}}{{/instance.type}}{{^instance.type}}Not available{{/instance.type}}
 
-* Contact: {{provider.contact.name_email}}
+* Contact: {{#provider.contact.name}}{{provider.contact.name}} ({{provider.contact.email}}){{/provider.contact.name}}{{^provider.contact.name}}Not available{{/provider.contact.name}}
 
-* API Type: {{access.API}}
+* API Type: {{#access.API}}{{access.API}}{{/access.API}}{{^access.API}}Not available{{/access.API}}
 
 * Categories: To be added
 
@@ -66,27 +66,27 @@
 
 ## Techincal Tool Specifications
 
-* Provider: {{provider.name_url}}
+* Provider: {{#provider.name}}[{{provider.name}}]({{provider.url}}){{/provider.name}}{{^provider.name}}Not available{{/provider.name}}
 
-* Citation: {{doi_link}}
+* Citation: {{#doi}}[{{doi}}](https://doi.org/{{doi}}){{/doi}}{{^doi}}Not available{{/doi}}
 
-* Version: {{instance.version}}
+* Version: {{#instance.version}}{{instance.version}}{{/instance.version}}{{^instance.version}}Not available{{/instance.version}}
 
-* License: {{instance.license}}
+* License: {{#instance.license}}{{instance.license}}{{/instance.license}}{{^instance.license}}Not available{{/instance.license}}
 
-* Source Code: {{instance.source_link}}
+* Source Code: {{#instance.source}}[{{instance.source}}]({{instance.source}}){{/instance.source}}{{^instance.source}}Not available{{/instance.source}}
 
-* Docker: {{instance.docker_link}}
+* Docker: {{#instance.docker}}[{{instance.docker}}]({{instance.docker}}){{/instance.docker}}{{^instance.docker}}Not available{{/instance.docker}}
 
-* Bio.tools: {{ELIXIR.biotools_link}}
+* Bio.tools: {{#ELIXIR.biotools}}[{{ELIXIR.biotools}}]({{ELIXIR.biotools}}){{/ELIXIR.biotools}}{{^ELIXIR.biotools}}Not available{{/ELIXIR.biotools}}
 
-* FAIRsharing: {{ELIXIR.fairsharing_link}}
+* FAIRsharing: {{#ELIXIR.fairsharing}}[{{ELIXIR.fairsharing}}]({{ELIXIR.fairsharing}}){{/ELIXIR.fairsharing}}{{^ELIXIR.fairsharing}}Not available{{/ELIXIR.fairsharing}}
 
-* TeSS: {{ELIXIR.tess_link}}
+* TeSS: {{#ELIXIR.tess}}[{{ELIXIR.tess}}]({{ELIXIR.tess}}){{/ELIXIR.tess}}{{^ELIXIR.tess}}Not available{{/ELIXIR.tess}}
 
-* RSD: {{Other.rsd_link}}
+* RSD: {{#Other.rsd}}[{{Other.rsd}}]({{Other.rsd}}){{/Other.rsd}}{{^Other.rsd}}Not available{{/Other.rsd}}
 
-* Wikipedia: {{Other.wikipedia_link}}
+* Wikipedia: {{#Other.wikipedia}}[{{Other.wikipedia}}]({{Other.wikipedia}}){{/Other.wikipedia}}{{^Other.wikipedia}}Not available{{/Other.wikipedia}}
 
 <script type="application/ld+json">
   {
