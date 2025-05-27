@@ -74,7 +74,7 @@ A webservice to conduct protein-structure and reactivity based (P450) site-of-me
 
 #### ToxTempAssistant
 
-A Large Language Models (LLM) assisted tool to help filling in data templates. [[more information](service/toxtemp_assistant.md)]
+A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template. [[more information](service/toxtemp_assistant.md)]
 
 #### TXG-MAPr
 
