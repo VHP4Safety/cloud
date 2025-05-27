@@ -43,9 +43,9 @@ An online repository of official reports from the European Medicines Agency.
 
 ## VHP4Safety Service Metadata
 
-* Stage: <span class="glossary_term">Not available
+* Stage: <span class="glossary_term">[external exposure](external exposure)</span>
 
-* Sub-stage: <span class="glossary_term">Not available
+* Sub-stage: <span class="glossary_term">[compound characteristics](compound characteristics)</span>
 
 * Development Cloud: Not available
 
