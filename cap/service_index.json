@@ -49,6 +49,13 @@
     "png_file_name": "biotransformer.png"
   },
   {
+    "service": "BMDExpress-3",
+    "description": "A tool to perform dose response modeling for high dimensional dose-response analysis.",
+    "html_name": "bmdexpress_3.html",
+    "md_file_name": "bmdexpress_3.md",
+    "png_file_name": "bmdexpress_3.png"
+  },
+  {
     "service": "BridgeDb",
     "description": "A framework to map identifiers between various biological databases and related sources.",
     "html_name": "bridgedb.html",
