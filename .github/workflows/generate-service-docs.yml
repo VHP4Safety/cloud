@@ -66,7 +66,7 @@ jobs:
           git config --global user.email 'action@github.com'
           git pull
           git add docs/service/*.md
-          git adds docs/resource/glossary.owl
+          git add docs/resource/glossary.owl
           if git diff --exit-code --staged; then
               echo "No changes to commit"
           else
