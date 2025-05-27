@@ -62,6 +62,7 @@ async function loadGlossaryTerms() {
     // Extract all classes/concepts with their labels and descriptions
     const classes = xmlDoc.querySelectorAll('owl\\:Class, Class');
     classes.forEach(cls => {
+      console.log(cls);
       const about = cls.getAttribute('rdf:about') || cls.getAttribute('about');
       if (about) {
         const label = cls.querySelector('rdfs\\:label, label')?.textContent?.trim();
@@ -80,8 +81,12 @@ async function loadGlossaryTerms() {
     // Process all elements with class 'glossary_term'
     const glossaryElements = document.querySelectorAll('.glossary_term');
     glossaryElements.forEach(element => {
-      const termText = element.textContent.trim().toLowerCase();
-      const termData = glossaryData.get(termText);
+      const anchor = element.querySelector('a');
+      if (!anchor) return;
+
+      const href = anchor.getAttribute('href').trim();
+      const termData = glossaryData.get(href);
+
       
       if (termData) {
         // Create the glossary info element
