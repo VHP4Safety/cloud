@@ -28,14 +28,16 @@ for filename in os.listdir(service_dir):
                 screenshot_url = data.get('screenshot')
                 if not screenshot_url:
                     screenshot_url = 'https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png'
-
+                    
+                service_stage = data.get('stage')
 
                 services.append({
                     "service": service_name,
                     "description": description,
                     "html_name": f"{base_name}.html",
                     "md_file_name": f"{base_name}.md",
-                    "png_file_name": screenshot_url
+                    "png_file_name": screenshot_url,
+                    "stage": service_stage
                 })
             except json.JSONDecodeError as e:
                 print(f"Skipping invalid JSON file: {filename}")
