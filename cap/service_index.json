@@ -4,258 +4,295 @@
     "description": "Populate a network with AOPs and add weights to the edges based on custom tabular data, queries to other VHP tools and external databases, via BioDataFuse ",
     "html_name": "aop_network.html",
     "md_file_name": "aop_network.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "AOP-Builder",
     "description": "A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI.",
     "html_name": "aop-builder.html",
     "md_file_name": "aop-builder.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "AOP-Wiki API",
     "description": "A REST API for AOP-Wiki content to make SPARQL queries.",
     "html_name": "aopwikiapi.html",
     "md_file_name": "aopwikiapi.md",
-    "png_file_name": "aopwikiapi.png"
+    "png_file_name": "aopwikiapi.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "AOP-Wiki Snorql UI",
     "description": "A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.",
     "html_name": "aopwiki.html",
     "md_file_name": "aopwiki.md",
-    "png_file_name": "aopwiki.png"
+    "png_file_name": "aopwiki.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "ArrayAnalysis",
     "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
     "html_name": "arrayanalysis.html",
     "md_file_name": "arrayanalysis.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "NA"
   },
   {
     "service": "BioModels",
     "description": "A repository of mathematical models of biological and biomedical systems.",
     "html_name": "biomodels.html",
     "md_file_name": "biomodels.md",
-    "png_file_name": "biomodels.png"
+    "png_file_name": "biomodels.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "BioTransformer",
     "description": "A software tool to predict metabolites based on inputs in SMILE format.",
     "html_name": "biotransformer.html",
     "md_file_name": "biotransformer.md",
-    "png_file_name": "biotransformer.png"
+    "png_file_name": "biotransformer.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "BMDExpress-3",
     "description": "A tool to perform dose response modeling for high dimensional dose-response analysis.",
     "html_name": "bmdexpress_3.html",
     "md_file_name": "bmdexpress_3.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": ""
   },
   {
     "service": "BridgeDb",
     "description": "A framework to map identifiers between various biological databases and related sources.",
     "html_name": "bridgedb.html",
     "md_file_name": "bridgedb.md",
-    "png_file_name": "bridgedb.png"
+    "png_file_name": "bridgedb.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "CDK Depict",
     "description": "A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats.",
     "html_name": "cdkdepict.html",
     "md_file_name": "cdkdepict.md",
-    "png_file_name": "cdkdepict.png"
+    "png_file_name": "cdkdepict.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "CellDesigner",
     "description": "A structured diagram editor to draw gene-regulatory and biochemical networks.",
     "html_name": "celldesigner.html",
     "md_file_name": "celldesigner.md",
-    "png_file_name": "celldesigner.png"
+    "png_file_name": "celldesigner.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "CompTox",
     "description": "An online database to provide access to chemistry, toxicity, and exposure information for chemicals.",
     "html_name": "comptox.html",
     "md_file_name": "comptox.md",
-    "png_file_name": "comptox.png"
+    "png_file_name": "comptox.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000148"
   },
   {
     "service": "COPASI",
     "description": "An open-source software application to create and solve mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others.",
     "html_name": "copasi.html",
     "md_file_name": "copasi.md",
-    "png_file_name": "copasi.png"
+    "png_file_name": "copasi.png",
+    "stage": null
   },
   {
     "service": "cpLogD",
     "description": "A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates.",
     "html_name": "cplogd.html",
     "md_file_name": "cplogd.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "DECIMER",
     "description": "An online service to extract chemical structures from PDF-formatted files and images.",
     "html_name": "decimer.html",
     "md_file_name": "decimer.md",
-    "png_file_name": "decimer.png"
+    "png_file_name": "decimer.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "European Medicines Agency Documents",
     "description": "An online repository of official reports from the European Medicines Agency.",
     "html_name": "ema_documents.html",
     "md_file_name": "ema_documents.md",
-    "png_file_name": "ema_documents.png"
+    "png_file_name": "ema_documents.png",
+    "stage": "external exposure"
   },
   {
     "service": "FAIRDOMHub",
     "description": "A web-accessible registry to store, share and publish research assets of biology projects.",
     "html_name": "fairdomhub.html",
     "md_file_name": "fairdomhub.md",
-    "png_file_name": "fairdomhub.png"
+    "png_file_name": "fairdomhub.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "Fairspace",
     "description": "An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF)",
     "html_name": "fairspace.html",
     "md_file_name": "fairspace.md",
-    "png_file_name": "fairspace.png"
+    "png_file_name": "fairspace.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "Flame",
     "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
     "html_name": "flame.html",
     "md_file_name": "flame.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "Google Scholar",
     "description": "Search engine for (scientific) literature.",
     "html_name": "gscholar.html",
     "md_file_name": "gscholar.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "generic"
   },
   {
     "service": "Google Search",
     "description": "Web search engine by Google.",
     "html_name": "google.html",
     "md_file_name": "google.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "generic"
   },
   {
     "service": "Joint Research Centre Data Catalogue",
     "description": "An inventory of data produced by the Joint Research Centre (JRC) in accordance with the JRC Data Policy.",
     "html_name": "jrc_data_catalogue.html",
     "md_file_name": "jrc_data_catalogue.md",
-    "png_file_name": "jrc_data_catalogue.png"
+    "png_file_name": "jrc_data_catalogue.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "NIH Dietary Supplement Label Database",
     "description": "The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States.",
     "html_name": "dsld.html",
     "md_file_name": "dsld.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "external exposure"
   },
   {
     "service": "O'QT: The OECD QSAR Toolbox AI Assistant",
     "description": "A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox.",
     "html_name": "oqt_assistant.html",
     "md_file_name": "oqt_assistant.md",
-    "png_file_name": "oqt_assistant.png"
+    "png_file_name": "oqt_assistant.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "OP PBK Model",
     "description": "Physiologically based pharmacokinetic model for organophosphates",
     "html_name": "oppbk_model.html",
     "md_file_name": "oppbk_model.md",
-    "png_file_name": "oppbk_model.png"
+    "png_file_name": "oppbk_model.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000056"
   },
   {
     "service": "OPSIN: Open Parser for Systematic IUPAC nomenclature",
     "description": "An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES.",
     "html_name": "opsin.html",
     "md_file_name": "opsin.md",
-    "png_file_name": "opsin.png"
+    "png_file_name": "opsin.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000148"
   },
   {
     "service": "qAOP-App",
     "description": "An interactive tool offering an overview and dynamic time\u2010course predictions of KEs and AOs via ODE\u2010based qAOP models, based on VHP4Safety case studies.",
     "html_name": "qaop_app.html",
     "md_file_name": "qaop_app.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "QSPRpred",
     "description": "This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies.",
     "html_name": "qsprpred.html",
     "md_file_name": "qsprpred.md",
-    "png_file_name": "qsprpred.png"
+    "png_file_name": "qsprpred.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "SOM Prediction",
     "description": "A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction.",
     "html_name": "sombie.html",
     "md_file_name": "sombie.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000056"
   },
   {
     "service": "SysRev",
     "description": "An online service to conduct literature review, data extraction and systematic review.",
     "html_name": "sysrev.html",
     "md_file_name": "sysrev.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "The OECD QSAR Toolbox",
     "description": "A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way.",
     "html_name": "oecd_qsar_toolbox.html",
     "md_file_name": "oecd_qsar_toolbox.md",
-    "png_file_name": "oecd_qsar_toolbox.png"
+    "png_file_name": "oecd_qsar_toolbox.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000056"
   },
   {
     "service": "ToxTempAssistant",
     "description": "A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template.",
     "html_name": "toxtemp_assistant.html",
     "md_file_name": "toxtemp_assistant.md",
-    "png_file_name": "toxtemp_assistant.png"
+    "png_file_name": "toxtemp_assistant.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "TXG-MAPr",
     "description": "An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets.",
     "html_name": "txg_mapr.html",
     "md_file_name": "txg_mapr.md",
-    "png_file_name": "txg_mapr.png"
+    "png_file_name": "txg_mapr.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "VHP4Safety Wikibase",
     "description": "A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
     "html_name": "wikibase.html",
     "md_file_name": "wikibase.md",
-    "png_file_name": "VHP4Safety_ChemicalCompounds.png"
+    "png_file_name": "VHP4Safety_ChemicalCompounds.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "VHP4Safety Wikibase User Interface",
     "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries.",
     "html_name": "kb.html",
     "md_file_name": "kb.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
   },
   {
     "service": "WikiPathways - AOP Portal",
     "description": "An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.",
     "html_name": "wikipathways_aop.html",
     "md_file_name": "wikipathways_aop.md",
-    "png_file_name": "wikipathways_aop.png"
+    "png_file_name": "wikipathways_aop.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   },
   {
     "service": "xploreaop",
     "description": "A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.",
     "html_name": "xploreaop.html",
     "md_file_name": "xploreaop.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
   }
 ]
