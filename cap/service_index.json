@@ -61,7 +61,7 @@
     "html_name": "bmdexpress_3.html",
     "md_file_name": "bmdexpress_3.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": ""
+    "stage": "Unknown"
   },
   {
     "service": "BridgeDb",
@@ -101,7 +101,7 @@
     "html_name": "copasi.html",
     "md_file_name": "copasi.md",
     "png_file_name": "copasi.png",
-    "stage": null
+    "stage": "Unknown"
   },
   {
     "service": "cpLogD",
