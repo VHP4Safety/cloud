@@ -6,6 +6,7 @@ import json
 # meta-data will be stored. 
 service_dir = 'docs/service'
 output_dir  = 'cap'
+
 output_file = os.path.join(output_dir, 'service_index.json')
 
 # Creating an empty list to store the meta-data.
@@ -22,12 +23,19 @@ for filename in os.listdir(service_dir):
                 description = data.get('description')
 
                 base_name = filename.replace('.json', '')
+                
+                # Check if 'screenshot' exists and is not empty
+                screenshot_url = data.get('screenshot')
+                if not screenshot_url:
+                    screenshot_url = 'https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png'
+
+
                 services.append({
                     "service": service_name,
                     "description": description,
                     "html_name": f"{base_name}.html",
                     "md_file_name": f"{base_name}.md",
-                    "png_file_name": f"{base_name}.png"
+                    "png_file_name": screenshot_url
                 })
             except json.JSONDecodeError as e:
                 print(f"Skipping invalid JSON file: {filename}")
@@ -38,3 +46,5 @@ services.sort(key=lambda x: x['service'].lower())
 # Writing the output.
 with open(output_file, 'w', encoding='utf-8') as f:
     json.dump(services, f, indent=2)
+
+        

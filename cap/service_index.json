@@ -4,14 +4,14 @@
     "description": "Populate a network with AOPs and add weights to the edges based on custom tabular data, queries to other VHP tools and external databases, via BioDataFuse ",
     "html_name": "aop_network.html",
     "md_file_name": "aop_network.md",
-    "png_file_name": "aop_network.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "AOP-Builder",
     "description": "A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI.",
     "html_name": "aop-builder.html",
     "md_file_name": "aop-builder.md",
-    "png_file_name": "aop-builder.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "AOP-Wiki API",
@@ -32,7 +32,7 @@
     "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
     "html_name": "arrayanalysis.html",
     "md_file_name": "arrayanalysis.md",
-    "png_file_name": "arrayanalysis.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "BioModels",
@@ -53,7 +53,7 @@
     "description": "A tool to perform dose response modeling for high dimensional dose-response analysis.",
     "html_name": "bmdexpress_3.html",
     "md_file_name": "bmdexpress_3.md",
-    "png_file_name": "bmdexpress_3.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "BridgeDb",
@@ -95,7 +95,7 @@
     "description": "A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates.",
     "html_name": "cplogd.html",
     "md_file_name": "cplogd.md",
-    "png_file_name": "cplogd.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "DECIMER",
@@ -130,21 +130,21 @@
     "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
     "html_name": "flame.html",
     "md_file_name": "flame.md",
-    "png_file_name": "flame.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "Google Scholar",
     "description": "Search engine for (scientific) literature.",
     "html_name": "gscholar.html",
     "md_file_name": "gscholar.md",
-    "png_file_name": "gscholar.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "Google Search",
     "description": "Web search engine by Google.",
     "html_name": "google.html",
     "md_file_name": "google.md",
-    "png_file_name": "google.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "Joint Research Centre Data Catalogue",
@@ -158,7 +158,7 @@
     "description": "The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States.",
     "html_name": "dsld.html",
     "md_file_name": "dsld.md",
-    "png_file_name": "dsld.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "O'QT: The OECD QSAR Toolbox AI Assistant",
@@ -186,7 +186,7 @@
     "description": "An interactive tool offering an overview and dynamic time\u2010course predictions of KEs and AOs via ODE\u2010based qAOP models, based on VHP4Safety case studies.",
     "html_name": "qaop_app.html",
     "md_file_name": "qaop_app.md",
-    "png_file_name": "qaop_app.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "QSPRpred",
@@ -200,14 +200,14 @@
     "description": "A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction.",
     "html_name": "sombie.html",
     "md_file_name": "sombie.md",
-    "png_file_name": "sombie.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "SysRev",
     "description": "An online service to conduct literature review, data extraction and systematic review.",
     "html_name": "sysrev.html",
     "md_file_name": "sysrev.md",
-    "png_file_name": "sysrev.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "The OECD QSAR Toolbox",
@@ -235,14 +235,14 @@
     "description": "A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
     "html_name": "wikibase.html",
     "md_file_name": "wikibase.md",
-    "png_file_name": "wikibase.png"
+    "png_file_name": "VHP4Safety_ChemicalCompounds.png"
   },
   {
     "service": "VHP4Safety Wikibase User Interface",
     "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries.",
     "html_name": "kb.html",
     "md_file_name": "kb.md",
-    "png_file_name": "kb.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   },
   {
     "service": "WikiPathways - AOP Portal",
@@ -256,6 +256,6 @@
     "description": "A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.",
     "html_name": "xploreaop.html",
     "md_file_name": "xploreaop.md",
-    "png_file_name": "xploreaop.png"
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png"
   }
 ]
