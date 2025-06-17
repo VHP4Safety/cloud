@@ -29,7 +29,10 @@ for filename in os.listdir(service_dir):
                 if not screenshot_url:
                     screenshot_url = 'https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png'
                     
+                # Check if 'stage' exists and is not empty
                 service_stage = data.get('stage')
+                if not service_stage:
+                    service_stage = 'Unknown'  # Default to 'Unknown' if no stage is found
 
                 services.append({
                     "service": service_name,
