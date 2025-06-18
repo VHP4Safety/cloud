@@ -24,6 +24,16 @@ for filename in os.listdir(service_dir):
 
                 base_name = filename.replace('.json', '')
                 
+                # Getting the main URL to the tool.
+                main_url = data.get("url")
+                if not main_url: 
+                    main_url = "no_url"
+                
+                # Getting the instance URL to the tool.
+                # instance_url = data.get("instance").get("url")
+                # if not instance_url: 
+                #     instance_url = "no_url"
+                
                 # Check if 'screenshot' exists and is not empty
                 screenshot_url = data.get('screenshot')
                 if not screenshot_url:
@@ -40,7 +50,9 @@ for filename in os.listdir(service_dir):
                     "html_name": f"{base_name}.html",
                     "md_file_name": f"{base_name}.md",
                     "png_file_name": screenshot_url,
-                    "stage": service_stage
+                    "stage": service_stage,
+                    "main_url": main_url,
+                    # "instance_url": instance_url
                 })
             except json.JSONDecodeError as e:
                 print(f"Skipping invalid JSON file: {filename}")
