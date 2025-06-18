@@ -5,7 +5,8 @@
     "html_name": "aop_network.html",
     "md_file_name": "aop_network.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "no_url"
   },
   {
     "service": "AOP-Builder",
@@ -13,7 +14,8 @@
     "html_name": "aop-builder.html",
     "md_file_name": "aop-builder.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "https://crebuilder.vhp4safety.nl"
   },
   {
     "service": "AOP-Wiki API",
@@ -21,7 +23,8 @@
     "html_name": "aopwikiapi.html",
     "md_file_name": "aopwikiapi.md",
     "png_file_name": "aopwikiapi.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries"
   },
   {
     "service": "AOP-Wiki Snorql UI",
@@ -29,7 +32,8 @@
     "html_name": "aopwiki.html",
     "md_file_name": "aopwiki.md",
     "png_file_name": "aopwiki.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "https://aopwiki.cloud.vhp4safety.nl/"
   },
   {
     "service": "ArrayAnalysis",
@@ -37,7 +41,8 @@
     "html_name": "arrayanalysis.html",
     "md_file_name": "arrayanalysis.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "NA"
+    "stage": "NA",
+    "main_url": "no_url"
   },
   {
     "service": "BioModels",
@@ -45,7 +50,8 @@
     "html_name": "biomodels.html",
     "md_file_name": "biomodels.md",
     "png_file_name": "biomodels.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://www.ebi.ac.uk/biomodels/"
   },
   {
     "service": "BioTransformer",
@@ -53,7 +59,8 @@
     "html_name": "biotransformer.html",
     "md_file_name": "biotransformer.md",
     "png_file_name": "biotransformer.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://biotransformer.ca/"
   },
   {
     "service": "BMDExpress-3",
@@ -61,7 +68,8 @@
     "html_name": "bmdexpress_3.html",
     "md_file_name": "bmdexpress_3.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "Unknown"
+    "stage": "Unknown",
+    "main_url": "https://github.com/auerbachs/BMDExpress-3"
   },
   {
     "service": "BridgeDb",
@@ -69,7 +77,8 @@
     "html_name": "bridgedb.html",
     "md_file_name": "bridgedb.md",
     "png_file_name": "bridgedb.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://bridgedb.cloud.vhp4safety.nl/"
   },
   {
     "service": "CDK Depict",
@@ -77,7 +86,8 @@
     "html_name": "cdkdepict.html",
     "md_file_name": "cdkdepict.md",
     "png_file_name": "cdkdepict.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://cdkdepict.cloud.vhp4safety.nl/"
   },
   {
     "service": "CellDesigner",
@@ -85,7 +95,8 @@
     "html_name": "celldesigner.html",
     "md_file_name": "celldesigner.md",
     "png_file_name": "celldesigner.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "https://www.celldesigner.org/"
   },
   {
     "service": "CompTox",
@@ -93,7 +104,8 @@
     "html_name": "comptox.html",
     "md_file_name": "comptox.md",
     "png_file_name": "comptox.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000148"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000148",
+    "main_url": "https://comptox.epa.gov/dashboard/"
   },
   {
     "service": "COPASI",
@@ -101,7 +113,8 @@
     "html_name": "copasi.html",
     "md_file_name": "copasi.md",
     "png_file_name": "copasi.png",
-    "stage": "Unknown"
+    "stage": "Unknown",
+    "main_url": "http://copasi.org/"
   },
   {
     "service": "cpLogD",
@@ -109,7 +122,8 @@
     "html_name": "cplogd.html",
     "md_file_name": "cplogd.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://cplogd.cloud.vhp4safety.nl/"
   },
   {
     "service": "DECIMER",
@@ -117,7 +131,8 @@
     "html_name": "decimer.html",
     "md_file_name": "decimer.md",
     "png_file_name": "decimer.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://decimer.ai/"
   },
   {
     "service": "European Medicines Agency Documents",
@@ -125,7 +140,8 @@
     "html_name": "ema_documents.html",
     "md_file_name": "ema_documents.md",
     "png_file_name": "ema_documents.png",
-    "stage": "external exposure"
+    "stage": "external exposure",
+    "main_url": "https://www.ema.europa.eu/en/search"
   },
   {
     "service": "FAIRDOMHub",
@@ -133,7 +149,8 @@
     "html_name": "fairdomhub.html",
     "md_file_name": "fairdomhub.md",
     "png_file_name": "fairdomhub.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://fairdomhub.org/"
   },
   {
     "service": "Fairspace",
@@ -141,7 +158,8 @@
     "html_name": "fairspace.html",
     "md_file_name": "fairspace.md",
     "png_file_name": "fairspace.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://www.thehyve.nl/services/fairspace"
   },
   {
     "service": "Flame",
@@ -149,7 +167,8 @@
     "html_name": "flame.html",
     "md_file_name": "flame.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "http://flame.cloud.vhp4safety.nl:8098/"
   },
   {
     "service": "Google Scholar",
@@ -157,7 +176,8 @@
     "html_name": "gscholar.html",
     "md_file_name": "gscholar.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "generic"
+    "stage": "generic",
+    "main_url": "https://scholar.google.com/"
   },
   {
     "service": "Google Search",
@@ -165,7 +185,8 @@
     "html_name": "google.html",
     "md_file_name": "google.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "generic"
+    "stage": "generic",
+    "main_url": "https://google.com/"
   },
   {
     "service": "Joint Research Centre Data Catalogue",
@@ -173,7 +194,8 @@
     "html_name": "jrc_data_catalogue.html",
     "md_file_name": "jrc_data_catalogue.md",
     "png_file_name": "jrc_data_catalogue.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://data.jrc.ec.europa.eu/"
   },
   {
     "service": "NIH Dietary Supplement Label Database",
@@ -181,7 +203,8 @@
     "html_name": "dsld.html",
     "md_file_name": "dsld.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "external exposure"
+    "stage": "external exposure",
+    "main_url": "https://dsld.od.nih.gov/"
   },
   {
     "service": "O'QT: The OECD QSAR Toolbox AI Assistant",
@@ -189,7 +212,8 @@
     "html_name": "oqt_assistant.html",
     "md_file_name": "oqt_assistant.md",
     "png_file_name": "oqt_assistant.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "no_url"
   },
   {
     "service": "OP PBK Model",
@@ -197,7 +221,8 @@
     "html_name": "oppbk_model.html",
     "md_file_name": "oppbk_model.md",
     "png_file_name": "oppbk_model.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000056"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000056",
+    "main_url": "http://oppbk.cloud.vhp4safety.nl/"
   },
   {
     "service": "OPSIN: Open Parser for Systematic IUPAC nomenclature",
@@ -205,7 +230,8 @@
     "html_name": "opsin.html",
     "md_file_name": "opsin.md",
     "png_file_name": "opsin.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000148"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000148",
+    "main_url": "https://opsin.ch.cam.ac.uk/"
   },
   {
     "service": "qAOP-App",
@@ -213,7 +239,8 @@
     "html_name": "qaop_app.html",
     "md_file_name": "qaop_app.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "no_url"
   },
   {
     "service": "QSPRpred",
@@ -221,7 +248,8 @@
     "html_name": "qsprpred.html",
     "md_file_name": "qsprpred.md",
     "png_file_name": "qsprpred.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "no_url"
   },
   {
     "service": "SOM Prediction",
@@ -229,7 +257,8 @@
     "html_name": "sombie.html",
     "md_file_name": "sombie.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000056"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000056",
+    "main_url": "https://sombie.cloud.vhp4safety.nl/"
   },
   {
     "service": "SysRev",
@@ -237,7 +266,8 @@
     "html_name": "sysrev.html",
     "md_file_name": "sysrev.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://sysrev.com/"
   },
   {
     "service": "The OECD QSAR Toolbox",
@@ -245,7 +275,8 @@
     "html_name": "oecd_qsar_toolbox.html",
     "md_file_name": "oecd_qsar_toolbox.md",
     "png_file_name": "oecd_qsar_toolbox.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000056"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000056",
+    "main_url": "https://qsartoolbox.org/"
   },
   {
     "service": "ToxTempAssistant",
@@ -253,7 +284,8 @@
     "html_name": "toxtemp_assistant.html",
     "md_file_name": "toxtemp_assistant.md",
     "png_file_name": "toxtemp_assistant.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "no_url"
   },
   {
     "service": "TXG-MAPr",
@@ -261,7 +293,8 @@
     "html_name": "txg_mapr.html",
     "md_file_name": "txg_mapr.md",
     "png_file_name": "txg_mapr.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "https://txg-mapr.eu/"
   },
   {
     "service": "VHP4Safety Wikibase",
@@ -269,7 +302,8 @@
     "html_name": "wikibase.html",
     "md_file_name": "wikibase.md",
     "png_file_name": "VHP4Safety_ChemicalCompounds.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "https://compoundcloud.wikibase.cloud/"
   },
   {
     "service": "VHP4Safety Wikibase User Interface",
@@ -277,7 +311,8 @@
     "html_name": "kb.html",
     "md_file_name": "kb.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000149"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+    "main_url": "no_url"
   },
   {
     "service": "WikiPathways - AOP Portal",
@@ -285,7 +320,8 @@
     "html_name": "wikipathways_aop.html",
     "md_file_name": "wikipathways_aop.md",
     "png_file_name": "wikipathways_aop.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "http://aop.wikipathways.org/"
   },
   {
     "service": "xploreaop",
@@ -293,6 +329,7 @@
     "html_name": "xploreaop.html",
     "md_file_name": "xploreaop.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
-    "stage": "https://vhp4safety.github.io/glossary#VHP0000102"
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "https://xploreaop.cloud.vhp4safety.nl/"
   }
 ]
