@@ -11,7 +11,7 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 #### VHP4Safety Documentation
 
-* Service Introduction: To be added
+* Service Introduction: [Microarray Analysis](https://arrayanalysis.org/details#Microarray_Analysis), [RNA-seq Analysis](https://arrayanalysis.org/details#RNA-seq_Analysis)
 
 * Workflow: To be added
 

@@ -37,6 +37,8 @@ A REST API for AOP-Wiki content to make SPARQL queries. [[more information](serv
 
 ------------------------
 
+![ArrayAnalysis logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/arrayanalysis.png)
+
 ## ArrayAnalysis
 
 A user-friendly service to conduct quality control and pre-processing analyses for microarray data. [[more information](service/arrayanalysis.md)]
