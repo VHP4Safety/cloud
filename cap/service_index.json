@@ -36,6 +36,15 @@
     "main_url": "https://aopwiki.cloud.vhp4safety.nl/"
   },
   {
+    "service": "ArrayAnalysis",
+    "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
+    "html_name": "arrayanalysis.html",
+    "md_file_name": "arrayanalysis.md",
+    "png_file_name": "arrayanalysis.png",
+    "stage": "NA",
+    "main_url": "https://arrayanalysis.org/"
+  },
+  {
     "service": "BioModels",
     "description": "A repository of mathematical models of biological and biomedical systems.",
     "html_name": "biomodels.html",
