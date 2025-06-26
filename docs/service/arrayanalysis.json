@@ -15,8 +15,8 @@
     "name": "BiGCaT, Maastricht University"
   },
   "intro": {
-    "title": {"Microarray Analysis;RNA-seq Analysis"},
-    "url": {"https://arrayanalysis.org/details#Microarray_Analysis;https://arrayanalysis.org/details#RNA-seq_Analysis"}
+    "title": "Microarray Analysis;RNA-seq Analysis",
+    "url": "https://arrayanalysis.org/details#Microarray_Analysis;https://arrayanalysis.org/details#RNA-seq_Analysis"
   },
   "ELIXIR": {
     "tess": "arrayanalysis.org"
