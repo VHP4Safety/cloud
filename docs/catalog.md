@@ -159,7 +159,7 @@ An open source framework to develop, host, and use machine-learning models, such
 
 ## Google Search
 
-Web search engine by Google. [[more information](service/gscholar.md)]
+Web search engine by Google. [[more information](service/google.md)]
 
 ------------------------
 
@@ -179,7 +179,7 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 ## VHP4Safety Wikibase User Interface
 
-A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/vhp4safety_wikibase.md)]
+A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/kb.md)]
 
 ------------------------
 

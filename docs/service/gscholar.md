@@ -45,7 +45,7 @@ Search engine for (scientific) literature.
 
 * Stage: generic
 
-* Sub-Stage: mechanisms of toxicity / compound characteristics​
+* Sub-Stage: mechanisms of toxicity / compound characteristics
 
 * Development Cloud: Not available
 
