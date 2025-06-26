@@ -1,14 +1,14 @@
 
 {
 
-  "id": "gscholar",
+  "id": "google",
 
   "service": "Google Search",
 
   "description": "Web search engine by Google.",
 
   "stage": "generic",
-  "substage": "mechanisms of toxicity / compound characteristics​",
+  "substage": "mechanisms of toxicity / compound characteristics",
 
   "url": "https://google.com/",
 

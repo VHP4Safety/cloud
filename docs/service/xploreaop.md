@@ -47,7 +47,7 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: Not available
+* Development Cloud: [https://xploreaop.cloud.vhp4safety.nl/](https://xploreaop.cloud.vhp4safety.nl/) 
 
 * Login Required: Not available
 
@@ -99,6 +99,6 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
     "@id" : "https://vhp4safety.github.io/cloud/service/xploreaop",
     "name": "xploreaop",
     "description": "A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.",
-    "url": ""
+    "url": "https://xploreaop.cloud.vhp4safety.nl/"
   }
 </script>

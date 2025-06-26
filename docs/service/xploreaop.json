@@ -8,6 +8,7 @@
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
+    "url": "https://xploreaop.cloud.vhp4safety.nl/",
     "version": "2.3.3",
     "source": "https://github.com/VHP4Safety/xploreaop"
   },

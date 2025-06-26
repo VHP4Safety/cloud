@@ -37,7 +37,7 @@
     "_ins_type": "Whether the instance 'internal' or 'external'",
     "type": "",
 
-    "_ins_chp-platform": "Whether the instance running on 'development' or 'production' platform.",
+    "_ins_vhp-platform": "Whether the instance running on 'development' or 'production' platform.",
     "vhp-platform": "",
 
     "_ins_url": "URL to the service instance running on our servers.",

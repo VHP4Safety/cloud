@@ -5,7 +5,7 @@
   "stage":"https://vhp4safety.github.io/glossary#VHP0000102",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "wikipathways_aop.png",
-  "url": "http://aop.wikipathways.org/",
+  "url": "https://aop.wikipathways.org/",
   "doi": "10.3389/fgene.2018.00661",
   "instance": {
     "type": "internal",

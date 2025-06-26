@@ -5,11 +5,12 @@
   "stage":"https://vhp4safety.github.io/glossary#VHP0000149",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000047",
   "screenshot": "bridgedb.png",
-  "url": "https://bridgedb.cloud.vhp4safety.nl/",
+  "url": "https://www.bridgedb.org/",
   "doi": "10.1186/1471-2105-11-5",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
+    "url": "https://bridgedb.cloud.vhp4safety.nl/",
     "license": "Apache-2.0",
     "version": "2.3.3",
     "source": "https://github.com/bridgedb/BridgeDb",
