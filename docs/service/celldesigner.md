@@ -11,7 +11,7 @@ A structured diagram editor to draw gene-regulatory and biochemical networks.
 
 #### VHP4Safety Documentation
 
-* Service Introduction: To be added
+* Service Introduction: [Quick Tutorial](https://www.celldesigner.org/help/CDH_QT.html) 
 
 * Workflow: To be added
 
