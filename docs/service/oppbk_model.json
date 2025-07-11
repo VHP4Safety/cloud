@@ -19,5 +19,13 @@
       "name": "Thijs Moerenhout",
       "email": "thijs.moerenhout@wur.nl"
     }
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
   }
 }
