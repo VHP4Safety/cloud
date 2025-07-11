@@ -6,7 +6,13 @@
     "md_file_name": "aop_network.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "no_url"
+    "main_url": "no_url",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "AOP-Builder",
@@ -15,7 +21,13 @@
     "md_file_name": "aop-builder.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "https://crebuilder.vhp4safety.nl"
+    "main_url": "https://crebuilder.vhp4safety.nl",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "AOP-Wiki API",
@@ -24,7 +36,13 @@
     "md_file_name": "aopwikiapi.md",
     "png_file_name": "aopwikiapi.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries"
+    "main_url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "AOP-Wiki Snorql UI",
@@ -33,7 +51,13 @@
     "md_file_name": "aopwiki.md",
     "png_file_name": "aopwiki.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "https://aopwiki.cloud.vhp4safety.nl/"
+    "main_url": "https://aopwiki.cloud.vhp4safety.nl/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "ArrayAnalysis",
@@ -42,7 +66,13 @@
     "md_file_name": "arrayanalysis.md",
     "png_file_name": "arrayanalysis.png",
     "stage": "NA",
-    "main_url": "https://arrayanalysis.org/"
+    "main_url": "https://arrayanalysis.org/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "BioModels",
@@ -51,7 +81,13 @@
     "md_file_name": "biomodels.md",
     "png_file_name": "biomodels.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://www.ebi.ac.uk/biomodels/"
+    "main_url": "https://www.ebi.ac.uk/biomodels/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "BioTransformer",
@@ -60,7 +96,13 @@
     "md_file_name": "biotransformer.md",
     "png_file_name": "biotransformer.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://biotransformer.ca/"
+    "main_url": "https://biotransformer.ca/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "BMDExpress-3",
@@ -69,7 +111,13 @@
     "md_file_name": "bmdexpress_3.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "Unknown",
-    "main_url": "https://github.com/auerbachs/BMDExpress-3"
+    "main_url": "https://github.com/auerbachs/BMDExpress-3",
+    "reg_q_1a": "",
+    "reg_q_1b": "",
+    "reg_q_2a": "",
+    "reg_q_2b": "",
+    "reg_q_3a": "",
+    "reg_q_3b": ""
   },
   {
     "service": "BridgeDb",
@@ -78,7 +126,13 @@
     "md_file_name": "bridgedb.md",
     "png_file_name": "bridgedb.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://www.bridgedb.org/"
+    "main_url": "https://www.bridgedb.org/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "CDK Depict",
@@ -87,7 +141,13 @@
     "md_file_name": "cdkdepict.md",
     "png_file_name": "cdkdepict.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://www.simolecule.com/cdkdepict/depict.html"
+    "main_url": "https://www.simolecule.com/cdkdepict/depict.html",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "CellDesigner",
@@ -96,7 +156,13 @@
     "md_file_name": "celldesigner.md",
     "png_file_name": "celldesigner.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "https://www.celldesigner.org/"
+    "main_url": "https://www.celldesigner.org/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "CompTox",
@@ -105,7 +171,13 @@
     "md_file_name": "comptox.md",
     "png_file_name": "comptox.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000148",
-    "main_url": "https://comptox.epa.gov/dashboard/"
+    "main_url": "https://comptox.epa.gov/dashboard/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "COPASI",
@@ -114,7 +186,13 @@
     "md_file_name": "copasi.md",
     "png_file_name": "copasi.png",
     "stage": "Unknown",
-    "main_url": "http://copasi.org/"
+    "main_url": "http://copasi.org/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "cpLogD",
@@ -123,7 +201,13 @@
     "md_file_name": "cplogd.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://cplogd.cloud.vhp4safety.nl/"
+    "main_url": "https://cplogd.cloud.vhp4safety.nl/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "DECIMER",
@@ -132,7 +216,13 @@
     "md_file_name": "decimer.md",
     "png_file_name": "decimer.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://decimer.ai/"
+    "main_url": "https://decimer.ai/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "European Medicines Agency Documents",
@@ -141,7 +231,13 @@
     "md_file_name": "ema_documents.md",
     "png_file_name": "ema_documents.png",
     "stage": "external exposure",
-    "main_url": "https://www.ema.europa.eu/en/search"
+    "main_url": "https://www.ema.europa.eu/en/search",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "true",
+    "reg_q_3b": "true"
   },
   {
     "service": "FAIRDOMHub",
@@ -150,7 +246,13 @@
     "md_file_name": "fairdomhub.md",
     "png_file_name": "fairdomhub.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://fairdomhub.org/"
+    "main_url": "https://fairdomhub.org/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "Fairspace",
@@ -159,7 +261,13 @@
     "md_file_name": "fairspace.md",
     "png_file_name": "fairspace.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://www.thehyve.nl/services/fairspace"
+    "main_url": "https://www.thehyve.nl/services/fairspace",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "Flame",
@@ -168,7 +276,13 @@
     "md_file_name": "flame.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://phi.upf.edu/phi/index.php/software/flame/"
+    "main_url": "https://phi.upf.edu/phi/index.php/software/flame/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "Google Scholar",
@@ -177,7 +291,13 @@
     "md_file_name": "gscholar.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "generic",
-    "main_url": "https://scholar.google.com/"
+    "main_url": "https://scholar.google.com/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "Google Search",
@@ -186,7 +306,13 @@
     "md_file_name": "google.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "generic",
-    "main_url": "https://google.com/"
+    "main_url": "https://google.com/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "Joint Research Centre Data Catalogue",
@@ -195,7 +321,13 @@
     "md_file_name": "jrc_data_catalogue.md",
     "png_file_name": "jrc_data_catalogue.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://data.jrc.ec.europa.eu/"
+    "main_url": "https://data.jrc.ec.europa.eu/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "NIH Dietary Supplement Label Database",
@@ -204,7 +336,13 @@
     "md_file_name": "dsld.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "external exposure",
-    "main_url": "https://dsld.od.nih.gov/"
+    "main_url": "https://dsld.od.nih.gov/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "O'QT: The OECD QSAR Toolbox AI Assistant",
@@ -213,7 +351,13 @@
     "md_file_name": "oqt_assistant.md",
     "png_file_name": "oqt_assistant.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant"
+    "main_url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant",
+    "reg_q_1a": "true",
+    "reg_q_1b": "true",
+    "reg_q_2a": "true",
+    "reg_q_2b": "true",
+    "reg_q_3a": "true",
+    "reg_q_3b": "true"
   },
   {
     "service": "OP PBK Model",
@@ -222,7 +366,13 @@
     "md_file_name": "oppbk_model.md",
     "png_file_name": "oppbk_model.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000056",
-    "main_url": "http://oppbk.cloud.vhp4safety.nl/"
+    "main_url": "http://oppbk.cloud.vhp4safety.nl/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "OPSIN: Open Parser for Systematic IUPAC nomenclature",
@@ -231,7 +381,13 @@
     "md_file_name": "opsin.md",
     "png_file_name": "opsin.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000148",
-    "main_url": "https://opsin.ch.cam.ac.uk/"
+    "main_url": "https://opsin.ch.cam.ac.uk/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "qAOP-App",
@@ -240,7 +396,13 @@
     "md_file_name": "qaop_app.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "no_url"
+    "main_url": "no_url",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "QSPRpred",
@@ -249,7 +411,13 @@
     "md_file_name": "qsprpred.md",
     "png_file_name": "qsprpred.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "no_url"
+    "main_url": "no_url",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "SOM Prediction",
@@ -258,7 +426,13 @@
     "md_file_name": "sombie.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000056",
-    "main_url": "https://sombie.cloud.vhp4safety.nl/"
+    "main_url": "https://sombie.cloud.vhp4safety.nl/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "SysRev",
@@ -267,7 +441,13 @@
     "md_file_name": "sysrev.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://sysrev.com/"
+    "main_url": "https://sysrev.com/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "The OECD QSAR Toolbox",
@@ -276,7 +456,13 @@
     "md_file_name": "oecd_qsar_toolbox.md",
     "png_file_name": "oecd_qsar_toolbox.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000056",
-    "main_url": "https://qsartoolbox.org/"
+    "main_url": "https://qsartoolbox.org/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "ToxTempAssistant",
@@ -285,7 +471,13 @@
     "md_file_name": "toxtemp_assistant.md",
     "png_file_name": "toxtemp_assistant.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "https://toxtempassistant.vhp4safety.nl/"
+    "main_url": "https://toxtempassistant.vhp4safety.nl/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "true",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "TXG-MAPr",
@@ -294,7 +486,13 @@
     "md_file_name": "txg_mapr.md",
     "png_file_name": "txg_mapr.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "https://txg-mapr.eu/"
+    "main_url": "https://txg-mapr.eu/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "VHP4Safety Wikibase",
@@ -303,7 +501,13 @@
     "md_file_name": "wikibase.md",
     "png_file_name": "VHP4Safety_ChemicalCompounds.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "https://compoundcloud.wikibase.cloud/"
+    "main_url": "https://compoundcloud.wikibase.cloud/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "VHP4Safety Wikibase User Interface",
@@ -312,7 +516,13 @@
     "md_file_name": "kb.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
-    "main_url": "no_url"
+    "main_url": "no_url",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   },
   {
     "service": "WikiPathways - AOP Portal",
@@ -321,7 +531,13 @@
     "md_file_name": "wikipathways_aop.md",
     "png_file_name": "wikipathways_aop.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "https://aop.wikipathways.org/"
+    "main_url": "https://aop.wikipathways.org/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
   },
   {
     "service": "xploreaop",
@@ -330,6 +546,12 @@
     "md_file_name": "xploreaop.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
-    "main_url": "https://xploreaop.cloud.vhp4safety.nl/"
+    "main_url": "https://xploreaop.cloud.vhp4safety.nl/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
   }
 ]
