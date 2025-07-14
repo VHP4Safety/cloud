@@ -43,7 +43,7 @@ No screenshot available.
 
 * Stage: <span class="glossary_term">[generic](generic)</span>
 
-* Sub-Stage: mechanisms of toxicity / compound characteristics
+* Sub-stage: <span class="glossary_term">[mechanisms of toxicity / compound characteristics](mechanisms of toxicity / compound characteristics)</span>
 
 * Development Cloud: Not available
 

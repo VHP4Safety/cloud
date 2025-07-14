@@ -45,7 +45,7 @@ No screenshot available.
 
 * Sub-stage: <span class="glossary_term">[https://vhp4safety.github.io/glossary#VHP0000023](https://vhp4safety.github.io/glossary#VHP0000023)</span>
 
-* Development Cloud: [https://crebuilder.vhp4safety.nl](https://crebuilder.vhp4safety.nl) 
+* Development Cloud: [https://crebuilder.vhp4safety.nl](https://crebuilder.vhp4safety.nl)
 
 * Login Required: Not available
 

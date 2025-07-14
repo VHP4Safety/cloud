@@ -4,14 +4,11 @@
 
 A user-friendly service to conduct quality control and pre-processing analyses for microarray data.
 
-No screenshot available.
+![ArrayAnalysis logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/arrayanalysis.png)
 
 ## Documentation
 
-
-#### VHP4Safety Documentation
-
-* Service Introduction: [Microarray Analysis](https://arrayanalysis.org/details#Microarray_Analysis), [RNA-seq Analysis](https://arrayanalysis.org/details#RNA-seq_Analysis)
+* Service Introduction: [Microarray Analysis;RNA-seq Analysis](https://arrayanalysis.org/details#Microarray_Analysis;https://arrayanalysis.org/details#RNA-seq_Analysis)
 
 * Workflow: To be added
 
@@ -100,6 +97,6 @@ No screenshot available.
     "@id" : "https://vhp4safety.github.io/cloud/service/arrayanalysis",
     "name": "ArrayAnalysis",
     "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
-    "url": ""
+    "url": "https://arrayanalysis.org/"
   }
 </script>

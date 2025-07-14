@@ -97,6 +97,6 @@ A tool to analyze chemicals, assess hazards, and get Read-Across recommendations
     "@id" : "https://vhp4safety.github.io/cloud/service/oqt_assistant",
     "name": "O'QT: The OECD QSAR Toolbox AI Assistant",
     "description": "A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox.",
-    "url": ""
+    "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant"
   }
 </script>

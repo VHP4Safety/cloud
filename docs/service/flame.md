@@ -45,7 +45,7 @@ No screenshot available.
 
 * Sub-stage: <span class="glossary_term">Not available
 
-* Development Cloud: [http://flame.cloud.vhp4safety.nl:8098/](http://flame.cloud.vhp4safety.nl:8098/) 
+* Development Cloud: [http://flame.cloud.vhp4safety.nl:8098/](http://flame.cloud.vhp4safety.nl:8098/)
 
 * Login Required: Not available
 
@@ -97,6 +97,6 @@ No screenshot available.
     "@id" : "https://vhp4safety.github.io/cloud/service/flame",
     "name": "Flame",
     "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
-    "url": "http://flame.cloud.vhp4safety.nl:8098/"
+    "url": "https://phi.upf.edu/phi/index.php/software/flame/"
   }
 </script>

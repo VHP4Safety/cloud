@@ -97,6 +97,6 @@ An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecu
     "@id" : "https://vhp4safety.github.io/cloud/service/wikipathways_aop",
     "name": "WikiPathways - AOP Portal",
     "description": "An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.",
-    "url": "http://aop.wikipathways.org/"
+    "url": "https://aop.wikipathways.org/"
   }
 </script>

@@ -45,7 +45,7 @@ A framework to map identifiers between various biological databases and related 
 
 * Sub-stage: <span class="glossary_term">[https://vhp4safety.github.io/glossary#VHP0000047](https://vhp4safety.github.io/glossary#VHP0000047)</span>
 
-* Development Cloud: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/) 
+* Development Cloud: [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/)
 
 * Login Required: no
 
@@ -97,6 +97,6 @@ A framework to map identifiers between various biological databases and related 
     "@id" : "https://vhp4safety.github.io/cloud/service/bridgedb",
     "name": "BridgeDb",
     "description": "A framework to map identifiers between various biological databases and related sources.",
-    "url": "https://bridgedb.cloud.vhp4safety.nl/"
+    "url": "https://www.bridgedb.org/"
   }
 </script>

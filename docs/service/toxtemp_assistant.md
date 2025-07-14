@@ -97,6 +97,6 @@ A tool that uses Large Language Models to harmonize and complete method descript
     "@id" : "https://vhp4safety.github.io/cloud/service/toxtemp_assistant",
     "name": "ToxTempAssistant",
     "description": "A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template.",
-    "url": ""
+    "url": "https://toxtempassistant.vhp4safety.nl/"
   }
 </script>
