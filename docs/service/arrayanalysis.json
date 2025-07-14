@@ -4,6 +4,8 @@
   "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
   "stage":"NA",
   "substage":"NA",
+  "url": "https://arrayanalysis.org/",
+  "screenshot": "arrayanalysis.png",
   "doi": "10.1093/nar/gkt293",
   "provider": {
     "contact": {
@@ -12,7 +14,19 @@
     "url": "https://www.bigcat.unimaas.nl/",
     "name": "BiGCaT, Maastricht University"
   },
+  "intro": {
+    "title": "Microarray Analysis;RNA-seq Analysis",
+    "url": "https://arrayanalysis.org/details#Microarray_Analysis;https://arrayanalysis.org/details#RNA-seq_Analysis"
+  },
   "ELIXIR": {
     "tess": "arrayanalysis.org"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
   }
 }

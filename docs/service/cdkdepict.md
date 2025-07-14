@@ -45,7 +45,7 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 * Sub-stage: <span class="glossary_term">[https://vhp4safety.github.io/glossary#VHP0000148](https://vhp4safety.github.io/glossary#VHP0000148)</span>
 
-* Development Cloud: Not available
+* Development Cloud: [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/) 
 
 * Login Required: no
 

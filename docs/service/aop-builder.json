@@ -7,6 +7,7 @@
   "url": "https://crebuilder.vhp4safety.nl",
   "instance": {
     "type": "internal",
+    "url": "https://crebuilder.vhp4safety.nl",
     "license": "CC-BY NC 4.0",
     "version": "1.0"
   },
@@ -15,5 +16,13 @@
       "name": "Marc Teunis",
       "email": "marc.teunis@hu.nl"
     }
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
   }
 }

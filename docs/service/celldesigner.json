@@ -12,6 +12,10 @@
     "license": "[See licence agreement](https://www.celldesigner.org/license.txt)",
     "version": "4.4.2"
   },
+  "intro": {
+    "title": "Quick Tutorial",
+    "url": "https://www.celldesigner.org/help/CDH_QT.html"
+  },
   "provider": {
     "contact": {
       "name": "Systems Biology Institute (SBI)",
@@ -19,5 +23,13 @@
     },
     "url": "https://sbi.jp/",
     "name": "Systems Biology Institute (SBI)"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
   }
 }

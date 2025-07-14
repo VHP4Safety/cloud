@@ -4,8 +4,8 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- Sitemap created on 2025-05-27 11:03:47.421184. -->
 
+<!-- Sitemap created on 2025-07-11 12:24:07.102013. -->
 <!-- parsing file: docs/service/aop_network.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/aopnetwork.html</loc>
@@ -128,7 +128,7 @@
 </url>
 <!-- parsing file: docs/service/google.json -->
 <url>
-  <loc>https://cloud.vhp4safety.nl/service/gscholar.html</loc>
+  <loc>https://cloud.vhp4safety.nl/service/google.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
@@ -146,7 +146,7 @@
 </url>
 <!-- parsing file: docs/service/kb.json -->
 <url>
-  <loc>https://cloud.vhp4safety.nl/service/vhp4safety_wikibase.html</loc>
+  <loc>https://cloud.vhp4safety.nl/service/kb.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>

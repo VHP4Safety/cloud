@@ -37,6 +37,8 @@ A REST API for AOP-Wiki content to make SPARQL queries. [[more information](serv
 
 ------------------------
 
+![ArrayAnalysis logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/arrayanalysis.png)
+
 ## ArrayAnalysis
 
 A user-friendly service to conduct quality control and pre-processing analyses for microarray data. [[more information](service/arrayanalysis.md)]
@@ -159,7 +161,7 @@ An open source framework to develop, host, and use machine-learning models, such
 
 ## Google Search
 
-Web search engine by Google. [[more information](service/gscholar.md)]
+Web search engine by Google. [[more information](service/google.md)]
 
 ------------------------
 
@@ -179,7 +181,7 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 
 ## VHP4Safety Wikibase User Interface
 
-A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/vhp4safety_wikibase.md)]
+A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/kb.md)]
 
 ------------------------
 

@@ -4,11 +4,12 @@
   "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000149",
   "substage":"",
-  "url": "http://flame.cloud.vhp4safety.nl:8098/",
+  "url": "https://phi.upf.edu/phi/index.php/software/flame/",
   "doi": "10.1186/s13321-021-00509-z",
   "instance": {
     "type": "external",
     "license": "GNU General Public License v3.0",
+    "url": "http://flame.cloud.vhp4safety.nl:8098/",
     "version": "1.2.0",
     "source": "https://github.com/phi-grib/flame",
     "docker": "https://hub.docker.com/r/mpastorphi/flame"
@@ -18,5 +19,13 @@
       "name": "Manuel Pastor",
       "email": "manuel.pastor@upf.edu"
     }
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
   }
 }

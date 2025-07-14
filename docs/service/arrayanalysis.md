@@ -8,7 +8,10 @@ No screenshot available.
 
 ## Documentation
 
-* Service Introduction: To be added
+
+#### VHP4Safety Documentation
+
+* Service Introduction: [Microarray Analysis](https://arrayanalysis.org/details#Microarray_Analysis), [RNA-seq Analysis](https://arrayanalysis.org/details#RNA-seq_Analysis)
 
 * Workflow: To be added
 

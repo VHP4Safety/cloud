@@ -45,7 +45,7 @@ No screenshot available.
 
 * Sub-stage: <span class="glossary_term">Not available
 
-* Development Cloud: Not available
+* Development Cloud: [http://flame.cloud.vhp4safety.nl:8098/](http://flame.cloud.vhp4safety.nl:8098/) 
 
 * Login Required: Not available
 

@@ -1,5 +1,5 @@
 {
-  "id": "vhp4safety_wikibase",
+  "id": "kb",
   "service": "VHP4Safety Wikibase User Interface",
   "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000149",
@@ -18,5 +18,13 @@
   },
   "access": {
     "login": "No"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
   }
 }
