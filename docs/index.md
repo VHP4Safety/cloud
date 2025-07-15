@@ -28,13 +28,13 @@ You are welcome to contribute to this catalog by requesting or adding new servic
 
 The current development platform runs several services.
 
-#### AOP Network Tool
-
-Populate a network with AOPs and add weights to the edges based on custom tabular data, queries to other VHP tools and external databases, via BioDataFuse  [[more information](service/aopnetwork.md)]
-
 #### AOP-Builder
 
 A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI. [[more information](service/aop-builder.md)]
+
+#### AOP Network Builder
+
+web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint. [[more information](service/aopnetwork.md)]
 
 #### AOP-Wiki Snorql UI
 
