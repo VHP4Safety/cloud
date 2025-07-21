@@ -1,0 +1,75 @@
+name: Generate Service Documentation with Mustache
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'docs/service/*.json'
+      - '.github/service_template.md'
+      - '.github/workflows/generate-service-docs.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'docs/service/*.json'
+      - '.github/service_template.md'
+      - '.github/workflows/generate-service-docs.yml'
+jobs:
+  generate-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install mustache CLI
+        run: npm install -g mustache
+
+      - name: Get glossary
+        run: |
+            mkdir -p docs/resource
+            cd docs/resource
+            wget https://raw.githubusercontent.com/VHP4Safety/glossary/refs/heads/main/glossary.owl
+
+      - name: Generate service documentation
+        run: |
+          rm -f docs/service/*.md
+          # Process each JSON file
+          for json_file in docs/service/*.json; do
+            if [ -f "$json_file" ]; then
+              # Skip template.json
+              if [ "$(basename "$json_file")" = "template.json" ]; then
+                echo "Skipping $json_file"
+                continue
+              fi
+              
+              # Extract filename without extension
+              basename=$(basename "$json_file" .json)
+              # Test json
+              jq empty "$json_file" || { echo "Invalid JSON: $json_file"; exit 1; }
+
+              # Generate markdown file using mustache
+              mustache "$json_file" .github/service_template.md > "docs/service/${basename}.md"
+              
+              echo "Generated docs/service/${basename}.md from $json_file"
+            fi
+          done
+
+      - name: Commit and push generated documentation
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git pull
+          git add docs/service/*.md
+          git add docs/resource/glossary.owl
+          if git diff --exit-code --staged; then
+              echo "No changes to commit"
+          else
+              git commit -m 'Generate service documentation from JSON files'
+              git push
+          fi
