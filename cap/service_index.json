@@ -4,7 +4,7 @@
     "description": "web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint.",
     "html_name": "aopnetwork.html",
     "md_file_name": "aopnetwork.md",
-    "png_file_name": "https://raw.githubusercontent.com/VHP4Safety/AOP-app/refs/heads/aop_app/static/images/app_screenshot.png",
+    "png_file_name": "aopnetwork.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
     "main_url": "https://aopapp.cloud.vhp4safety.nl/",
     "reg_q_1a": "false",
