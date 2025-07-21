@@ -5,7 +5,7 @@
   "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000023",
   "url": "https://aopapp.cloud.vhp4safety.nl/",
-  "screenshot": "https://raw.githubusercontent.com/VHP4Safety/AOP-app/refs/heads/aop_app/static/images/app_screenshot.png"
+  "screenshot": "https://raw.githubusercontent.com/VHP4Safety/AOP-app/refs/heads/aop_app/static/images/app_screenshot.png",
   "doi": "",
   "instance": {
     "type": "internal",
