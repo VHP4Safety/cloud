@@ -75,7 +75,7 @@ web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway 
 
 * License: Not available
 
-* Source Code: [https://github.com/VHP4Safety/aopapp](https://github.com/VHP4Safety/aopapp)
+* Source Code: [https://github.com/VHP4Safety/aop-app](https://github.com/VHP4Safety/aop-app)
 
 * Docker: []()
 
