@@ -7,17 +7,15 @@
 
 Below you find an overview of services available in the context of the VHP4Safety Platform. [Additional services have been suggested](https://github.com/VHP4Safety/cloud/labels/service) and users can [request additional services](https://github.com/VHP4Safety/cloud/issues/new/choose).
 
-![AOP Network Tool logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
-
-## AOP Network Tool
-
-Populate a network with AOPs and add weights to the edges based on custom tabular data, queries to other VHP tools and external databases, via BioDataFuse  [[more information](service/aopnetwork.md)]
-
-------------------------
-
 ## AOP-Builder
 
 A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI. [[more information](service/aop-builder.md)]
+
+------------------------
+
+## AOP Network Builder
+
+web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint. [[more information](service/aopnetwork.md)]
 
 ------------------------
 
