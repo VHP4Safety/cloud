@@ -4,7 +4,7 @@
 
 web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint.
 
-![AOP Network Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/https://raw.githubusercontent.com/VHP4Safety/AOP-app/refs/heads/aop_app/static/images/app_screenshot.png)
+![AOP Network Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopnetwork.png)
 
 ## Documentation
 
