@@ -5,6 +5,7 @@
   "stage":"https://vhp4safety.github.io/glossary#VHP0000102", 
   "substage":"",
   "screenshot": "qsprpred.png",
+  "url": "https://qsprpred.cloud.vhp4safety.nl/",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",

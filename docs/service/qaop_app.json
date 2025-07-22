@@ -4,6 +4,7 @@
   "description": "An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000102",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
+  "url": "https://qaop.vhp4safety.nl/",
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
