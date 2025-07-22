@@ -97,6 +97,6 @@ No screenshot available.
     "@id" : "https://vhp4safety.github.io/cloud/service/qaop_app",
     "name": "qAOP-App",
     "description": "An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies.",
-    "url": ""
+    "url": "https://qaop.vhp4safety.nl/"
   }
 </script>

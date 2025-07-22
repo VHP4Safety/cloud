@@ -97,6 +97,6 @@ This tool allows users to predict the activity of their chemicals of interest fo
     "@id" : "https://vhp4safety.github.io/cloud/service/qsprpred",
     "name": "QSPRpred",
     "description": "This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies.",
-    "url": ""
+    "url": "https://qsprpred.cloud.vhp4safety.nl/"
   }
 </script>
