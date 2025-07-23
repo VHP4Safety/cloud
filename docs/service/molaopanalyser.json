@@ -1,0 +1,78 @@
+{
+    "id": "molaopanalyser",
+    "service": "MolAOP analyser",
+    "description": "The MolAOP analyser service enables users to analyse transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs). The tool allows users to upload differential expression data or select from built-in demo datasets. It then guides them through gene selection, visualisation (volcano plots), and Key Event enrichment analysis based on predefined KE-to-pathway mappings.",
+    "stage": "",
+    "substage": "",
+    "screenshot": "",
+    "url": "https://molaop-analyser.vhp4safety.nl/",
+    "doi": "",
+    "release_notes": "",
+    "instance": {
+        "type": "internal",
+        "vhp-platform": "development",
+        "url": "https://molaop-analyser.vhp4safety.nl/",
+        "license": "",
+        "version": "",
+        "source": "https://github.com/marvinm2/molAOP-analyser",
+        "docker": "",
+        "TRL": ""
+    },
+    "provider": {
+        "contact": {
+            "name": "Marvin Martens",
+            "email": "marvin.martens@maastrichtuniversity.nl"
+        },
+        "name": "Maastricht University",
+        "url": "maastrichtuniversity.nl"
+    },
+    "access": {
+        "API": "",
+        "login": "",
+        "packages": {
+            "R": "",
+            "Python": ""
+        }
+    },
+    "intro": {
+        "title": "Molecular Adverse Outcome Pathway analyser tutorial",
+        "url": "https://docs.vhp4safety.nl/en/latest/tutorials/molaopanalyser/molaopanalyser.html"
+    },
+    "demo": {
+        "title": "",
+        "url": ""
+    },
+    "workflow": {
+        "title": "",
+        "url": ""
+    },
+    "ELIXIR": {
+        "biotools": "",
+        "tess": "",
+        "fairsharing": ""
+    },
+    "Other": {
+        "wikipedia": "",
+        "rsd": ""
+    },
+    "NAM-validation": {
+        "NAM-stage-1": "",
+        "NAM-stage-2": "",
+        "NAM-stage-3": "",
+        "NAM-stage-4": "",
+        "NAM-stage-5": ""
+    },
+    "VHP-persona": {
+        "persona-1": "",
+        "persona-2": "",
+        "persona-3": ""
+    },
+    "regulatory-question": {
+        "1a": "",
+        "1b": "",
+        "2a": "",
+        "2b": "",
+        "3a": "",
+        "3b": ""
+    }
+}
