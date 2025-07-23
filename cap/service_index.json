@@ -330,6 +330,21 @@
     "reg_q_3b": "false"
   },
   {
+    "service": "MolAOP analyser",
+    "description": "The MolAOP analyser service enables users to analyse transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs). The tool allows users to upload differential expression data or select from built-in demo datasets. It then guides them through gene selection, visualisation (volcano plots), and Key Event enrichment analysis based on predefined KE-to-pathway mappings.",
+    "html_name": "molaopanalyser.html",
+    "md_file_name": "molaopanalyser.md",
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "Unknown",
+    "main_url": "https://molaop-analyser.vhp4safety.nl/",
+    "reg_q_1a": "",
+    "reg_q_1b": "",
+    "reg_q_2a": "",
+    "reg_q_2b": "",
+    "reg_q_3a": "",
+    "reg_q_3b": ""
+  },
+  {
     "service": "NIH Dietary Supplement Label Database",
     "description": "The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States.",
     "html_name": "dsld.html",
