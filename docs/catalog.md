@@ -13,6 +13,8 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 ------------------------
 
+![AOP Network Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopnetwork.png)
+
 ## AOP Network Builder
 
 web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint. [[more information](service/aopnetwork.md)]
@@ -180,6 +182,14 @@ An inventory of data produced by the Joint Research Centre (JRC) in accordance w
 ## VHP4Safety Wikibase User Interface
 
 A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/kb.md)]
+
+------------------------
+
+![MolAOP analyser logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+
+## MolAOP analyser
+
+The MolAOP analyser service enables users to analyse transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs). The tool allows users to upload differential expression data or select from built-in demo datasets. It then guides them through gene selection, visualisation (volcano plots), and Key Event enrichment analysis based on predefined KE-to-pathway mappings. [[more information](service/molaopanalyser.md)]
 
 ------------------------
 

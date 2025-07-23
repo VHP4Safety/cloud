@@ -56,6 +56,10 @@ A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG fo
 
 A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/kb.md)]
 
+#### MolAOP analyser
+
+The MolAOP analyser service enables users to analyse transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs). The tool allows users to upload differential expression data or select from built-in demo datasets. It then guides them through gene selection, visualisation (volcano plots), and Key Event enrichment analysis based on predefined KE-to-pathway mappings. [[more information](service/molaopanalyser.md)]
+
 #### OP PBK Model
 
 Physiologically based pharmacokinetic model for organophosphates [[more information](service/oppbk_model.md)]
