@@ -1,9 +1,9 @@
 
-"_instructions1": "This is a template for JSON files that can provide a standard way to add new services to the cloud catalog, maintained with this repository."
-
-"_instructions2": "Please create a new JSON file to add a new service to the catalog. While creating that file based on this template, please consider the comments below to fill the items to have a standard representation of services. Please feel free to raise an issue or give feedback for the template in the issues section (https://github.com/VHP4Safety/cloud/issues) of this repository."
-
 {
+"_instructions1": "This is a template for JSON files that can provide a standard way to add new services to the cloud catalog, maintained with this repository.",
+
+"_instructions2": "Please create a new JSON file to add a new service to the catalog. While creating that file based on this template, please consider the comments below to fill the items to have a standard representation of services. Please feel free to raise an issue or give feedback for the template in the issues section (https://github.com/VHP4Safety/cloud/issues) of this repository.",
+
 
   "_ins_id": "An id for the JSON file, needs to be the same name as this JSON file.",
   "id": "",
@@ -103,7 +103,7 @@
     "_ins_title": "The title of the VHP4Safety workflow where it is being used. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
     "title": "",
     "_ins_url": "Link to the workflow. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
-    "url": "",
+    "url": ""
   },
 
   "_ins_ELIXIR": "Information regarding sources available on ELIXIR.",
