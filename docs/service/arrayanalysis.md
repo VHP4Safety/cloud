@@ -45,13 +45,13 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 * Sub-stage: <span class="glossary_term">[NA](NA)</span>
 
-* Development Cloud: Not available
+* Development Cloud: [https://arrayanalysis.vhp4safety.nl/](https://arrayanalysis.vhp4safety.nl/)
 
 * Login Required: Not available
 
 * TRL: Not available
 
-* Type: Not available
+* Type: internal
 
 * Contact: Lars Eijssen ()
 
@@ -69,13 +69,13 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 * Citation: [10.1093/nar/gkt293](https://doi.org/10.1093/nar/gkt293)
 
-* Version: Not available
+* Version: 0.1.1
 
 * License: Not available
 
 * Source Code: Not available
 
-* Docker: Not available
+* Docker: [https://hub.docker.com/r/jarnokoetsier/arrayanalysis](https://hub.docker.com/r/jarnokoetsier/arrayanalysis)
 
 * Bio.tools: Not available
 
