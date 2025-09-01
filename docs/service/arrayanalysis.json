@@ -7,6 +7,15 @@
   "url": "https://arrayanalysis.org/",
   "screenshot": "arrayanalysis.png",
   "doi": "10.1093/nar/gkt293",
+  "instance": {
+    "type": "internal",
+    "vhp-platform": "Development",
+    "url": "https://arrayanalysis.vhp4safety.nl/",
+    "license": "",
+    "version": "0.1.1",
+    "source": "",
+    "docker": "https://hub.docker.com/r/jarnokoetsier/arrayanalysis"
+  },
   "provider": {
     "contact": {
       "name": "Lars Eijssen"
