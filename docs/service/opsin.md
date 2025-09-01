@@ -97,6 +97,6 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
     "@id" : "https://vhp4safety.github.io/cloud/service/opsin",
     "name": "OPSIN: Open Parser for Systematic IUPAC nomenclature",
     "description": "An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES.",
-    "url": "https://opsin.ch.cam.ac.uk/"
+    "url": "https://www.ebi.ac.uk/opsin/"
   }
 </script>
