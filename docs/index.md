@@ -44,6 +44,10 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint. [[more in
 
 A REST API for AOP-Wiki content to make SPARQL queries. [[more information](service/aopwikiapi.md)]
 
+#### ArrayAnalysis
+
+A user-friendly service to conduct quality control and pre-processing analyses for microarray data. [[more information](service/arrayanalysis.md)]
+
 #### BridgeDb
 
 A framework to map identifiers between various biological databases and related sources. [[more information](service/bridgedb.md)]
