@@ -330,6 +330,21 @@
     "reg_q_3b": "false"
   },
   {
+    "service": "LLMapperino",
+    "description": "A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources.",
+    "html_name": "llmapperino.html",
+    "md_file_name": "llmapperino.md",
+    "png_file_name": "llmapperino.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "http://81.169.225.178:5016/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "true",
+    "reg_q_2b": "true",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
+  },
+  {
     "service": "MolAOP analyser",
     "description": "The MolAOP analyser service enables users to analyse transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs). The tool allows users to upload differential expression data or select from built-in demo datasets. It then guides them through gene selection, visualisation (volcano plots), and Key Event enrichment analysis based on predefined KE-to-pathway mappings.",
     "html_name": "molaopanalyser.html",
