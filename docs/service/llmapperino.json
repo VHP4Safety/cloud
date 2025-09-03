@@ -1,0 +1,129 @@
+{
+  "id": "llmapperino",
+  "service": "LLMapperino",
+  "description": "A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+  "substage": "prototype",
+  "screenshot": "llmapperino.png",
+  "url": "http://81.169.225.178:5016/",
+  "doi": "",
+  "release_notes": "2025-09-02: Pilot instance; added disclaimer & license surfacing; streamlined login/API-key flow.",
+  "instance": {
+    "type": "pilot",
+    "vhp-platform": "independent",
+    "url": "http://81.169.225.178:5016/",
+    "license": "Apache-2.0",
+    "version": "0.1.0",
+    "source": "https://github.com/senseibelbi/LLMapperino",
+    "docker": "https://github.com/senseibelbi/LLMapperino/blob/main/Dockerfile",
+    "TRL": "TRL4"
+  },
+  "provider": {
+    "contact": {
+      "name": "Ivo Djidrovski",
+      "email": "i.djidrovski@uu.nl"
+    },
+    "name": "Utrecht University / VHP4Safety (pilot)",
+    "url": "https://www.uu.nl/"
+  },
+  "access": {
+    "API": "",
+    "login": "Email i.djidrovski@uu.nl for an app API key or provide your own OpenAI and Perplexity API keys in the UI."
+  },
+  "intro": {
+    "title": "LLMapperino README",
+    "url": "https://github.com/senseibelbi/LLMapperino#readme"
+  },
+  "demo": {
+    "title": "Hosted pilot",
+    "url": "http://81.169.225.178:5016/"
+  },
+  "workflow": {
+    "title": "3-Agent Workflow (MINERVA ↔ Perplexity ↔ Synthesis)",
+    "url": "https://github.com/senseibelbi/LLMapperino#overview"
+  },
+  "ELIXIR": {
+    "biotools": "",
+    "tess": "",
+    "fairsharing": ""
+  },
+  "Other": {
+    "wikipedia": "",
+    "rsd": ""
+  },
+  "NAM-validation": {
+    "NAM-stage-1": "false",
+    "NAM-stage-2": "false",
+    "NAM-stage-3": "false",
+    "NAM-stage-4": "false",
+    "NAM-stage-5": "false"
+  },
+  "VHP-persona": {
+    "persona-1": "true",
+    "persona-2": "true",
+    "persona-3": "true"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "true",
+    "2b": "true",
+    "3a": "false",
+    "3b": "true"
+  },
+  "notes": {
+    "assumptions_limitations_uncertainties": [
+      "Depends on availability and correctness of selected MINERVA project maps.",
+      "Web corroboration via Perplexity may surface non-peer-reviewed sources; always inspect citations.",
+      "Synthesis uses LLMs; responses include uncertainty; not a substitute for regulatory evaluation.",
+      "Prototype; performance and coverage will vary with query scope and map complexity."
+    ],
+    "license": "Apache-2.0",
+    "external_materials": [
+      "MINERVA maps (via project tokens)",
+      "OpenAI API (synthesis)",
+      "Perplexity API (SONAR web research)"
+    ],
+    "references": [
+      "MINERVA Platform (ELIXIR Luxembourg / OnTox)",
+      "LangChain (agent orchestration)",
+      "Project README for architecture and usage"
+    ],
+    "additional_links": []
+  },
+  "faq": [
+    {
+      "q": "Do I need my own API keys?",
+      "a": "You can request an app API key by email or provide your own OpenAI and Perplexity keys in the UI."
+    },
+    {
+      "q": "What MINERVA maps are supported?",
+      "a": "Any MINERVA project you have access to; select it from the sidebar once authenticated."
+    },
+    {
+      "q": "Is there an API?",
+      "a": "UI-first for now; internal endpoints exist and may be exposed in future releases."
+    }
+  ],
+  "filters": {
+    "risk_assessment_stage": ["Problem formulation", "Knowledge gathering", "Hypothesis generation"],
+    "type_of_tool": ["Multi-agent Q&A", "Evidence synthesis", "Pathway-aware search"],
+    "related_case_study": ["Liver lipid metabolism (MINERVA)"],
+    "input_type_value": [
+      "Natural-language question",
+      "MINERVA project selection + token",
+      "Optional: OpenAI + Perplexity API keys"
+    ],
+    "output_type_value": [
+      "Structured answer with inline citations",
+      "Relevant pathway entities/relations",
+      "Raw MINERVA payload (debug panel)"
+    ],
+    "target_user": ["Toxicologist", "Systems biologist", "Risk assessor", "Data scientist"],
+    "chemical_domain": ["Pharmaceuticals", "Environmental contaminants", "Industrial chemicals"],
+    "biological_domain": ["Human health", "Liver/metabolism", "Species-specific (human)"],
+    "availability": ["Open UI with key", "Docker build"],
+    "validation_status": ["Under Development / Prototype"],
+    "usability": ["Web interface (Streamlit)", "Dockerized", "Local install", "API (planned)"]
+  }
+}
