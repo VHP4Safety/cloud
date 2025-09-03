@@ -185,6 +185,14 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 ------------------------
 
+![LLMapperino logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/llmapperino.png)
+
+## LLMapperino
+
+A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources. [[more information](service/llmapperino.md)]
+
+------------------------
+
 ![MolAOP analyser logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
 
 ## MolAOP analyser

@@ -136,6 +136,10 @@ Web search engine by Google. [[more information](service/google.md)]
 
 Search engine for (scientific) literature. [[more information](service/gscholar.md)]
 
+#### LLMapperino
+
+A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources. [[more information](service/llmapperino.md)]
+
 #### The OECD QSAR Toolbox
 
 A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
