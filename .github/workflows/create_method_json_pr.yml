@@ -1,66 +1,79 @@
-name: Create Method JSON PR
+name: Generate Method JSON from Issue Template
 
 on:
   issues:
     types: [labeled]
 
 jobs:
-  create-json-pr:
-    if: contains(github.event.label.name, 'method-approved-for-pr')
+  generate-json:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
 
-      - name: Generate JSON from issue
-        run: |
-          python - <<'EOF'
-          import json, os
-          issue = json.loads(r'''${{ toJSON(github.event.issue) }}''')
-          body = issue["body"]
+    - name: Install dependencies
+      run: |
+        pip install requests pyyaml
 
-          outdir = "docs/methods"
-          os.makedirs(outdir, exist_ok=True)
-          fname = os.path.join(outdir, f"method-{issue['number']}.json")
+    - name: Fetch issue content and parse template
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        import os, json, re, requests
 
-          with open(fname, "w") as f:
-              json.dump({
-                  "id": issue["number"],
-                  "title": issue["title"],
-                  "url": issue["html_url"],
-                  "body": body
-              }, f, indent=2)
-          EOF
+        issue_number = os.environ['ISSUE_NUMBER'] = '${{ github.event.inputs.issue_number }}'
+        repo = os.environ['GITHUB_REPOSITORY']
 
-      - name: Commit and push branch
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          branch="method-${{ github.event.issue.number }}"
-          git fetch origin
-          git checkout -B "$branch"
-          git add docs/methods/
-          git commit -m "Add method JSON for issue #${{ github.event.issue.number }}" || echo "No changes to commit"
-          git push --set-upstream origin "$branch" --force
+        headers = {'Authorization': f'token {os.environ["GITHUB_TOKEN"]}'}
+        url = f'https://api.github.com/repos/{repo}/issues/{issue_number}'
+        r = requests.get(url, headers=headers)
+        r.raise_for_status()
+        body = r.json()['body']
 
-      - name: Open Pull Request
-        id: cpr
-        uses: peter-evans/create-pull-request@v6
-        with:
-          title: "Add method JSON for #${{ github.event.issue.number }}"
-          body: "Automatically generated from issue #${{ github.event.issue.number }}."
-          branch: "method-${{ github.event.issue.number }}"
-          base: main
-          commit-message: "Add method JSON for issue #${{ github.event.issue.number }}"
+        # Extract key-value pairs using YAML-like syntax
+        fields = {}
+        # For simple key: value patterns
+        for line in body.splitlines():
+            match = re.match(r'^\s*(\w+):\s*(.+)$', line)
+            if match:
+                key, value = match.groups()
+                fields[key.strip()] = value.strip()
+        
+        # Add timestamp for uniqueness
+        import datetime
+        fields['timestamp'] = datetime.datetime.utcnow().isoformat() + 'Z'
 
-      - name: Comment on issue with PR link
-        uses: peter-evans/create-or-update-comment@v4
-        with:
-          issue-number: ${{ github.event.issue.number }}
-          body: |
-            A pull request has been opened: ${{ steps.cpr.outputs.pull-request-url }}
+        # Save JSON
+        os.makedirs('docs/methods', exist_ok=True)
+        file_path = f'docs/methods/method-{issue_number}.json'
+        with open(file_path, 'w') as f:
+            json.dump(fields, f, indent=2)
+        print(f"Saved JSON to {file_path}")
+
+    - name: Commit changes
+      run: |
+        branch="method-${{ github.event.inputs.issue_number }}"
+        git checkout -b "$branch" || git checkout "$branch"
+        git add docs/methods/method-${{ github.event.inputs.issue_number }}.json
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Add method JSON for issue #${{ github.event.inputs.issue_number }}"
+          git push origin "$branch"
+
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v6
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        commit-message: "Add method JSON for issue #${{ github.event.inputs.issue_number }}"
+        branch: "method-${{ github.event.inputs.issue_number }}"
+        title: "Add method JSON for issue #${{ github.event.inputs.issue_number }}"
+        body: "This PR adds the method JSON file generated from issue #${{ github.event.inputs.issue_number }}"
+        base: main
