@@ -1,0 +1,16 @@
+{
+  "id": "cytotoxicity_detection_kitplusldh",
+  "service": "[METHOD]: Cytotoxicity Detection KitPLUS\u00a0(LDH)",
+  "issue_number": 144,
+  "name_of_the_method_content": "Cytotoxicity Detection KitPLUS\u00a0(LDH)",
+  "method_description_content": "Fluorescence-based detection of LDH",
+  "type_content": "_No response_",
+  "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
+  "vendor_content": "Merck",
+  "catalog_number_content": "4744926001",
+  "catalog_webpage_content": "_No response_",
+  "citation_content": "_No response_",
+  "vhp4safety_workflow_stage_content": "AOP, Adverse Outcome",
+  "workflow_substage_content": "Dose-response toxicity",
+  "timestamp": "2025-09-05T12:51:39.384729Z"
+}
