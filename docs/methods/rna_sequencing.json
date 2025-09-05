@@ -1,0 +1,16 @@
+{
+  "id": "rna_sequencing",
+  "service": "[METHOD]: RNA-sequencing",
+  "issue_number": 143,
+  "name_of_the_method_content": "RNA-sequencing",
+  "method_description_content": "next-generation sequencing technique used to quantify and identify RNA molecules in a biological sample",
+  "type_content": "_No response_",
+  "relevant_vhp4safety_regulatory_question(s)_content": "Kidney Disease (b)",
+  "vendor_content": "Utrecht Sequencing Facility (USEQ)",
+  "catalog_number_content": "_No response_",
+  "catalog_webpage_content": "_No response_",
+  "citation_content": "_No response_",
+  "vhp4safety_workflow_stage_content": "_No response_",
+  "workflow_substage_content": "_No response_",
+  "timestamp": "2025-09-05T12:51:35.104883Z"
+}
