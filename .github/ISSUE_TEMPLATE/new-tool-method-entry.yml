@@ -43,13 +43,12 @@ body:
   - type: input
     id: provider
     attributes:
-      label: Provider name
+      label: Catalog entry
       description: Who is providing the method?
   - type: input
-    id: provider-email
+    id: catalog
     attributes:
-      label: Provider e-mail
-      description: Contact e-mail address of the provider
+      label: Catalog entry webpage
   - type: input
     id: citation
     attributes:
