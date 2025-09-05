@@ -6,6 +6,7 @@ on:
 
 jobs:
   generate-json:
+    if: contains(github.event.label.name, 'method') || contains(github.event.label.name, 'service')
     runs-on: ubuntu-latest
 
     steps:
@@ -35,42 +36,78 @@ jobs:
 
         headers = {'Authorization': f'token {os.environ["GITHUB_TOKEN"]}'}
         url = f'https://api.github.com/repos/{repo}/issues/{issue_number}'
-        r = requests.get(url, headers=headers)
-        r.raise_for_status()
-        body = r.json()['body']
+        
+        try:
+            r = requests.get(url, headers=headers)
+            r.raise_for_status()
+            issue_data = r.json()
+            body = issue_data['body']
+            title = issue_data['title']
+        except Exception as e:
+            print(f"Error fetching issue: {e}")
+            exit(1)
 
-        fields = {}
+        fields = {
+            'id': f'method-{issue_number}',
+            'service': title,
+            'issue_number': int(issue_number)
+        }
+        
+        # Parse issue body with improved regex patterns
+        current_section = None
         for line in body.splitlines():
-            match = re.match(r'^\s*(\w+):\s*(.+)$', line)
-            if match:
-                key, value = match.groups()
-                fields[key.strip()] = value.strip()
+            line = line.strip()
+            if not line:
+                continue
+                
+            # Handle section headers
+            if line.startswith('###') or line.startswith('##'):
+                current_section = line.lstrip('#').strip().lower().replace(' ', '_')
+                continue
+                
+            # Handle key-value pairs with various formats
+            patterns = [
+                r'^\*\*([^*]+)\*\*:\s*(.+)$',  # **Key**: Value
+                r'^([^:]+):\s*(.+)$',          # Key: Value
+                r'^-\s*([^:]+):\s*(.+)$'       # - Key: Value
+            ]
+            
+            matched = False
+            for pattern in patterns:
+                match = re.match(pattern, line)
+                if match:
+                    key, value = match.groups()
+                    key = key.strip().lower().replace(' ', '_').replace('-', '_')
+                    value = value.strip()
+                    
+                    # Skip empty values and placeholders
+                    if value and value not in ['N/A', 'n/a', 'TBD', 'tbd', '...']:
+                        fields[key] = value
+                    matched = True
+                    break
+            
+            # If we're in a section and no key-value match, treat as content
+            if not matched and current_section and line:
+                section_key = f'{current_section}_content'
+                if section_key not in fields:
+                    fields[section_key] = line
+                else:
+                    fields[section_key] += f' {line}'
 
         fields['timestamp'] = datetime.datetime.utcnow().isoformat() + 'Z'
+
+        # Validate required fields
+        if 'service' not in fields or not fields['service']:
+            print("Error: No service name found in issue")
+            exit(1)
 
         os.makedirs('docs/methods', exist_ok=True)
         file_path = f'docs/methods/method-{issue_number}.json'
         with open(file_path, 'w') as f:
             json.dump(fields, f, indent=2)
         print(f"Saved JSON to {file_path}")
+        print(f"Parsed fields: {list(fields.keys())}")
         EOF
-
-    - name: Configure Git
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-    - name: Commit changes
-      run: |
-        branch="method-${{ github.event.issue.number }}"
-        git checkout -b "$branch" || git checkout "$branch"
-        git add docs/methods/method-${{ github.event.issue.number }}.json
-        if git diff --cached --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Add method JSON for issue #${{ github.event.issue.number }}"
-          git push origin "$branch"
-        fi
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
@@ -79,5 +116,12 @@ jobs:
         commit-message: "Add method JSON for issue #${{ github.event.issue.number }}"
         branch: "method-${{ github.event.issue.number }}"
         title: "Add method JSON for issue #${{ github.event.issue.number }}"
-        body: "This PR adds the method JSON file generated from issue #${{ github.event.issue.number }}"
+        body: |
+          This PR adds the method JSON file generated from issue #${{ github.event.issue.number }}.
+          
+          **Auto-generated from issue:** #${{ github.event.issue.number }}
+          **File created:** `docs/methods/method-${{ github.event.issue.number }}.json`
+          
+          Please review the generated JSON file and make any necessary adjustments before merging.
         base: main
+        delete-branch: true
