@@ -1,0 +1,17 @@
+{
+  "id": "p_gp_staining",
+  "service": "[METHOD]: P-gp Staining",
+  "issue_number": 148,
+  "name_of_the_method_content": "P-gp Staining",
+  "method_description_content": "Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus",
+  "type_content": "_No response_",
+  "relevant_vhp4safety_regulatory_question(s)_content": "Kidney Disease (b)",
+  "vendor_content": "Proteintech",
+  "catalog_number_content": "22336-1-AP",
+  "https": "//ptglab.com/products/ABCB1-Antibody-22336-1-AP.htm",
+  "catalog_webpage_url": "https://ptglab.com/products/ABCB1-Antibody-22336-1-AP.htm",
+  "citation_content": "_No response_",
+  "vhp4safety_workflow_stage_content": "Kinetics",
+  "workflow_substage_content": "_No response_",
+  "timestamp": "2025-09-05T12:28:47.194515Z"
+}
