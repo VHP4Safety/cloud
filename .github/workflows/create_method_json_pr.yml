@@ -1,0 +1,56 @@
+name: Create Method JSON PR
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  create-json-pr:
+    if: github.event.label.name == 'method-approved-for-pr'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Generate JSON from issue
+        run: |
+          import json, os
+          issue = ${'${{ toJSON(github.event.issue) }}'}
+          issue = json.loads(issue)
+          body = issue["body"]
+
+          # Save issue body as JSON stub
+          outdir = "docs/methods"
+          os.makedirs(outdir, exist_ok=True)
+          fname = os.path.join(outdir, f"method-{issue['number']}.json")
+
+          with open(fname, "w") as f:
+              json.dump({
+                  "id": issue["number"],
+                  "title": issue["title"],
+                  "url": issue["html_url"],
+                  "body": body
+              }, f, indent=2)
+
+      - name: Commit and push branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          branch="method-${{ github.event.issue.number }}"
+          git checkout -b "$branch"
+          git add docs/methods/
+          git commit -m "Add method JSON for issue #${{ github.event.issue.number }}"
+          git push origin "$branch"
+
+      - name: Open Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          title: "Add method JSON for #${{ github.event.issue.number }}"
+          body: "Automatically generated from issue #${{ github.event.issue.number }}."
+          branch: "method-${{ github.event.issue.number }}"
+          base: main
