@@ -1,0 +1,139 @@
+name: Generate Method Markdown from JSON
+
+on:
+  push:
+    paths:
+      - 'docs/methods/*.json'
+  pull_request:
+    paths:
+      - 'docs/methods/*.json'
+
+jobs:
+  generate-markdown:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        pip install requests
+
+    - name: Generate Markdown from JSON files
+      run: |
+        python - <<'EOF'
+        import os, json, glob, datetime
+
+        def clean_field_name(field):
+            """Convert field names to human readable format"""
+            return field.replace('_content', '').replace('_', ' ').title()
+
+        def format_value(value):
+            """Format field values for display"""
+            if isinstance(value, str):
+                # Handle URLs
+                if value.startswith('http'):
+                    return f"[{value}]({value})"
+                # Skip empty responses
+                if value in ['_No response_', 'N/A', 'n/a', 'TBD', 'tbd']:
+                    return None
+            return value
+
+        # Process all JSON files in docs/methods/
+        json_files = glob.glob('docs/methods/*.json')
+        
+        for json_file in json_files:
+            try:
+                with open(json_file, 'r') as f:
+                    data = json.load(f)
+                
+                method_id = data.get('id', 'unknown')
+                md_file = f'docs/methods/{method_id}.md'
+                
+                # Generate markdown content
+                with open(md_file, 'w') as f:
+                    # Header
+                    method_name = data.get('name_of_the_method_content', data.get('service', 'Unknown Method'))
+                    method_name = method_name.replace('[METHOD]: ', '')
+                    f.write(f"# {method_name}\n\n")
+                    
+                    # Description
+                    description = data.get('method_description_content')
+                    if description and description != '_No response_':
+                        f.write(f"{description}\n\n")
+                    
+                    # Method Details
+                    f.write("## Method Details\n\n")
+                    
+                    # Key fields to display in order
+                    key_fields = [
+                        ('type_content', 'Type'),
+                        ('vendor_content', 'Vendor'),
+                        ('catalog_number_content', 'Catalog Number'),
+                        ('catalog_webpage_url', 'Catalog Webpage'),
+                        ('vhp4safety_workflow_stage_content', 'VHP4Safety Workflow Stage'),
+                        ('workflow_substage_content', 'Workflow Substage'),
+                        ('relevant_vhp4safety_regulatory_question(s)_content', 'Relevant VHP4Safety Regulatory Questions')
+                    ]
+                    
+                    for field_key, field_label in key_fields:
+                        value = data.get(field_key)
+                        formatted_value = format_value(value)
+                        if formatted_value:
+                            f.write(f"**{field_label}:** {formatted_value}\n\n")
+                    
+                    # Citation section
+                    citation = data.get('citation_content')
+                    if citation and citation != '_No response_':
+                        f.write("## Citation\n\n")
+                        f.write(f"{citation}\n\n")
+                    
+                    # Additional Information
+                    f.write("## Additional Information\n\n")
+                    
+                    # Display other fields not already shown
+                    skip_fields = {
+                        'id', 'service', 'issue_number', 'timestamp',
+                        'name_of_the_method_content', 'method_description_content',
+                        'citation_content'
+                    }
+                    skip_fields.update([field[0] for field in key_fields])
+                    
+                    for key, value in data.items():
+                        if key not in skip_fields:
+                            formatted_value = format_value(value)
+                            if formatted_value:
+                                clean_key = clean_field_name(key)
+                                f.write(f"**{clean_key}:** {formatted_value}\n\n")
+                    
+                    # Footer
+                    f.write("---\n\n")
+                    f.write(f"*Generated from issue #{data.get('issue_number', 'unknown')} on {datetime.datetime.now().strftime('%Y-%m-%d')}*\n")
+                
+                print(f"Generated markdown: {md_file}")
+                
+            except Exception as e:
+                print(f"Error processing {json_file}: {e}")
+        
+        print("Markdown generation complete")
+        EOF
+
+    - name: Commit generated markdown files
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        if [ -n "$(git status --porcelain docs/methods/*.md 2>/dev/null)" ]; then
+          git add docs/methods/*.md
+          git commit -m "Auto-generate method markdown files"
+          git push
+        else
+          echo "No markdown files to commit"
+        fi
