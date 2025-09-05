@@ -10,12 +10,12 @@ body:
       value: |
         Please fill out the form as completely as possible. Empty fields can be filled out later.
   - type: input
-    id: name
+    id: name # ToxTemp 1.1
     attributes:
       label: Name of the method
       description: The method can be a model, an assay, etc.
   - type: input
-    id: description
+    id: description # ToxTemp 1.2
     attributes:
       label: Method description
       description: A brief description of the method
@@ -42,25 +42,25 @@ body:
       value: |
         ## Specification
   - type: input
-    id: vendor
+    id: vendor # If cell: ToxTemp 3.1 // If method, no ToxTemp equivalent yet
     attributes:
       label: Vendor
       description: Vendor or provider of the method
   - type: input
-    id: catalog_number
+    id: catalog_number # If cell: ToxTemp 3.1 // If method, no ToxTemp equivalent yet
     attributes:
       label: Catalog number
       description: Catalog entry for the method
       placeholder: e.g., R001
   - type: input
-    id: catalog
+    id: catalog # If cell: ToxTemp 3.1 // If method, no ToxTemp equivalent yet
     attributes:
       label: Catalog webpage
   - type: input
-    id: citation
+    id: citation # ToxTemp 3.7
     attributes:
       label: Citation
-      description: DOI or URL to a publication describing the method
+      description: DOI or URL to a publication or SOP describing the method
   - type: dropdown
     id: stage
     attributes:
