@@ -1,0 +1,16 @@
+{
+  "id": "cellrox__green_reagent_for_oxidative_stress_detection",
+  "service": "[METHOD]: CellROX  Green Reagent for oxidative stress detection",
+  "issue_number": 139,
+  "name_of_the_method_content": "CellROX  Green Reagent for oxidative stress detection",
+  "method_description_content": "ROS detection by fluorescent probe",
+  "type_content": "_No response_",
+  "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
+  "vendor_content": "ThermoFisher Scientific",
+  "catalog_number_content": "C10444",
+  "catalog_webpage_content": "_No response_",
+  "citation_content": "_No response_",
+  "vhp4safety_workflow_stage_content": "AOP",
+  "workflow_substage_content": "_ROS increase_",
+  "timestamp": "2025-09-05T12:51:35.327491Z"
+}
