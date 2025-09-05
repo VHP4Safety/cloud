@@ -1,0 +1,73 @@
+name: New Method Catalogue Entry
+description: Request to add a new method to the catalogue
+title: "[METHOD]: "
+labels: ["method"]
+
+body:
+  - type: markdown
+    attributes: 
+      value: |
+        Please fill out the below form as complete as possible, but empty fields can be filled out later. 
+  - type: input
+    id: name
+    attributes:
+      label: Name of the method
+      description: The method can be a model, an assay...
+  - type: input
+    id: description
+    attributes:
+      label: method description
+      description: A brief description for the method
+  - type: input
+    id: iri
+    attributes:
+      label: type
+      description: Glossary, ontology or controlled vocabulary term IRI. Please look up your term in the [Ontology Lookup Service](https://www.ebi.ac.uk/ols4/) or [Glossary](https://glossary.vhp4safety.nl/)
+  - type: dropdown
+    id: casestudy
+    attributes:
+      label: Which VHP4Safety regulatory question(s) are relevant? Multiple selections are possible. Please see the regulatory questions at this [link](https://docs.vhp4safety.nl/en/latest/introduction/case_studies_and_regulatory_questions.html)
+      multiple: true
+      options:
+        - Kidney Disease (a)
+        - Kidney Disease (b)
+        - Life Course Pesticide Exposure and Neurodegenerative Disease (a)
+        - Life Course Pesticide Exposure and Neurodegenerative Disease (b)
+        - Thyroid Mediated Developmental Neurotoxicity (a)
+        - Thyroid Mediated Developmental Neurotoxicity (b)
+  - type: markdown
+    attributes: 
+      value: |
+        ## Specification
+  - type: input
+    id: provider
+    attributes:
+      label: Name of the provider
+      description: Who is providing the method?
+  - type: input
+    id: provider-email
+    attributes:
+      label: E-mail address of the provider
+      description: An e-mail address through which the provider can be contacted
+  - type: input
+    id: citation
+    attributes:
+      label: Citation
+      description: Is there a journal article or book chapter describing the method? A simple DOI or URL is sufficient.
+  - type: dropdown
+    id: stage
+    attributes:
+      label: Which VHP4Safety workflow stage does this method belong to?
+      multiple: ture
+      options:
+       - Cheminformatics
+       - External Exposure
+       - Kinetics
+       - AOP
+       - Adverse Outcome
+  - type: input
+    id: substage
+    attributes:
+      label: Which substage of the workflow stage does this method belong to?
+      placeholder: e.g. Exposure repsonse relationship
+      
