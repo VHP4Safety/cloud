@@ -42,14 +42,20 @@ body:
       value: |
         ## Specification
   - type: input
-    id: provider
+    id: vendor
     attributes:
-      label: Catalog entry
-      description: Who is providing the method?
+      label: Vendor
+      description: Vendor or provider of the method
+  - type: input
+    id: catalog_number
+    attributes:
+      label: Catalog number
+      description: Catalog entry for the method
+      placeholder: e.g., R001
   - type: input
     id: catalog
     attributes:
-      label: Catalog entry webpage
+      label: Catalog webpage
   - type: input
     id: citation
     attributes:
