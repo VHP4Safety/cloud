@@ -2,6 +2,7 @@ name: New Method Catalogue Entry
 description: Request to add a new method to the catalogue
 title: "[METHOD]: "
 labels: ["method"]
+assignees: jmillanacosta
 
 body:
   - type: markdown
