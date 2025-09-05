@@ -25,10 +25,12 @@ jobs:
     - name: Fetch issue content and parse template
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        ISSUE_NUMBER: ${{ github.event.issue.number }}
       run: |
-        import os, json, re, requests
+        python - <<'EOF'
+        import os, json, re, requests, datetime
 
-        issue_number = os.environ['ISSUE_NUMBER'] = '${{ github.event.inputs.issue_number }}'
+        issue_number = os.environ['ISSUE_NUMBER']
         repo = os.environ['GITHUB_REPOSITORY']
 
         headers = {'Authorization': f'token {os.environ["GITHUB_TOKEN"]}'}
@@ -37,43 +39,39 @@ jobs:
         r.raise_for_status()
         body = r.json()['body']
 
-        # Extract key-value pairs using YAML-like syntax
         fields = {}
-        # For simple key: value patterns
         for line in body.splitlines():
             match = re.match(r'^\s*(\w+):\s*(.+)$', line)
             if match:
                 key, value = match.groups()
                 fields[key.strip()] = value.strip()
-        
-        # Add timestamp for uniqueness
-        import datetime
+
         fields['timestamp'] = datetime.datetime.utcnow().isoformat() + 'Z'
 
-        # Save JSON
         os.makedirs('docs/methods', exist_ok=True)
         file_path = f'docs/methods/method-{issue_number}.json'
         with open(file_path, 'w') as f:
             json.dump(fields, f, indent=2)
         print(f"Saved JSON to {file_path}")
+        EOF
 
     - name: Commit changes
       run: |
-        branch="method-${{ github.event.inputs.issue_number }}"
+        branch="method-${{ github.event.issue.number }}"
         git checkout -b "$branch" || git checkout "$branch"
-        git add docs/methods/method-${{ github.event.inputs.issue_number }}.json
+        git add docs/methods/method-${{ github.event.issue.number }}.json
         if git diff --cached --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Add method JSON for issue #${{ github.event.inputs.issue_number }}"
+          git commit -m "Add method JSON for issue #${{ github.event.issue.number }}"
           git push origin "$branch"
 
     - name: Create Pull Request
       uses: peter-evans/create-pull-request@v6
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        commit-message: "Add method JSON for issue #${{ github.event.inputs.issue_number }}"
-        branch: "method-${{ github.event.inputs.issue_number }}"
-        title: "Add method JSON for issue #${{ github.event.inputs.issue_number }}"
-        body: "This PR adds the method JSON file generated from issue #${{ github.event.inputs.issue_number }}"
+        commit-message: "Add method JSON for issue #${{ github.event.issue.number }}"
+        branch: "method-${{ github.event.issue.number }}"
+        title: "Add method JSON for issue #${{ github.event.issue.number }}"
+        body: "This PR adds the method JSON file generated from issue #${{ github.event.issue.number }}"
         base: main
