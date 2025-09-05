@@ -19,12 +19,11 @@ jobs:
 
       - name: Generate JSON from issue
         run: |
+          python - <<'EOF'
           import json, os
-          issue = ${'${{ toJSON(github.event.issue) }}'}
-          issue = json.loads(issue)
+          issue = json.loads(r'''${{ toJSON(github.event.issue) }}''')
           body = issue["body"]
 
-          # Save issue body as JSON stub
           outdir = "docs/methods"
           os.makedirs(outdir, exist_ok=True)
           fname = os.path.join(outdir, f"method-{issue['number']}.json")
@@ -36,6 +35,7 @@ jobs:
                   "url": issue["html_url"],
                   "body": body
               }, f, indent=2)
+          EOF
 
       - name: Commit and push branch
         run: |
@@ -48,9 +48,17 @@ jobs:
           git push origin "$branch"
 
       - name: Open Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v6
         with:
           title: "Add method JSON for #${{ github.event.issue.number }}"
           body: "Automatically generated from issue #${{ github.event.issue.number }}."
           branch: "method-${{ github.event.issue.number }}"
           base: main
+
+      - name: Comment on issue with PR link
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: |
+            A pull request has been opened: ${{ steps.cpr.outputs.pull-request-url }}
