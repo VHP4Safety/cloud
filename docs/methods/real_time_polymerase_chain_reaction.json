@@ -1,0 +1,16 @@
+{
+  "id": "real_time_polymerase_chain_reaction",
+  "service": "[METHOD]: RT-qPCR",
+  "issue_number": 141,
+  "name_of_the_method_content": "Real-time polymerase chain reaction",
+  "method_description_content": "Technology used for measuring RNA using PCR",
+  "type_content": "_No response_",
+  "relevant_vhp4safety_regulatory_question(s)_content": "Kidney Disease (b)",
+  "vendor_content": "NA",
+  "catalog_number_content": "NA",
+  "catalog_webpage_content": "NA",
+  "citation_content": "_No response_",
+  "vhp4safety_workflow_stage_content": "_No response_",
+  "workflow_substage_content": "_No response_",
+  "timestamp": "2025-09-05T12:51:37.227487Z"
+}
