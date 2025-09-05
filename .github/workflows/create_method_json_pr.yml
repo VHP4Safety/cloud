@@ -81,18 +81,34 @@ jobs:
                     value = value.strip()
                     
                     # Skip empty values and placeholders
-                    if value and value not in ['N/A', 'n/a', 'TBD', 'tbd', '...']:
+                    if value and value not in ['N/A', 'n/a', 'TBD', 'tbd', '...', '_No response_']:
                         fields[key] = value
                     matched = True
                     break
             
+            # Handle URLs that might be on separate lines
+            if line.startswith('http') and current_section:
+                url_key = f'{current_section}_url'
+                fields[url_key] = line
+                continue
+            
             # If we're in a section and no key-value match, treat as content
-            if not matched and current_section and line:
+            if not matched and current_section and line and not line.startswith('http'):
                 section_key = f'{current_section}_content'
                 if section_key not in fields:
                     fields[section_key] = line
                 else:
                     fields[section_key] += f' {line}'
+
+        # Generate proper ID from method name
+        method_name = fields.get('name_of_the_method_content', fields.get('service', ''))
+        if method_name:
+            # Clean the method name to create ID
+            clean_name = method_name.replace('[METHOD]: ', '').strip()
+            method_id = clean_name.lower().replace(' ', '_').replace('-', '_')
+            # Remove special characters
+            method_id = re.sub(r'[^a-z0-9_]', '', method_id)
+            fields['id'] = method_id
 
         fields['timestamp'] = datetime.datetime.utcnow().isoformat() + 'Z'
 
@@ -102,7 +118,7 @@ jobs:
             exit(1)
 
         os.makedirs('docs/methods', exist_ok=True)
-        file_path = f'docs/methods/method-{issue_number}.json'
+        file_path = f'docs/methods/{fields["id"]}.json'
         with open(file_path, 'w') as f:
             json.dump(fields, f, indent=2)
         print(f"Saved JSON to {file_path}")
@@ -120,7 +136,7 @@ jobs:
           This PR adds the method JSON file generated from issue #${{ github.event.issue.number }}.
           
           **Auto-generated from issue:** #${{ github.event.issue.number }}
-          **File created:** `docs/methods/method-${{ github.event.issue.number }}.json`
+          **File created:** `docs/methods/{method_id}.json`
           
           Please review the generated JSON file and make any necessary adjustments before merging.
         base: main
