@@ -55,6 +55,11 @@ jobs:
         print(f"Saved JSON to {file_path}")
         EOF
 
+    - name: Configure Git
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
     - name: Commit changes
       run: |
         branch="method-${{ github.event.issue.number }}"
