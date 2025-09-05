@@ -135,26 +135,26 @@ jobs:
             # Add footer
             f.write("""---
 
-## Contributing
+            ## Contributing
 
-Methods are automatically added to this catalog when new method JSON files are created from GitHub issues labeled with 'method'. To contribute:
+            Methods are automatically added to this catalog when new method JSON files are created from             GitHub issues labeled with 'method'. To contribute:
+            
+            1. [Create a new method request issue](https://github.com/VHP4Safety/cloud/issues/new/choose)
+            2. Fill out the method template with details about vendor, catalog number, and workflow             integration
+            3. Label the issue with 'method'
+            4. The method will be automatically processed and added to this catalog
+            
+            ## About VHP4Safety
+            
+            VHP4Safety – the Virtual Human Platform for safety assessment project [NWA 1292.19.272](https://            www.nwo.nl/projecten/nwa129219272) is part of the NWA research program 'Research along Routes           by Consortia (ORC)', which is funded by the Netherlands Organization for Scientific Research        (NWO). The project started on June 1, 2021 with a budget of over 10 million Euros and will last     for the duration of 5 years.
+            
+            *Index last updated: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}*
+            """)
 
-1. [Create a new method request issue](https://github.com/VHP4Safety/cloud/issues/new/choose)
-2. Fill out the method template with details about vendor, catalog number, and workflow integration
-3. Label the issue with 'method'
-4. The method will be automatically processed and added to this catalog
-
-## About VHP4Safety
-
-VHP4Safety – the Virtual Human Platform for safety assessment project [NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272) is part of the NWA research program 'Research along Routes by Consortia (ORC)', which is funded by the Netherlands Organization for Scientific Research (NWO). The project started on June 1, 2021 with a budget of over 10 million Euros and will last for the duration of 5 years.
-
-*Index last updated: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')}*
-""")
-        
-        print(f"Generated methods index: {index_path}")
-        print(f"Total methods processed: {len(methods)}")
-        EOF
-
+            print(f"Generated methods index: {index_path}")
+            print(f"Total methods processed: {len(methods)}")
+            EOF
+            
     - name: Commit generated index
       run: |
         git config --global user.name "github-actions[bot]"
