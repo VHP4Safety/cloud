@@ -1,0 +1,30 @@
+
+{
+  "id": "farmacokompas",
+  "service": "Farmacotherapeutisch Kompas",
+
+  "stage": "external exposure",
+  "substage": "compound characteristics",
+
+  "_ins_screenshot": "The name of the file for the service logo, needs to be the same name as the service id but with a different extension.", "screenshot": "",
+
+  "url": "https://www.farmacotherapeutischkompas.nl/",
+
+  "provider": {
+    "name": "Zorginstituut Nederland",
+    "url": "https://www.farmacotherapeutischkompas.nl/algemeen/contact"
+  },
+
+  "Other": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Farmacotherapeutisch_Kompas"
+  },
+
+  "regulatory-question": {
+    "1a": "true",
+    "1b": "true",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
+  }
+}
