@@ -6,7 +6,7 @@ on:
 
 jobs:
   create-json-pr:
-    if: github.event.label.name == 'method-approved-for-pr'
+    if: contains(github.event.label.name, 'method-approved-for-pr')
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
@@ -42,10 +42,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           branch="method-${{ github.event.issue.number }}"
-          git checkout -b "$branch"
+          git fetch origin
+          git checkout -B "$branch"
           git add docs/methods/
-          git commit -m "Add method JSON for issue #${{ github.event.issue.number }}"
-          git push origin "$branch"
+          git commit -m "Add method JSON for issue #${{ github.event.issue.number }}" || echo "No changes to commit"
+          git push --set-upstream origin "$branch" --force
 
       - name: Open Pull Request
         id: cpr
@@ -55,6 +56,7 @@ jobs:
           body: "Automatically generated from issue #${{ github.event.issue.number }}."
           branch: "method-${{ github.event.issue.number }}"
           base: main
+          commit-message: "Add method JSON for issue #${{ github.event.issue.number }}"
 
       - name: Comment on issue with PR link
         uses: peter-evans/create-or-update-comment@v4
