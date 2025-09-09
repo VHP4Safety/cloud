@@ -1,5 +1,5 @@
-[
-  {
+{
+  "aopnetwork": {
     "service": "AOP Network Builder",
     "description": "web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint.",
     "html_name": "aopnetwork.html",
