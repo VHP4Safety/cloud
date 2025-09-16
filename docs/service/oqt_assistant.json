@@ -1,1 +1,80 @@
-{ "id": "oqt_assistant", "service": "O'QT — OECD QSAR Toolbox AI Assistant", "description": "A multi-agent assistant that connects to a locally running OECD QSAR Toolbox Web API to analyze chemicals, profile hazards, and suggest read-across strategies. O’QT fetches properties, experimental data, and profiling outputs from the Toolbox and synthesizes them into an AI-generated report.", "stage": "https://vhp4safety.github.io/glossary#VHP0000102", "substage": "prototype", "screenshot": "oqt_assistant.png", "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant", "doi": "", "release_notes": "2025-09-05: Initial registry entry. Clarified EULA constraints; added Docker usage note (assistant only).", "instance": { "type": "local", "vhp-platform": "independent", "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant", "license": "Apache-2.0", "version": "0.1.0", "source": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant", "docker": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant/blob/main/Dockerfile", "TRL": "TRL4" }, "provider": { "contact": { "name": "Ivo Djidrovski", "email": "i.djidrovski@uu.nl" }, "name": "Utrecht University / VHP4Safety", "url": "https://www.uu.nl/" }, "access": { "API": "", "login": "Requires a locally installed OECD QSAR Toolbox with Web API enabled on Windows; set QSAR_TOOLBOX_API_URL. Provide an OpenAI API key for AI analysis." }, "intro": { "title": "O’QT README (single source of truth)", "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant/blob/main/README.md" }, "demo": { "title": "Local/Containerized Assistant (no bundled Toolbox)", "url": "" }, "workflow": { "title": "Agent Workflow (Context → Specialists → Read-Across → Synthesis)", "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant/blob/main/README.md#qsar-assistant-workflow" }, "ELIXIR": { "biotools": "", "tess": "", "fairsharing": "" }, "Other": { "wikipedia": "", "rsd": "" }, "NAM-validation": { "NAM-stage-1": "false", "NAM-stage-2": "false", "NAM-stage-3": "false", "NAM-stage-4": "false", "NAM-stage-5": "false" }, "VHP-persona": { "persona-1": "true", "persona-2": "true", "persona-3": "true" }, "regulatory-question": { "1a": "false", "1b": "false", "2a": "true", "2b": "true", "3a": "true", "3b": "true" }, "notes": { "assumptions_limitations_uncertainties": [ "Hard requirement: a locally installed OECD QSAR Toolbox on Windows with the Web API enabled; the assistant does not include the Toolbox.", "EULA prohibits bundling/redistribution of the Toolbox; no Docker image can legally contain it.", "Assistant quality depends on data availability/coverage in the Toolbox databases and profiles used.", "AI synthesis (OpenAI) can introduce uncertainty; always review cited data and read-across rationale." ], "legal": [ "OECD QSAR Toolbox EULA restricts copying, redistribution, and modification (e.g., Articles 2.2.b, 2.2.c, 2.2.f).", "O’QT is Apache-2.0; the Toolbox remains separately licensed by OECD." ], "external_materials": [ "OECD QSAR Toolbox (local install, Windows)", "OpenAI API (synthesis)", "Optional: additional profiles/databases configured inside the Toolbox" ], "references": [ "OECD QSAR Toolbox Documentation", "Read-across and category formation guidance (OECD)", "Project README for architecture and prompts" ], "additional_links": [] }, "faq": [ { "q": "Can I run this without the OECD QSAR Toolbox?", "a": "No. O’QT is a client; it queries your locally running Toolbox Web API for all chemical data." }, { "q": "Why no Docker image with the Toolbox included?", "a": "The Toolbox EULA prohibits redistribution and bundling. You may containerize the assistant only." }, { "q": "Which OS is required?", "a": "The Toolbox requires Windows. The assistant can run on Windows/macOS/Linux (or in Docker) and point to the Windows host." }, { "q": "How do I set connectivity?", "a": "Set QSAR_TOOLBOX_API_URL to the Toolbox API endpoint (e.g., http://localhost:5000/api or http://<windows-ip>:5000/api)." } ], "filters": { "risk_assessment_stage": ["Problem formulation", "Knowledge gathering", "Hazard identification", "Read-across planning", "Evidence synthesis"], "type_of_tool": ["Data access client", "Multi-agent analysis", "Read-across recommender", "Evidence synthesis"], "related_case_study": ["General chemicals; adaptable per Toolbox profiles"], "input_type_value": [ "Chemical identifier (Name/SMILES/CAS)", "Optional analysis context", "QSAR Toolbox API URL", "OpenAI API key" ], "output_type_value": [ "Chemical overview", "Properties/experimental/profiling tables", "Read-across candidates/strategy", "Synthesized AI report (downloadable JSON/CSV/Markdown)" ], "target_user": ["Toxicologist", "Risk assessor", "Regulatory scientist", "Cheminformatician"], "chemical_domain": ["Industrial chemicals", "Pharmaceuticals", "Cosmetics", "Food additives", "Environmental contaminants"], "biological_domain": ["Human health", "Environmental toxicology"], "availability": ["Local install (assistant)", "Docker (assistant only)"], "validation_status": ["Under Development / Prototype; leverages OECD QSAR Toolbox (established)"], "usability": ["Web interface (Streamlit)", "CLI entry point", "Dockerized (assistant only)"] }
+
+{
+  "id": "oqt_assistant",
+  "service": "O'QT — OECD QSAR Toolbox AI Assistant",
+  "description": "A multi-agent assistant that connects to a locally running OECD QSAR Toolbox Web API to analyze chemicals, profile hazards, and suggest read-across strategies. O’QT fetches properties, experimental data, and profiling outputs from the Toolbox and synthesizes them into an AI-generated report.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+  "substage": "prototype",
+  "screenshot": "oqt_assistant.png",
+  "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant",
+  "doi": "",
+  "release_notes": "2025-09-05: Initial registry entry. Clarified EULA constraints; added Docker usage note (assistant only).",
+  "instance": {
+    "type": "internal",
+    "vhp-platform": "development",
+    "url": "",
+    "license": "Apache-2.0",
+    "version": "0.1.0",
+    "source": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant",
+    "docker": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant/blob/main/Dockerfile",
+    "TRL": "TRL4"
+  },
+  "provider": {
+    "contact": {
+      "name": "Ivo Djidrovski",
+      "email": "i.djidrovski@uu.nl"
+    },
+    "name": "Utrecht University / VHP4Safety",
+    "url": "https://www.uu.nl/"
+  },
+  "access": {
+    "API": "",
+    "login": "Requires a locally installed OECD QSAR Toolbox with Web API enabled on Windows; set QSAR_TOOLBOX_API_URL. Provide an OpenAI API key for AI analysis.",
+    "packages": {
+      "R": "",
+      "Python": ""
+    }
+  },
+  "intro": {
+    "title": "O’QT README (single source of truth)",
+    "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant/blob/main/README.md"
+  },
+  "demo": {
+    "title": "",
+    "url": ""
+  },
+
+  "workflow": {
+    "title": "Agent Workflow (Context → Specialists → Read-Across → Synthesis)",
+    "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant/blob/main/README.md#qsar-assistant-workflow"
+  },
+  "ELIXIR": {
+    "biotools": "",
+    "tess": "",
+    "fairsharing": ""
+  },
+  "Other": {
+    "wikipedia": "",
+    "rsd": ""
+  },
+  "NAM-validation": {
+    "NAM-stage-1": "false",
+    "NAM-stage-2": "false",
+    "NAM-stage-3": "false",
+    "NAM-stage-4": "false",
+    "NAM-stage-5": "false"
+  },
+  "VHP-persona": {
+    "persona-1": "true",
+    "persona-2": "true",
+    "persona-3": "true"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "true",
+    "2b": "true",
+    "3a": "true",
+    "3b": "true"
+  }
+}

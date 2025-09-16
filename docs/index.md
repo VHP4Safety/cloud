@@ -68,6 +68,10 @@ The MolAOP analyser service enables users to analyse transcriptomic data in the 
 
 Physiologically based pharmacokinetic model for organophosphates [[more information](service/oppbk_model.md)]
 
+#### O'QT — OECD QSAR Toolbox AI Assistant
+
+A multi-agent assistant that connects to a locally running OECD QSAR Toolbox Web API to analyze chemicals, profile hazards, and suggest read-across strategies. O’QT fetches properties, experimental data, and profiling outputs from the Toolbox and synthesizes them into an AI-generated report. [[more information](service/oqt_assistant.md)]
+
 #### qAOP-App
 
 An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies. [[more information](service/qaop_app.md)]
@@ -87,6 +91,10 @@ A tool that uses Large Language Models to harmonize and complete method descript
 #### TXG-MAPr
 
 An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets. [[more information](service/txg_mapr.md)]
+
+#### VHP4Safety Glossary
+
+A collection of ontology with the names, abrreviations and definitions of the terminology that is used in the VHP4Safety project. [[more information](service/vhp_glossary.md)]
 
 #### VHP4Safety Wikibase
 
@@ -143,10 +151,6 @@ A multi-agent question-answering tool that combines structured pathway knowledge
 #### The OECD QSAR Toolbox
 
 A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
-
-#### O'QT: The OECD QSAR Toolbox AI Assistant
-
-A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox. [[more information](service/oqt_assistant.md)]
 
 #### SysRev
 

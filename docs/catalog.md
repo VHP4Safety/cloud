@@ -153,6 +153,14 @@ An open source data management platform that allows importing and exporting meta
 
 ------------------------
 
+![Farmacotherapeutisch Kompas logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/https://media.licdn.com/dms/image/v2/D4E22AQGdpGoAGxQ9Ww/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706625689055?e=2147483647&v=beta&t=ex-VMBmT6rICqE93RC6lpOEBZsesQnlpfk1ZMWi0Bko)
+
+## Farmacotherapeutisch Kompas
+
+The Farmacotherapeutisch Kompas contains a wide spectrum of information on prescribing and pharmacology, among others indications, side effects and costs of the prescription of all pharmaceutical drugs available in the Netherlands. [[more information](service/farmacokompas.md)]
+
+------------------------
+
 ## Flame
 
 An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments. [[more information](service/flame.md)]
@@ -225,11 +233,11 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 ------------------------
 
-![O'QT: The OECD QSAR Toolbox AI Assistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oqt_assistant.png)
+![O'QT — OECD QSAR Toolbox AI Assistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oqt_assistant.png)
 
-## O'QT: The OECD QSAR Toolbox AI Assistant
+## O'QT — OECD QSAR Toolbox AI Assistant
 
-A tool to analyze chemicals, assess hazards, and get Read-Across recommendations using a powerful multi-agent AI system connected to the OECD QSAR Toolbox. [[more information](service/oqt_assistant.md)]
+A multi-agent assistant that connects to a locally running OECD QSAR Toolbox Web API to analyze chemicals, profile hazards, and suggest read-across strategies. O’QT fetches properties, experimental data, and profiling outputs from the Toolbox and synthesizes them into an AI-generated report. [[more information](service/oqt_assistant.md)]
 
 ------------------------
 
@@ -272,6 +280,14 @@ A tool that uses Large Language Models to harmonize and complete method descript
 ## TXG-MAPr
 
 An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets. [[more information](service/txg_mapr.md)]
+
+------------------------
+
+![VHP4Safety Glossary logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+
+## VHP4Safety Glossary
+
+A collection of ontology with the names, abrreviations and definitions of the terminology that is used in the VHP4Safety project. [[more information](service/vhp_glossary.md)]
 
 ------------------------
 
