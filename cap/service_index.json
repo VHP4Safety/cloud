@@ -525,6 +525,21 @@
     "reg_q_3b": "false"
   },
   {
+    "service": "VHP4Safety Glossary",
+    "description": "A collection of ontology with the names, abrreviations and definitions of the terminology that is used in the VHP4Safety project.",
+    "html_name": "vhp_glossary.html",
+    "md_file_name": "vhp_glossary.md",
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "Other",
+    "main_url": "https://glossary.vhp4safety.nl/",
+    "reg_q_1a": "true",
+    "reg_q_1b": "true",
+    "reg_q_2a": "true",
+    "reg_q_2b": "true",
+    "reg_q_3a": "true",
+    "reg_q_3b": "true"
+  },
+  {
     "service": "VHP4Safety Wikibase",
     "description": "A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
     "html_name": "wikibase.html",
