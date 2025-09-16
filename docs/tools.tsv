@@ -18,6 +18,7 @@ dsld	NIH Dietary Supplement Label Database	https://dsld.od.nih.gov/	NA
 ema_documents	European Medicines Agency Documents	https://www.ema.europa.eu/en/search	NA
 fairdomhub	FAIRDOMHub	https://fairdomhub.org/	NA
 fairspace	Fairspace	https://www.thehyve.nl/services/fairspace	NA
+farmacokompas	Farmacotherapeutisch Kompas	https://www.farmacotherapeutischkompas.nl/	NA
 flame	Flame	https://phi.upf.edu/phi/index.php/software/flame/	http://flame.cloud.vhp4safety.nl:8098/
 google	Google Search	https://google.com/	NA
 gscholar	Google Scholar	https://scholar.google.com/	NA
@@ -28,13 +29,14 @@ molaopanalyser	MolAOP analyser	https://molaop-analyser.vhp4safety.nl/	https://mo
 oecd_qsar_toolbox	The OECD QSAR Toolbox	https://qsartoolbox.org/	
 oppbk_model	OP PBK Model	http://oppbk.cloud.vhp4safety.nl/	http://oppbk.cloud.vhp4safety.nl/
 opsin	OPSIN: Open Parser for Systematic IUPAC nomenclature	https://www.ebi.ac.uk/opsin/	NA
-oqt_assistant	O'QT: The OECD QSAR Toolbox AI Assistant	https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant	
+oqt_assistant	O'QT — OECD QSAR Toolbox AI Assistant	https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant	
 qaop_app	qAOP-App	https://qaop.vhp4safety.nl/	https://qaop.vhp4safety.nl/
 qsprpred	QSPRpred	https://qsprpred.cloud.vhp4safety.nl/	https://qsprpred.cloud.vhp4safety.nl/
 sombie	SOM Prediction	https://sombie.cloud.vhp4safety.nl/	https://sombie.cloud.vhp4safety.nl/
 sysrev	SysRev	https://sysrev.com/	NA
 toxtemp_assistant	ToxTempAssistant	https://toxtempassistant.vhp4safety.nl/	https://toxtempassistant.vhp4safety.nl/
 txg_mapr	TXG-MAPr	https://txg-mapr.eu/	NA
+vhp_glossary	VHP4Safety Glossary	https://glossary.vhp4safety.nl/	
 wikibase	VHP4Safety Wikibase	https://compoundcloud.wikibase.cloud/	NA
 wikipathways_aop	WikiPathways - AOP Portal	https://aop.wikipathways.org/	
 xploreaop	xploreaop	https://xploreaop.cloud.vhp4safety.nl/	https://xploreaop.cloud.vhp4safety.nl/
