@@ -1,3 +1,6 @@
+---
+layout: base
+---
 
 ![https://vhp4safety.nl](VHP-LOGO-100mm-RGB.png "The VHP4Safety Project is a Dutch NWO-funded research collaboration")
 
