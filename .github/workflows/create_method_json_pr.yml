@@ -6,7 +6,7 @@ on:
 
 jobs:
   generate-json:
-    if: contains(github.event.label.name, 'method') || contains(github.event.label.name, 'service')
+    if: contains(github.event.label.name, 'method') || contains(github.event.label.name, 'method')
     runs-on: ubuntu-latest
 
     steps:
@@ -49,7 +49,7 @@ jobs:
 
         fields = {
             'id': f'method-{issue_number}',
-            'service': title,
+            'method': title,
             'issue_number': int(issue_number)
         }
         
@@ -101,7 +101,7 @@ jobs:
                     fields[section_key] += f' {line}'
 
         # Generate proper ID from method name
-        method_name = fields.get('name_of_the_method_content', fields.get('service', ''))
+        method_name = fields.get('name_of_the_method_content', fields.get('method', ''))
         if method_name:
             # Clean the method name to create ID
             clean_name = method_name.replace('[METHOD]: ', '').strip()
@@ -113,8 +113,8 @@ jobs:
         fields['timestamp'] = datetime.datetime.utcnow().isoformat() + 'Z'
 
         # Validate required fields
-        if 'service' not in fields or not fields['service']:
-            print("Error: No service name found in issue")
+        if 'method' not in fields or not fields['method']:
+            print("Error: No method name found in issue")
             exit(1)
 
         os.makedirs('docs/methods', exist_ok=True)
