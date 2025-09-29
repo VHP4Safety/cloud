@@ -1,6 +1,6 @@
 {
   "id": "lysotracker_green_dnd_26",
-  "service": "[METHOD]: LysoTracker Green DND-26",
+  "method": "[METHOD]: LysoTracker Green DND-26",
   "issue_number": 145,
   "name_of_the_method_content": "LysoTracker Green DND-26",
   "method_description_content": "Fluorescent - based detection of lysosomes",
@@ -12,7 +12,11 @@
   "citation_content": "_No response_",
   "vhp4safety_workflow_stage_content": "Adverse Outcome",
   "workflow_substage_content": "_No response_",
-  "regulatory_question": "Q1",
-  "case_study": "thyroid",
-  "timestamp": "2025-09-05T12:51:35.916833Z"
+  "relevant_aop_wiki_key_event(s)_to_the_assay_content": "_No response_",
+  "relevant_aop_wiki_adverse_outcome_pathway(s)_to_the_assay_content": "_No response_",
+  "available_sop_or_protocol_content": "_No response_",
+  "ontology_term_content": "_No response_",
+  "regulatory_question_content": "Q1",
+  "case_study_content": "thyroid",
+  "timestamp": "2025-09-29T13:45:39.789841Z"
 }
