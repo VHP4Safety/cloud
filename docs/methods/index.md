@@ -6,9 +6,9 @@
 
 This catalog contains experimental methods and protocols used in VHP4Safety research workflows. Each method entry includes vendor information, catalog numbers, and integration details with VHP4Safety regulatory questions and workflow stages.
 
-[Request a new method](https://github.com/VHP4Safety/cloud/issues/new?template=new-tool-method-entry.yml) | [Browse all methods](https://github.com/VHP4Safety/cloud/tree/main/docs/methods)
+[Request a new method](https://github.com/VHP4Safety/cloud/issues/new/choose) | [Browse all methods](https://github.com/VHP4Safety/cloud/tree/main/docs/methods)
 
-## Available Methods (12)
+## Available Methods (13)
 
 ### AOP Methods
 
@@ -40,6 +40,10 @@ Fluorescence-based detection of LDH (Vendor: Merck) [[more information](cytotoxi
 
 ### Adverse Outcome Methods
 
+#### 5-CFDA assay to determine cytotoxicity
+
+Fluorescence-based determination of cell membrane damage (Vendor: Invitrogen) [[more information](5_cfda_assay_to_determine_cytotoxicity.md)]
+
 #### LysoTracker Green DND-26
 
 Fluorescent - based detection of lysosomes (Vendor: Thermofisher) [[more information](lysotracker_green_dnd_26.md)]
@@ -52,11 +56,11 @@ Intracellular measurements are determined in cell lysates using LCMS, normalized
 
 #### P-gp Staining
 
-Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](method-148.md)]
+Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](p_gp_staining.md)]
 
 #### P-gp Staining
 
-Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](p_gp_staining.md)]
+Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](method-148.md)]
 
 ### Other Methods
 
