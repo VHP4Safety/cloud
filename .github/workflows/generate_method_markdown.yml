@@ -1,6 +1,7 @@
 name: Generate Method Markdown from JSON
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - 'docs/methods/*.json'
