@@ -1,4 +1,4 @@
-# 5-CFDA assay to determine cytotoxicity
+# Unknown Method
 
 Fluorescence-based determination of cell membrane damage
 
@@ -14,7 +14,13 @@ Fluorescence-based determination of cell membrane damage
 
 **Workflow Substage:** Cell death, Adverse outcome
 
+**Case Study:** parkinson
+
+**Regulatory Question:** Q1
+
 ## Additional Information
+
+**Method:** 5-CFDA assay to determine cytotoxicity
 
 **Assay Name:** 5-CFDA, AM (5-Carboxyfluorescein Diacetate, Acetoxymethyl Ester)
 
@@ -25,6 +31,10 @@ Fluorescence-based determination of cell membrane damage
 **Relevant Aop Wiki Adverse Outcome Pathway(S) To The Assay:** AOP464
 
 **Https:** [https//www.thermofisher.com/order/catalog/product/C1354](https//www.thermofisher.com/order/catalog/product/C1354)
+
+**Available Sop Or Protocol:** No response
+
+**Ontology Term:** No response
 
 ---
 
