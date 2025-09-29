@@ -40,7 +40,9 @@ jobs:
             if isinstance(value, str):
                 # Handle URLs
                 if value.startswith('http'):
-                    return f"[https://{value}](https://{value})"
+                    return f"[{value}]({value})"
+                if value.startswith('//'): # temp fix
+                    return f"[https{value}](https{value})"
                 # Skip empty responses
                 if value in ['_No response_', 'N/A', 'n/a', 'TBD', 'tbd']:
                     return None
