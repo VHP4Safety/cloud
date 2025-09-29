@@ -1,4 +1,26 @@
 {
+  "5_cfda_assay_to_determine_cytotoxicity": {
+    "id": "5_cfda_assay_to_determine_cytotoxicity",
+    "method": "5-CFDA assay to determine cytotoxicity",
+    "issue_number": 170,
+    "sop": "",
+    "method_name_content": "",
+    "data_producer_content": "Julia Meerman",
+    "method_description_content": "Fluorescence-based determination of cell membrane damage",
+    "type_content": "No response",
+    "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
+    "relevant_aop_wiki_key_event(s)_to_the_assay_content": "KE1825",
+    "relevant_aop_wiki_adverse_outcome_pathway(s)_to_the_assay_content": "AOP464",
+    "vendor_content": "Invitrogen",
+    "catalog_number_content": "C1354",
+    "catalog_webpage_url": "https://www.thermofisher.com/order/catalog/product/C1354",
+    "citation_content": "_No response_",
+    "vhp4safety_workflow_stage_content": "Adverse Outcome",
+    "workflow_substage_content": "Cell death, Adverse outcome",
+    "regulatory_question": "",
+    "case_study": "",
+    "timestamp": "2025-09-29T13:52:50.256831Z"
+  },
   "cell_titer_fluor": {
     "id": "cell_titer_fluor",
     "method": "[METHOD]: Cell Titer Fluor",
