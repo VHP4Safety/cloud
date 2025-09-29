@@ -14,13 +14,15 @@ Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus
 
 **Relevant VHP4Safety Regulatory Questions:** Kidney Disease (b)
 
-## Additional Information
-
-**Https:** [https//ptglab.com/products/ABCB1-Antibody-22336-1-AP.htm](https//ptglab.com/products/ABCB1-Antibody-22336-1-AP.htm)
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: P-gp Staining
+
+**Https:** [https//ptglab.com/products/ABCB1-Antibody-22336-1-AP.htm](https//ptglab.com/products/ABCB1-Antibody-22336-1-AP.htm)
 
 ---
 
