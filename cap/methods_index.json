@@ -87,6 +87,28 @@
     "case_study": "",
     "timestamp": "2025-09-29T13:45:45.192235Z"
   },
+  "h2dcfda_am_assay_for_detection_of_oxidative_stress_production": {
+    "id": "h2dcfda_am_assay_for_detection_of_oxidative_stress_production",
+    "method": "H2DCFDA-AM assay for detection of oxidative stress production",
+    "issue_number": 167,
+    "sop": "",
+    "method_name_content": "",
+    "data_producer_content": "Julia Meerman",
+    "method_description_content": "Fluorescence-based detection of reactive oxygen species production",
+    "type_content": "No response",
+    "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
+    "relevant_aop_wiki_key_event(s)_to_the_assay_content": "KE1392",
+    "relevant_aop_wiki_adverse_outcome_pathway(s)_to_the_assay_content": "AOP464",
+    "vendor_content": "Invitrogen",
+    "catalog_number_content": "C6827",
+    "catalog_webpage_url": "https://www.thermofisher.com/order/catalog/product/C6827?SID=srch-srp-C6827",
+    "citation_content": "_No response_",
+    "vhp4safety_workflow_stage_content": "AOP",
+    "workflow_substage_content": "Oxidative stress",
+    "regulatory_question": "",
+    "case_study": "",
+    "timestamp": "2025-09-29T13:54:15.646192Z"
+  },
   "immunofluorescent_detection_of_collagen___1": {
     "id": "immunofluorescent_detection_of_collagen___1",
     "method": "[METHOD]: Collagen I Polyclonal Antibody",
