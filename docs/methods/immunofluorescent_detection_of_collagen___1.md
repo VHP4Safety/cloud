@@ -12,11 +12,13 @@ immunofluorescent detection of collagen - 1
 
 **Workflow Substage:** Increase fibrosis
 
-## Additional Information
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: Collagen I Polyclonal Antibody
 
 ---
 
