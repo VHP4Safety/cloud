@@ -1,0 +1,20 @@
+{
+  "id": "5_cfda_assay_to_determine_cytotoxicity",
+  "service": "5-CFDA assay to determine cytotoxicity",
+  "issue_number": 170,
+  "assay_name_content": "5-CFDA, AM (5-Carboxyfluorescein Diacetate, Acetoxymethyl Ester)",
+  "data_producer_content": "Julia Meerman",
+  "method_description_content": "Fluorescence-based determination of cell membrane damage",
+  "type_content": "_No response_",
+  "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
+  "relevant_aop_wiki_key_event(s)_to_the_assay_content": "KE1825",
+  "relevant_aop_wiki_adverse_outcome_pathway(s)_to_the_assay_content": "AOP464",
+  "vendor_content": "Invitrogen",
+  "catalog_number_content": "C1354",
+  "https": "//www.thermofisher.com/order/catalog/product/C1354",
+  "catalog_webpage_url": "https://www.thermofisher.com/order/catalog/product/C1354",
+  "citation_content": "_No response_",
+  "vhp4safety_workflow_stage_content": "Adverse Outcome",
+  "workflow_substage_content": "Cell death, Adverse outcome",
+  "timestamp": "2025-09-29T09:50:18.173833Z"
+}
