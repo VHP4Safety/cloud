@@ -12,11 +12,13 @@ Fluorescence-based detection of LDH
 
 **Workflow Substage:** Dose-response toxicity
 
-## Additional Information
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: Cytotoxicity Detection KitPLUS (LDH)
 
 ---
 

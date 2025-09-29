@@ -8,11 +8,13 @@ next-generation sequencing technique used to quantify and identify RNA molecules
 
 **Relevant VHP4Safety Regulatory Questions:** Kidney Disease (b)
 
-## Additional Information
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: RNA-sequencing
 
 ---
 
