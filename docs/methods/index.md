@@ -8,7 +8,7 @@ This catalog contains experimental methods and protocols used in VHP4Safety rese
 
 [Request a new method](https://github.com/VHP4Safety/cloud/issues/new/choose) | [Browse all methods](https://github.com/VHP4Safety/cloud/tree/main/docs/methods)
 
-## Available Methods (13)
+## Available Methods (12)
 
 ### AOP Methods
 
@@ -39,10 +39,6 @@ Fluorescent-based assay to label mitochondria (Vendor: ThermoFisher Scientific) 
 Fluorescence-based detection of LDH (Vendor: Merck) [[more information](cytotoxicity_detection_kitplusldh.md)]
 
 ### Adverse Outcome Methods
-
-#### 5-CFDA assay to determine cytotoxicity
-
-Fluorescence-based determination of cell membrane damage (Vendor: Invitrogen) [[more information](5_cfda_assay_to_determine_cytotoxicity.md)]
 
 #### LysoTracker Green DND-26
 
