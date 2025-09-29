@@ -2,6 +2,7 @@
   "cellrox__green_reagent_for_oxidative_stress_detection": {
     "id": "cellrox__green_reagent_for_oxidative_stress_detection",
     "issue_number": 139,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "ROS detection by fluorescent probe",
@@ -22,6 +23,7 @@
   "cytotoxicity_detection_kitplusldh": {
     "id": "cytotoxicity_detection_kitplusldh",
     "issue_number": 144,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "Fluorescence-based detection of LDH",
@@ -42,6 +44,7 @@
   "immunofluorescent_detection_of_collagen___1": {
     "id": "immunofluorescent_detection_of_collagen___1",
     "issue_number": 142,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "immunofluorescent detection of collagen - 1",
@@ -62,6 +65,7 @@
   "intracellular_measurements": {
     "id": "intracellular_measurements",
     "issue_number": 146,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "Intracellular measurements are determined in cell lysates using LCMS, normalized by protein expression that has been measured by 2D Quant",
@@ -82,6 +86,7 @@
   "kim_1_staining": {
     "id": "kim_1_staining",
     "issue_number": 147,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "KIM-1 staining is an immunofluorescent staining of kidney injury molecule 1, an protein that is expressed when kidney injury takes place",
@@ -102,6 +107,7 @@
   "lysotracker_green_dnd_26": {
     "id": "lysotracker_green_dnd_26",
     "issue_number": 145,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "Fluorescent - based detection of lysosomes",
@@ -122,6 +128,7 @@
   "method-148": {
     "id": "method-148",
     "issue_number": 148,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus",
@@ -142,6 +149,7 @@
   "mitoprobe_jc_1_assay_kit": {
     "id": "mitoprobe_jc_1_assay_kit",
     "issue_number": 138,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "mitochondrial membrane potential assay",
@@ -162,6 +170,7 @@
   "mitotracker_deep_red_fm_assay": {
     "id": "mitotracker_deep_red_fm_assay",
     "issue_number": 140,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "Fluorescent-based assay to label mitochondria",
@@ -182,6 +191,7 @@
   "p_gp_staining": {
     "id": "p_gp_staining",
     "issue_number": 148,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus",
@@ -202,6 +212,7 @@
   "real_time_polymerase_chain_reaction": {
     "id": "real_time_polymerase_chain_reaction",
     "issue_number": 141,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "Technology used for measuring RNA using PCR",
@@ -222,6 +233,7 @@
   "rna_sequencing": {
     "id": "rna_sequencing",
     "issue_number": 143,
+    "sop": "",
     "assay_name_content": "",
     "data_producer_content": "",
     "method_description_content": "next-generation sequencing technique used to quantify and identify RNA molecules in a biological sample",
