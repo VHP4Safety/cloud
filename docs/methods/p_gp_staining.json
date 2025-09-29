@@ -1,10 +1,9 @@
 {
   "id": "p_gp_staining",
-  "service": "[METHOD]: P-gp Staining",
+  "method": "[METHOD]: P-gp Staining",
   "issue_number": 148,
   "name_of_the_method_content": "P-gp Staining",
   "method_description_content": "Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus",
-  "type_content": "_No response_",
   "relevant_vhp4safety_regulatory_question(s)_content": "Kidney Disease (b)",
   "vendor_content": "Proteintech",
   "catalog_number_content": "22336-1-AP",
@@ -13,7 +12,11 @@
   "citation_content": "_No response_",
   "vhp4safety_workflow_stage_content": "Kinetics",
   "workflow_substage_content": "_No response_",
-  "regulatory_question": "Q1",
-  "case_study": "thyroid",
-  "timestamp": "2025-09-05T12:28:47.194515Z"
+  "relevant_aop_wiki_key_event(s)_to_the_assay_content": "_No response_",
+  "relevant_aop_wiki_adverse_outcome_pathway(s)_to_the_assay_content": "_No response_",
+  "available_sop_or_protocol_content": "_No response_",
+  "ontology_term_content": "_No response_",
+  "regulatory_question_content": "Q1",
+  "case_study_content": "thyroid",
+  "timestamp": "2025-09-29T13:45:43.814633Z"
 }
