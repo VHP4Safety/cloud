@@ -1,6 +1,6 @@
 {
   "id": "cytotoxicity_detection_kitplusldh",
-  "service": "[METHOD]: Cytotoxicity Detection KitPLUS\u00a0(LDH)",
+  "method": "[METHOD]: Cytotoxicity Detection KitPLUS\u00a0(LDH)",
   "issue_number": 144,
   "name_of_the_method_content": "Cytotoxicity Detection KitPLUS\u00a0(LDH)",
   "method_description_content": "Fluorescence-based detection of LDH",
@@ -12,7 +12,11 @@
   "citation_content": "_No response_",
   "vhp4safety_workflow_stage_content": "AOP, Adverse Outcome",
   "workflow_substage_content": "Dose-response toxicity",
-  "regulatory_question": "Q1",
-  "case_study": "thyroid",
-  "timestamp": "2025-09-05T12:51:39.384729Z"
+  "relevant_aop_wiki_key_event(s)_to_the_assay_content": "_No response_",
+  "relevant_aop_wiki_adverse_outcome_pathway(s)_to_the_assay_content": "_No response_",
+  "available_sop_or_protocol_content": "_No response_",
+  "ontology_term_content": "_No response_",
+  "regulatory_question_content": "Q1",
+  "case_study_content": "thyroid",
+  "timestamp": "2025-09-29T13:45:45.192235Z"
 }
