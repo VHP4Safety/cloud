@@ -1,0 +1,22 @@
+{
+  "id": "service_physb_pbk_model",
+  "service": "[SERVICE]: PhysB PBK model",
+  "issue_number": 178,
+  "name_of_the_service_content": "PhysB",
+  "service_description_content": "Physiologically based kinetic model to predict concentrations of a chemical in any part of the body,  which can also predict variation within a population.",
+  "service_website_content": "_No response_",
+  "login_required?_content": "- [ ] the service requires a user login",
+  "what_is_the_type_of_application_programming_interfance_(if_any)?_content": "_No response_",
+  "which_vhp4safety_regulatory_question(s)_are_relevant?_multiple_selections_are_possible._please_see_the_regulatory_questions_at_this_[link](https://docs.vhp4safety.nl/en/latest/introduction/case_studies_and_regulatory_questions.html)_content": "Life Course Pesticide Exposure and Neurodegenerative Disease (a), Life Course Pesticide Exposure and Neurodegenerative Disease (b)",
+  "name_of_the_provider_content": "_No response_",
+  "e-mail_address_of_the_provider_content": "_No response_",
+  "https": "//doi.org/10.3109/10408444.2012.709225",
+  "citation_url": "https://doi.org/10.3109/10408444.2012.709225",
+  "version_content": "_No response_",
+  "license_content": "_No response_",
+  "source_code_content": "_No response_",
+  "docker?_content": "_No response_",
+  "elixir_bio.tools?_content": "_No response_",
+  "elixir_tess?_content": "_No response_",
+  "timestamp": "2025-09-29T12:04:34.577694Z"
+}
