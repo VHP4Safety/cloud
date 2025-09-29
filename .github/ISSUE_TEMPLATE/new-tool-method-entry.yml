@@ -20,10 +20,15 @@ body:
       label: Data producer
       description: Who generated the data?
   - type: input
+    id: sop # ToxTemp ?
+    attributes:
+      label: Available SOP or protocol
+      description: URL to an existing 
+  - type: input
     id: description # ToxTemp 1.2
     attributes:
       label: Method description
-      description: A brief description of the method
+      description: Document containing the SOP for this method
   - type: dropdown
     id: case_study
     attributes:
@@ -36,7 +41,8 @@ body:
   - type: input
     id: type_iri
     attributes:
-      label: Type
+      label: Ontology term
+      description: Use the [ontology lookup service](https://www.ebi.ac.uk/ols4/) (e.g., http://purl.enanomapper.org/onto/ENM_8000224) to find the adequate term for this method, leave blank if unavailable.
   - type: dropdown
     id: regulatory_question
     attributes:
