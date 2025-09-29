@@ -87,7 +87,8 @@ jobs:
                         ('relevant_AOP_Wiki_Key_Event(s)_content', 'Relevant AOP Wiki Key Event(s) to the assay'),
                         ('relevant_AOP_Wiki_AOP(s)_content', 'Relevant AOP Wiki Adverse Outcome Pathway(s) to the assay'),
                         ('case_study_content', 'Case Study'),
-                        ('regulatory_question_content', 'Regulatory Question')
+                        ('regulatory_question_content', 'Regulatory Question'),
+                        ('available_sop_content', 'Available SOP or protocol'),
 
                     ]
                     
