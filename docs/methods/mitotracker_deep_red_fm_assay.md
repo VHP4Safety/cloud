@@ -12,11 +12,13 @@ Fluorescent-based assay to label mitochondria
 
 **Workflow Substage:** Mitochondrial dysfunction
 
-## Additional Information
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: MitoTracker Deep Red FM
 
 ---
 
