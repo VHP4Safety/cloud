@@ -28,7 +28,7 @@ for filename in os.listdir(service_dir):
                 
                 # Instance URL
                 instance = data.get("instance", {})
-                inst_url = instance.get("url", "no_url")
+                inst_url = instance.get("url") or "no_url"
                 
                 # Screenshot
                 screenshot_url = data.get('screenshot') or \
