@@ -54,7 +54,7 @@ jobs:
                 with open(json_file, 'r') as f:
                     data = json.load(f)
                 
-                method_name = clean_method_name(data.get('name_of_the_method_content', data.get('service', 'Unknown Method')))
+                method_name = clean_method_name(data.get('name_of_the_method_content', data.get('method', 'Unknown Method')))
                 description = format_description(data.get('method_description_content', ''))
                 method_id = data.get('id', 'unknown')
                 vendor = data.get('vendor_content', '')
