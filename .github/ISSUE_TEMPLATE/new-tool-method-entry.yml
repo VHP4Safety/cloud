@@ -34,7 +34,8 @@ body:
        - thyroid
        - kidney
   - type: input
-    id: iri
+    id: type_iri
+    label: Type
   - type: dropdown
     id: regulatory_question
     attributes:
