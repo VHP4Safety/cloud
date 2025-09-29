@@ -24,8 +24,25 @@ body:
     attributes:
       label: Method description
       description: A brief description of the method
+  - type: dropdown
+    id: case_study
+    attributes:
+      label: Case Study
+      multiple: true
+      options:
+       - parkinson
+       - thyroid
+       - kidney
   - type: input
     id: iri
+  - type: dropdown
+    id: regulatory_question
+    attributes:
+      label: Regulatory Question
+      multiple: true
+      options:
+       - Q1
+       - Q2
     attributes:
       label: Type
       description: Glossary, ontology, or controlled vocabulary term IRI. Look up your term in the [Ontology Lookup Service](https://www.ebi.ac.uk/ols4/) or [Glossary](https://glossary.vhp4safety.nl/).

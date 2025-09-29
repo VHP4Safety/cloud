@@ -79,12 +79,15 @@ jobs:
                         ('type_content', 'Type'),
                         ('vendor_content', 'Vendor'),
                         ('catalog_number_content', 'Catalog Number'),
+                        ()
                         ('catalog_webpage_url', 'Catalog Webpage'),
                         ('vhp4safety_workflow_stage_content', 'VHP4Safety Workflow Stage'),
                         ('workflow_substage_content', 'Workflow Substage'),
                         ('relevant_vhp4safety_regulatory_question(s)_content', 'Relevant VHP4Safety Regulatory Questions'),
                         ('relevant_AOP_Wiki_Key_Event(s)_content', 'Relevant AOP Wiki Key Event(s) to the assay'),
                         ('relevant_AOP_Wiki_AOP(s)_content', 'Relevant AOP Wiki Adverse Outcome Pathway(s) to the assay'),
+                        ('case_study_content', 'Case Study'),
+                        ('regulatory_question_content', 'Regulatory Question')
 
                     ]
                     
