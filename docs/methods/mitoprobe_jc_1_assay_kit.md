@@ -12,11 +12,13 @@ mitochondrial membrane potential assay
 
 **Workflow Substage:** Mitochondrial dysfuntion
 
-## Additional Information
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: MitoProbe™ JC-1 Assay Kit
 
 ---
 
