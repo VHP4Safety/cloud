@@ -12,13 +12,15 @@ KIM-1 staining is an immunofluorescent staining of kidney injury molecule 1, an 
 
 **VHP4Safety Workflow Stage:** AOP
 
-## Additional Information
-
-**Https:** [https//www.thermofisher.com/antibody/product/TIM-1-Antibody-Polyclonal/PA5-20244](https//www.thermofisher.com/antibody/product/TIM-1-Antibody-Polyclonal/PA5-20244)
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: KIM-1 staining
+
+**Https:** [https//www.thermofisher.com/antibody/product/TIM-1-Antibody-Polyclonal/PA5-20244](https//www.thermofisher.com/antibody/product/TIM-1-Antibody-Polyclonal/PA5-20244)
 
 ---
 

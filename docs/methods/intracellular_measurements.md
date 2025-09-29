@@ -12,13 +12,15 @@ Intracellular measurements are determined in cell lysates using LCMS, normalized
 
 **VHP4Safety Workflow Stage:** Kinetics
 
-## Additional Information
-
-**Https:** [https//www.cytivalifesciences.com/en/us/shop/protein-analysis/protein-sample-preparation/sample-cleanup/2-d-quant-kit-p-02012](https//www.cytivalifesciences.com/en/us/shop/protein-analysis/protein-sample-preparation/sample-cleanup/2-d-quant-kit-p-02012)
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: Intracellular measurements
+
+**Https:** [https//www.cytivalifesciences.com/en/us/shop/protein-analysis/protein-sample-preparation/sample-cleanup/2-d-quant-kit-p-02012](https//www.cytivalifesciences.com/en/us/shop/protein-analysis/protein-sample-preparation/sample-cleanup/2-d-quant-kit-p-02012)
 
 ---
 
