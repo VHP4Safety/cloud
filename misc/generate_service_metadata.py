@@ -25,7 +25,11 @@ for filename in os.listdir(service_dir):
 
                 # Main URL
                 main_url = data.get("url") or "no_url"
-
+                
+                # Instance URL
+                instance = data.get("instance", {})
+                inst_url = instance.get("url", "no_url")
+                
                 # Screenshot
                 screenshot_url = data.get('screenshot') or \
                     'https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png'
@@ -51,6 +55,7 @@ for filename in os.listdir(service_dir):
                     "png_file_name": screenshot_url,
                     "stage": service_stage,
                     "main_url": main_url,
+                    "inst_url": inst_url, 
                     "reg_q_1a": service_reg_q1a,
                     "reg_q_1b": service_reg_q1b,
                     "reg_q_2a": service_reg_q2a,
