@@ -1,6 +1,6 @@
 {
   "id": "5_cfda_assay_to_determine_cytotoxicity",
-  "service": "5-CFDA assay to determine cytotoxicity",
+  "method": "5-CFDA assay to determine cytotoxicity",
   "issue_number": 170,
   "assay_name_content": "5-CFDA, AM (5-Carboxyfluorescein Diacetate, Acetoxymethyl Ester)",
   "data_producer_content": "Julia Meerman",
@@ -16,7 +16,9 @@
   "citation_content": "_No response_",
   "vhp4safety_workflow_stage_content": "Adverse Outcome",
   "workflow_substage_content": "Cell death, Adverse outcome",
-  "regulatory_question": "Q1",
-  "case_study": "parkinson",
-  "timestamp": "2025-09-29T10:00:16.626393Z",
+  "available_sop_or_protocol_content": "No response",
+  "ontology_term_content": "No response",
+  "regulatory_question_content": "Q1",
+  "case_study_content": "parkinson",
+  "timestamp": "2025-09-29T13:52:50.256831Z"
 }
