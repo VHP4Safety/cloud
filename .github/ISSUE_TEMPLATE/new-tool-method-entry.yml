@@ -15,7 +15,7 @@ body:
       label: Assay name
       description: The method can be a model, an assay, etc.
   - type: input
-    id: data producer # ToxTemp ?
+    id: data_producer # ToxTemp ?
     attributes:
       label: Data producer
       description: Who generated the data?
