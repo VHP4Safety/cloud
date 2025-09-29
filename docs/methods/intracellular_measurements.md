@@ -8,7 +8,7 @@ Intracellular measurements are determined in cell lysates using LCMS, normalized
 
 **Catalog Number:** 80648356
 
-**Catalog Webpage:** [https://www.cytivalifesciences.com/en/us/shop/protein-analysis/protein-sample-preparation/sample-cleanup/2-d-quant-kit-p-02012](https://www.cytivalifesciences.com/en/us/shop/protein-analysis/protein-sample-preparation/sample-cleanup/2-d-quant-kit-p-02012)
+**Catalog Webpage:** [https://https://www.cytivalifesciences.com/en/us/shop/protein-analysis/protein-sample-preparation/sample-cleanup/2-d-quant-kit-p-02012](https://https://www.cytivalifesciences.com/en/us/shop/protein-analysis/protein-sample-preparation/sample-cleanup/2-d-quant-kit-p-02012)
 
 **VHP4Safety Workflow Stage:** Kinetics
 
@@ -18,4 +18,4 @@ Intracellular measurements are determined in cell lysates using LCMS, normalized
 
 ---
 
-*Generated from issue #146 on 2025-09-08*
+*Generated from issue #146 on 2025-09-29*
