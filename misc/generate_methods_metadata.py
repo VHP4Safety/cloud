@@ -22,6 +22,7 @@ for filename in os.listdir(method_dir):
                 methods[method_id] = {
                     "id": data.get("id", ""),
                     "issue_number": data.get("issue_number", ""),
+                    "sop": data.get("available_sop_content", ""),
                     "assay_name_content": data.get("assay_name_content", ""),
                     "data_producer_content": data.get("data_producer_content", ""),
                     "method_description_content": data.get(
