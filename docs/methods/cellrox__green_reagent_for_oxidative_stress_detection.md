@@ -12,11 +12,13 @@ ROS detection by fluorescent probe
 
 **Workflow Substage:** _ROS increase_
 
-## Additional Information
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: CellROX  Green Reagent for oxidative stress detection
 
 ---
 
