@@ -1,0 +1,23 @@
+{
+  "id": "cell_titer_fluor",
+  "method": "[METHOD]: Cell Titer Fluor",
+  "issue_number": 136,
+  "name_of_the_method_content": "Cell Titer Fluor",
+  "method_description_content": "A Non-Lytic Fluorescence Assay That Measures the Relative Number of Viable Cells in Culture",
+  "type_content": "NA",
+  "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
+  "vendor_content": "Promega",
+  "catalog_number_content": "G6081",
+  "https": "//nld.promega.com/products/cell-health-assays/cell-viability-and-cytotoxicity-assays/fluorescent-cell-viability-assay/?catNum=G6081",
+  "catalog_webpage_url": "https://nld.promega.com/products/cell-health-assays/cell-viability-and-cytotoxicity-assays/fluorescent-cell-viability-assay/?catNum=G6081",
+  "citation_content": "_No response_",
+  "vhp4safety_workflow_stage_content": "Adverse Outcome",
+  "workflow_substage_content": "Increased Apoptosis",
+  "relevant_aop_wiki_key_event(s)_to_the_assay_content": "_No response_",
+  "relevant_aop_wiki_adverse_outcome_pathway(s)_to_the_assay_content": "_No response_",
+  "available_sop_or_protocol_content": "_No response_",
+  "ontology_term_content": "_No response_",
+  "regulatory_question_content": "Q1",
+  "case_study_content": "thyroid",
+  "timestamp": "2025-09-29T13:44:38.644368Z"
+}
