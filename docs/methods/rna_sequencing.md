@@ -4,3 +4,16 @@ next-generation sequencing technique used to quantify and identify RNA molecules
 
 ## Method Details
 
+**Vendor:** Utrecht Sequencing Facility (USEQ)
+
+**Relevant VHP4Safety Regulatory Questions:** Kidney Disease (b)
+
+## Additional Information
+
+**Regulatory Question:** Q1
+
+**Case Study:** thyroid
+
+---
+
+*Generated from issue #143 on 2025-09-29*
