@@ -10,13 +10,15 @@ Technology used for measuring RNA using PCR
 
 **Relevant VHP4Safety Regulatory Questions:** Kidney Disease (b)
 
-## Additional Information
-
-**Catalog Webpage:** NA
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: RT-qPCR
+
+**Catalog Webpage:** NA
 
 ---
 
