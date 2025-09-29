@@ -6,7 +6,7 @@
 
 This catalog contains experimental methods and protocols used in VHP4Safety research workflows. Each method entry includes vendor information, catalog numbers, and integration details with VHP4Safety regulatory questions and workflow stages.
 
-[Request a new method](https://github.com/VHP4Safety/cloud/issues/new/choose) | [Browse all methods](https://github.com/VHP4Safety/cloud/tree/main/docs/methods)
+[Request a new method](https://github.com/VHP4Safety/cloud/issues/new?template=new-tool-method-entry.yml) | [Browse all methods](https://github.com/VHP4Safety/cloud/tree/main/docs/methods)
 
 ## Available Methods (12)
 
