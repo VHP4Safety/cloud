@@ -43,6 +43,8 @@ body:
       options:
        - Q1
        - Q2
+  - type: input
+    id: ontology
     attributes:
       label: Type
       description: Glossary, ontology, or controlled vocabulary term IRI. Look up your term in the [Ontology Lookup Service](https://www.ebi.ac.uk/ols4/) or [Glossary](https://glossary.vhp4safety.nl/).
