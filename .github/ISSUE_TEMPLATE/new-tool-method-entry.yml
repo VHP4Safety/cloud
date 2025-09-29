@@ -35,7 +35,8 @@ body:
        - kidney
   - type: input
     id: type_iri
-    label: Type
+    attributes:
+      label: Type
   - type: dropdown
     id: regulatory_question
     attributes:
