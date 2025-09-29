@@ -14,6 +14,10 @@ mitochondrial membrane potential assay
 
 ## Additional Information
 
+**Regulatory Question:** Q1
+
+**Case Study:** thyroid
+
 ---
 
 *Generated from issue #138 on 2025-09-29*

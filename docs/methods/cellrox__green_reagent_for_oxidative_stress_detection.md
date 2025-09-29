@@ -14,6 +14,10 @@ ROS detection by fluorescent probe
 
 ## Additional Information
 
+**Regulatory Question:** Q1
+
+**Case Study:** thyroid
+
 ---
 
 *Generated from issue #139 on 2025-09-29*

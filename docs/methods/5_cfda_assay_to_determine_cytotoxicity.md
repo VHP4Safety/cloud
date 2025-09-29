@@ -8,7 +8,7 @@ Fluorescence-based determination of cell membrane damage
 
 **Catalog Number:** C1354
 
-**Catalog Webpage:** [https://https://www.thermofisher.com/order/catalog/product/C1354](https://https://www.thermofisher.com/order/catalog/product/C1354)
+**Catalog Webpage:** [https://www.thermofisher.com/order/catalog/product/C1354](https://www.thermofisher.com/order/catalog/product/C1354)
 
 **VHP4Safety Workflow Stage:** Adverse Outcome
 
@@ -24,7 +24,7 @@ Fluorescence-based determination of cell membrane damage
 
 **Relevant Aop Wiki Adverse Outcome Pathway(S) To The Assay:** AOP464
 
-**Https:** //www.thermofisher.com/order/catalog/product/C1354
+**Https:** [https//www.thermofisher.com/order/catalog/product/C1354](https//www.thermofisher.com/order/catalog/product/C1354)
 
 ---
 

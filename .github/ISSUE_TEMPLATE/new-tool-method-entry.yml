@@ -20,12 +20,39 @@ body:
       label: Data producer
       description: Who generated the data?
   - type: input
+    id: sop # ToxTemp ?
+    attributes:
+      label: Available SOP or protocol
+      description: URL to an existing 
+  - type: input
     id: description # ToxTemp 1.2
     attributes:
       label: Method description
-      description: A brief description of the method
+      description: Document containing the SOP for this method
+  - type: dropdown
+    id: case_study
+    attributes:
+      label: Case Study
+      multiple: true
+      options:
+       - parkinson
+       - thyroid
+       - kidney
   - type: input
-    id: iri
+    id: type_iri
+    attributes:
+      label: Ontology term
+      description: Use the [ontology lookup service](https://www.ebi.ac.uk/ols4/) (e.g., http://purl.enanomapper.org/onto/ENM_8000224) to find the adequate term for this method, leave blank if unavailable.
+  - type: dropdown
+    id: regulatory_question
+    attributes:
+      label: Regulatory Question
+      multiple: true
+      options:
+       - Q1
+       - Q2
+  - type: input
+    id: ontology
     attributes:
       label: Type
       description: Glossary, ontology, or controlled vocabulary term IRI. Look up your term in the [Ontology Lookup Service](https://www.ebi.ac.uk/ols4/) or [Glossary](https://glossary.vhp4safety.nl/).

@@ -14,6 +14,10 @@ Technology used for measuring RNA using PCR
 
 **Catalog Webpage:** NA
 
+**Regulatory Question:** Q1
+
+**Case Study:** thyroid
+
 ---
 
 *Generated from issue #141 on 2025-09-29*

@@ -12,6 +12,10 @@ Fluorescent - based detection of lysosomes
 
 ## Additional Information
 
+**Regulatory Question:** Q1
+
+**Case Study:** thyroid
+
 ---
 
 *Generated from issue #145 on 2025-09-29*

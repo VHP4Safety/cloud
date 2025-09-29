@@ -14,6 +14,10 @@ immunofluorescent detection of collagen - 1
 
 ## Additional Information
 
+**Regulatory Question:** Q1
+
+**Case Study:** thyroid
+
 ---
 
 *Generated from issue #142 on 2025-09-29*
