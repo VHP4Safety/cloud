@@ -46,12 +46,12 @@ body:
     id: key_event_id
     attributes:
       label: Relevant AOP Wiki Key Event(s) to the assay
-      description: Comma-separated KE ids relevant to this assay (e.g.: KE12,KE13).
+      description: "Comma-separated KE ids relevant to this assay (e.g.: KE12,KE13)."
   - type: input
     id: aop_id
     attributes:
       label: Relevant AOP Wiki Adverse Outcome Pathway(s) to the assay
-      description: Comma-separated AOP ids relevant to this assay (e.g.: AOP12,AOP13).
+      description: "Comma-separated AOP ids relevant to this assay (e.g.: AOP12,AOP13)."
   - type: markdown
     attributes: 
       value: |
