@@ -10,11 +10,13 @@ Fluorescent - based detection of lysosomes
 
 **VHP4Safety Workflow Stage:** Adverse Outcome
 
-## Additional Information
+**Case Study:** thyroid
 
 **Regulatory Question:** Q1
 
-**Case Study:** thyroid
+## Additional Information
+
+**Method:** [METHOD]: LysoTracker Green DND-26
 
 ---
 
