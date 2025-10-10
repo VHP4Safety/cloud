@@ -1,0 +1,117 @@
+{
+  "assays": [
+    {
+      "title": "Assay",
+      "description": null,
+      "organism": {
+        "name": "Homo sapiens"
+      },
+      "organ": "brain",
+      "tissue": "neural tissue",
+      "bioassay": {
+        "name": "Genetic transcription"
+      },
+      "files": [],
+      "cell_lines": [
+        {
+          "name": "SK-N-AS",
+          "rrid": "CVCL_1700",
+          "supplier": "ATCC"
+        }
+      ],
+      "chemicals": [
+        {
+          "name": "NH-3",
+          "cas": "447415-26-1",
+          "smiles": "O=C(O)COC1=CC(C)=C(CC2=CC(C#CC3=CC=C([N+]([O-])=O)C=C3)=C(O)C(C(C)C)=C2)C(C)=C1",
+          "concentrations": [
+            {
+              "value": 1000,
+              "unit": "nM",
+              "ucum": "nmol/L"
+            }
+          ]
+        },
+        {
+          "name": "Silychristin",
+          "cas": "33889-69-9",
+          "smiles": "COc1cc(ccc1O)[C@@H]2Oc3c(O)cc(cc3[C@H]2CO)[C@H]4Oc5cc(O)cc(O)c5C(=O)[C@@H]4O",
+          "concentrations": [
+            {
+              "value": 10,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "TBBPA",
+          "cas": "79-94-7",
+          "smiles": "CC(C)(c1cc(Br)c(O)c(Br)c1)c2cc(Br)c(O)c(Br)c2",
+          "concentrations": [
+            {
+              "value": 10,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        }
+      ],
+      "experimental_design": {
+        "timepoints": [
+          {
+            "value": 6,
+            "unit": "hours",
+            "ucum": "h"
+          }
+        ],
+        "replicates": 3,
+        "number_of_samples": null,
+        "instruments": [
+          {
+            "name": "QuantStudio 7 Flex ",
+            "manufacturer": null
+          }
+        ],
+        "measured_entity": {
+          "name": "∆∆CT",
+          "unit": "∆∆CT"
+        },
+        "endpoints": [
+          {
+            "name": "KLF9 expression",
+            "unit": "Fold change",
+            "ucum": null
+          },
+          {
+            "name": "Fold change",
+            "unit": "Fold change",
+            "ucum": null
+          },
+          {
+            "name": null,
+            "unit": null,
+            "ucum": null
+          },
+          {
+            "name": null,
+            "unit": null,
+            "ucum": null
+          }
+        ],
+        "substrates": [
+          null,
+          null
+        ]
+      },
+      "mie": [
+        {
+          "target": "TRa"
+        }
+      ]
+    }
+  ],
+  "registries": {
+    "organizations": {}
+  }
+}

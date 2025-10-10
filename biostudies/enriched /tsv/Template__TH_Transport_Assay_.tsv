@@ -1,0 +1,75 @@
+Submission	S-VHPS9
+Title	In Vitro Thyroid Hormone Uptake Assay for Transporter Inhibition in Neural Cells Using Gamma Counter Detection
+ReleaseDate	2026-06-01
+AttachTo	VHP4Safety
+
+Study	
+Title	In Vitro Thyroid Hormone Uptake Assay for Transporter Inhibition in Neural Cells Using Gamma Counter Detection
+ReleaseDate	2026-06-01
+Description	
+Organism	Homo sapiens (human)
+License	CC BY 4.0
+[URL]	https://creativecommons.org/licenses/by/4.0/legalcode
+Bioassay	Transporter inhibition assay
+[Ontology]	BAO
+[TermId]	BAO_0010188
+Organ	Brain
+Tissue	Neural tissue
+Adverse outcome Pathway	[placeholder]
+[URL]	https://aopwiki.org/aops/
+AOP event	MCT8
+[URL]	https://aopwiki.org/events/2258
+AOP event	OATP1C1
+[URL]	https://aopwiki.org/events/
+
+Link	https://docs.vhp4safety.nl/en/latest/
+Description	Documentation page VHP4Safety
+
+Link	https://platform.vhp4safety.nl/
+Description	VHP4Safety platform
+
+author
+Name	Nathalie Dierichs
+E-mail	nathalie.dierichs@rivm.nl
+Email	nathalie.dierichs@rivm.nl
+Role	Data producer
+<affiliation>	o1
+ORCID	0009-0000-5074-6239
+
+author
+Name	Jente Houweling
+E-mail	jente.houweling@rivm.nl
+ORCID	0009-0005-3680-0645
+Email	jente.houweling@rivm.nl
+Role	Data steward
+<affiliation>	o1
+
+organisation	o1
+Name	Centre for Health Protection, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands
+
+Funding
+Agency	NWA
+grant_id	1292.19.272
+
+Cell lines[]	Cell line	RRID	Supplier
+	SK-N-AS	CVCL_1700	ATCC
+	H4	CVCL_1239	ATCC
+	MO3.13	CVCL_D357	Cedarlane Laboratories
+
+Chemicals[]	Chemical	CAS	CompoundWikiID
+	Amiodarone	19774-82-4	Q17
+	BSP (sulfobromophthalein sodium)	123359-42-2	
+	Cefuroxime	55268-75-2	Q4751
+	Chlorpyrifos	2921-88-2	Q4722
+	Iopanoic acid	96-83-3	Q1879
+	Mono-buthyl phtalate (MBP)	131-70-4	
+	NH-3	447415-26-1	Q1882
+	PBDE-99	60348-60-9	Q4757
+	Silychristin	33889-69-9	Q5049
+	TBBPA	79-94-7	Q82
+	Lesinurad	878672-00-5	Q1880
+	Xanthohumol 	6754-58-1	Q4753
+
+Experimental design[]	Time point	Time point_unit	Replicates	Detection instrument	Instrument manufacturer	Measured entity	Measured entity_unit	Substrate	Endpoint	Endpoint_unit
+	10	minutes	2	Gamma Counter		counts per minute	counts per minute	T3	T3 uptake	%
+
