@@ -48,6 +48,7 @@ for filename in os.listdir(service_dir):
 
                 # Store entry in dict, keyed by service_id
                 services[service_id] = {
+                    "id": service_id,
                     "service": service_name,
                     "description": description,
                     "html_name": f"{base_name}.html",
