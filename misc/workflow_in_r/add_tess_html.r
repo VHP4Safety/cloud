@@ -23,7 +23,7 @@ add_tess_html <- function(id, target) {
   system(paste0("echo \"    }\" >> ", target))
   system(paste0("echo \"}\" >> ", target))
   system(paste0("echo \"</script>\" >> ", target))
-  system(paste0("echo \"<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/components/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>\" >> ", target))
+  system(paste0("echo \"<script async='' defer='' src='https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js' onload='initTeSSWidgets()'></script>\" >> ", target))
 }
 
 
