@@ -23,6 +23,9 @@
     "API": "REST API -- Swagger UI",
     "login": "No"
   },
+  "ELIXIR": {
+    "tess": "AOP-Wiki API"
+  },
   "regulatory-question": {
     "1a": "false",
     "1b": "false",
