@@ -1,16 +1,16 @@
 {
   "id": "aopnetwork",
   "service": "AOP Network Builder",
-  "description": "web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint.",
+  "description": "A web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000023",
-  "url": "https://aopapp.cloud.vhp4safety.nl/",
+  "url": "",
   "screenshot": "aopnetwork.png",
   "doi": "",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
-    "url": "",
+    "url": "https://aopsuite.cloud.vhp4safety.nl/",
     "source": "https://github.com/VHP4Safety/aop-app",
     "docker": ""
   },
