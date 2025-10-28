@@ -5,12 +5,12 @@
   "stage":"https://vhp4safety.github.io/glossary#VHP0000102",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "aopwiki.png",
-  "url": "https://aopwiki.cloud.vhp4safety.nl/",
+  "url": "https://aopwiki.rdf.bigcat-bioinformatics.org/",
   "doi": "10.1089/aivt.2021.0010",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
-    "url": "https://aopwiki.cloud.vhp4safety.nl/",
+    "url": "https://aopwiki.rdf.bigcat-bioinformatics.org/",
     "source": "https://github.com/marvinm2/aopwiki-snorql-extended",
     "docker": "https://hub.docker.com/r/aammar/snorql-httpd"
   },
