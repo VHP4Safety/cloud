@@ -4,7 +4,7 @@
 
 The Farmacotherapeutisch Kompas contains a wide spectrum of information on prescribing and pharmacology, among others indications, side effects and costs of the prescription of all pharmaceutical drugs available in the Netherlands.
 
-![Farmacotherapeutisch Kompas logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/https://media.licdn.com/dms/image/v2/D4E22AQGdpGoAGxQ9Ww/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706625689055?e=2147483647&v=beta&t=ex-VMBmT6rICqE93RC6lpOEBZsesQnlpfk1ZMWi0Bko)
+![Farmacotherapeutisch Kompas logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/farmacokompas.png)
 
 ## Documentation
 
