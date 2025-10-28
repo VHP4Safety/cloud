@@ -45,7 +45,7 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
 
 * Sub-stage: <span class="glossary_term">[https://vhp4safety.github.io/glossary#VHP0000023](https://vhp4safety.github.io/glossary#VHP0000023)</span>
 
-* Development Cloud: [https://aopwiki.cloud.vhp4safety.nl/](https://aopwiki.cloud.vhp4safety.nl/)
+* Development Cloud: [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/)
 
 * Login Required: No
 
@@ -97,6 +97,6 @@ A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.
     "@id" : "https://vhp4safety.github.io/cloud/service/aopwiki",
     "name": "AOP-Wiki Snorql UI",
     "description": "A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.",
-    "url": "https://aopwiki.cloud.vhp4safety.nl/"
+    "url": "https://aopwiki.rdf.bigcat-bioinformatics.org/"
   }
 </script>
