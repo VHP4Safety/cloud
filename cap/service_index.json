@@ -311,7 +311,7 @@
     "description": "The Farmacotherapeutisch Kompas contains a wide spectrum of information on prescribing and pharmacology, among others indications, side effects and costs of the prescription of all pharmaceutical drugs available in the Netherlands.",
     "html_name": "farmacokompas.html",
     "md_file_name": "farmacokompas.md",
-    "png_file_name": "https://media.licdn.com/dms/image/v2/D4E22AQGdpGoAGxQ9Ww/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706625689055?e=2147483647&v=beta&t=ex-VMBmT6rICqE93RC6lpOEBZsesQnlpfk1ZMWi0Bko",
+    "png_file_name": "farmacokompas.png",
     "stage": "external exposure",
     "main_url": "https://www.farmacotherapeutischkompas.nl/",
     "inst_url": "no_url",
