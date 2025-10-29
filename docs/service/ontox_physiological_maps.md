@@ -51,7 +51,7 @@ Set of maps explaining the biological (physiological) processes behind various t
 
 * TRL: Not available
 
-* Type: external
+* Type: Not available
 
 * Contact: Not available
 
@@ -73,7 +73,7 @@ Set of maps explaining the biological (physiological) processes behind various t
 
 * License: Not available
 
-* Source Code: Not available
+* Source Code: [https://github.com/ontox-maps/map_releases](https://github.com/ontox-maps/map_releases)
 
 * Docker: Not available
 
@@ -81,7 +81,7 @@ Set of maps explaining the biological (physiological) processes behind various t
 
 * FAIRsharing: Not available
 
-* TeSS: Not available
+* TeSS: [physiological map](physiological map)
 
 * RSD: Not available
 
