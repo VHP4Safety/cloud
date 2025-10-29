@@ -407,6 +407,23 @@
     "reg_q_3a": "false",
     "reg_q_3b": "true"
   },
+  "mct8-dock": {
+    "id": "mct8-dock",
+    "service": "MCT8 Docking for MIE Discovery",
+    "description": "A python-based notebook to identify potential inhibitors of monocarboxylate-8 transporter and related molecular initiating events for developmental thyroid toxicity based on maternal thyroid hormone deprivation related adverse outcomes.",
+    "html_name": "mct8-dock.html",
+    "md_file_name": "mct8-dock.md",
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "Unknown",
+    "main_url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing",
+    "inst_url": "no_url",
+    "reg_q_1a": "",
+    "reg_q_1b": "",
+    "reg_q_2a": "",
+    "reg_q_2b": "",
+    "reg_q_3a": "",
+    "reg_q_3b": ""
+  },
   "molaopanalyser": {
     "id": "molaopanalyser",
     "service": "MolAOP analyser",
