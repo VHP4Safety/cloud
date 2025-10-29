@@ -1,0 +1,40 @@
+{
+  "id": "mct8-dock",
+  "service": "MCT8 Docking for MIE Discovery",
+  "description": "A python-based notebook to identify potential inhibitors of monocarboxylate-8 transporter and related molecular initiating events for developmental thyroid toxicity based on maternal thyroid hormone deprivation related adverse outcomes.",
+  "stage": "",
+  "substage": "", 
+  "url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing",
+  "doi": "",
+  "instance": {
+    "type": "External",
+    "vhp-platform": "Development",
+    "url": "",
+    "TRL": ""
+  },
+  "intro": {
+    "title": "SOM Prediction: Site-of-Metabolism Prediction",
+    "url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing"
+  },
+  "provider": {
+    "name": "David Poole",
+    "contact": {
+      "name": "David Poole",
+      "email": "d.a.poole@vu.nl"
+    }
+  },
+  "access": {
+    "login": "No"
+  },
+  "ELIXIR": {
+    "tess": ""
+  },
+  "regulatory-question": {
+    "1a": "",
+    "1b": "",
+    "2a": "",
+    "2b": "",
+    "3a": "",
+    "3b": ""
+  }
+}
