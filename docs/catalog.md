@@ -13,11 +13,11 @@ A tool to explore scientific literature to extract relevant entities and their r
 
 ------------------------
 
-![AOP Network Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopnetwork.png)
+![AOP-Suite logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopsuite.png)
 
-## AOP Network Builder
+## AOP-Suite
 
-web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint. [[more information](service/aopnetwork.md)]
+A web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the pyaop Python package and AOP-Wiki RDF SPARQL endpoint. [[more information](service/aopsuite.md)]
 
 ------------------------
 
@@ -153,7 +153,7 @@ An open source data management platform that allows importing and exporting meta
 
 ------------------------
 
-![Farmacotherapeutisch Kompas logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/https://media.licdn.com/dms/image/v2/D4E22AQGdpGoAGxQ9Ww/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1706625689055?e=2147483647&v=beta&t=ex-VMBmT6rICqE93RC6lpOEBZsesQnlpfk1ZMWi0Bko)
+![Farmacotherapeutisch Kompas logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/farmacokompas.png)
 
 ## Farmacotherapeutisch Kompas
 
@@ -201,6 +201,12 @@ A multi-agent question-answering tool that combines structured pathway knowledge
 
 ------------------------
 
+## MCT8 Docking for MIE Discovery
+
+A python-based notebook to identify potential inhibitors of monocarboxylate-8 transporter and related molecular initiating events for developmental thyroid toxicity based on maternal thyroid hormone deprivation related adverse outcomes. [[more information](service/mct8-dock.md)]
+
+------------------------
+
 ![MolAOP analyser logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
 
 ## MolAOP analyser
@@ -214,6 +220,14 @@ The MolAOP analyser service enables users to analyse transcriptomic data in the 
 ## The OECD QSAR Toolbox
 
 A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
+
+------------------------
+
+![ONTOX Physiological Maps logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/https://lh3.googleusercontent.com/sitesv/AAzXCkc1M0sajxkVZByTPl0bptayrcKQhCDsOYqiHE_hnsyJlkTLXzmym7hPsU-LBBoQGh4d_KwYNazIzXOs_isMEavTgCDXm5GNLNDl3Jk0lyAF-JDgeQk-OJ3Ubya-_0bYhRWEJAG1JOKD1SSp0pJ6YZdoA6aWp_4nmHygnVTDEO4clOS1iHliDkhH0MdxdwOxA4Q6HlckBT4vhHJiddmJg5bmLpqMQe-DqAzU=w1280)
+
+## ONTOX Physiological Maps
+
+Set of maps explaining the biological (physiological) processes behind various toxicological risks. [[more information](service/ontox_physiological_maps.md)]
 
 ------------------------
 
@@ -233,9 +247,9 @@ An online service with a tool to parse IUPAC names for chemicals into the chemic
 
 ------------------------
 
-![O'QT — OECD QSAR Toolbox AI Assistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oqt_assistant.png)
+![O-QT — OECD QSAR Toolbox AI Assistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oqt_assistant.png)
 
-## O'QT — OECD QSAR Toolbox AI Assistant
+## O-QT — OECD QSAR Toolbox AI Assistant
 
 A multi-agent assistant that connects to a locally running OECD QSAR Toolbox Web API to analyze chemicals, profile hazards, and suggest read-across strategies. O’QT fetches properties, experimental data, and profiling outputs from the Toolbox and synthesizes them into an AI-generated report. [[more information](service/oqt_assistant.md)]
 

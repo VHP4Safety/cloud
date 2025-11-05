@@ -32,9 +32,9 @@ The current development platform runs several services.
 
 A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI. [[more information](service/aop-builder.md)]
 
-#### AOP Network Builder
+#### AOP-Suite
 
-web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the AOP-Wiki RDF SPARQL endpoint. [[more information](service/aopnetwork.md)]
+A web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the pyaop Python package and AOP-Wiki RDF SPARQL endpoint. [[more information](service/aopsuite.md)]
 
 #### AOP-Wiki Snorql UI
 
@@ -68,7 +68,7 @@ The MolAOP analyser service enables users to analyse transcriptomic data in the 
 
 Physiologically based pharmacokinetic model for organophosphates [[more information](service/oppbk_model.md)]
 
-#### O'QT — OECD QSAR Toolbox AI Assistant
+#### O-QT — OECD QSAR Toolbox AI Assistant
 
 A multi-agent assistant that connects to a locally running OECD QSAR Toolbox Web API to analyze chemicals, profile hazards, and suggest read-across strategies. O’QT fetches properties, experimental data, and profiling outputs from the Toolbox and synthesizes them into an AI-generated report. [[more information](service/oqt_assistant.md)]
 
@@ -148,9 +148,17 @@ Search engine for (scientific) literature. [[more information](service/gscholar.
 
 A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources. [[more information](service/llmapperino.md)]
 
+#### MCT8 Docking for MIE Discovery
+
+A python-based notebook to identify potential inhibitors of monocarboxylate-8 transporter and related molecular initiating events for developmental thyroid toxicity based on maternal thyroid hormone deprivation related adverse outcomes. [[more information](service/mct8-dock.md)]
+
 #### The OECD QSAR Toolbox
 
 A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
+
+#### ONTOX Physiological Maps
+
+Set of maps explaining the biological (physiological) processes behind various toxicological risks. [[more information](service/ontox_physiological_maps.md)]
 
 #### SysRev
 
