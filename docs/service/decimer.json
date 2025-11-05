@@ -8,6 +8,7 @@
   "url": "https://decimer.ai/",
   "doi": "10.1186/s13321-021-00538-8",
   "instance": {
+    "type": "external",
     "license": "[MIT license](https://github.com/Kohulan/DECIMER-Image_Transformer/blob/master/LICENSE)",
     "version": "Latest",
     "source": "https://github.com/Kohulan/DECIMER-Image_Transformer",

@@ -6,10 +6,10 @@
   "url": "https://sites.google.com/view/ontox-maps/home",
   "doi": "10.14573/altex.2412241",
   "instance": {
-    "type": "external"
+    "type": "external",
+    "source": "https://github.com/ontox-maps/map_releases"
   },
   "ELIXIR": { "tess": "physiological map" },
-  "instance": { "source": "https://github.com/ontox-maps/map_releases" },
   "provider": {
     "name": "ONTOX",
     "email": "lcladeira@uliege.be"

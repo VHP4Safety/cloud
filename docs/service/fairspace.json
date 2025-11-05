@@ -7,6 +7,7 @@
   "screenshot": "fairspace.png",
   "url": "https://www.thehyve.nl/services/fairspace",
   "instance": {
+    "type": "external",
     "license": "[Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt)",
     "version": "[0.7.8](https://github.com/thehyve/fairspace/blob/dev/VERSION)",
     "source": "https://github.com/thehyve/fairspace",

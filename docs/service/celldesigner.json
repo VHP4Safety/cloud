@@ -8,7 +8,7 @@
   "url": "https://www.celldesigner.org/",
   "doi": "10.1016/S1478-5382(03)02370-9",
   "instance": {
-    "type": "No API",
+    "type": "external",
     "license": "[See licence agreement](https://www.celldesigner.org/license.txt)",
     "version": "4.4.2"
   },

@@ -8,7 +8,7 @@
   "url": "https://comptox.epa.gov/dashboard/",
   "doi": "10.1186/s13321-017-0247-6",
   "instance": {
-    "type": "Web-Based Application",
+    "type": "external",
     "license": "Public Domain",
     "version": "2.1.1"
   },
