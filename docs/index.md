@@ -14,8 +14,8 @@ Below you find an overview of services available in the context of the VHP4Safet
 ## Cloud catalog
 
 The VHP4Safety Cloud catalog of potential, internal, and external services is
-available [here](catalog.md).
-
+available [here](catalog.md). The catalog is internally stored as a collection of JSON files
+with [this template](https://github.com/VHP4Safety/cloud/blob/main/docs/service/template.json).
 
 ### Service Contributions
 
