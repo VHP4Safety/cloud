@@ -11,9 +11,9 @@
     "type": "internal",
     "vhp-platform": "Development",
     "url": "https://arrayanalysis.vhp4safety.nl/",
-    "license": "",
-    "version": "0.1.1",
-    "source": "",
+    "license": "CC-BY-4.0",
+    "version": "0.1.2",
+    "source": "Available on GitHub at:https://github.com/orgs/arrayanalysis/repositories",
     "docker": "https://hub.docker.com/r/jarnokoetsier/arrayanalysis"
   },
   "provider": {
