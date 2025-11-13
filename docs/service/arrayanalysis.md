@@ -69,11 +69,11 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 * Citation: [10.1093/nar/gkt293](https://doi.org/10.1093/nar/gkt293)
 
-* Version: 0.1.1
+* Version: 0.1.2
 
-* License: Not available
+* License: CC-BY-4.0
 
-* Source Code: Not available
+* Source Code: [Available on GitHub at:https://github.com/orgs/arrayanalysis/repositories](Available on GitHub at:https://github.com/orgs/arrayanalysis/repositories)
 
 * Docker: [https://hub.docker.com/r/jarnokoetsier/arrayanalysis](https://hub.docker.com/r/jarnokoetsier/arrayanalysis)
 
