@@ -53,7 +53,7 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 * Type: internal
 
-* Contact: Lars Eijssen ()
+* Contact: Jarno Koetsier (jarno.koetsier@maastrichtuniversity.nl)
 
 * API Type: Not available
 
@@ -73,9 +73,9 @@ A user-friendly service to conduct quality control and pre-processing analyses f
 
 * License: CC-BY-4.0
 
-* Source Code: [Available on GitHub at:https://github.com/orgs/arrayanalysis/repositories](Available on GitHub at:https://github.com/orgs/arrayanalysis/repositories)
+* Source Code: [https://github.com/arrayanalysis/ArrayAnalysis_Shiny](https://github.com/arrayanalysis/ArrayAnalysis_Shiny)
 
-* Docker: [https://hub.docker.com/r/jarnokoetsier/arrayanalysis](https://hub.docker.com/r/jarnokoetsier/arrayanalysis)
+* Docker: [https://hub.docker.com/r/arrayanalysis/arrayanalysis_shiny](https://hub.docker.com/r/arrayanalysis/arrayanalysis_shiny)
 
 * Bio.tools: Not available
 
