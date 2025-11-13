@@ -11,14 +11,15 @@
     "type": "internal",
     "vhp-platform": "Development",
     "url": "https://arrayanalysis.vhp4safety.nl/",
-    "license": "",
-    "version": "0.1.1",
-    "source": "",
-    "docker": "https://hub.docker.com/r/jarnokoetsier/arrayanalysis"
+    "license": "CC-BY-4.0",
+    "version": "0.1.2",
+    "source": "https://github.com/arrayanalysis/ArrayAnalysis_Shiny",
+    "docker": "https://hub.docker.com/r/arrayanalysis/arrayanalysis_shiny"
   },
   "provider": {
     "contact": {
-      "name": "Lars Eijssen"
+      "name": "Jarno Koetsier",
+      "email": "jarno.koetsier@maastrichtuniversity.nl"
     },
     "url": "https://www.bigcat.unimaas.nl/",
     "name": "BiGCaT, Maastricht University"
