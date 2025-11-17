@@ -78,7 +78,7 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 #### QSPRpred
 
-This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies. [[more information](service/qsprpred.md)]
+This tool is intended for hazard assessment of novel chemicals. A user can give their chemical of interest and predict its activity on various endpoints. This prediction is done by target-specific QSAR models that have been created within the VHP4Safety consortium. Each of the models is specific for an endpoint related to a molecular initiation event from an adverse outcome pathway. This makes the models relevant for hazard assessment. To see how such models can be applied in a risk assessment context, go to the case studies on the platform (https://platform.vhp4safety.nl/casestudies). [[more information](service/qsprpred.md)]
 
 #### SOM Prediction
 
