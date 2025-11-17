@@ -1,17 +1,16 @@
 {
-  "id": "llmapperino",
-  "service": "LLMapperino",
+  "id": "llemy",
+  "service": "Llemy",
   "description": "A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "prototype",
-  "screenshot": "llmapperino.png",
-  "url": "http://81.169.225.178:5016/",
+  "url": "",
   "doi": "",
   "release_notes": "2025-09-02: Pilot instance; added disclaimer & license surfacing; streamlined login/API-key flow.",
   "instance": {
     "type": "pilot",
     "vhp-platform": "independent",
-    "url": "http://81.169.225.178:5016/",
+    "url": "https://llemy.vhp4safety.nl/",
     "license": "Apache-2.0",
     "version": "0.1.0",
     "source": "https://github.com/senseibelbi/LLMapperino",
@@ -31,12 +30,12 @@
     "login": "Email i.djidrovski@uu.nl for an app API key or provide your own OpenAI and Perplexity API keys in the UI."
   },
   "intro": {
-    "title": "LLMapperino README",
+    "title": "Llemy README",
     "url": "https://github.com/senseibelbi/LLMapperino#readme"
   },
   "demo": {
     "title": "Hosted pilot",
-    "url": "http://81.169.225.178:5016/"
+    "url": "https://llemy.vhp4safety.nl/"
   },
   "workflow": {
     "title": "3-Agent Workflow (MINERVA ↔ Perplexity ↔ Synthesis)",
