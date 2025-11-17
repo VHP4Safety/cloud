@@ -14,8 +14,8 @@ Below you find an overview of services available in the context of the VHP4Safet
 ## Cloud catalog
 
 The VHP4Safety Cloud catalog of potential, internal, and external services is
-available [here](catalog.md). The catalog is internally stored as a collection of JSON files
-with [this template](https://github.com/VHP4Safety/cloud/blob/main/docs/service/template.json).
+available [here](catalog.md).
+
 
 ### Service Contributions
 
@@ -128,9 +128,17 @@ An online database to provide access to chemistry, toxicity, and exposure inform
 
 A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more information](service/cplogd.md)]
 
+#### DECIMER
+
+An online service to extract chemical structures from PDF-formatted files and images. [[more information](service/decimer.md)]
+
 #### NIH Dietary Supplement Label Database
 
 The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States. [[more information](service/dsld.md)]
+
+#### Fairspace
+
+An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF) [[more information](service/fairspace.md)]
 
 #### Flame
 
@@ -144,9 +152,9 @@ Web search engine by Google. [[more information](service/google.md)]
 
 Search engine for (scientific) literature. [[more information](service/gscholar.md)]
 
-#### LLMapperino
+#### Llemy
 
-A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources. [[more information](service/llmapperino.md)]
+A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources. [[more information](service/llemy.md)]
 
 #### MCT8 Docking for MIE Discovery
 
