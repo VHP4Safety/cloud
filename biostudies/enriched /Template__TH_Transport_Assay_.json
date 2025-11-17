@@ -1,0 +1,405 @@
+{
+  "assays": [
+    {
+      "title": "Assay",
+      "description": null,
+      "organism": {
+        "name": "Homo sapiens"
+      },
+      "organ": "brain",
+      "tissue": "neural tissue",
+      "bioassay": {
+        "name": "transporter inhibition assay"
+      },
+      "files": [],
+      "cell_lines": [
+        {
+          "name": "SK-N-AS",
+          "rrid": "CVCL_1700",
+          "supplier": "ATCC"
+        },
+        {
+          "name": "H4",
+          "rrid": "CVCL_1239",
+          "supplier": "ATCC"
+        },
+        {
+          "name": "MO3.13",
+          "rrid": "CVCL_D357",
+          "supplier": "Cedarlane Laboratories"
+        }
+      ],
+      "chemicals": [
+        {
+          "name": "Amiodarone",
+          "cas": "19774-82-4",
+          "smiles": "CCCCC1=C(C2=CC=CC=C2O1)C(=O)C3=CC(=C(C(=C3)I)OCCN(CC)CC)I.Cl",
+          "concentrations": [
+            {
+              "value": 0.5,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 1,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 5,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 10,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "BSP (sulfobromophthalein sodium)",
+          "cas": "123359-42-2",
+          "smiles": "[Na+].[Na+].[H]O[H].Oc1ccc(cc1S([O-])(=O)=O)C2(OC(=O)c3c(Br)c(Br)c(Br)c(Br)c23)c4ccc(O)c(c4)S([O-])(=O)=O",
+          "concentrations": [
+            {
+              "value": 10,
+              "unit": "µm",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 30,
+              "unit": "µm",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 100,
+              "unit": "µm",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 300,
+              "unit": "µm",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "Cefuroxime",
+          "cas": "55268-75-2",
+          "smiles": "O=C(O)COC1=CC(C)=C(CC2=CC(C#CC3=CC=C([N+]([O-])=O)C=C3)=C(O)C(C(C)C)=C2)C(C)=C1",
+          "concentrations": [
+            {
+              "value": 0.1,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 1,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 10,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 100,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "Chlorpyrifos",
+          "cas": "2921-88-2",
+          "smiles": "CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl",
+          "concentrations": [
+            {
+              "value": 0.1,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 1,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 10,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 20,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "Iopanoic acid",
+          "cas": "96-83-3",
+          "smiles": "O=C(O)C(CC)CC1=C(I)C(N)=C(I)C=C1I",
+          "concentrations": [
+            {
+              "value": 3,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 10,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 30,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 100,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "Mono-buthyl phtalate (MBP)",
+          "cas": "131-70-4",
+          "smiles": "CCCCOC(=O)c1ccccc1C(O)=O",
+          "concentrations": [
+            {
+              "value": 0.1,
+              "unit": "µm",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 1,
+              "unit": "µm",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 10,
+              "unit": "µm",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 100,
+              "unit": "µm",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "NH-3",
+          "cas": "447415-26-1",
+          "smiles": "O=C(O)COC1=CC(C)=C(CC2=CC(C#CC3=CC=C([N+]([O-])=O)C=C3)=C(O)C(C(C)C)=C2)C(C)=C1",
+          "concentrations": [
+            {
+              "value": 1,
+              "unit": "nM",
+              "ucum": "nmol/L"
+            },
+            {
+              "value": 10,
+              "unit": "nM",
+              "ucum": "nmol/L"
+            },
+            {
+              "value": 100,
+              "unit": "nM",
+              "ucum": "nmol/L"
+            },
+            {
+              "value": 1000,
+              "unit": "nM",
+              "ucum": "nmol/L"
+            }
+          ]
+        },
+        {
+          "name": "PBDE-99",
+          "cas": "60348-60-9",
+          "smiles": "C1=CC(=C(C=C1Br)Br)OC2=CC(=C(C=C2Br)Br)Br",
+          "concentrations": [
+            {
+              "value": 30,
+              "unit": "nM",
+              "ucum": "nmol/L"
+            },
+            {
+              "value": 100,
+              "unit": "nM",
+              "ucum": "nmol/L"
+            },
+            {
+              "value": 300,
+              "unit": "nM",
+              "ucum": "nmol/L"
+            },
+            {
+              "value": 1000,
+              "unit": "nM",
+              "ucum": "nmol/L"
+            }
+          ]
+        },
+        {
+          "name": "Silychristin",
+          "cas": "33889-69-9",
+          "smiles": "COc1cc(ccc1O)[C@@H]2Oc3c(O)cc(cc3[C@H]2CO)[C@H]4Oc5cc(O)cc(O)c5C(=O)[C@@H]4O",
+          "concentrations": [
+            {
+              "value": 10,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "TBBPA",
+          "cas": "79-94-7",
+          "smiles": "CC(C)(c1cc(Br)c(O)c(Br)c1)c2cc(Br)c(O)c(Br)c2",
+          "concentrations": [
+            {
+              "value": 0.3,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 1,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 3,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 10,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "Lesinurad",
+          "cas": "878672-00-5",
+          "smiles": "BrC1=NN=C(SCC(O)=O)N1C2=C3C(C=CC=C3)=C(C4CC4)C=C2",
+          "concentrations": [
+            {
+              "value": 100,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        },
+        {
+          "name": "Xanthohumol ",
+          "cas": "6754-58-1",
+          "smiles": "COc1cc(O)c(C\\C=C(/C)C)c(O)c1C(=O)\\C=C\\c2ccc(O)cc2",
+          "concentrations": [
+            {
+              "value": 0.1,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 0.3,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 1,
+              "unit": "µM",
+              "ucum": "umol/L"
+            },
+            {
+              "value": 3,
+              "unit": "µM",
+              "ucum": "umol/L"
+            }
+          ]
+        }
+      ],
+      "experimental_design": {
+        "timepoints": [
+          {
+            "value": 10,
+            "unit": "minutes",
+            "ucum": "min"
+          }
+        ],
+        "replicates": 2,
+        "number_of_samples": null,
+        "instruments": [
+          {
+            "name": "Gamma Counter",
+            "manufacturer": null
+          }
+        ],
+        "measured_entity": {
+          "name": "counts per minute",
+          "unit": "counts per minute",
+          "ucum": "cpm"
+        },
+        "endpoints": [
+          {
+            "name": "T3 uptake",
+            "unit": "%",
+            "ucum": "%"
+          },
+          {
+            "name": "%",
+            "unit": "%",
+            "ucum": "%"
+          },
+          {
+            "name": "T4 uptake",
+            "unit": "%",
+            "ucum": "%"
+          },
+          {
+            "name": "%",
+            "unit": "%",
+            "ucum": "%"
+          }
+        ],
+        "substrates": [
+          "T3",
+          "T4"
+        ]
+      },
+      "mie": [
+        {
+          "target": "MCT8"
+        },
+        {
+          "target": "AOP wiki ID: 2258",
+          "aop_refs": [
+            "AOP:2258"
+          ]
+        },
+        {
+          "target": "OATP1C1"
+        },
+        {
+          "target": "Other Transporters"
+        }
+      ],
+      "aop_links": [
+        {
+          "id": "AOP:2258",
+          "source": "AOP-Wiki",
+          "url": "https://aopwiki.org/aops/2258"
+        }
+      ]
+    }
+  ],
+  "registries": {
+    "organizations": {}
+  }
+}
