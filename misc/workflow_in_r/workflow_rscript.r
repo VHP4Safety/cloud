@@ -392,8 +392,8 @@ for (i in 1:length(service_metadata)) {
   # }
   system(paste0("echo \"\" >> ", target))
   
-  ## Techincal Tool Specifications
-  system(paste0("echo \"## Techincal Tool Specifications\" >> ", target))
+  ## Technical Tool Specifications
+  system(paste0("echo \"## Technical Tool Specifications\" >> ", target))
   system(paste0("echo \"\" >> ", target))
   
   # Provider
