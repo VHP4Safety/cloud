@@ -1,7 +1,7 @@
 {
   "id": "arrayanalysis",
   "service": "ArrayAnalysis",
-  "description": "An user-interface for preprocessing and statistically analyzing RNA-sequencing and microarray transcriptomics data.",
+  "description": "A user-interface for preprocessing and statistically analyzing RNA-sequencing and microarray transcriptomics data.",
   "stage":"NA",
   "substage":"NA",
   "url": "https://arrayanalysis.org/",
