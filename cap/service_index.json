@@ -342,7 +342,7 @@
   "gscholar": {
     "id": "gscholar",
     "service": "Google Scholar",
-    "description": "An online search engine for (scientific) literature search.",
+    "description": "An online search engine for (scientific) literature.",
     "html_name": "gscholar.html",
     "md_file_name": "gscholar.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
