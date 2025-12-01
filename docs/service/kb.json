@@ -1,7 +1,7 @@
 {
   "id": "kb",
   "service": "VHP4Safety Wikibase User Interface",
-  "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries.",
+  "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000149",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000148",
   "instance": {

@@ -1,7 +1,7 @@
 {
   "id": "aopwiki",
   "service": "AOP-Wiki Snorql UI",
-  "description": "A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.",
+  "description": "A graphical interface for creating, preloading and exporting SPARQL queries tailored to your usecases.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000102",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "aopwiki.png",

@@ -1,7 +1,7 @@
 {
   "id": "decimer",
   "service": "DECIMER",
-  "description": "An online service to extract chemical structures from PDF-formatted files and images.",
+  "description": "An online service for automatically extracting chemical structure depictiions from PDFs and images.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000148",
   "screenshot": "decimer.png",

@@ -2,7 +2,7 @@
 {
   "id": "oqt_assistant",
   "service": "O-QT — OECD QSAR Toolbox AI Assistant",
-  "description": "A multi-agent assistant that connects to a locally running OECD QSAR Toolbox Web API to analyze chemicals, profile hazards, and suggest read-across strategies. O’QT fetches properties, experimental data, and profiling outputs from the Toolbox and synthesizes them into an AI-generated report.",
+  "description": "An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess hazards and generate AI-based summary reports.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "prototype",
   "screenshot": "oqt_assistant.png",

@@ -1,7 +1,7 @@
 {
   "id": "mct8-dock",
   "service": "MCT8 Docking for MIE Discovery",
-  "description": "A python-based notebook to identify potential inhibitors of monocarboxylate-8 transporter and related molecular initiating events for developmental thyroid toxicity based on maternal thyroid hormone deprivation related adverse outcomes.",
+  "description": "A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation.",
   "stage": "",
   "substage": "", 
   "url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing",

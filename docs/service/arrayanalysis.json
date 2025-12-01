@@ -1,7 +1,7 @@
 {
   "id": "arrayanalysis",
   "service": "ArrayAnalysis",
-  "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
+  "description": "An user-interface for preprocessing and statistically analyzing RNA-sequencing and microarray transcriptomics data.",
   "stage":"NA",
   "substage":"NA",
   "url": "https://arrayanalysis.org/",

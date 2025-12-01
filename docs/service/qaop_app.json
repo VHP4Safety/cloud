@@ -1,7 +1,7 @@
 {
   "id": "qaop_app",
   "service": "qAOP-App",
-  "description": "An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies.",
+  "description": "An interactive tool for visualizing and predicting key events (KEs) and adverse outcomes (AOs) over time using ODE-based qAOP models, illustrated with VHP4Safety case studies.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000102",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "url": "https://qaop.vhp4safety.nl/",

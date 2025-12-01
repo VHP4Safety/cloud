@@ -1,7 +1,7 @@
 {
   "id": "aopsuite",
   "service": "AOP-Suite",
-  "description": "A web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the pyaop Python package and AOP-Wiki RDF SPARQL endpoint.",
+  "description": "A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway (AOP) networks.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000023",
   "url": "",

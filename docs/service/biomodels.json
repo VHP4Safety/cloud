@@ -1,7 +1,7 @@
 {
   "id": "biomodels",
   "service": "BioModels",
-  "description": "A repository of mathematical models of biological and biomedical systems.",
+  "description": "A repository dedicated to the inventory and acquisition of high-quality mathematical models pertaining to biological and biomedical systems.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000055",
   "screenshot": "biomodels.png",

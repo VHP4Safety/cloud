@@ -1,7 +1,7 @@
 {
   "id": "cdkdepict",
   "service": "CDK Depict",
-  "description": "A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats.",
+  "description": "A webservice for generating chemical structure images from SMILES inputs.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000148",
   "screenshot": "cdkdepict.png",

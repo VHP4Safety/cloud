@@ -1,7 +1,7 @@
 {
   "id": "biotransformer",
   "service": "BioTransformer",
-  "description": "A software tool to predict metabolites based on inputs in SMILE format.",
+  "description": "A software tool for predicting metabolites from SMILES-formatted chemical inputs.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000148",
   "screenshot": "biotransformer.png",
