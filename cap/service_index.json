@@ -70,7 +70,7 @@
   "arrayanalysis": {
     "id": "arrayanalysis",
     "service": "ArrayAnalysis",
-    "description": "An user-interface for preprocessing and statistically analyzing RNA-sequencing and microarray transcriptomics data.",
+    "description": "A user-interface for preprocessing and statistically analyzing RNA-sequencing and microarray transcriptomics data.",
     "html_name": "arrayanalysis.html",
     "md_file_name": "arrayanalysis.md",
     "png_file_name": "arrayanalysis.png",
