@@ -35,83 +35,83 @@ The current development platform runs several services.
 
 #### AOP-Builder
 
-A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI. [[more information](service/aop-builder.md)]
+A tool that supports Adverse Outcome Pathway (AOP) development by extracting key scientific entities and their relationships from literature. [[more information](service/aop-builder.md)]
 
 #### AOP-Suite
 
-A web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the pyaop Python package and AOP-Wiki RDF SPARQL endpoint. [[more information](service/aopsuite.md)]
+A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway (AOP) networks. [[more information](service/aopsuite.md)]
 
 #### AOP-Wiki Snorql UI
 
-A graphical interface to make queries to the AOP-Wiki SPARQL endpoint. [[more information](service/aopwiki.md)]
+A graphical interface for creating, preloading and exporting SPARQL queries tailored to your usecases. [[more information](service/aopwiki.md)]
 
 #### AOP-Wiki API
 
-A REST API for AOP-Wiki content to make SPARQL queries. [[more information](service/aopwikiapi.md)]
+A REST API for creating and accessing content in the AOP-Wiki database. [[more information](service/aopwikiapi.md)]
 
 #### ArrayAnalysis
 
-A user-friendly service to conduct quality control and pre-processing analyses for microarray data. [[more information](service/arrayanalysis.md)]
+A user-interface for preprocessing and statistically analyzing RNA-sequencing and microarray transcriptomics data. [[more information](service/arrayanalysis.md)]
 
 #### BridgeDb
 
-A framework to map identifiers between various biological databases and related sources. [[more information](service/bridgedb.md)]
+A framework for mapping identifiers across biological databases and related sources. [[more information](service/bridgedb.md)]
 
 #### CDK Depict
 
-A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats. [[more information](service/cdkdepict.md)]
+A webservice for generating chemical structure images from SMILES inputs. [[more information](service/cdkdepict.md)]
 
 #### VHP4Safety Wikibase User Interface
 
-A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries. [[more information](service/kb.md)]
+A Synia-based graphical user interface to the content of the VHP4Safety Wikibase. [[more information](service/kb.md)]
 
 #### MolAOP analyser
 
-The MolAOP analyser service enables users to analyse transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs). The tool allows users to upload differential expression data or select from built-in demo datasets. It then guides them through gene selection, visualisation (volcano plots), and Key Event enrichment analysis based on predefined KE-to-pathway mappings. [[more information](service/molaopanalyser.md)]
+An online service for analyzing transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs), supporting data upload or demo datasets for gene selection, visualization and Key Event (KE) enrichment analysis. [[more information](service/molaopanalyser.md)]
 
 #### OP PBK Model
 
-Physiologically based pharmacokinetic model for organophosphates [[more information](service/oppbk_model.md)]
+An online physiologically based pharmacokinetic model for organophosphates [[more information](service/oppbk_model.md)]
 
 #### O-QT — OECD QSAR Toolbox AI Assistant
 
-A multi-agent assistant that connects to a locally running OECD QSAR Toolbox Web API to analyze chemicals, profile hazards, and suggest read-across strategies. O’QT fetches properties, experimental data, and profiling outputs from the Toolbox and synthesizes them into an AI-generated report. [[more information](service/oqt_assistant.md)]
+An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess hazards and generate AI-based summary reports. [[more information](service/oqt_assistant.md)]
 
 #### qAOP-App
 
-An interactive tool offering an overview and dynamic time‐course predictions of KEs and AOs via ODE‐based qAOP models, based on VHP4Safety case studies. [[more information](service/qaop_app.md)]
+An interactive tool for visualizing and predicting key events (KEs) and adverse outcomes (AOs) over time using ODE-based qAOP models, illustrated with VHP4Safety case studies. [[more information](service/qaop_app.md)]
 
 #### QSPRpred
 
-This tool is intended for hazard assessment of novel chemicals. A user can give their chemical of interest and predict its activity on various endpoints. This prediction is done by target-specific QSAR models that have been created within the VHP4Safety consortium. Each of the models is specific for an endpoint related to a molecular initiation event from an adverse outcome pathway. This makes the models relevant for hazard assessment. To see how such models can be applied in a risk assessment context, go to the case studies on the platform (https://platform.vhp4safety.nl/casestudies). [[more information](service/qsprpred.md)]
+An online tool for chemical activity prediction for various endpoints using target-specific and pretrained QSAR models. [[more information](service/qsprpred.md)]
 
 #### SOM Prediction
 
-A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction. [[more information](service/sombie.md)]
+A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism. [[more information](service/sombie.md)]
 
 #### ToxTempAssistant
 
-A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template. [[more information](service/toxtemp_assistant.md)]
+An online tool for harmonizing in vitro toxicity test methods using Large Language Models, based on the ToxTemp template where it extracts details from protocols, publications or lab notes to create structured draft responses. [[more information](service/toxtemp_assistant.md)]
 
 #### TXG-MAPr
 
-An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets. [[more information](service/txg_mapr.md)]
+An online application for implementation of weighted gene co-expression network analysis (WGCNA) derived from publicly available transcriptomic datasets from the TG-GATEs database. [[more information](service/txg_mapr.md)]
 
 #### VHP4Safety Glossary
 
-A collection of ontology with the names, abrreviations and definitions of the terminology that is used in the VHP4Safety project. [[more information](service/vhp_glossary.md)]
+A collection of ontology with names, abrreviations and definitions of the terminology that is used within the VHP4Safety project. [[more information](service/vhp_glossary.md)]
 
 #### VHP4Safety Wikibase
 
-A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project. [[more information](service/wikibase.md)]
+A Wikibase instance for storing and presenting information about toxic, safe and potentially toxic compounds related to the VHP4Safety project. [[more information](service/wikibase.md)]
 
 #### WikiPathways - AOP Portal
 
-An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs. [[more information](service/wikipathways_aop.md)]
+An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecular basis of AOPs and their key events (KEs). [[more information](service/wikipathways_aop.md)]
 
 #### xploreaop
 
-A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis. [[more information](service/xploreaop.md)]
+A web application for visualization of Adverse Outcome Pathway (AOP) networks and interactive exploration of AOPs for two liver outcomes. [[more information](service/xploreaop.md)]
 
 ------------------------------------------
 
@@ -119,63 +119,63 @@ A web application to visualize Adverse Outcome Pathway (AOP) networks and intera
 
 #### BMDExpress-3
 
-A tool to perform dose response modeling for high dimensional dose-response analysis. [[more information](service/bmdexpress_3.md)]
+A software tool for high-dimensional dose-response modeling and analysis. [[more information](service/bmdexpress_3.md)]
 
 #### CellDesigner
 
-A structured diagram editor to draw gene-regulatory and biochemical networks. [[more information](service/celldesigner.md)]
+An intuitive user interface for creating gene-regulatory and biochemical network diagrams. [[more information](service/celldesigner.md)]
 
 #### CompTox
 
-An online database to provide access to chemistry, toxicity, and exposure information for chemicals. [[more information](service/comptox.md)]
+An online database for searching chemical, toxicity and exposure information. [[more information](service/comptox.md)]
 
 #### cpLogD
 
-A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates. [[more information](service/cplogd.md)]
+An online model for predicting water-octanol distribution coefficient (logD) of chemical compounds with confidence estimates. [[more information](service/cplogd.md)]
 
 #### DECIMER
 
-An online service to extract chemical structures from PDF-formatted files and images. [[more information](service/decimer.md)]
+An online service for automatically extracting chemical structure depictiions from PDFs and images. [[more information](service/decimer.md)]
 
 #### NIH Dietary Supplement Label Database
 
-The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States. [[more information](service/dsld.md)]
+An online database from the NIH Office of Dietary Supplements that lets you explore information from more than 200,000 dietary supplement labels sold in the United States. [[more information](service/dsld.md)]
 
 #### Fairspace
 
-An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF) [[more information](service/fairspace.md)]
+An open source RDF-based data management platform for importing and exporting research-relevant metadata [[more information](service/fairspace.md)]
 
 #### Flame
 
-An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments. [[more information](service/flame.md)]
+An open source web application for building predictive models from biologically annotated chemical structures using predefined workflows. [[more information](service/flame.md)]
 
 #### Google Search
 
-Web search engine by Google. [[more information](service/google.md)]
+Online search engine for Google. [[more information](service/google.md)]
 
 #### Google Scholar
 
-Search engine for (scientific) literature. [[more information](service/gscholar.md)]
+An online search engine for (scientific) literature. [[more information](service/gscholar.md)]
 
 #### Llemy
 
-A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources. [[more information](service/llemy.md)]
+An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries. [[more information](service/llemy.md)]
 
 #### MCT8 Docking for MIE Discovery
 
-A python-based notebook to identify potential inhibitors of monocarboxylate-8 transporter and related molecular initiating events for developmental thyroid toxicity based on maternal thyroid hormone deprivation related adverse outcomes. [[more information](service/mct8-dock.md)]
+A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation. [[more information](service/mct8-dock.md)]
 
 #### The OECD QSAR Toolbox
 
-A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way. [[more information](service/oecd_qsar_toolbox.md)]
+A software for supporting chemical hazard assessment and enhancing mechanistic knowledge of substances in a cost-effective way. [[more information](service/oecd_qsar_toolbox.md)]
 
 #### ONTOX Physiological Maps
 
-Set of maps explaining the biological (physiological) processes behind various toxicological risks. [[more information](service/ontox_physiological_maps.md)]
+Maps for illustrating biological processes behind toxicological risks using a standardized graphical notation. [[more information](service/ontox_physiological_maps.md)]
 
 #### SysRev
 
-An online service to conduct literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
+An online service for conduction of literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
 
 ------------------------------------------
 
