@@ -2,7 +2,7 @@
   "aop-builder": {
     "id": "aop-builder",
     "service": "AOP-Builder",
-    "description": "A tool to explore scientific literature to extract relevant entities and their relations for AOP construction, using AI.",
+    "description": "A tool that supports Adverse Outcome Pathway (AOP) development by extracting key scientific entities and their relationships from literature.",
     "html_name": "aop-builder.html",
     "md_file_name": "aop-builder.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -19,7 +19,7 @@
   "aopsuite": {
     "id": "aopsuite",
     "service": "AOP-Suite",
-    "description": "A web-based tool for building, visualizing, and analyzing Adverse Outcome Pathway (AOP) networks. It serves as an extended user interface for the pyaop Python package and AOP-Wiki RDF SPARQL endpoint.",
+    "description": "A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway (AOP) networks.",
     "html_name": "aopsuite.html",
     "md_file_name": "aopsuite.md",
     "png_file_name": "aopsuite.png",
@@ -36,7 +36,7 @@
   "aopwikiapi": {
     "id": "aopwikiapi",
     "service": "AOP-Wiki API",
-    "description": "A REST API for AOP-Wiki content to make SPARQL queries.",
+    "description": "A REST API for creating and accessing content in the AOP-Wiki database.",
     "html_name": "aopwikiapi.html",
     "md_file_name": "aopwikiapi.md",
     "png_file_name": "aopwikiapi.png",
@@ -53,7 +53,7 @@
   "aopwiki": {
     "id": "aopwiki",
     "service": "AOP-Wiki Snorql UI",
-    "description": "A graphical interface to make queries to the AOP-Wiki SPARQL endpoint.",
+    "description": "A graphical interface for creating, preloading and exporting SPARQL queries tailored to your usecases.",
     "html_name": "aopwiki.html",
     "md_file_name": "aopwiki.md",
     "png_file_name": "aopwiki.png",
@@ -70,7 +70,7 @@
   "arrayanalysis": {
     "id": "arrayanalysis",
     "service": "ArrayAnalysis",
-    "description": "A user-friendly service to conduct quality control and pre-processing analyses for microarray data.",
+    "description": "An user-interface for preprocessing and statistically analyzing RNA-sequencing and microarray transcriptomics data.",
     "html_name": "arrayanalysis.html",
     "md_file_name": "arrayanalysis.md",
     "png_file_name": "arrayanalysis.png",
@@ -87,7 +87,7 @@
   "biomodels": {
     "id": "biomodels",
     "service": "BioModels",
-    "description": "A repository of mathematical models of biological and biomedical systems.",
+    "description": "A repository dedicated to the inventory and acquisition of high-quality mathematical models pertaining to biological and biomedical systems.",
     "html_name": "biomodels.html",
     "md_file_name": "biomodels.md",
     "png_file_name": "biomodels.png",
@@ -104,7 +104,7 @@
   "biotransformer": {
     "id": "biotransformer",
     "service": "BioTransformer",
-    "description": "A software tool to predict metabolites based on inputs in SMILE format.",
+    "description": "A software tool for predicting metabolites from SMILES-formatted chemical inputs.",
     "html_name": "biotransformer.html",
     "md_file_name": "biotransformer.md",
     "png_file_name": "biotransformer.png",
@@ -121,7 +121,7 @@
   "bmdexpress_3": {
     "id": "bmdexpress_3",
     "service": "BMDExpress-3",
-    "description": "A tool to perform dose response modeling for high dimensional dose-response analysis.",
+    "description": "A software tool for high-dimensional dose-response modeling and analysis.",
     "html_name": "bmdexpress_3.html",
     "md_file_name": "bmdexpress_3.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -138,7 +138,7 @@
   "bridgedb": {
     "id": "bridgedb",
     "service": "BridgeDb",
-    "description": "A framework to map identifiers between various biological databases and related sources.",
+    "description": "A framework for mapping identifiers across biological databases and related sources.",
     "html_name": "bridgedb.html",
     "md_file_name": "bridgedb.md",
     "png_file_name": "bridgedb.png",
@@ -155,7 +155,7 @@
   "cdkdepict": {
     "id": "cdkdepict",
     "service": "CDK Depict",
-    "description": "A webservice to convert SMILES into 2D depictions in either SVG, PNG, and PNG formats.",
+    "description": "A webservice for generating chemical structure images from SMILES inputs.",
     "html_name": "cdkdepict.html",
     "md_file_name": "cdkdepict.md",
     "png_file_name": "cdkdepict.png",
@@ -172,7 +172,7 @@
   "celldesigner": {
     "id": "celldesigner",
     "service": "CellDesigner",
-    "description": "A structured diagram editor to draw gene-regulatory and biochemical networks.",
+    "description": "An intuitive user interface for creating gene-regulatory and biochemical network diagrams.",
     "html_name": "celldesigner.html",
     "md_file_name": "celldesigner.md",
     "png_file_name": "celldesigner.png",
@@ -189,7 +189,7 @@
   "comptox": {
     "id": "comptox",
     "service": "CompTox",
-    "description": "An online database to provide access to chemistry, toxicity, and exposure information for chemicals.",
+    "description": "An online database for searching chemical, toxicity and exposure information.",
     "html_name": "comptox.html",
     "md_file_name": "comptox.md",
     "png_file_name": "comptox.png",
@@ -206,7 +206,7 @@
   "copasi": {
     "id": "copasi",
     "service": "COPASI",
-    "description": "An open-source software application to create and solve mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others.",
+    "description": "An open-source software for simulating, analyzing and visualizing biochemical networks using a wide range of methods.",
     "html_name": "copasi.html",
     "md_file_name": "copasi.md",
     "png_file_name": "copasi.png",
@@ -223,7 +223,7 @@
   "cplogd": {
     "id": "cplogd",
     "service": "cpLogD",
-    "description": "A model to predict water-octanol distribution coefficient (logD) for chemical compounds which is a proxy for the lipophilicity which is a major determinant of drug properties and overall suitability of drug candidates.",
+    "description": "An online model for predicting water-octanol distribution coefficient (logD) of chemical compounds with confidence estimates.",
     "html_name": "cplogd.html",
     "md_file_name": "cplogd.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -240,7 +240,7 @@
   "decimer": {
     "id": "decimer",
     "service": "DECIMER",
-    "description": "An online service to extract chemical structures from PDF-formatted files and images.",
+    "description": "An online service for automatically extracting chemical structure depictiions from PDFs and images.",
     "html_name": "decimer.html",
     "md_file_name": "decimer.md",
     "png_file_name": "decimer.png",
@@ -257,7 +257,7 @@
   "ema_documents": {
     "id": "ema_documents",
     "service": "European Medicines Agency Documents",
-    "description": "An online repository of official reports from the European Medicines Agency.",
+    "description": "An online repository for inventarisation of official reports from the European Medicines Agency concerning chemical evaluation and safety monitoring.",
     "html_name": "ema_documents.html",
     "md_file_name": "ema_documents.md",
     "png_file_name": "ema_documents.png",
@@ -274,7 +274,7 @@
   "fairdomhub": {
     "id": "fairdomhub",
     "service": "FAIRDOMHub",
-    "description": "A web-accessible registry to store, share and publish research assets of biology projects.",
+    "description": "A web-accessible registry for managing, sharing and organising research data and research assets.",
     "html_name": "fairdomhub.html",
     "md_file_name": "fairdomhub.md",
     "png_file_name": "fairdomhub.png",
@@ -291,7 +291,7 @@
   "fairspace": {
     "id": "fairspace",
     "service": "Fairspace",
-    "description": "An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF)",
+    "description": "An open source RDF-based data management platform for importing and exporting research-relevant metadata",
     "html_name": "fairspace.html",
     "md_file_name": "fairspace.md",
     "png_file_name": "fairspace.png",
@@ -308,7 +308,7 @@
   "farmacokompas": {
     "id": "farmacokompas",
     "service": "Farmacotherapeutisch Kompas",
-    "description": "The Farmacotherapeutisch Kompas contains a wide spectrum of information on prescribing and pharmacology, among others indications, side effects and costs of the prescription of all pharmaceutical drugs available in the Netherlands.",
+    "description": "A Dutch online resource for gathering data on the pharmacology, adverse effects, and prices of all pharmaceutical products available in the Netherlands.",
     "html_name": "farmacokompas.html",
     "md_file_name": "farmacokompas.md",
     "png_file_name": "farmacokompas.png",
@@ -325,7 +325,7 @@
   "flame": {
     "id": "flame",
     "service": "Flame",
-    "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
+    "description": "An open source web application for building predictive models from biologically annotated chemical structures using predefined workflows.",
     "html_name": "flame.html",
     "md_file_name": "flame.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -342,7 +342,7 @@
   "gscholar": {
     "id": "gscholar",
     "service": "Google Scholar",
-    "description": "Search engine for (scientific) literature.",
+    "description": "An online search engine for (scientific) literature search.",
     "html_name": "gscholar.html",
     "md_file_name": "gscholar.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -359,7 +359,7 @@
   "google": {
     "id": "google",
     "service": "Google Search",
-    "description": "Web search engine by Google.",
+    "description": "Online search engine for Google.",
     "html_name": "google.html",
     "md_file_name": "google.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -376,7 +376,7 @@
   "jrc_data_catalogue": {
     "id": "jrc_data_catalogue",
     "service": "Joint Research Centre Data Catalogue",
-    "description": "An inventory of data produced by the Joint Research Centre (JRC) in accordance with the JRC Data Policy.",
+    "description": "An in-house data inventory produced by the Joint Research Centre (JRC) for provision of independent scientific advice and support to policies of the European Union.",
     "html_name": "jrc_data_catalogue.html",
     "md_file_name": "jrc_data_catalogue.md",
     "png_file_name": "jrc_data_catalogue.png",
@@ -393,7 +393,7 @@
   "llemy": {
     "id": "llemy",
     "service": "Llemy",
-    "description": "A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources.",
+    "description": "An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries.",
     "html_name": "llemy.html",
     "md_file_name": "llemy.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -410,7 +410,7 @@
   "mct8-dock": {
     "id": "mct8-dock",
     "service": "MCT8 Docking for MIE Discovery",
-    "description": "A python-based notebook to identify potential inhibitors of monocarboxylate-8 transporter and related molecular initiating events for developmental thyroid toxicity based on maternal thyroid hormone deprivation related adverse outcomes.",
+    "description": "A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation.",
     "html_name": "mct8-dock.html",
     "md_file_name": "mct8-dock.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -427,7 +427,7 @@
   "molaopanalyser": {
     "id": "molaopanalyser",
     "service": "MolAOP analyser",
-    "description": "The MolAOP analyser service enables users to analyse transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs). The tool allows users to upload differential expression data or select from built-in demo datasets. It then guides them through gene selection, visualisation (volcano plots), and Key Event enrichment analysis based on predefined KE-to-pathway mappings.",
+    "description": "An online service for analyzing transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs), supporting data upload or demo datasets for gene selection, visualization and Key Event (KE) enrichment analysis.",
     "html_name": "molaopanalyser.html",
     "md_file_name": "molaopanalyser.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -444,7 +444,7 @@
   "dsld": {
     "id": "dsld",
     "service": "NIH Dietary Supplement Label Database",
-    "description": "The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States.",
+    "description": "An online database from the NIH Office of Dietary Supplements that lets you explore information from more than 200,000 dietary supplement labels sold in the United States.",
     "html_name": "dsld.html",
     "md_file_name": "dsld.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -461,7 +461,7 @@
   "oqt_assistant": {
     "id": "oqt_assistant",
     "service": "O-QT \u2014 OECD QSAR Toolbox AI Assistant",
-    "description": "A multi-agent assistant that connects to a locally running OECD QSAR Toolbox Web API to analyze chemicals, profile hazards, and suggest read-across strategies. O\u2019QT fetches properties, experimental data, and profiling outputs from the Toolbox and synthesizes them into an AI-generated report.",
+    "description": "An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess hazards and generate AI-based summary reports.",
     "html_name": "oqt_assistant.html",
     "md_file_name": "oqt_assistant.md",
     "png_file_name": "oqt_assistant.png",
@@ -478,7 +478,7 @@
   "ontox_physiological_maps": {
     "id": "ontox_physiological_maps",
     "service": "ONTOX Physiological Maps",
-    "description": "Set of maps explaining the biological (physiological) processes behind various toxicological risks.",
+    "description": "Maps for illustrating biological processes behind toxicological risks using a standardized graphical notation.",
     "html_name": "ontox_physiological_maps.html",
     "md_file_name": "ontox_physiological_maps.md",
     "png_file_name": "https://lh3.googleusercontent.com/sitesv/AAzXCkc1M0sajxkVZByTPl0bptayrcKQhCDsOYqiHE_hnsyJlkTLXzmym7hPsU-LBBoQGh4d_KwYNazIzXOs_isMEavTgCDXm5GNLNDl3Jk0lyAF-JDgeQk-OJ3Ubya-_0bYhRWEJAG1JOKD1SSp0pJ6YZdoA6aWp_4nmHygnVTDEO4clOS1iHliDkhH0MdxdwOxA4Q6HlckBT4vhHJiddmJg5bmLpqMQe-DqAzU=w1280",
@@ -495,7 +495,7 @@
   "oppbk_model": {
     "id": "oppbk_model",
     "service": "OP PBK Model",
-    "description": "Physiologically based pharmacokinetic model for organophosphates",
+    "description": "An online physiologically based pharmacokinetic model for organophosphates",
     "html_name": "oppbk_model.html",
     "md_file_name": "oppbk_model.md",
     "png_file_name": "oppbk_model.png",
@@ -512,7 +512,7 @@
   "opsin": {
     "id": "opsin",
     "service": "OPSIN: Open Parser for Systematic IUPAC nomenclature",
-    "description": "An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES.",
+    "description": "An online service for parsing chemical IUPAC names into a machine-readable chemical identifiers.",
     "html_name": "opsin.html",
     "md_file_name": "opsin.md",
     "png_file_name": "opsin.png",
@@ -529,7 +529,7 @@
   "qaop_app": {
     "id": "qaop_app",
     "service": "qAOP-App",
-    "description": "An interactive tool offering an overview and dynamic time\u2010course predictions of KEs and AOs via ODE\u2010based qAOP models, based on VHP4Safety case studies.",
+    "description": "An interactive tool for visualizing and predicting key events (KEs) and adverse outcomes (AOs) over time using ODE-based qAOP models, illustrated with VHP4Safety case studies.",
     "html_name": "qaop_app.html",
     "md_file_name": "qaop_app.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -546,7 +546,7 @@
   "qsprpred": {
     "id": "qsprpred",
     "service": "QSPRpred",
-    "description": "This tool is intended for hazard assessment of novel chemicals. A user can give their chemical of interest and predict its activity on various endpoints. This prediction is done by target-specific QSAR models that have been created within the VHP4Safety consortium. Each of the models is specific for an endpoint related to a molecular initiation event from an adverse outcome pathway. This makes the models relevant for hazard assessment. To see how such models can be applied in a risk assessment context, go to the case studies on the platform (https://platform.vhp4safety.nl/casestudies).",
+    "description": "An online tool for chemical activity prediction for various endpoints using target-specific and pretrained QSAR models.",
     "html_name": "qsprpred.html",
     "md_file_name": "qsprpred.md",
     "png_file_name": "qsprpred.png",
@@ -563,7 +563,7 @@
   "sombie": {
     "id": "sombie",
     "service": "SOM Prediction",
-    "description": "A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction.",
+    "description": "A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism.",
     "html_name": "sombie.html",
     "md_file_name": "sombie.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -580,7 +580,7 @@
   "sysrev": {
     "id": "sysrev",
     "service": "SysRev",
-    "description": "An online service to conduct literature review, data extraction and systematic review.",
+    "description": "An online service for conduction of literature review, data extraction and systematic review.",
     "html_name": "sysrev.html",
     "md_file_name": "sysrev.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -597,7 +597,7 @@
   "oecd_qsar_toolbox": {
     "id": "oecd_qsar_toolbox",
     "service": "The OECD QSAR Toolbox",
-    "description": "A software to support hazard assessment of chemicals as well as to increase mechanistic and other knowledge on chemical substances in a cost-efficient way.",
+    "description": "A software for supporting chemical hazard assessment and enhancing mechanistic knowledge of substances in a cost-effective way.",
     "html_name": "oecd_qsar_toolbox.html",
     "md_file_name": "oecd_qsar_toolbox.md",
     "png_file_name": "oecd_qsar_toolbox.png",
@@ -614,7 +614,7 @@
   "toxtemp_assistant": {
     "id": "toxtemp_assistant",
     "service": "ToxTempAssistant",
-    "description": "A tool that uses Large Language Models to harmonize and complete method descriptions of in vitro toxicity tests based on the ToxTemp template. The tool alleviates the administrative burden on toxicologists by extracting methodological details from contextual documents, such as protocols, publications, or lab notebooks, and generating structured draft responses to the 77 questions of the ToxTemp template.",
+    "description": "An online tool for harmonizing in vitro toxicity test methods using Large Language Models, based on the ToxTemp template where it extracts details from protocols, publications or lab notes to create structured draft responses.",
     "html_name": "toxtemp_assistant.html",
     "md_file_name": "toxtemp_assistant.md",
     "png_file_name": "toxtemp_assistant.png",
@@ -631,7 +631,7 @@
   "txg_mapr": {
     "id": "txg_mapr",
     "service": "TXG-MAPr",
-    "description": "An online application to implement weighted gene co-expression network analysis (WGCNA) derived from the Primary Human Hepatocytes (PHH) TG-GATEs data sets.",
+    "description": "An online application for implementation of weighted gene co-expression network analysis (WGCNA) derived from publicly available transcriptomic datasets from the TG-GATEs database.",
     "html_name": "txg_mapr.html",
     "md_file_name": "txg_mapr.md",
     "png_file_name": "txg_mapr.png",
@@ -648,7 +648,7 @@
   "vhp_glossary": {
     "id": "vhp_glossary",
     "service": "VHP4Safety Glossary",
-    "description": "A collection of ontology with the names, abrreviations and definitions of the terminology that is used in the VHP4Safety project.",
+    "description": "A collection of ontology with names, abrreviations and definitions of the terminology that is used within the VHP4Safety project.",
     "html_name": "vhp_glossary.html",
     "md_file_name": "vhp_glossary.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -665,7 +665,7 @@
   "wikibase": {
     "id": "wikibase",
     "service": "VHP4Safety Wikibase",
-    "description": "A Wikibase instance to store and present information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
+    "description": "A Wikibase instance for storing and presenting information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
     "html_name": "wikibase.html",
     "md_file_name": "wikibase.md",
     "png_file_name": "VHP4Safety_ChemicalCompounds.png",
@@ -682,7 +682,7 @@
   "kb": {
     "id": "kb",
     "service": "VHP4Safety Wikibase User Interface",
-    "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase using SPARQL queries.",
+    "description": "A Synia-based graphical user interface to the content of the VHP4Safety Wikibase.",
     "html_name": "kb.html",
     "md_file_name": "kb.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
@@ -699,7 +699,7 @@
   "wikipathways_aop": {
     "id": "wikipathways_aop",
     "service": "WikiPathways - AOP Portal",
-    "description": "An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.",
+    "description": "An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecular basis of AOPs and their key events (KEs).",
     "html_name": "wikipathways_aop.html",
     "md_file_name": "wikipathways_aop.md",
     "png_file_name": "wikipathways_aop.png",
@@ -716,7 +716,7 @@
   "xploreaop": {
     "id": "xploreaop",
     "service": "xploreaop",
-    "description": "A web application to visualize Adverse Outcome Pathway (AOP) networks and interactively explore the AOPs for two liver outcomes, Cholestasis and Steatosis.",
+    "description": "A web application for visualization of Adverse Outcome Pathway (AOP) networks and interactive exploration of AOPs for two liver outcomes.",
     "html_name": "xploreaop.html",
     "md_file_name": "xploreaop.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
