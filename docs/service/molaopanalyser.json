@@ -1,7 +1,7 @@
 {
     "id": "molaopanalyser",
     "service": "MolAOP analyser",
-    "description": "The MolAOP analyser service enables users to analyse transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs). The tool allows users to upload differential expression data or select from built-in demo datasets. It then guides them through gene selection, visualisation (volcano plots), and Key Event enrichment analysis based on predefined KE-to-pathway mappings.",
+    "description": "An online service for analyzing transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs), supporting data upload or demo datasets for gene selection, visualization and Key Event (KE) enrichment analysis.",
     "stage": "",
     "substage": "",
     "screenshot": "",

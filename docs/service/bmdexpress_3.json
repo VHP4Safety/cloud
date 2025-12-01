@@ -2,7 +2,7 @@
 {
   "id": "bmdexpress_3",
   "service": "BMDExpress-3",
-  "description": "A tool to perform dose response modeling for high dimensional dose-response analysis.",
+  "description": "A software tool for high-dimensional dose-response modeling and analysis.",
   "stage": "",
   "substage": "",
   "screenshot": "",

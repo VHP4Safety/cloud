@@ -1,7 +1,7 @@
 {
   "id": "opsin",
   "service": "OPSIN: Open Parser for Systematic IUPAC nomenclature",
-  "description": "An online service with a tool to parse IUPAC names for chemicals into the chemical graph notation SMILES.",
+  "description": "An online service for parsing chemical IUPAC names into a machine-readable chemical identifiers.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000148",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000149",
   "screenshot": "opsin.png", 

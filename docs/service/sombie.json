@@ -1,7 +1,7 @@
 {
   "id": "sombie",
   "service": "SOM Prediction",
-  "description": "A webservice to conduct protein-structure and reactivity based (P450) site-of-metabolism prediction.",
+  "description": "A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000056",
   "substage": "",  
   "url": "https://sombie.cloud.vhp4safety.nl/",

@@ -1,14 +1,12 @@
 {
   "id": "ema_documents",
   "service": "European Medicines Agency Documents",
-  "description": "An online repository of official reports from the European Medicines Agency.",
-  "stage": "",
-  "substage": "",
+  "description": "An online repository for inventarisation of official reports from the European Medicines Agency concerning chemical evaluation and safety monitoring.",
+  "stage": "external exposure",
+  "substage": "compound characteristics",
   "screenshot": "ema_documents.png",
   "url": "https://www.ema.europa.eu/en/search",
 
-  "stage": "external exposure",
-  "substage": "compound characteristics",
 
   "provider": {
     "url": "https://www.ema.europa.eu/",

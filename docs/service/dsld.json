@@ -3,7 +3,7 @@
 
   "id": "dsld",
   "service": "NIH Dietary Supplement Label Database",
-  "description": "The Dietary Supplement Label Database was developed by the American Office of Dietary Supplements at the National Institutes of Health. This database includes printed on more than 200 thousand labels of dietary supplement products sold in the United States.",
+  "description": "An online database from the NIH Office of Dietary Supplements that lets you explore information from more than 200,000 dietary supplement labels sold in the United States.",
 
   "stage": "external exposure",
   "substage": "compound characteristics",

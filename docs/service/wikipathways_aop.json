@@ -1,7 +1,7 @@
 {
   "id": "wikipathways_aop",
   "service": "WikiPathways - AOP Portal",
-  "description": "An Adverse Outcome Pathway (AOP) portal for WikiPathways to highlight the molecular basis of AOPs or events in AOPs.",
+  "description": "An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecular basis of AOPs and their key events (KEs).",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000102",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "wikipathways_aop.png",

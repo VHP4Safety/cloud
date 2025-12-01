@@ -1,7 +1,7 @@
 {
   "id": "llemy",
   "service": "Llemy",
-  "description": "A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources.",
+  "description": "An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "prototype",
   "url": "",

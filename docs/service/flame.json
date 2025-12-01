@@ -1,7 +1,7 @@
 {
   "id": "flame",
   "service": "Flame",
-  "description": "An open source framework to develop, host, and use machine-learning models, such as QSAR-like models, in production environments.",
+  "description": "An open source web application for building predictive models from biologically annotated chemical structures using predefined workflows.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000149",
   "substage":"",
   "url": "https://phi.upf.edu/phi/index.php/software/flame/",

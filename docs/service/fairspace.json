@@ -1,7 +1,7 @@
 {
   "id": "fairspace",
   "service": "Fairspace",
-  "description": "An open source data management platform that allows importing and exporting metadata using Resource Description Framework (RDF)",
+  "description": "An open source RDF-based data management platform for importing and exporting research-relevant metadata",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000049",
   "screenshot": "fairspace.png",

@@ -1,8 +1,7 @@
 {
   "id": "comptox",
   "service": "CompTox",
-  "description": "An online database to provide access to chemistry, toxicity, and exposure information for chemicals.",
-  "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+  "description": "An online database for searching chemical, toxicity and exposure information.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000148",
   "screenshot": "comptox.png",
   "url": "https://comptox.epa.gov/dashboard/",

@@ -1,7 +1,7 @@
 {
   "id": "oppbk_model",
   "service": "OP PBK Model",
-  "description": "Physiologically based pharmacokinetic model for organophosphates",
+  "description": "An online physiologically based pharmacokinetic model for organophosphates",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000056",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000061",
   "screenshot": "oppbk_model.png",

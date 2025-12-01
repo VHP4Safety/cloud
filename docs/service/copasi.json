@@ -1,7 +1,7 @@
 {
   "id": "copasi",
   "service": "COPASI",
-  "description": "An open-source software application to create and solve mathematical models of biological processes such as metabolic networks, cell-signaling pathways, regulatory networks, infectious diseases, and many others.",
+  "description": "An open-source software for simulating, analyzing and visualizing biochemical networks using a wide range of methods.",
   "screenshot": "copasi.png",
   "url": "http://copasi.org/",
   "provider": {

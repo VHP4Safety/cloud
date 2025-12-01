@@ -1,7 +1,7 @@
 {
   "id": "qsprpred",
   "service": "QSPRpred",
-  "description": "This tool is intended for hazard assessment of novel chemicals. A user can give their chemical of interest and predict its activity on various endpoints. This prediction is done by target-specific QSAR models that have been created within the VHP4Safety consortium. Each of the models is specific for an endpoint related to a molecular initiation event from an adverse outcome pathway. This makes the models relevant for hazard assessment. To see how such models can be applied in a risk assessment context, go to the case studies on the platform (https://platform.vhp4safety.nl/casestudies).",
+  "description": "An online tool for chemical activity prediction for various endpoints using target-specific and pretrained QSAR models.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000102", 
   "substage":"",
   "screenshot": "qsprpred.png",

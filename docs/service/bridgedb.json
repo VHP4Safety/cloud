@@ -1,7 +1,7 @@
 {
   "id": "bridgedb",
   "service": "BridgeDb",
-  "description": "A framework to map identifiers between various biological databases and related sources.",
+  "description": "A framework for mapping identifiers across biological databases and related sources.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000149",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000047",
   "screenshot": "bridgedb.png",
