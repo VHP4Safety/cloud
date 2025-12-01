@@ -193,11 +193,9 @@ A Synia-based graphical user interface to the content of the VHP4Safety Wikibase
 
 ------------------------
 
-![LLMapperino logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/llmapperino.png)
+## Llemy
 
-## LLMapperino
-
-A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources. [[more information](service/llmapperino.md)]
+A multi-agent question-answering tool that combines structured pathway knowledge from user-selected MINERVA projects with live web research (Perplexity) and synthesizes evidence using an LLM. It targets specialized questions in lipid metabolism and related tox/biology by grounding answers in curated MINERVA maps and corroborating sources. [[more information](service/llemy.md)]
 
 ------------------------
 
@@ -265,7 +263,7 @@ An interactive tool offering an overview and dynamic time‐course predictions o
 
 ## QSPRpred
 
-This tool allows users to predict the activity of their chemicals of interest for various endpoints. This prediction is done by target-specific, pretrained QSAR models. These models are specific for endpoints related to molecular initiation events from the VHP4Safety case studies. [[more information](service/qsprpred.md)]
+This tool is intended for hazard assessment of novel chemicals. A user can give their chemical of interest and predict its activity on various endpoints. This prediction is done by target-specific QSAR models that have been created within the VHP4Safety consortium. Each of the models is specific for an endpoint related to a molecular initiation event from an adverse outcome pathway. This makes the models relevant for hazard assessment. To see how such models can be applied in a risk assessment context, go to the case studies on the platform (https://platform.vhp4safety.nl/casestudies). [[more information](service/qsprpred.md)]
 
 ------------------------
 

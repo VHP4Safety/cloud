@@ -4,16 +4,16 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'docs/service/*.json'
-      - '.github/service_template.md'
-      - '.github/workflows/generate-service-docs.yml'
+    #  - 'docs/service/*.json'
+    #  - '.github/service_template.md'
+    #  - '.github/workflows/generate-service-docs.yml'
   pull_request:
     branches:
-      - main
+    #  - main
     paths:
-      - 'docs/service/*.json'
-      - '.github/service_template.md'
-      - '.github/workflows/generate-service-docs.yml'
+    #  - 'docs/service/*.json'
+    #  - '.github/service_template.md'
+    #  - '.github/workflows/generate-service-docs.yml'
 jobs:
   generate-docs:
     runs-on: ubuntu-latest
