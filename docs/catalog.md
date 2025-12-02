@@ -267,6 +267,12 @@ An online tool for chemical activity prediction for various endpoints using targ
 
 ------------------------
 
+## R-ODAF Shiny
+
+An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq differential expression analysis for regulatory toxicology applications. [[more information](service/r_odaf.md)]
+
+------------------------
+
 ## SOM Prediction
 
 A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism. [[more information](service/sombie.md)]
