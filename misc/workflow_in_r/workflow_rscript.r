@@ -446,7 +446,7 @@ for (i in 1:length(service_metadata)) {
   
   # Bio.tools
   if (!is.null(service_metadata[[i]][["ELIXIR"]][["biotools"]])) {
-    system(paste0("echo \"* Bio.tools: [", service_metadata[[i]][["ELIXIR"]][["biotools"]], "](", service_metadata[[i]][["ELIXIR"]][["biotools"]], ")\" >> ", target))
+    system(paste0("echo \"* Bio.tools: [", service_metadata[[i]][["ELIXIR"]][["biotools"]], "](https://bio.tools/", service_metadata[[i]][["ELIXIR"]][["biotools"]], ")\" >> ", target))
   } else {
     system(paste0("echo \"* Bio.tools: Not available\" >> ", target))
   }
