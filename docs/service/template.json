@@ -153,18 +153,24 @@
 
   "_ins_regulatory-question": "Whether the service is relevant to any of the regulatory questions (https://docs.vhp4safety.nl/en/latest/introduction/case_studies_and_regulatory_questions.html). Answer either 'true' or 'false'",
   "regulatory-question": {
+    "_cs_1": "Kidney case study",
+    
     "_ins_1a": "1a: What is a safe dose for cisplatin/tacrolimus in patients with respect to chronic kidney disease?",
     "1a": "",
 
     "_ins_1b": "1b: How can we take into account variability in activity/expression of P-gp in patients that underwent a transplantation?",
     "1b": "",
 
+    "_cs_2": "Parkinson case study",
+    
     "_ins_2a": "2a: Can compound X cause Parkinson’s Disease?",
     "2a": "",
 
     "_ins_2b": "2b: Can we identify groups at extra risk to develop Parkinson’s Disease after exposure to compound X?",
     "2b": "",
 
+    "_cs_3": "Thyroid Hormone Case Study",
+    
     "_ins_3a": "3a: What information about a substance do we need to give an advice to women in their early pregnancy to decide whether the substance can be used?",
     "3a": "",
 
