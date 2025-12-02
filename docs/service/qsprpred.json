@@ -22,6 +22,10 @@
     },
     "name": "Department of Medicinal Chemistry,Leiden University"
   },
+  "intro": {
+    "title": "QSPRpred App: Predicting Molecular Initiating Event Activation based on chemical structure",
+    "url": "https://github.com/VHP4Safety/vhp4safety-docs/blob/main/tutorials/qsprpred_app/qsprpred_tutorial.md"
+  },
   "access": {
     "API": "",
     "login": "No"
