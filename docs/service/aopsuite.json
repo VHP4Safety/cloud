@@ -4,23 +4,16 @@
   "description": "A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway (AOP) networks.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000023",
-  "url": "",
   "screenshot": "aopsuite.png",
-  "doi": "",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
     "url": "https://aopsuite.cloud.vhp4safety.nl/",
     "source": "https://github.com/VHP4Safety/aop-app",
-    "docker": ""
   },
   "intro": {
     "title": "AOP Network Tool introduction",
     "url": "https://docs.vhp4safety.nl/en/latest/tutorials/aopsuite/aopsuite.html"
-  },
-  "workflow": {
-    "title": "",
-    "url": ""
   },
   "provider": {
     "contact": {
@@ -33,10 +26,6 @@
   "access": {
     "API": "REST API, Flask",
     "login": "No"
-  },
-  "ELIXIR": {
-    "biotools": "",
-     "tess": ""
   },
   "regulatory-question": {
     "1a": "false",

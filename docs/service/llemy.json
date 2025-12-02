@@ -4,8 +4,6 @@
   "description": "An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "prototype",
-  "url": "",
-  "doi": "",
   "release_notes": "2025-09-02: Pilot instance; added disclaimer & license surfacing; streamlined login/API-key flow.",
   "instance": {
     "type": "pilot",

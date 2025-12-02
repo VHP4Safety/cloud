@@ -5,20 +5,15 @@
   "description": "A collection of ontology with names, abrreviations and definitions of the terminology that is used within the VHP4Safety project.",
   "stage": "Other",
   "substage": "Other",
-  "screenshot": "",
   "url": "https://glossary.vhp4safety.nl/",
-  "doi": "",
+  "doi": "10.14573/altex.2407211",
   "release_notes": "https://github.com/VHP4Safety/glossary/commits/main/",
 
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
-    "url": "",
     "license": "CC-BY 4.0 International",
-    "version": "",
     "source": "https://github.com/VHP4Safety/glossary",
-    "docker": "",
-    "TRL": ""
   },
   "provider": {
     "contact": {
@@ -29,40 +24,7 @@
     "url": "https://www.maastrichtuniversity.nl/research/translational-genomics"
   },
   "access": {
-    "API": "",
-    "login": "no",
-    "packages": {
-      "R": "",
-      "Python": ""
-    }
-  },
-  "intro": {
-    "title": "",
-    "url": ""
-  },
-  "demo": {
-    "title": "",
-    "url": ""
-  },
-  "workflow": {
-    "title": "",
-    "url": ""
-  },
-  "ELIXIR": {
-    "biotools": "",
-    "tess": "",
-    "fairsharing": ""
-  },
-  "Other": {
-    "wikipedia": "",
-    "rsd": ""
-  },
-"NAM-validation": {
-    "NAM-stage-1": "",
-    "NAM-stage-2": "",
-    "NAM-stage-3": "",
-    "NAM-stage-4": "",
-    "NAM-stage-5": ""
+    "login": "no"
   },
   "VHP-persona": {
     "persona-1": "true",
