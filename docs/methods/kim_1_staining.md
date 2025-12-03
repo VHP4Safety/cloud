@@ -24,4 +24,4 @@ KIM-1 staining is an immunofluorescent staining of kidney injury molecule 1, an 
 
 ---
 
-*Generated from issue #147 on 2025-09-29*
+*Generated from issue #147 on 2025-12-03*

@@ -22,4 +22,4 @@ Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus
 
 ---
 
-*Generated from issue #148 on 2025-09-29*
+*Generated from issue #148 on 2025-12-03*

@@ -38,4 +38,4 @@ Fluorescence-based determination of cell membrane damage
 
 ---
 
-*Generated from issue #170 on 2025-09-29*
+*Generated from issue #170 on 2025-12-03*

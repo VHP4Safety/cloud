@@ -24,4 +24,4 @@ Intracellular measurements are determined in cell lysates using LCMS, normalized
 
 ---
 
-*Generated from issue #146 on 2025-09-29*
+*Generated from issue #146 on 2025-12-03*

@@ -22,4 +22,4 @@ immunofluorescent detection of collagen - 1
 
 ---
 
-*Generated from issue #142 on 2025-09-29*
+*Generated from issue #142 on 2025-12-03*

@@ -20,4 +20,4 @@ Fluorescent - based detection of lysosomes
 
 ---
 
-*Generated from issue #145 on 2025-09-29*
+*Generated from issue #145 on 2025-12-03*
