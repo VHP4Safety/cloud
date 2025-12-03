@@ -65,7 +65,7 @@ A framework for mapping identifiers across biological databases and related sour
 
 ## Technical Tool Specifications
 
-* Provider: [Dept. of Bioinformatics - BiGCaT, NUTRIM, Maastricht University]()
+* Provider: [Department of Translational Genomics, Maastricht University]()
 
 * Citation: [10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)
 

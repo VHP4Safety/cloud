@@ -65,7 +65,7 @@ A graphical interface for creating, preloading and exporting SPARQL queries tail
 
 ## Technical Tool Specifications
 
-* Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
+* Provider: [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: [10.1089/aivt.2021.0010](https://doi.org/10.1089/aivt.2021.0010)
 

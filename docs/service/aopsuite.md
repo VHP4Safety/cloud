@@ -65,7 +65,7 @@ A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway
 
 ## Technical Tool Specifications
 
-* Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
+* Provider: [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: Not available
 

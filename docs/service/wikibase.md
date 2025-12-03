@@ -65,7 +65,7 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 
 ## Technical Tool Specifications
 
-* Provider: [BiGCaT UM]()
+* Provider: [Department of Translational Genomics, Maastricht University]()
 
 * Citation: [10.5281/zenodo.13864849](https://doi.org/10.5281/zenodo.13864849)
 

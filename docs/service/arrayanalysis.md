@@ -65,7 +65,7 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 
 ## Technical Tool Specifications
 
-* Provider: [BiGCaT, Maastricht University](https://www.bigcat.unimaas.nl/)
+* Provider: [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: [10.1093/nar/gkt293](https://doi.org/10.1093/nar/gkt293)
 

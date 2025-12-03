@@ -65,7 +65,7 @@ A REST API for creating and accessing content in the AOP-Wiki database.
 
 ## Technical Tool Specifications
 
-* Provider: [Department of Bioinformatics (BiGCaT), Maastricht University](https://www.maastrichtuniversity.nl/research/bioinformatics)
+* Provider: [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: Not available
 
