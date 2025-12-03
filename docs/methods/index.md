@@ -12,9 +12,21 @@ This catalog contains experimental methods and protocols used in VHP4Safety rese
 
 ### AOP Methods
 
+#### Alamar Blue assay for detection of mitochondrial activity
+
+Fluorescence-based detection of mitochondrial metabolic activity (Vendor: Invitrogen) [[more information](alamar_blue_assay_for_detection_of_mitochondrial_activity.md)]
+
 #### CellROX  Green Reagent for oxidative stress detection
 
 ROS detection by fluorescent probe (Vendor: ThermoFisher Scientific) [[more information](cellrox__green_reagent_for_oxidative_stress_detection.md)]
+
+#### CellTiter-Glo® 2.0 assay for detection of cellular ATP content
+
+Luminescence-based detection of cellular ATP content (Vendor: Promega) [[more information](celltiter_glo_20_assay_for_detection_of_cellular_atp_content.md)]
+
+#### H2DCFDA-AM assay for detection of oxidative stress production
+
+Fluorescence-based detection of reactive oxygen species production (Vendor: Invitrogen) [[more information](h2dcfda_am_assay_for_detection_of_oxidative_stress_production.md)]
 
 #### immunofluorescent detection of collagen - 1
 
@@ -32,18 +44,6 @@ mitochondrial membrane potential assay (Vendor: Thermofisher) [[more information
 
 Fluorescent-based assay to label mitochondria (Vendor: ThermoFisher Scientific) [[more information](mitotracker_deep_red_fm_assay.md)]
 
-#### Unknown Method
-
-Luminescence-based detection of cellular ATP content (Vendor: Promega) [[more information](celltiter_glo_20_assay_for_detection_of_cellular_atp_content.md)]
-
-#### Unknown Method
-
-Fluorescence-based detection of reactive oxygen species production (Vendor: Invitrogen) [[more information](h2dcfda_am_assay_for_detection_of_oxidative_stress_production.md)]
-
-#### Unknown Method
-
-Fluorescence-based detection of mitochondrial metabolic activity (Vendor: Invitrogen) [[more information](alamar_blue_assay_for_detection_of_mitochondrial_activity.md)]
-
 ### AOP, Adverse Outcome Methods
 
 #### Cytotoxicity Detection KitPLUS (LDH)
@@ -52,21 +52,21 @@ Fluorescence-based detection of LDH (Vendor: Merck) [[more information](cytotoxi
 
 ### Adverse Outcome Methods
 
+#### 5-CFDA assay to determine cytotoxicity
+
+Fluorescence-based determination of cell membrane damage (Vendor: Invitrogen) [[more information](5_cfda_assay_to_determine_cytotoxicity.md)]
+
 #### Cell Titer Fluor
 
 A Non-Lytic Fluorescence Assay That Measures the Relative Number of Viable Cells in Culture (Vendor: Promega) [[more information](cell_titer_fluor.md)]
 
+#### LDH activity assay to determine cell death
+
+Colorimetric determination of lactate dehydrogenase (LDH) activity (Vendor: Roche) [[more information](ldh_activity_assay_to_determine_cell_death.md)]
+
 #### LysoTracker Green DND-26
 
 Fluorescent - based detection of lysosomes (Vendor: Thermofisher) [[more information](lysotracker_green_dnd_26.md)]
-
-#### Unknown Method
-
-Fluorescence-based determination of cell membrane damage (Vendor: Invitrogen) [[more information](5_cfda_assay_to_determine_cytotoxicity.md)]
-
-#### Unknown Method
-
-Colorimetric determination of lactate dehydrogenase (LDH) activity (Vendor: Roche) [[more information](ldh_activity_assay_to_determine_cell_death.md)]
 
 ### Kinetics Methods
 
