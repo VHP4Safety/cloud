@@ -5,6 +5,7 @@
   "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "aopsuite.png",
+  "url": "",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
