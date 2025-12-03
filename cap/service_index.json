@@ -16,6 +16,23 @@
     "reg_q_3a": "false",
     "reg_q_3b": "false"
   },
+  "aopsuite": {
+    "id": "aopsuite",
+    "service": "AOP-Suite",
+    "description": "A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway (AOP) networks.",
+    "html_name": "aopsuite.html",
+    "md_file_name": "aopsuite.md",
+    "png_file_name": "aopsuite.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "no_url",
+    "inst_url": "https://aopsuite.cloud.vhp4safety.nl/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
+  },
   "aopwikiapi": {
     "id": "aopwikiapi",
     "service": "AOP-Wiki API",
@@ -644,6 +661,23 @@
     "reg_q_2b": "false",
     "reg_q_3a": "false",
     "reg_q_3b": "false"
+  },
+  "vhp_glossary": {
+    "id": "vhp_glossary",
+    "service": "VHP4Safety Glossary",
+    "description": "A collection of ontology with names, abrreviations and definitions of the terminology that is used within the VHP4Safety project.",
+    "html_name": "vhp_glossary.html",
+    "md_file_name": "vhp_glossary.md",
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "Other",
+    "main_url": "https://glossary.vhp4safety.nl/",
+    "inst_url": "no_url",
+    "reg_q_1a": "true",
+    "reg_q_1b": "true",
+    "reg_q_2a": "true",
+    "reg_q_2b": "true",
+    "reg_q_3a": "true",
+    "reg_q_3b": "true"
   },
   "wikibase": {
     "id": "wikibase",
