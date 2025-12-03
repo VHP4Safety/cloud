@@ -24,7 +24,7 @@ google	Google Search	https://google.com/	NA
 gscholar	Google Scholar	https://scholar.google.com/	NA
 jrc_data_catalogue	Joint Research Centre Data Catalogue	https://data.jrc.ec.europa.eu/	NA
 kb	VHP4Safety Wikibase User Interface	NA	https://kb.cloud.vhp4safety.nl/
-llemy	Llemy		https://llemy.vhp4safety.nl/
+llemy	Llemy	NA	https://llemy.vhp4safety.nl/
 mct8-dock	MCT8 Docking for MIE Discovery	https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing	
 molaopanalyser	MolAOP analyser	https://molaop-analyser.vhp4safety.nl/	https://molaop-analyser.vhp4safety.nl/
 oecd_qsar_toolbox	The OECD QSAR Toolbox	https://qsartoolbox.org/	
@@ -39,7 +39,7 @@ sombie	SOM Prediction	https://sombie.cloud.vhp4safety.nl/	https://sombie.cloud.v
 sysrev	SysRev	https://sysrev.com/	NA
 toxtemp_assistant	ToxTempAssistant	https://toxtempassistant.vhp4safety.nl/	https://toxtempassistant.vhp4safety.nl/
 txg_mapr	TXG-MAPr	https://txg-mapr.eu/	NA
-vhp_glossary	VHP4Safety Glossary	https://glossary.vhp4safety.nl/	
+vhp_glossary	VHP4Safety Glossary	https://glossary.vhp4safety.nl/	NA
 wikibase	VHP4Safety Wikibase	https://compoundcloud.wikibase.cloud/	NA
 wikipathways_aop	WikiPathways - AOP Portal	https://aop.wikipathways.org/	
 xploreaop	xploreaop	https://xploreaop.cloud.vhp4safety.nl/	https://xploreaop.cloud.vhp4safety.nl/
