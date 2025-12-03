@@ -30,11 +30,12 @@
     "API": "",
     "login": "No"
   },
-  "doi": "10.1186/s13321-024-00908-y",
+  "_ins_doi": "Also add doi of source code 10.1186/s13321-024-00908-y",
+  "doi": "10.26434/chemrxiv-2025-jr9v7",
   "regulatory-question": {
     "1a": "false",
     "1b": "false",
-    "2a": "false",
+    "2a": "true",
     "2b": "false",
     "3a": "false",
     "3b": "true"
