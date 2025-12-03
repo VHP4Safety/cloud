@@ -29,7 +29,7 @@
     "method_name_content": "",
     "data_producer_content": "Julia Meerman",
     "method_description_content": "Fluorescence-based detection of mitochondrial metabolic activity",
-    "type_content": "No response",
+    "type_content": "http://www.bioassayontology.org/bao#BAO_0100002",
     "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
     "relevant_aop_wiki_key_event(s)_to_the_assay_content": "KE177, KE1547",
     "relevant_aop_wiki_adverse_outcome_pathway(s)_to_the_assay_content": "AOP464",
