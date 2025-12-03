@@ -27,8 +27,8 @@
       "name": "Marvin Martens",
       "email": "marvin.martens@maastrichtuniversity.nl"
     },
-    "url": "https://www.maastrichtuniversity.nl/research/bioinformatics",
-    "name": "Department of Bioinformatics (BiGCaT), Maastricht University"
+    "url": "https://www.maastrichtuniversity.nl/research/translational-genomics",
+    "name": "Department of Translational Genomics, Maastricht University"
   },
   "access": {
     "API": "SPARQL endpoint",
