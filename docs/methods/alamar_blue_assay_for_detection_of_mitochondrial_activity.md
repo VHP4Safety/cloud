@@ -38,7 +38,7 @@ Fluorescence-based detection of mitochondrial metabolic activity
 
 **Available Sop Or Protocol:** No response
 
-**Ontology Term:** No response
+**Ontology Term:** [http://www.bioassayontology.org/bao#BAO_0100002](http://www.bioassayontology.org/bao#BAO_0100002)
 
 ---
 
