@@ -16,7 +16,7 @@ Technology used for measuring RNA using PCR
 
 ## Citation
 
-https://doi.org/10.1016/j.mam.2005.12.007
+10.1016/j.mam.2005.12.007
 
 ## Additional Information
 
