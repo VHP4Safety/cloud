@@ -8,11 +8,11 @@ No screenshot available.
 
 ## Documentation
 
-* Service Introduction: []()
+* Service Introduction: To be added
 
-* Workflow: []()
+* Workflow: To be added
 
-* Demo: []()
+* Demo: To be added
 
 <h4 id='tess-widget-materials-header'></h4>
 
@@ -67,7 +67,7 @@ No screenshot available.
 
 * Provider: [The Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
-* Citation: Not available
+* Citation: [10.14573/altex.2407211](https://doi.org/10.14573/altex.2407211)
 
 * Version: Not available
 

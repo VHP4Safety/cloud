@@ -67,7 +67,7 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 
 * Provider: [Maastricht University](https://www.maastrichtuniversity.nl/)
 
-* Citation: Not available
+* Citation: [10.1016/j.toxlet.2025.07.214](https://doi.org/10.1016/j.toxlet.2025.07.214)
 
 * Version: 0.9
 

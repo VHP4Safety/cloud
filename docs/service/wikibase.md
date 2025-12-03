@@ -67,7 +67,7 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 
 * Provider: [BiGCaT UM]()
 
-* Citation: Not available
+* Citation: [10.5281/zenodo.13864849](https://doi.org/10.5281/zenodo.13864849)
 
 * Version: Not available
 

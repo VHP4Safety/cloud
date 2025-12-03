@@ -67,7 +67,7 @@ An online tool for chemical activity prediction for various endpoints using targ
 
 * Provider: [Department of Medicinal Chemistry,Leiden University]()
 
-* Citation: [https://doi.org/10.1186/s13321-024-00908-y](https://doi.org/https://doi.org/10.1186/s13321-024-00908-y)
+* Citation: [10.1186/s13321-024-00908-y](https://doi.org/10.1186/s13321-024-00908-y)
 
 * Version: Not available
 

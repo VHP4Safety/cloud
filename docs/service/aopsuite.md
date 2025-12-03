@@ -10,7 +10,7 @@ A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway
 
 * Service Introduction: [AOP Network Tool introduction](https://docs.vhp4safety.nl/en/latest/tutorials/aopsuite/aopsuite.html)
 
-* Workflow: []()
+* Workflow: To be added
 
 * Demo: To be added
 
