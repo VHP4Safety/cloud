@@ -1,0 +1,39 @@
+{
+  "id": "cdk",
+  "service": "The Chemistry Development Kit",
+  "description": "A Java library for chem- and bioinformatics, with functionality to read/write chemical structures, calculate molecular descriptors, physicochemical properties, substructure and similarity searching, and much more.",
+  "url": "http://cdk.github.io/",
+  "doi": "10.1186/s13321-017-0220-4",
+  "provider": {
+    "contact": {
+      "name": "Egon Willighagen",
+      "email": "egon.willighagen@maastrichtuniversity.nl"
+    }
+  },
+  "access": {
+    "packages": {
+      "R": "https://cran.r-project.org/web/packages/rcdk/",
+      "Python": "https://github.com/sebotic/cdk_pywrapper"
+    }
+  },
+  "intro": {
+    "title": "Groovy Cheminformatics with the Chemistry Development Kit",
+    "url": "https://cdk.github.io/cdkbook/"
+  },
+  "ELIXIR": {
+    "biotools": "cdk",
+    "tess": "chemistry development kit"
+  },
+  "Other": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chemistry_Development_Kit",
+    "rsd": "https://research-software-directory.org/software/cdk"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
+  }
+}
