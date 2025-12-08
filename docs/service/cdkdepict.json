@@ -19,7 +19,8 @@
   },
   "provider": {
     "contact": {
-      "name": "Egon Willighagen"
+      "name": "Egon Willighagen",
+      "email": "egon.willighagen@maastrichtuniversity.nl"
     },
     "name": "simolecule"
   },
