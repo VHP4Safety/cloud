@@ -28,6 +28,9 @@
     "API": "REST API, Flask",
     "login": "No"
   },
+  "ELIXIR": {
+    "tess": "AOP Suite"
+  },
   "regulatory-question": {
     "1a": "false",
     "1b": "false",

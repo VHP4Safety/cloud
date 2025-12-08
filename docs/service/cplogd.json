@@ -27,6 +27,9 @@
     "url": "https://arosbio.com/index.html",
     "name": "ArosBio"
   },
+  "ELIXIR": {
+    "tess": "cpLogD"
+  },
   "regulatory-question": {
     "1a": "false",
     "1b": "false",
