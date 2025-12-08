@@ -53,7 +53,7 @@ A webservice for generating chemical structure images from SMILES inputs.
 
 * Type: internal
 
-* Contact: Egon Willighagen ()
+* Contact: Egon Willighagen (egon.willighagen@maastrichtuniversity.nl)
 
 * API Type: REST
 
