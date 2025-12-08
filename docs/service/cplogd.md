@@ -81,7 +81,7 @@ No screenshot available.
 
 * FAIRsharing: Not available
 
-* TeSS: Not available
+* TeSS: [cpLogD](cpLogD)
 
 * RSD: Not available
 

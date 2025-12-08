@@ -81,7 +81,7 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 * FAIRsharing: Not available
 
-* TeSS: Not available
+* TeSS: [O-QT Assistant](O-QT Assistant)
 
 * RSD: Not available
 

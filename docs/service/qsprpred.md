@@ -81,7 +81,7 @@ An online tool for chemical activity prediction for various endpoints using targ
 
 * FAIRsharing: Not available
 
-* TeSS: Not available
+* TeSS: [QSPRpred](QSPRpred)
 
 * RSD: Not available
 

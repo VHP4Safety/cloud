@@ -81,7 +81,7 @@ No screenshot available.
 
 * FAIRsharing: Not available
 
-* TeSS: Not available
+* TeSS: [R-ODAF](R-ODAF)
 
 * RSD: Not available
 
