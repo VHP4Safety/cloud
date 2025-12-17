@@ -11,33 +11,19 @@
     "url": "https://llemy.vhp4safety.nl/",
     "license": "Apache-2.0",
     "version": "0.1.0",
-    "source": "https://github.com/senseibelbi/LLMapperino",
-    "docker": "https://github.com/senseibelbi/LLMapperino/blob/main/Dockerfile",
     "TRL": "TRL4"
   },
   "provider": {
     "contact": {
-      "name": "Ivo Djidrovski",
-      "email": "i.djidrovski@uu.nl"
+      "name": "Marie Corradi",
+      "email": "marie.corradi@hu.nl"
     },
-    "name": "Utrecht University / VHP4Safety (pilot)",
-    "url": "https://www.uu.nl/"
-  },
-  "access": {
-    "API": "",
-    "login": "Email i.djidrovski@uu.nl for an app API key or provide your own OpenAI and Perplexity API keys in the UI."
-  },
-  "intro": {
-    "title": "Llemy README",
-    "url": "https://github.com/senseibelbi/LLMapperino#readme"
+    "name": "Hogeschool Utrecht",
+    "url": "https://www.hu.nl/"
   },
   "demo": {
     "title": "Hosted pilot",
     "url": "https://llemy.vhp4safety.nl/"
-  },
-  "workflow": {
-    "title": "3-Agent Workflow (MINERVA ↔ Perplexity ↔ Synthesis)",
-    "url": "https://github.com/senseibelbi/LLMapperino#overview"
   },
   "ELIXIR": {
     "biotools": "",
