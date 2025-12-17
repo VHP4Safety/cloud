@@ -8,9 +8,9 @@ No screenshot available.
 
 ## Documentation
 
-* Service Introduction: [Llemy README](https://github.com/senseibelbi/LLMapperino#readme)
+* Service Introduction: To be added
 
-* Workflow: [3-Agent Workflow (MINERVA ↔ Perplexity ↔ Synthesis)](https://github.com/senseibelbi/LLMapperino#overview)
+* Workflow: To be added
 
 * Demo: [Hosted pilot](https://llemy.vhp4safety.nl/)
 
@@ -47,13 +47,13 @@ No screenshot available.
 
 * Development Cloud: [https://llemy.vhp4safety.nl/](https://llemy.vhp4safety.nl/)
 
-* Login Required: Email i.djidrovski@uu.nl for an app API key or provide your own OpenAI and Perplexity API keys in the UI.
+* Login Required: Not available
 
 * TRL: TRL4
 
 * Type: pilot
 
-* Contact: Ivo Djidrovski (i.djidrovski@uu.nl)
+* Contact: Marie Corradi (marie.corradi@hu.nl)
 
 * API Type: Not available
 
@@ -65,7 +65,7 @@ No screenshot available.
 
 ## Technical Tool Specifications
 
-* Provider: [Utrecht University / VHP4Safety (pilot)](https://www.uu.nl/)
+* Provider: [Hogeschool Utrecht](https://www.hu.nl/)
 
 * Citation: Not available
 
@@ -73,9 +73,9 @@ No screenshot available.
 
 * License: Apache-2.0
 
-* Source Code: [https://github.com/senseibelbi/LLMapperino](https://github.com/senseibelbi/LLMapperino)
+* Source Code: Not available
 
-* Docker: [https://github.com/senseibelbi/LLMapperino/blob/main/Dockerfile](https://github.com/senseibelbi/LLMapperino/blob/main/Dockerfile)
+* Docker: Not available
 
 * Bio.tools: Not available
 
