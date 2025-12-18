@@ -67,7 +67,7 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 * Provider: [Utrecht University / VHP4Safety](https://www.uu.nl/)
 
-* Citation: Not available
+* Citation: [10.1016/j.comtox.2025.100395](https://doi.org/10.1016/j.comtox.2025.100395)
 
 * Version: 0.1.0
 
