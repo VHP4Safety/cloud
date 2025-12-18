@@ -7,7 +7,7 @@
   "substage": "prototype",
   "screenshot": "oqt_assistant.png",
   "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant",
-  "doi": "",
+  "doi": "10.1016/j.comtox.2025.100395",
   "release_notes": "2025-09-05: Initial registry entry. Clarified EULA constraints; added Docker usage note (assistant only).",
   "instance": {
     "type": "internal",
