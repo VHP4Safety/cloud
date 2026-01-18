@@ -4,7 +4,7 @@
 
 Maps for illustrating biological processes behind toxicological risks using a standardized graphical notation.
 
-![ONTOX Physiological Maps logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/https://lh3.googleusercontent.com/sitesv/AAzXCkc1M0sajxkVZByTPl0bptayrcKQhCDsOYqiHE_hnsyJlkTLXzmym7hPsU-LBBoQGh4d_KwYNazIzXOs_isMEavTgCDXm5GNLNDl3Jk0lyAF-JDgeQk-OJ3Ubya-_0bYhRWEJAG1JOKD1SSp0pJ6YZdoA6aWp_4nmHygnVTDEO4clOS1iHliDkhH0MdxdwOxA4Q6HlckBT4vhHJiddmJg5bmLpqMQe-DqAzU=w1280)
+No screenshot available.
 
 ## Documentation
 
