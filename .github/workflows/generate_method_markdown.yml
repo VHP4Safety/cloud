@@ -124,7 +124,12 @@ jobs:
                     
                     # Footer
                     f.write("---\n\n")
-                    f.write(f"*Generated from issue #{data.get('issue_number', 'unknown')} on {datetime.datetime.now().strftime('%Y-%m-%d')}*\n")
+                    f.write(f"*Generated from issue #{data.get('issue_number', 'unknown')} on {datetime.datetime.now().strftime('%Y-%m-%d')}*\n\n")
+                    
+                    # Ontology term enrichment script
+                    f.write('<script>\n')
+                    f.write('(async()=>{const e=encodeURIComponent,t=document.querySelectorAll(\'a[href^="http://purl"]\');for(const r of t){const t=r.previousElementSibling;if(t?.textContent?.includes("Ontology Term:")){const o=r.href;try{const t=await fetch(`https://www.ebi.ac.uk/ols4/api/terms/${e(e(o))}?lang=en`),n=await t.json(),a=n._embedded?.terms?.[0];a&&(r.textContent=a.short_form?`${a.label} (${a.short_form})`:a.label,r.href=a._links.self.href)}catch(e){}await new Promise((e=>setTimeout(e,100)))}}})();\n')
+                    f.write('</script>\n')
                 
                 print(f"Generated markdown: {md_file}")
                 
