@@ -41,5 +41,5 @@ Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus
 *Generated from issue #148*
 
 <script>
-(async()=>{const e=encodeURIComponent,t=document.querySelectorAll('a[href^="http://purl"]');for(const r of t){const t=r.previousElementSibling;if(t?.textContent?.includes("Ontology Term:")){const o=r.href;try{const t=await fetch(`https://www.ebi.ac.uk/ols4/api/terms/${e(e(o))}?lang=en`),n=await t.json(),a=n._embedded?.terms?.[0];a&&(r.textContent=a.short_form?`${a.label} (${a.short_form})`:a.label,r.href=a._links.self.href)}catch(e){}await new Promise((e=>setTimeout(e,100)))}}})();
+(async()=>{document.querySelectorAll('li').forEach(li=>{if(li.textContent.includes('Ontology Term:')&&li.textContent.includes('No response')){const a=li.querySelector('a');if(a){const span=document.createElement('span');span.textContent='No ontology annotation';a.replaceWith(span)}}});const e=encodeURIComponent,t=document.querySelectorAll('a[href^="http://purl"]');for(const r of t){const t=r.closest('li');if(t?.textContent?.includes("Ontology Term:")){const o=r.href;try{const t=await fetch(`https://www.ebi.ac.uk/ols4/api/terms/${e(e(o))}?lang=en`),n=await t.json(),a=n._embedded?.terms?.[0];a&&(r.textContent=a.short_form?`${a.label} (${a.short_form})`:a.label,r.href=a._links.self.href)}catch(e){}await new Promise((e=>setTimeout(e,100)))}}})();
 </script>
