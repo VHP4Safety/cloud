@@ -83,7 +83,7 @@ No screenshot available.
 
 * TeSS: [chemistry development kit](chemistry development kit)
 
-* RSD: [software/cdk](software/cdk)
+* RSD: [cdk](cdk)
 
 * Wikipedia: [https://en.wikipedia.org/wiki/Chemistry_Development_Kit](https://en.wikipedia.org/wiki/Chemistry_Development_Kit)
 
