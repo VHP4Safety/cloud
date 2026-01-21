@@ -83,7 +83,7 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 
 * TeSS: Not available
 
-* RSD: Not available
+* RSD: [toxtempassistant](toxtempassistant)
 
 * Wikipedia: Not available
 
