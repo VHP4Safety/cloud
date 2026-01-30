@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- Sitemap created on 2025-12-03 09:19:35.572726. -->
+<!-- Sitemap created on 2026-01-30 14:11:06.646097. -->
 
 <!-- parsing file: docs/service/aop-builder.json -->
 <url>
@@ -60,6 +60,12 @@
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
+<!-- parsing file: docs/service/cdk.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/cdk.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
 <!-- parsing file: docs/service/cdkdepict.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/cdkdepict.html</loc>
@@ -90,6 +96,12 @@
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
+<!-- parsing file: docs/service/danish_qsar_database.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/danish_qsar_database.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
 <!-- parsing file: docs/service/decimer.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/decimer.html</loc>
@@ -105,6 +117,12 @@
 <!-- parsing file: docs/service/ema_documents.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/ema_documents.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!-- parsing file: docs/service/endocrine_disruptome.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/endocrine_disruptome.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
@@ -147,12 +165,6 @@
 <!-- parsing file: docs/service/jrc_data_catalogue.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/jrc_data_catalogue.html</loc>
-  <priority>1.00</priority>
-  <changefreq>weekly</changefreq>
-</url>
-<!-- parsing file: docs/service/kb.json -->
-<url>
-  <loc>https://cloud.vhp4safety.nl/service/kb.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>

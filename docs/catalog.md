@@ -77,6 +77,12 @@ A framework for mapping identifiers across biological databases and related sour
 
 ------------------------
 
+## The Chemistry Development Kit
+
+A Java library for chem- and bioinformatics, with functionality to read/write chemical structures, calculate molecular descriptors, physicochemical properties, substructure and similarity searching, and much more. [[more information](service/cdk.md)]
+
+------------------------
+
 ![CDK Depict logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdkdepict.png)
 
 ## CDK Depict
@@ -115,6 +121,14 @@ An online model for predicting water-octanol distribution coefficient (logD) of 
 
 ------------------------
 
+![Danish (Q)SAR Database logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+
+## Danish (Q)SAR Database
+
+A freely available (Q)SAR tool for substance evaluations that includes estimates for from more than 200 (Q)SARs covering a wide range of hazardous properties relevant for human health and the environment. [[more information](service/danish_qsar_database.md)]
+
+------------------------
+
 ![DECIMER logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/decimer.png)
 
 ## DECIMER
@@ -134,6 +148,14 @@ An online database from the NIH Office of Dietary Supplements that lets you expl
 ## European Medicines Agency Documents
 
 An online repository for inventarisation of official reports from the European Medicines Agency concerning chemical evaluation and safety monitoring. [[more information](service/ema_documents.md)]
+
+------------------------
+
+![Endocrine Disruptome logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
+
+## Endocrine Disruptome
+
+An open source, user friendly and web based prediction tool that uses molecular docking to predict binding of compounds to 14 different nuclear receptors. [[more information](service/endocrine_disruptome.md)]
 
 ------------------------
 
@@ -187,12 +209,6 @@ An in-house data inventory produced by the Joint Research Centre (JRC) for provi
 
 ------------------------
 
-## VHP4Safety Wikibase User Interface
-
-A Synia-based graphical user interface to the content of the VHP4Safety Wikibase. [[more information](service/kb.md)]
-
-------------------------
-
 ## Llemy
 
 An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries. [[more information](service/llemy.md)]
@@ -220,8 +236,6 @@ An online service for analyzing transcriptomic data in the context of molecular 
 A software for supporting chemical hazard assessment and enhancing mechanistic knowledge of substances in a cost-effective way. [[more information](service/oecd_qsar_toolbox.md)]
 
 ------------------------
-
-![ONTOX Physiological Maps logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/https://lh3.googleusercontent.com/sitesv/AAzXCkc1M0sajxkVZByTPl0bptayrcKQhCDsOYqiHE_hnsyJlkTLXzmym7hPsU-LBBoQGh4d_KwYNazIzXOs_isMEavTgCDXm5GNLNDl3Jk0lyAF-JDgeQk-OJ3Ubya-_0bYhRWEJAG1JOKD1SSp0pJ6YZdoA6aWp_4nmHygnVTDEO4clOS1iHliDkhH0MdxdwOxA4Q6HlckBT4vhHJiddmJg5bmLpqMQe-DqAzU=w1280)
 
 ## ONTOX Physiological Maps
 

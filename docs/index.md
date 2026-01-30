@@ -61,10 +61,6 @@ A framework for mapping identifiers across biological databases and related sour
 
 A webservice for generating chemical structure images from SMILES inputs. [[more information](service/cdkdepict.md)]
 
-#### VHP4Safety Wikibase User Interface
-
-A Synia-based graphical user interface to the content of the VHP4Safety Wikibase. [[more information](service/kb.md)]
-
 #### MolAOP analyser
 
 An online service for analyzing transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs), supporting data upload or demo datasets for gene selection, visualization and Key Event (KE) enrichment analysis. [[more information](service/molaopanalyser.md)]
@@ -137,6 +133,10 @@ An online database for searching chemical, toxicity and exposure information. [[
 
 An online model for predicting water-octanol distribution coefficient (logD) of chemical compounds with confidence estimates. [[more information](service/cplogd.md)]
 
+#### Danish (Q)SAR Database
+
+A freely available (Q)SAR tool for substance evaluations that includes estimates for from more than 200 (Q)SARs covering a wide range of hazardous properties relevant for human health and the environment. [[more information](service/danish_qsar_database.md)]
+
 #### DECIMER
 
 An online service for automatically extracting chemical structure depictiions from PDFs and images. [[more information](service/decimer.md)]
@@ -144,6 +144,10 @@ An online service for automatically extracting chemical structure depictiions fr
 #### NIH Dietary Supplement Label Database
 
 An online database from the NIH Office of Dietary Supplements that lets you explore information from more than 200,000 dietary supplement labels sold in the United States. [[more information](service/dsld.md)]
+
+#### Endocrine Disruptome
+
+An open source, user friendly and web based prediction tool that uses molecular docking to predict binding of compounds to 14 different nuclear receptors. [[more information](service/endocrine_disruptome.md)]
 
 #### Fairspace
 
