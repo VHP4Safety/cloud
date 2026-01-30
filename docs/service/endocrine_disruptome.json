@@ -1,0 +1,84 @@
+
+{
+  "id": "endocrine_disruptome",
+  "service": "Endocrine Disruptome",
+  "description": "An open source, user friendly and web based prediction tool that uses molecular docking to predict binding of compounds to 14 different nuclear receptors.",
+  "stage": "",
+  "substage": "",
+  "screenshot": "",
+  "url": "http://endocrinedisruptome.ki.si/",
+  "doi": "10.1021/ci400649p",
+  "release_notes": "",
+  "instance": {
+    "type": "external",
+    "vhp-platform": "",
+    "url": "",
+    "license": "BSD-3-Clause license",
+    "version": "",
+    "source": "https://github.com/katrakolsek/DoTS",
+    "docker": "",
+    "TRL": ""
+  },
+
+  "provider": {
+    "contact": {
+      "name": "Katra Kolšek",
+      "email": "katra.kolsek@ffa.uni-lj.si"
+    },
+
+    "name": " National Institute of Chemistry, Slovenia",
+    "url": "https://www.ki.si/en/"
+  },
+
+  "_ins_access": "Information regarding the remote use of the service.",
+  "access": {
+    "API": "",
+    "login": "",
+    "packages": {
+      "R": "",
+      "Python": ""
+    }
+  },
+  "intro": {
+    "title": "Tool's Frequently Asked Questions",
+    "url": "http://endocrinedisruptome.ki.si/FAQ.html"
+  },
+  "demo": {
+    "title": "",
+    "url": ""
+  },
+  "workflow": {
+    "title": "",
+    "url": ""
+  },
+  "ELIXIR": {
+    "biotools": "",
+    "tess": "",
+    "fairsharing": ""
+  },
+  "Other": {
+    "wikipedia": "",
+    "rsd": ""
+  },
+  "NAM-validation": {
+    "NAM-stage-1": "",
+    "NAM-stage-2": "",
+    "NAM-stage-3": "",
+    "NAM-stage-4": "",
+    "NAM-stage-5": ""
+  },
+
+  "VHP-persona": {
+    "persona-1": "",
+    "persona-2": "",
+    "persona-3": ""
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "true"
+  }
+}
