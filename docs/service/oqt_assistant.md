@@ -13,6 +13,8 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 * Service Introduction: [O’QT README (single source of truth)](https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant/blob/main/README.md) 
 
+* FAQ: [O-QT FAQ](https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant/blob/main/README.md#faq)
+
 * Workflow: [Agent Workflow (Context → Specialists → Read-Across → Synthesis)](https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant/blob/main/README.md#qsar-assistant-workflow) 
 
 * Demo: []() 
