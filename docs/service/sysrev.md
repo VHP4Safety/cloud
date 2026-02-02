@@ -5,7 +5,9 @@
 
 An online service for conduction of literature review, data extraction and systematic review.
 
-![SysRev logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/sysrev.png)
+
+**Main Webpage:** [https://sysrev.com/](https://sysrev.com/)
+
 
 ## Documentation
 

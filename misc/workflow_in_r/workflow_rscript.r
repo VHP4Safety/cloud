@@ -85,11 +85,14 @@ for(i in 1:length(json_files)) {
   
   # Adding the screenshot if it is available. 
   if (!is.null(service_metadata[[i]][["screenshot"]])) {
-    image_file <- service_metadata[[i]][["screenshot"]]
-    # system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", image_file, ") '", service_name, " logo'\" >> ", target))
-    system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", image_file, ")\" >> ", target))
-    system(paste0("echo \"\" >> ", target))
-  }
+    if(service_metadata[[i]][["screenshot"]] != "") {
+      image_file <- service_metadata[[i]][["screenshot"]]
+      # system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", image_file, ") '", service_name, " logo'\" >> ", target))
+      system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", image_file, ")\" >> ", target))
+      system(paste0("echo \"\" >> ", target))
+    }
+  } 
+  
   
   # Adding the title of the service.
   system(paste0("echo \"## ", service_name, "\" >> ", target))
@@ -213,7 +216,25 @@ for (i in 1:length(service_metadata)) {
   
   # The line below did not work as expected in the Markdown files.
   # system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", service_metadata[[i]][["id"]], ".png) '[", service_name, " logo]'\" >> ", target))
-  system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", service_metadata[[i]][["id"]], ".png)\" >> ", target))
+  if (!is.null(service_metadata[[i]][["screenshot"]])) {
+    if(service_metadata[[i]][["screenshot"]] != "") {
+      system(paste0("echo \"![", service_name, " logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/", service_metadata[[i]][["id"]], ".png)\" >> ", target))
+    }
+  }
+  system(paste0("echo \"\" >> ", target))
+  
+  if (!is.null(service_metadata[[i]][["url"]])) {
+    if(service_metadata[[i]][["url"]] != "") {
+      system(paste0("echo \"**Main Webpage:** [", service_metadata[[i]][["url"]], "](", service_metadata[[i]][["url"]], ")\" >> ", target))
+    }
+  }
+  system(paste0("echo \"\" >> ", target))
+  
+  if (!is.null(service_metadata[[i]][["instance"]][["url"]])) {
+    if(service_metadata[[i]][["instance"]][["url"]] != "") {
+      system(paste0("echo \"**Tool Webpage:** [", service_metadata[[i]][["instance"]][["url"]], "](", service_metadata[[i]][["instance"]][["url"]], ")\" >> ", target))
+    }
+  }
   system(paste0("echo \"\" >> ", target))
   
   #### VHP4Safety Documentation
@@ -364,7 +385,7 @@ for (i in 1:length(service_metadata)) {
   # if (!is.null(service_metadata[[i]][["access"]][["API"]])) {
   #   system(paste0("echo \"* API Type: ", service_metadata[[i]][["access"]][["API"]], "\" >> ", target))
   # } else {
-    # system(paste0("echo \"* Categories: To be added\" >> ", target))
+  # system(paste0("echo \"* Categories: To be added\" >> ", target))
   # }
   # system(paste0("echo \"\" >> ", target))
   
@@ -411,7 +432,7 @@ for (i in 1:length(service_metadata)) {
     system(paste0("echo \"* Citation: Not available\" >> ", target))
   }
   system(paste0("echo \"\" >> ", target))
-
+  
   # Version
   if (!is.null(service_metadata[[i]][["instance"]][["version"]])) {
     system(paste0("echo \"* Version: ", service_metadata[[i]][["instance"]][["version"]], "\" >> ", target))
@@ -419,7 +440,7 @@ for (i in 1:length(service_metadata)) {
     system(paste0("echo \"* Version: Not available\" >> ", target))
   }
   system(paste0("echo \"\" >> ", target))
-    
+  
   # License
   if (!is.null(service_metadata[[i]][["instance"]][["license"]])) {
     system(paste0("echo \"* License: ", service_metadata[[i]][["instance"]][["license"]], "\" >> ", target))

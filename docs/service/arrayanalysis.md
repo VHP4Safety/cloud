@@ -7,6 +7,10 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 
 ![ArrayAnalysis logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/arrayanalysis.png)
 
+**Main Webpage:** [https://arrayanalysis.org/](https://arrayanalysis.org/)
+
+**Tool Webpage:** [https://arrayanalysis.vhp4safety.nl/](https://arrayanalysis.vhp4safety.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

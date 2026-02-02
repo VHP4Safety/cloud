@@ -5,7 +5,9 @@
 
 A freely available (Q)SAR tool for substance evaluations that includes estimates for from more than 200 (Q)SARs covering a wide range of hazardous properties relevant for human health and the environment.
 
-![Danish (Q)SAR Database logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/danish_qsar_database.png)
+
+**Main Webpage:** [https://qsar.food.dtu.dk/](https://qsar.food.dtu.dk/)
+
 
 ## Documentation
 

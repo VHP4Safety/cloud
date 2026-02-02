@@ -5,7 +5,9 @@
 
 Online search engine for Google.
 
-![Google Search logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/google.png)
+
+**Main Webpage:** [https://google.com/](https://google.com/)
+
 
 ## Documentation
 

@@ -7,6 +7,9 @@ An online service for parsing chemical IUPAC names into a machine-readable chemi
 
 ![OPSIN: Open Parser for Systematic IUPAC nomenclature logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/opsin.png)
 
+**Main Webpage:** [https://www.ebi.ac.uk/opsin/](https://www.ebi.ac.uk/opsin/)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

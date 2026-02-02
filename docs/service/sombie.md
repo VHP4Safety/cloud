@@ -5,7 +5,10 @@
 
 A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism.
 
-![SOM Prediction logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/sombie.png)
+
+**Main Webpage:** [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)
+
+**Tool Webpage:** [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)
 
 ## Documentation
 

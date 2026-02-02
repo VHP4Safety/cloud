@@ -61,8 +61,6 @@ A software tool for predicting metabolites from SMILES-formatted chemical inputs
 
 ------------------------
 
-![BMDExpress-3 logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
-
 ## BMDExpress-3
 
 A software tool for high-dimensional dose-response modeling and analysis. [[more information](service/bmdexpress_3.md)]
@@ -121,8 +119,6 @@ An online model for predicting water-octanol distribution coefficient (logD) of 
 
 ------------------------
 
-![Danish (Q)SAR Database logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
-
 ## Danish (Q)SAR Database
 
 A freely available (Q)SAR tool for substance evaluations that includes estimates for from more than 200 (Q)SARs covering a wide range of hazardous properties relevant for human health and the environment. [[more information](service/danish_qsar_database.md)]
@@ -150,8 +146,6 @@ An online database from the NIH Office of Dietary Supplements that lets you expl
 An online repository for inventarisation of official reports from the European Medicines Agency concerning chemical evaluation and safety monitoring. [[more information](service/ema_documents.md)]
 
 ------------------------
-
-![Endocrine Disruptome logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
 
 ## Endocrine Disruptome
 
@@ -220,8 +214,6 @@ An online tool for answering questions about lipid metabolism and related toxico
 A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation. [[more information](service/mct8-dock.md)]
 
 ------------------------
-
-![MolAOP analyser logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/)
 
 ## MolAOP analyser
 

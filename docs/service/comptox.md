@@ -7,6 +7,9 @@ An online database for searching chemical, toxicity and exposure information.
 
 ![CompTox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/comptox.png)
 
+**Main Webpage:** [https://comptox.epa.gov/dashboard/](https://comptox.epa.gov/dashboard/)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

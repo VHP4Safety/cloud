@@ -7,6 +7,10 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 ![O-QT — OECD QSAR Toolbox AI Assistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oqt_assistant.png)
 
+**Main Webpage:** [https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant](https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant)
+
+**Tool Webpage:** [https://o-qt-oecd.vhp4safety.nl/](https://o-qt-oecd.vhp4safety.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

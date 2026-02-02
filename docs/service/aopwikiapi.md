@@ -7,6 +7,10 @@ A REST API for creating and accessing content in the AOP-Wiki database.
 
 ![AOP-Wiki API logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwikiapi.png)
 
+**Main Webpage:** [https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries)
+
+**Tool Webpage:** [https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries)
+
 ## Documentation
 
 #### VHP4Safety Documentation

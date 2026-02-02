@@ -5,7 +5,9 @@
 
 A Java library for chem- and bioinformatics, with functionality to read/write chemical structures, calculate molecular descriptors, physicochemical properties, substructure and similarity searching, and much more.
 
-![The Chemistry Development Kit logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdk.png)
+
+**Main Webpage:** [http://cdk.github.io/](http://cdk.github.io/)
+
 
 ## Documentation
 

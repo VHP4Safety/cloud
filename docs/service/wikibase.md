@@ -7,6 +7,9 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 
 ![VHP4Safety Wikibase logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/wikibase.png)
 
+**Main Webpage:** [https://compoundcloud.wikibase.cloud/](https://compoundcloud.wikibase.cloud/)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

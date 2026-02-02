@@ -7,6 +7,9 @@ An online service for automatically extracting chemical structure depictiions fr
 
 ![DECIMER logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/decimer.png)
 
+**Main Webpage:** [https://decimer.ai/](https://decimer.ai/)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

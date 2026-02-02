@@ -5,7 +5,10 @@
 
 A web application for visualization of Adverse Outcome Pathway (AOP) networks and interactive exploration of AOPs for two liver outcomes.
 
-![xploreaop logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/xploreaop.png)
+
+**Main Webpage:** [https://xploreaop.cloud.vhp4safety.nl/](https://xploreaop.cloud.vhp4safety.nl/)
+
+**Tool Webpage:** [https://xploreaop.cloud.vhp4safety.nl/](https://xploreaop.cloud.vhp4safety.nl/)
 
 ## Documentation
 

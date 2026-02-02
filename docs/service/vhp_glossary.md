@@ -5,7 +5,9 @@
 
 A collection of ontology with names, abrreviations and definitions of the terminology that is used within the VHP4Safety project.
 
-![VHP4Safety Glossary logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/vhp_glossary.png)
+
+**Main Webpage:** [https://glossary.vhp4safety.nl/](https://glossary.vhp4safety.nl/)
+
 
 ## Documentation
 

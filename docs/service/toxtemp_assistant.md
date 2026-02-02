@@ -7,6 +7,10 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 
 ![ToxTempAssistant logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/toxtemp_assistant.png)
 
+**Main Webpage:** [https://toxtempassistant.vhp4safety.nl/](https://toxtempassistant.vhp4safety.nl/)
+
+**Tool Webpage:** [https://toxtempassistant.vhp4safety.nl/](https://toxtempassistant.vhp4safety.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

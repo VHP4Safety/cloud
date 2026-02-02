@@ -5,7 +5,10 @@
 
 An open source web application for building predictive models from biologically annotated chemical structures using predefined workflows.
 
-![Flame logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/flame.png)
+
+**Main Webpage:** [https://phi.upf.edu/phi/index.php/software/flame/](https://phi.upf.edu/phi/index.php/software/flame/)
+
+**Tool Webpage:** [http://flame.cloud.vhp4safety.nl:8098/](http://flame.cloud.vhp4safety.nl:8098/)
 
 ## Documentation
 

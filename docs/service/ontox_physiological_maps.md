@@ -5,7 +5,9 @@
 
 Maps for illustrating biological processes behind toxicological risks using a standardized graphical notation.
 
-![ONTOX Physiological Maps logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ontox_physiological_maps.png)
+
+**Main Webpage:** [https://sites.google.com/view/ontox-maps/home](https://sites.google.com/view/ontox-maps/home)
+
 
 ## Documentation
 

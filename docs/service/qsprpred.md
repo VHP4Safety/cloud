@@ -7,6 +7,10 @@ An online tool for chemical activity prediction for various endpoints using targ
 
 ![QSPRpred logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/qsprpred.png)
 
+**Main Webpage:** [https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/)
+
+**Tool Webpage:** [https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

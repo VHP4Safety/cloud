@@ -5,7 +5,9 @@
 
 An online search engine for (scientific) literature.
 
-![Google Scholar logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/gscholar.png)
+
+**Main Webpage:** [https://scholar.google.com/](https://scholar.google.com/)
+
 
 ## Documentation
 

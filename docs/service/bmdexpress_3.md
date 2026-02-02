@@ -5,7 +5,9 @@
 
 A software tool for high-dimensional dose-response modeling and analysis.
 
-![BMDExpress-3 logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bmdexpress_3.png)
+
+**Main Webpage:** [https://github.com/auerbachs/BMDExpress-3](https://github.com/auerbachs/BMDExpress-3)
+
 
 ## Documentation
 

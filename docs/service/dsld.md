@@ -5,7 +5,9 @@
 
 An online database from the NIH Office of Dietary Supplements that lets you explore information from more than 200,000 dietary supplement labels sold in the United States.
 
-![NIH Dietary Supplement Label Database logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/dsld.png)
+
+**Main Webpage:** [https://dsld.od.nih.gov/](https://dsld.od.nih.gov/)
+
 
 ## Documentation
 

@@ -5,7 +5,10 @@
 
 An online model for predicting water-octanol distribution coefficient (logD) of chemical compounds with confidence estimates.
 
-![cpLogD logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cplogd.png)
+
+**Main Webpage:** [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/)
+
+**Tool Webpage:** [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/)
 
 ## Documentation
 

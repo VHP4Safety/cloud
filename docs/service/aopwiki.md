@@ -7,6 +7,10 @@ A graphical interface for creating, preloading and exporting SPARQL queries tail
 
 ![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png)
 
+**Main Webpage:** [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/)
+
+**Tool Webpage:** [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

@@ -7,6 +7,10 @@ A framework for mapping identifiers across biological databases and related sour
 
 ![BridgeDb logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/bridgedb.png)
 
+**Main Webpage:** [https://www.bridgedb.org/](https://www.bridgedb.org/)
+
+**Tool Webpage:** [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

@@ -7,6 +7,10 @@ A webservice for generating chemical structure images from SMILES inputs.
 
 ![CDK Depict logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/cdkdepict.png)
 
+**Main Webpage:** [https://www.simolecule.com/cdkdepict/depict.html](https://www.simolecule.com/cdkdepict/depict.html)
+
+**Tool Webpage:** [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation
