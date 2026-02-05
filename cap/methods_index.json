@@ -45,7 +45,7 @@
   },
   "cell_titer_fluor": {
     "id": "cell_titer_fluor",
-    "method": "[METHOD]: Cell Titer Fluor",
+    "method": "Cell Titer Fluor",
     "issue_number": 136,
     "sop": "",
     "method_name_content": "Cell Titer Fluor",
