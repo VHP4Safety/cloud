@@ -17,13 +17,23 @@
   },
 
   "provider": {
-    "contact": {
+  "contact": {
+    "name": "VHP4Safety Support",
+    "email": "vhp4safety@uu.nl"
+  },
+  "additional_contacts": [
+    {
       "name": "Saad Lodhi",
       "email": "saad.lodhi@maastrichtuniversity.nl"
     },
-    "name": "Maastricht University",
-    "url": "https://www.maastrichtuniversity.nl"
-  },
+    {
+      "name": "Danyel Jennen",
+      "email": "danyel.jennen@maastrichtuniversity.nl"
+    }
+  ],
+  "name": "Maastricht University",
+  "url": "https://www.maastrichtuniversity.nl"
+},
   "access": {
     "API": "",
     "login": "",
@@ -81,6 +91,7 @@
     "3b": "false"
   }
 }
+
 
 
 
