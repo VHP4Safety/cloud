@@ -221,7 +221,7 @@ An online service for analyzing transcriptomic data in the context of molecular 
 
 ------------------------
 
-![Molecular AOP Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ke-wp-mapping.png)
+![Molecular AOP Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/molaopbuilder.png)
 
 ## Molecular AOP Builder
 
