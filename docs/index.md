@@ -139,7 +139,7 @@ An online model for predicting water-octanol distribution coefficient (logD) of 
 
 #### Danish (Q)SAR Database
 
-A freely available (Q)SAR tool for substance evaluations that includes estimates for from more than 200 (Q)SARs covering a wide range of hazardous properties relevant for human health and the environment. [[more information](service/danish_qsar_database.md)]
+A freely available (Q)SAR tool for substance evaluations that includes estimates from more than 200 (Q)SARs covering a wide range of hazardous properties relevant for human health and the environment. [[more information](service/danish_qsar_database.md)]
 
 #### DECIMER
 
