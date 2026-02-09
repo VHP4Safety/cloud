@@ -67,7 +67,7 @@
   },
   "cellrox__green_reagent_for_oxidative_stress_detection": {
     "id": "cellrox__green_reagent_for_oxidative_stress_detection",
-    "method": "[METHOD]: CellROX  Green Reagent for oxidative stress detection",
+    "method": "CellROX  Green Reagent for oxidative stress detection",
     "issue_number": 139,
     "sop": "",
     "method_name_content": "CellROX  Green Reagent for oxidative stress detection",
@@ -155,7 +155,7 @@
   },
   "immunofluorescent_detection_of_collagen___1": {
     "id": "immunofluorescent_detection_of_collagen___1",
-    "method": "[METHOD]: Collagen I Polyclonal Antibody",
+    "method": "Collagen I Polyclonal Antibody",
     "issue_number": 142,
     "sop": "",
     "method_name_content": "immunofluorescent detection of collagen - 1",
@@ -177,7 +177,7 @@
   },
   "intracellular_measurements": {
     "id": "intracellular_measurements",
-    "method": "[METHOD]: Intracellular measurements",
+    "method": "Intracellular measurements",
     "issue_number": 146,
     "sop": "",
     "method_name_content": "Intracellular measurements",
@@ -199,7 +199,7 @@
   },
   "kim_1_staining": {
     "id": "kim_1_staining",
-    "method": "[METHOD]: KIM-1 staining",
+    "method": "KIM-1 staining",
     "issue_number": 147,
     "sop": "",
     "method_name_content": "KIM-1 staining",
@@ -243,7 +243,7 @@
   },
   "lysotracker_green_dnd_26": {
     "id": "lysotracker_green_dnd_26",
-    "method": "[METHOD]: LysoTracker Green DND-26",
+    "method": "LysoTracker Green DND-26",
     "issue_number": 145,
     "sop": "",
     "method_name_content": "LysoTracker Green DND-26",
@@ -287,7 +287,7 @@
   },
   "mitoprobe_jc_1_assay_kit": {
     "id": "mitoprobe_jc_1_assay_kit",
-    "method": "[METHOD]: MitoProbe\u2122 JC-1 Assay Kit",
+    "method": "MitoProbe\u2122 JC-1 Assay Kit",
     "issue_number": 138,
     "sop": "",
     "method_name_content": "MitoProbe\u2122 JC-1 Assay Kit",
@@ -309,7 +309,7 @@
   },
   "mitotracker_deep_red_fm_assay": {
     "id": "mitotracker_deep_red_fm_assay",
-    "method": "[METHOD]: MitoTracker Deep Red FM",
+    "method": "MitoTracker Deep Red FM",
     "issue_number": 140,
     "sop": "",
     "method_name_content": "MitoTracker Deep Red FM assay",
@@ -331,7 +331,7 @@
   },
   "p_gp_staining": {
     "id": "p_gp_staining",
-    "method": "[METHOD]: P-gp Staining",
+    "method": "P-gp Staining",
     "issue_number": 148,
     "sop": "",
     "method_name_content": "P-gp Staining",
@@ -353,7 +353,7 @@
   },
   "real_time_polymerase_chain_reaction": {
     "id": "real_time_polymerase_chain_reaction",
-    "method": "[METHOD]: RT-qPCR",
+    "method": "RT-qPCR",
     "issue_number": 141,
     "sop": "",
     "method_name_content": "Real-time polymerase chain reaction",
@@ -375,7 +375,7 @@
   },
   "rna_sequencing": {
     "id": "rna_sequencing",
-    "method": "[METHOD]: RNA-sequencing",
+    "method": "RNA-sequencing",
     "issue_number": 143,
     "sop": "",
     "method_name_content": "RNA-sequencing",
