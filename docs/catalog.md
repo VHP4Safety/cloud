@@ -225,7 +225,7 @@ An online service for analyzing transcriptomic data in the context of molecular 
 
 ## Molecular AOP Builder
 
-A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings. [[more information](service/ke-wp-mapping.md)]
+A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings. [[more information](service/molaopbuilder.md)]
 
 ------------------------
 
