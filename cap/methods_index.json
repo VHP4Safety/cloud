@@ -67,7 +67,7 @@
   },
   "cellrox__green_reagent_for_oxidative_stress_detection": {
     "id": "cellrox__green_reagent_for_oxidative_stress_detection",
-    "method": "[METHOD]: CellROX  Green Reagent for oxidative stress detection",
+    "method": "CellROX  Green Reagent for oxidative stress detection",
     "issue_number": 139,
     "sop": "",
     "method_name_content": "CellROX  Green Reagent for oxidative stress detection",
