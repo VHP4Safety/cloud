@@ -240,7 +240,7 @@
   "danish_qsar_database": {
     "id": "danish_qsar_database",
     "service": "Danish (Q)SAR Database",
-    "description": "A freely available (Q)SAR tool for substance evaluations that includes estimates for from more than 200 (Q)SARs covering a wide range of hazardous properties relevant for human health and the environment.",
+    "description": "A freely available (Q)SAR tool for substance evaluations that includes estimates from more than 200 (Q)SARs covering a wide range of hazardous properties relevant for human health and the environment.",
     "html_name": "danish_qsar_database.html",
     "md_file_name": "danish_qsar_database.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
