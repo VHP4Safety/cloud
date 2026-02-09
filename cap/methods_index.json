@@ -155,7 +155,7 @@
   },
   "immunofluorescent_detection_of_collagen___1": {
     "id": "immunofluorescent_detection_of_collagen___1",
-    "method": "[METHOD]: Collagen I Polyclonal Antibody",
+    "method": "Collagen I Polyclonal Antibody",
     "issue_number": 142,
     "sop": "",
     "method_name_content": "immunofluorescent detection of collagen - 1",
