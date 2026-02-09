@@ -475,6 +475,23 @@
     "reg_q_3a": "",
     "reg_q_3b": ""
   },
+  "ke-wp-mapping": {
+    "id": "ke-wp-mapping",
+    "service": "Molecular AOP Builder",
+    "description": "A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings.",
+    "html_name": "molaopbuilder.html",
+    "md_file_name": "molaopbuilder.md",
+    "png_file_name": "ke-wp-mapping.png",
+    "stage": "Unknown",
+    "main_url": "https://github.com/marvinm2/KE-WP-mapping",
+    "inst_url": "molaop-builder.vhp4safety.nl",
+    "reg_q_1a": "",
+    "reg_q_1b": "",
+    "reg_q_2a": "",
+    "reg_q_2b": "",
+    "reg_q_3a": "",
+    "reg_q_3b": ""
+  },
   "dsld": {
     "id": "dsld",
     "service": "NIH Dietary Supplement Label Database",
