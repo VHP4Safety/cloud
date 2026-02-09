@@ -1,6 +1,6 @@
 {
   "id": "intracellular_measurements",
-  "method": "[METHOD]: Intracellular measurements",
+  "method": "Intracellular measurements",
   "issue_number": 146,
   "name_of_the_method_content": "Intracellular measurements",
   "method_description_content": "Intracellular measurements are determined in cell lysates using LCMS, normalized by protein expression that has been measured by 2D Quant",

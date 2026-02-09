@@ -1,6 +1,6 @@
 {
   "id": "rna_sequencing",
-  "method": "[METHOD]: RNA-sequencing",
+  "method": "RNA-sequencing",
   "issue_number": 143,
   "name_of_the_method_content": "RNA-sequencing",
   "method_description_content": "next-generation sequencing technique used to quantify and identify RNA molecules in a biological sample",

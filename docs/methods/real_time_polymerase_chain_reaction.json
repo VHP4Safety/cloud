@@ -1,6 +1,6 @@
 {
   "id": "real_time_polymerase_chain_reaction",
-  "method": "[METHOD]: RT-qPCR",
+  "method": "RT-qPCR",
   "issue_number": 141,
   "name_of_the_method_content": "Real-time polymerase chain reaction",
   "method_description_content": "Technology used for measuring RNA using PCR",
