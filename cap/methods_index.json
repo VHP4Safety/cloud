@@ -111,7 +111,7 @@
   },
   "cytotoxicity_detection_kitplusldh": {
     "id": "cytotoxicity_detection_kitplusldh",
-    "method": "[METHOD]: Cytotoxicity Detection KitPLUS\u00a0(LDH)",
+    "method": "Cytotoxicity Detection KitPLUS\u00a0(LDH)",
     "issue_number": 144,
     "sop": "",
     "method_name_content": "Cytotoxicity Detection KitPLUS\u00a0(LDH)",
