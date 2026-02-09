@@ -4,7 +4,7 @@
 
 A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings.
 
-![Molecular AOP Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ke-wp-mapping.png)
+![Molecular AOP Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/molaopbuilder.png)
 
 ## Documentation
 
