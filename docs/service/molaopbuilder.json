@@ -6,7 +6,7 @@
 
 
   "_ins_id": "An id for the JSON file, needs to be the same name as this JSON file.",
-  "id": "ke-wp-mapping",
+  "id": "molaopbuilder",
 
   "_ins_service": "// The (stylized) name of the service which will be shown as the name of the service in the catalog.",
   "service": "Molecular AOP Builder",
@@ -41,7 +41,7 @@
     "vhp-platform": "development",
 
     "_ins_url": "URL to the service instance running on our servers.",
-    "url": "molaop-builder.vhp4safety.nl",
+    "url": "https://molaop-builder.vhp4safety.nl/",
 
     "license": "GPL-2.0",
     "version": "2.3.0",
