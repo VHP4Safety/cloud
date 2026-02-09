@@ -481,7 +481,7 @@
     "description": "A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings.",
     "html_name": "molaopbuilder.html",
     "md_file_name": "molaopbuilder.md",
-    "png_file_name": "ke-wp-mapping.png",
+    "png_file_name": "molaopbuilder.png",
     "stage": "Unknown",
     "main_url": "https://github.com/marvinm2/KE-WP-mapping",
     "inst_url": "molaop-builder.vhp4safety.nl",
