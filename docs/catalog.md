@@ -221,6 +221,14 @@ An online service for analyzing transcriptomic data in the context of molecular 
 
 ------------------------
 
+![Molecular AOP Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/ke-wp-mapping.png)
+
+## Molecular AOP Builder
+
+A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings. [[more information](service/ke-wp-mapping.md)]
+
+------------------------
+
 ![The OECD QSAR Toolbox logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/oecd_qsar_toolbox.png)
 
 ## The OECD QSAR Toolbox

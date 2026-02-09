@@ -65,6 +65,10 @@ A webservice for generating chemical structure images from SMILES inputs. [[more
 
 An online service for analyzing transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs), supporting data upload or demo datasets for gene selection, visualization and Key Event (KE) enrichment analysis. [[more information](service/molaopanalyser.md)]
 
+#### Molecular AOP Builder
+
+A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings. [[more information](service/ke-wp-mapping.md)]
+
 #### OP PBK Model
 
 An online physiologically based pharmacokinetic model for organophosphates [[more information](service/oppbk_model.md)]

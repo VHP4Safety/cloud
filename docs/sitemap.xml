@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- Sitemap created on 2026-02-09 09:01:44.105357. -->
+<!-- Sitemap created on 2026-02-09 09:51:37.112609. -->
 
 <!-- parsing file: docs/service/aop-builder.json -->
 <url>
@@ -183,6 +183,12 @@
 <!-- parsing file: docs/service/molaopanalyser.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/molaopanalyser.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!-- parsing file: docs/service/molaopbuilder.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/ke-wp-mapping.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>
