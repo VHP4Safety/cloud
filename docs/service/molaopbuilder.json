@@ -21,7 +21,7 @@
   "substage": "",
 
   "_ins_screenshot": "The name of the file for the service logo, needs to be the same name as the service id but with a different extension.",
-  "screenshot": "ke-wp-mapping.png",
+  "screenshot": "molaopbuilder.png",
 
   "_ins_url": "The original URL to the service.",
   "url": "https://github.com/marvinm2/KE-WP-mapping",
