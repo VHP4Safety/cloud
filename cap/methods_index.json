@@ -177,7 +177,7 @@
   },
   "intracellular_measurements": {
     "id": "intracellular_measurements",
-    "method": "[METHOD]: Intracellular measurements",
+    "method": "Intracellular measurements",
     "issue_number": 146,
     "sop": "",
     "method_name_content": "Intracellular measurements",
