@@ -53,7 +53,7 @@ No screenshot available.
 
 * Type: internal
 
-* Contact: Saad Lodhi (saad.lodhi@maastrichtuniversity.nl)
+* Contact: VHP4Safety Support (vhp4safety@uu.nl)
 
 * API Type: Not available
 
