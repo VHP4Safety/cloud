@@ -1,6 +1,6 @@
 {
   "id": "mitotracker_deep_red_fm_assay",
-  "method": "[METHOD]: MitoTracker Deep Red FM",
+  "method": "MitoTracker Deep Red FM",
   "issue_number": 140,
   "name_of_the_method_content": "MitoTracker Deep Red FM assay",
   "method_description_content": "Fluorescent-based assay to label mitochondria",
