@@ -409,13 +409,14 @@ for (i in 1:length(service_metadata)) {
   }
   system(paste0("echo \"\" >> ", target))
   
+  # Contact and provider information have been moved to up -- 10.02.2026
   # Contact
-  if (!is.null(service_metadata[[i]][["provider"]][["contact"]][["name"]]) & !is.null(service_metadata[[i]][["provider"]][["contact"]][["email"]])) {
-    system(paste0("echo \"* Contact: ", service_metadata[[i]][["provider"]][["contact"]][["name"]], " (", service_metadata[[i]][["provider"]][["contact"]][["email"]], ")\" >> ", target))
-  } else {
-    system(paste0("echo \"* Contact: Not available\" >> ", target))
-  }
-  system(paste0("echo \"\" >> ", target))
+  # if (!is.null(service_metadata[[i]][["provider"]][["contact"]][["name"]]) & !is.null(service_metadata[[i]][["provider"]][["contact"]][["email"]])) {
+  #   system(paste0("echo \"* Contact: ", service_metadata[[i]][["provider"]][["contact"]][["name"]], " (", service_metadata[[i]][["provider"]][["contact"]][["email"]], ")\" >> ", target))
+  # } else {
+  #   system(paste0("echo \"* Contact: Not available\" >> ", target))
+  # }
+  # system(paste0("echo \"\" >> ", target))
   
   # API Type
   if (!is.null(service_metadata[[i]][["access"]][["API"]])) {
@@ -461,13 +462,14 @@ for (i in 1:length(service_metadata)) {
   system(paste0("echo \"## Technical Tool Specifications\" >> ", target))
   system(paste0("echo \"\" >> ", target))
   
+  # Contact and provider information have been moved to up -- 10.02.2026
   # Provider
-  if (!is.null(service_metadata[[i]][["provider"]][["name"]]) & !is.null(service_metadata[[i]][["provider"]][["url"]])) {
-    system(paste0("echo \"* Provider: [", service_metadata[[i]][["provider"]][["name"]], "](", service_metadata[[i]][["provider"]][["url"]], ")\" >> ", target))
-  } else {
-    system(paste0("echo \"* Provider: Not available\" >> ", target))
-  }
-  system(paste0("echo \"\" >> ", target))
+  # if (!is.null(service_metadata[[i]][["provider"]][["name"]]) & !is.null(service_metadata[[i]][["provider"]][["url"]])) {
+  #   system(paste0("echo \"* Provider: [", service_metadata[[i]][["provider"]][["name"]], "](", service_metadata[[i]][["provider"]][["url"]], ")\" >> ", target))
+  # } else {
+  #   system(paste0("echo \"* Provider: Not available\" >> ", target))
+  # }
+  # system(paste0("echo \"\" >> ", target))
   
   # Citation
   if (!is.null(service_metadata[[i]][["doi"]])) {
