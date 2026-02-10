@@ -17,10 +17,11 @@
   },
   "provider": {
     "contact": {
-      "name": "Linde Schoenmaker",
-      "email": "l.schoenmaker@lacdr.leidenuniv.nl"
+      "name": "Gerard van Westen;Linde Schoenmaker",
+      "email": "gerard@gjpvanwesten.nl;l.schoenmaker@lacdr.leidenuniv.nl"
     },
-    "name": "Department of Medicinal Chemistry,Leiden University"
+    "name": "Department of Medicinal Chemistry, Leiden University",
+    "url": "https://www.universiteitleiden.nl/en/science/drug-research/medicinal-chemistry"
   },
   "intro": {
     "title": "QSPRpred App: Predicting Molecular Initiating Event Activation based on chemical structure",
