@@ -10,6 +10,11 @@ An online service for parsing chemical IUPAC names into a machine-readable chemi
 **Main Webpage:** [https://www.ebi.ac.uk/opsin/](https://www.ebi.ac.uk/opsin/)
 
 
+## Contact
+
+**Contact Person(s):** Daniel Lowe
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

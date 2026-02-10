@@ -10,6 +10,11 @@ A software tool for predicting metabolites from SMILES-formatted chemical inputs
 **Main Webpage:** [https://biotransformer.ca/](https://biotransformer.ca/)
 
 
+## Contact
+
+**Contact Person(s):** biomodels-net-support@lists.sf.net
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

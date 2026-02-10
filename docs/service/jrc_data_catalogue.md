@@ -10,6 +10,12 @@ An in-house data inventory produced by the Joint Research Centre (JRC) for provi
 **Main Webpage:** [https://data.jrc.ec.europa.eu/](https://data.jrc.ec.europa.eu/)
 
 
+## Contact
+
+**Contact Person(s):** jrc-data-support@ec.europa.eu
+
+**Provider Institute:** [European Commission](https://commission.europa.eu/about-european-commission/contact_en)
+
 ## Documentation
 
 #### VHP4Safety Documentation

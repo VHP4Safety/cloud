@@ -9,6 +9,11 @@ An online service for conduction of literature review, data extraction and syste
 **Main Webpage:** [https://sysrev.com/](https://sysrev.com/)
 
 
+## Contact
+
+**Contact Person(s):** Insilica.co (info@insilica.co)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

@@ -10,6 +10,12 @@ An online model for predicting water-octanol distribution coefficient (logD) of 
 
 **Tool Webpage:** [https://cplogd.cloud.vhp4safety.nl/](https://cplogd.cloud.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Ola Spjuth ()
+
+**Provider Institute:** [ArosBio](https://arosbio.com/index.html)
+
 ## Documentation
 
 #### VHP4Safety Documentation

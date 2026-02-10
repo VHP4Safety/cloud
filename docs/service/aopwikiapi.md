@@ -11,6 +11,12 @@ A REST API for creating and accessing content in the AOP-Wiki database.
 
 **Tool Webpage:** [https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries)
 
+## Contact
+
+**Contact Person(s):** Marvin Martens (marvin.martens@maastrichtuniversity.nl)
+
+**Provider Institute:** [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
+
 ## Documentation
 
 #### VHP4Safety Documentation

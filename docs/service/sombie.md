@@ -10,6 +10,11 @@ A webservice for prediction of protein-structure and reactivity based (P450) sit
 
 **Tool Webpage:** [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** David Poole (d.a.poole@vu.nl)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

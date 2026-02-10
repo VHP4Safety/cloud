@@ -10,6 +10,12 @@ An online service for automatically extracting chemical structure depictiions fr
 **Main Webpage:** [https://decimer.ai/](https://decimer.ai/)
 
 
+## Contact
+
+**Contact Person(s):** Kohulan Rajan (kohulan.rajan@uni-jena.de)
+
+**Provider Institute:** [Steinbeck Group at the Friedrich Schiller University Jena](https://cheminf.uni-jena.de/research/deep-learning/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

@@ -10,6 +10,12 @@ A Dutch online resource for gathering data on the pharmacology, adverse effects,
 **Main Webpage:** [https://www.farmacotherapeutischkompas.nl/](https://www.farmacotherapeutischkompas.nl/)
 
 
+## Contact
+
+**Contact Person(s):** The Hyve (office@thehyve.nl)
+
+**Provider Institute:** [Zorginstituut Nederland](https://www.farmacotherapeutischkompas.nl/algemeen/contact)
+
 ## Documentation
 
 #### VHP4Safety Documentation

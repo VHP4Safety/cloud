@@ -10,6 +10,12 @@ An intuitive user interface for creating gene-regulatory and biochemical network
 **Main Webpage:** [https://www.celldesigner.org/](https://www.celldesigner.org/)
 
 
+## Contact
+
+**Contact Person(s):** Systems Biology Institute (SBI) (info@celldesigner.org)
+
+**Provider Institute:** [Systems Biology Institute (SBI)](https://sbi.jp/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

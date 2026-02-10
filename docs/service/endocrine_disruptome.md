@@ -9,6 +9,12 @@ An open source, user friendly and web based prediction tool that uses molecular 
 **Main Webpage:** [http://endocrinedisruptome.ki.si/](http://endocrinedisruptome.ki.si/)
 
 
+## Contact
+
+**Contact Person(s):** Katra Kolšek (katra.kolsek@ffa.uni-lj.si)
+
+**Provider Institute:** [ National Institute of Chemistry, Slovenia](https://www.ki.si/en/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

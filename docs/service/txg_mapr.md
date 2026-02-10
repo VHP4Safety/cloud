@@ -10,6 +10,12 @@ An online application for implementation of weighted gene co-expression network 
 **Main Webpage:** [https://txg-mapr.eu/](https://txg-mapr.eu/)
 
 
+## Contact
+
+**Contact Person(s):** Steven J. Kunnen (s.j.kunnen@lacdr.leidenuniv.nl)
+
+**Provider Institute:** Leiden University
+
 ## Documentation
 
 #### VHP4Safety Documentation

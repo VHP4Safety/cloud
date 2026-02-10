@@ -11,6 +11,12 @@ An online tool for chemical activity prediction for various endpoints using targ
 
 **Tool Webpage:** [https://qsprpred.cloud.vhp4safety.nl/](https://qsprpred.cloud.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Linde Schoenmaker (l.schoenmaker@lacdr.leidenuniv.nl)
+
+**Provider Institute:** Department of Medicinal Chemistry,Leiden University
+
 ## Documentation
 
 #### VHP4Safety Documentation

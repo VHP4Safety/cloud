@@ -9,6 +9,11 @@ A Java library for chem- and bioinformatics, with functionality to read/write ch
 **Main Webpage:** [http://cdk.github.io/](http://cdk.github.io/)
 
 
+## Contact
+
+**Contact Person(s):** Egon Willighagen (egon.willighagen@maastrichtuniversity.nl)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

@@ -10,6 +10,11 @@ A tool that supports Adverse Outcome Pathway (AOP) development by extracting key
 
 **Tool Webpage:** [https://crebuilder.vhp4safety.nl](https://crebuilder.vhp4safety.nl)
 
+## Contact
+
+**Contact Person(s):** Marc Teunis (marc.teunis@hu.nl)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

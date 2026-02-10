@@ -10,6 +10,12 @@ An online database for searching chemical, toxicity and exposure information.
 **Main Webpage:** [https://comptox.epa.gov/dashboard/](https://comptox.epa.gov/dashboard/)
 
 
+## Contact
+
+**Contact Person(s):** https://www.epa.gov/aboutepa/forms/contact-epa
+
+**Provider Institute:** [United States Environmental Protection Agency](https://www.epa.gov/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

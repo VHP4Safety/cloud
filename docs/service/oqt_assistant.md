@@ -11,6 +11,12 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 **Tool Webpage:** [https://o-qt-oecd.vhp4safety.nl/](https://o-qt-oecd.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Ivo Djidrovski (i.djidrovski@uu.nl)
+
+**Provider Institute:** [Utrecht University / VHP4Safety](https://www.uu.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

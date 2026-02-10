@@ -9,6 +9,12 @@ An online search engine for (scientific) literature.
 **Main Webpage:** [https://scholar.google.com/](https://scholar.google.com/)
 
 
+## Contact
+
+**Contact Person(s):** Manuel Pastor (manuel.pastor@upf.edu)
+
+**Provider Institute:** [Google](https://google.com/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

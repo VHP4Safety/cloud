@@ -9,6 +9,12 @@ A collection of ontology with names, abrreviations and definitions of the termin
 **Main Webpage:** [https://glossary.vhp4safety.nl/](https://glossary.vhp4safety.nl/)
 
 
+## Contact
+
+**Contact Person(s):** Ozan Cinar (ozan.cinar@maastrichtuniversity.nl)
+
+**Provider Institute:** [The Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
+
 ## Documentation
 
 #### VHP4Safety Documentation

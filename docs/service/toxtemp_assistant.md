@@ -11,6 +11,12 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 
 **Tool Webpage:** [https://toxtempassistant.vhp4safety.nl/](https://toxtempassistant.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Jente Houweling (jente.houweling@rivm.nl)
+
+**Provider Institute:** [Maastricht University](https://www.maastrichtuniversity.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

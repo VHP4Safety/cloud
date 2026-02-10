@@ -10,6 +10,12 @@ A software for supporting chemical hazard assessment and enhancing mechanistic k
 **Main Webpage:** [https://qsartoolbox.org/](https://qsartoolbox.org/)
 
 
+## Contact
+
+**Contact Person(s):** Marvin Martens (marvin.martens@maastrichtuniversity.nl)
+
+**Provider Institute:** [The Organisation for Economic Co-operation and Development](https://www.oecd.org/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

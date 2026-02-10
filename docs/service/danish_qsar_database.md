@@ -9,6 +9,12 @@ A freely available (Q)SAR tool for substance evaluations that includes estimates
 **Main Webpage:** [https://qsar.food.dtu.dk/](https://qsar.food.dtu.dk/)
 
 
+## Contact
+
+**Contact Person(s):** Technical University of Denmark (qsar@food.dtu.dk)
+
+**Provider Institute:** [Technical University of Denmark](https://www.dtu.dk/english/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

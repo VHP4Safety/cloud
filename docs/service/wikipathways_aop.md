@@ -10,6 +10,12 @@ An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecu
 **Main Webpage:** [https://aop.wikipathways.org/](https://aop.wikipathways.org/)
 
 
+## Contact
+
+**Contact Person(s):** Marvin Martens (marvin.martens@maastrichtuniversity.nl)
+
+**Provider Institute:** [Maastricht University]()
+
 ## Documentation
 
 #### VHP4Safety Documentation

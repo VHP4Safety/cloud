@@ -9,6 +9,12 @@ Online search engine for Google.
 **Main Webpage:** [https://google.com/](https://google.com/)
 
 
+## Contact
+
+**Contact Person(s):** Manuel Pastor (manuel.pastor@upf.edu)
+
+**Provider Institute:** [Google](https://google.com/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

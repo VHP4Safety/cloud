@@ -9,6 +9,12 @@ A Python-based notebook for identifying potential MCT8 inhibitors and related mo
 **Main Webpage:** [https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing](https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing)
 
 
+## Contact
+
+**Contact Person(s):** David Poole (d.a.poole@vu.nl)
+
+**Provider Institute:** David Poole
+
 ## Documentation
 
 #### VHP4Safety Documentation

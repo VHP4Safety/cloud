@@ -10,6 +10,12 @@ A web-accessible registry for managing, sharing and organising research data and
 **Main Webpage:** [https://fairdomhub.org/](https://fairdomhub.org/)
 
 
+## Contact
+
+**Contact Person(s):** FAIRDOM (community@fair-dom.org)
+
+**Provider Institute:** [FAIRDOM](https://fair-dom.org/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

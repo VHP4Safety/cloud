@@ -10,6 +10,12 @@ A web application for visualization of Adverse Outcome Pathway (AOP) networks an
 
 **Tool Webpage:** [https://xploreaop.cloud.vhp4safety.nl/](https://xploreaop.cloud.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Marc Teunis
+
+**Provider Institute:** Hogeschool Utrecht
+
 ## Documentation
 
 #### VHP4Safety Documentation

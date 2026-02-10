@@ -10,6 +10,11 @@ An open-source software for simulating, analyzing and visualizing biochemical ne
 **Main Webpage:** [http://copasi.org/](http://copasi.org/)
 
 
+## Contact
+
+**Contact Person(s):** The COPASI Project (http://copasi.org/About/Team/)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

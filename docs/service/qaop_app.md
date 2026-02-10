@@ -10,6 +10,12 @@ An interactive tool for visualizing and predicting key events (KEs) and adverse 
 
 **Tool Webpage:** [https://qaop.vhp4safety.nl/](https://qaop.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Filippo Di Tillio (f.di.tillio@lacdr.leidenuniv.nl)
+
+**Provider Institute:** [Leiden University](https://www.universiteitleiden.nl/en)
+
 ## Documentation
 
 #### VHP4Safety Documentation

@@ -10,6 +10,12 @@ A repository dedicated to the inventory and acquisition of high-quality mathemat
 **Main Webpage:** [https://www.ebi.ac.uk/biomodels/](https://www.ebi.ac.uk/biomodels/)
 
 
+## Contact
+
+**Contact Person(s):** biomodels-net-support@lists.sf.net
+
+**Provider Institute:** [EMBL-EBI](https://www.ebi.ac.uk/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

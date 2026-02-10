@@ -11,6 +11,12 @@ A graphical interface for creating, preloading and exporting SPARQL queries tail
 
 **Tool Webpage:** [https://aopwiki.rdf.bigcat-bioinformatics.org/](https://aopwiki.rdf.bigcat-bioinformatics.org/)
 
+## Contact
+
+**Contact Person(s):** Marvin Martens (marvin.martens@maastrichtuniversity.nl)
+
+**Provider Institute:** [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
+
 ## Documentation
 
 #### VHP4Safety Documentation

@@ -11,6 +11,12 @@ A framework for mapping identifiers across biological databases and related sour
 
 **Tool Webpage:** [https://bridgedb.cloud.vhp4safety.nl/](https://bridgedb.cloud.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Egon Willighagen
+
+**Provider Institute:** Department of Translational Genomics, Maastricht University
+
 ## Documentation
 
 #### VHP4Safety Documentation

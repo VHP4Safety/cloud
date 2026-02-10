@@ -11,6 +11,12 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 
 **Tool Webpage:** [https://arrayanalysis.vhp4safety.nl/](https://arrayanalysis.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Jarno Koetsier (jarno.koetsier@maastrichtuniversity.nl)
+
+**Provider Institute:** [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
+
 ## Documentation
 
 #### VHP4Safety Documentation

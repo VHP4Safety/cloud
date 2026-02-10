@@ -10,6 +10,11 @@ An open source web application for building predictive models from biologically 
 
 **Tool Webpage:** [http://flame.cloud.vhp4safety.nl:8098/](http://flame.cloud.vhp4safety.nl:8098/)
 
+## Contact
+
+**Contact Person(s):** Manuel Pastor (manuel.pastor@upf.edu)
+
+
 ## Documentation
 
 #### VHP4Safety Documentation

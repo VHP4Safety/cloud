@@ -10,6 +10,12 @@ A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway
 
 **Tool Webpage:** [https://aopsuite.cloud.vhp4safety.nl/](https://aopsuite.cloud.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Javier Millán Acosta (javier.millanacosta@maastrichtuniversity.nl)
+
+**Provider Institute:** [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
+
 ## Documentation
 
 #### VHP4Safety Documentation

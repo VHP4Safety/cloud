@@ -10,6 +10,12 @@ An open source RDF-based data management platform for importing and exporting re
 **Main Webpage:** [https://www.thehyve.nl/services/fairspace](https://www.thehyve.nl/services/fairspace)
 
 
+## Contact
+
+**Contact Person(s):** The Hyve (office@thehyve.nl)
+
+**Provider Institute:** [The Hyve](https://www.thehyve.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

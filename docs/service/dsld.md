@@ -9,6 +9,12 @@ An online database from the NIH Office of Dietary Supplements that lets you expl
 **Main Webpage:** [https://dsld.od.nih.gov/](https://dsld.od.nih.gov/)
 
 
+## Contact
+
+**Contact Person(s):** Kohulan Rajan (kohulan.rajan@uni-jena.de)
+
+**Provider Institute:** [National Institutes of Health](https://www.nih.gov/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

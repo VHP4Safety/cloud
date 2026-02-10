@@ -9,6 +9,12 @@ An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq
 
 **Tool Webpage:** [https://r-odaf.nl/](https://r-odaf.nl/)
 
+## Contact
+
+**Contact Person(s):** VHP4Safety Support (vhp4safety@uu.nl)
+
+**Provider Institute:** [Maastricht University](https://www.maastrichtuniversity.nl)
+
 ## Documentation
 
 #### VHP4Safety Documentation

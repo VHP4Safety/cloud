@@ -9,6 +9,12 @@ An online tool for answering questions about lipid metabolism and related toxico
 
 **Tool Webpage:** [https://llemy.vhp4safety.nl/](https://llemy.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Marie Corradi (marie.corradi@hu.nl)
+
+**Provider Institute:** [Hogeschool Utrecht](https://www.hu.nl/)
+
 ## Documentation
 
 #### VHP4Safety Documentation

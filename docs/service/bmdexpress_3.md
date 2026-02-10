@@ -9,6 +9,12 @@ A software tool for high-dimensional dose-response modeling and analysis.
 **Main Webpage:** [https://github.com/auerbachs/BMDExpress-3](https://github.com/auerbachs/BMDExpress-3)
 
 
+## Contact
+
+**Contact Person(s):** Scott Auerbach (auerbachs@niehs.nih.gov)
+
+**Provider Institute:** []()
+
 ## Documentation
 
 #### VHP4Safety Documentation

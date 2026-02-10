@@ -11,6 +11,12 @@ A web application for mapping Key Events from Adverse Outcome Pathways to WikiPa
 
 **Tool Webpage:** [https://molaop-builder.vhp4safety.nl/](https://molaop-builder.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Marvin Martens (marvin.martens@maastrichtuniversity.nl)
+
+**Provider Institute:** [Department of Translational Genomics (TGX), Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
+
 ## Documentation
 
 #### VHP4Safety Documentation

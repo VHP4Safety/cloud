@@ -11,6 +11,12 @@ A webservice for generating chemical structure images from SMILES inputs.
 
 **Tool Webpage:** [https://cdkdepict.cloud.vhp4safety.nl/](https://cdkdepict.cloud.vhp4safety.nl/)
 
+## Contact
+
+**Contact Person(s):** Egon Willighagen (egon.willighagen@maastrichtuniversity.nl)
+
+**Provider Institute:** simolecule
+
 ## Documentation
 
 #### VHP4Safety Documentation

@@ -10,6 +10,12 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 **Main Webpage:** [https://compoundcloud.wikibase.cloud/](https://compoundcloud.wikibase.cloud/)
 
 
+## Contact
+
+**Contact Person(s):** Egon Willighagen (egon.willighagen@maastrichtuniversity.nl)
+
+**Provider Institute:** Department of Translational Genomics, Maastricht University
+
 ## Documentation
 
 #### VHP4Safety Documentation
