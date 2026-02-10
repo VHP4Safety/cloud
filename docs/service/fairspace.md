@@ -64,8 +64,6 @@ An open source RDF-based data management platform for importing and exporting re
 
 * Type: external
 
-* Contact: The Hyve (office@thehyve.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An open source RDF-based data management platform for importing and exporting re
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [The Hyve](https://www.thehyve.nl/)
 
 * Citation: Not available
 

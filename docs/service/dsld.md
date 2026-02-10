@@ -63,8 +63,6 @@ An online database from the NIH Office of Dietary Supplements that lets you expl
 
 * Type: external
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ An online database from the NIH Office of Dietary Supplements that lets you expl
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [National Institutes of Health](https://www.nih.gov/)
 
 * Citation: [10.1093/jn/nxy082](https://doi.org/10.1093/jn/nxy082)
 

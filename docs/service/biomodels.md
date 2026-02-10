@@ -64,8 +64,6 @@ A repository dedicated to the inventory and acquisition of high-quality mathemat
 
 * Type: Not available
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ A repository dedicated to the inventory and acquisition of high-quality mathemat
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [EMBL-EBI](https://www.ebi.ac.uk/)
 
 * Citation: [10.1093/nar/gkz1055](https://doi.org/10.1093/nar/gkz1055)
 

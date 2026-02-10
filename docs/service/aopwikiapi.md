@@ -65,8 +65,6 @@ A REST API for creating and accessing content in the AOP-Wiki database.
 
 * Type: internal
 
-* Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
-
 * API Type: REST API -- Swagger UI
 
 * Categories: To be added
@@ -76,8 +74,6 @@ A REST API for creating and accessing content in the AOP-Wiki database.
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: Not available
 

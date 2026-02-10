@@ -63,8 +63,6 @@ A Python-based notebook for identifying potential MCT8 inhibitors and related mo
 
 * Type: External
 
-* Contact: David Poole (d.a.poole@vu.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ A Python-based notebook for identifying potential MCT8 inhibitors and related mo
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [](https://doi.org/)
 

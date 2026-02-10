@@ -64,8 +64,6 @@ A software for supporting chemical hazard assessment and enhancing mechanistic k
 
 * Type: external
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ A software for supporting chemical hazard assessment and enhancing mechanistic k
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [The Organisation for Economic Co-operation and Development](https://www.oecd.org/)
 
 * Citation: Not available
 

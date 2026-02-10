@@ -63,8 +63,6 @@ An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq
 
 * Type: internal
 
-* Contact: VHP4Safety Support;Saad Lodhi;Danyel Jennen (vhp4safety@uu.nl;saad.lodhi@maastrichtuniversity.nl;danyel.jennen@maastrichtuniversity.nl)
-
 * API Type: 
 
 * Categories: To be added
@@ -74,8 +72,6 @@ An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Maastricht University](https://www.maastrichtuniversity.nl)
 
 * Citation: Not available
 

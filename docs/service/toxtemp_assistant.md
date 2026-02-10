@@ -65,8 +65,6 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 
 * Type: internal
 
-* Contact: Jente Houweling (jente.houweling@rivm.nl)
-
 * API Type: 
 
 * Categories: To be added
@@ -76,8 +74,6 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Maastricht University](https://www.maastrichtuniversity.nl/)
 
 * Citation: [10.1016/j.toxlet.2025.07.214](https://doi.org/10.1016/j.toxlet.2025.07.214)
 

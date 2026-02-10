@@ -64,8 +64,6 @@ An online physiologically based pharmacokinetic model for organophosphates
 
 * Type: internal
 
-* Contact: Thijs Moerenhout (thijs.moerenhout@wur.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An online physiologically based pharmacokinetic model for organophosphates
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.1021/acs.est.4c06534](https://doi.org/10.1021/acs.est.4c06534)
 

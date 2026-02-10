@@ -63,8 +63,6 @@ A freely available (Q)SAR tool for substance evaluations that includes estimates
 
 * Type: external
 
-* Contact: Technical University of Denmark (qsar@food.dtu.dk)
-
 * API Type: 
 
 * Categories: To be added
@@ -74,8 +72,6 @@ A freely available (Q)SAR tool for substance evaluations that includes estimates
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Technical University of Denmark](https://www.dtu.dk/english/)
 
 * Citation: [10.1016/j.toxlet.2016.06.1479](https://doi.org/10.1016/j.toxlet.2016.06.1479)
 

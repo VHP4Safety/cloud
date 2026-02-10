@@ -63,8 +63,6 @@ An open source web application for building predictive models from biologically 
 
 * Type: external
 
-* Contact: Manuel Pastor (manuel.pastor@upf.edu)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ An open source web application for building predictive models from biologically 
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.1186/s13321-021-00509-z](https://doi.org/10.1186/s13321-021-00509-z)
 

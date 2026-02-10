@@ -64,8 +64,6 @@ An interactive tool for visualizing and predicting key events (KEs) and adverse 
 
 * Type: internal
 
-* Contact: Filippo Di Tillio (f.di.tillio@lacdr.leidenuniv.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An interactive tool for visualizing and predicting key events (KEs) and adverse 
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Leiden University](https://www.universiteitleiden.nl/en)
 
 * Citation: Not available
 

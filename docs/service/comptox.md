@@ -64,8 +64,6 @@ An online database for searching chemical, toxicity and exposure information.
 
 * Type: external
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An online database for searching chemical, toxicity and exposure information.
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [United States Environmental Protection Agency](https://www.epa.gov/)
 
 * Citation: [10.1186/s13321-017-0247-6](https://doi.org/10.1186/s13321-017-0247-6)
 

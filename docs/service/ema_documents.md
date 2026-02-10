@@ -64,8 +64,6 @@ An online repository for inventarisation of official reports from the European M
 
 * Type: Not available
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An online repository for inventarisation of official reports from the European M
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [European Medicines Agency](https://www.ema.europa.eu/)
 
 * Citation: Not available
 

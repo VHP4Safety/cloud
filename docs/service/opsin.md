@@ -63,8 +63,6 @@ An online service for parsing chemical IUPAC names into a machine-readable chemi
 
 * Type: Not available
 
-* Contact: Not available
-
 * API Type: 
 
 * Categories: To be added
@@ -74,8 +72,6 @@ An online service for parsing chemical IUPAC names into a machine-readable chemi
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.1021/ci100384d](https://doi.org/10.1021/ci100384d)
 

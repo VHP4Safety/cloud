@@ -63,8 +63,6 @@ An open source, user friendly and web based prediction tool that uses molecular 
 
 * Type: external
 
-* Contact: Katra Kolšek (katra.kolsek@ffa.uni-lj.si)
-
 * API Type: 
 
 * Categories: To be added
@@ -74,8 +72,6 @@ An open source, user friendly and web based prediction tool that uses molecular 
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [ National Institute of Chemistry, Slovenia](https://www.ki.si/en/)
 
 * Citation: [10.1021/ci400649p](https://doi.org/10.1021/ci400649p)
 

@@ -64,8 +64,6 @@ An intuitive user interface for creating gene-regulatory and biochemical network
 
 * Type: external
 
-* Contact: Systems Biology Institute (SBI) (info@celldesigner.org)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An intuitive user interface for creating gene-regulatory and biochemical network
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Systems Biology Institute (SBI)](https://sbi.jp/)
 
 * Citation: [10.1016/S1478-5382(03)02370-9](https://doi.org/10.1016/S1478-5382(03)02370-9)
 

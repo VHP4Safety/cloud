@@ -64,8 +64,6 @@ An online application for implementation of weighted gene co-expression network 
 
 * Type: internal
 
-* Contact: Steven J. Kunnen (s.j.kunnen@lacdr.leidenuniv.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An online application for implementation of weighted gene co-expression network 
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.1007/s00204-021-03141-w](https://doi.org/10.1007/s00204-021-03141-w)
 

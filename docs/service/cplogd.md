@@ -64,8 +64,6 @@ An online model for predicting water-octanol distribution coefficient (logD) of 
 
 * Type: external
 
-* Contact: Ola Spjuth ()
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An online model for predicting water-octanol distribution coefficient (logD) of 
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [ArosBio](https://arosbio.com/index.html)
 
 * Citation: [10.1186/s13321-018-0271-1](https://doi.org/10.1186/s13321-018-0271-1)
 

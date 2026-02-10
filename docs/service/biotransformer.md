@@ -63,8 +63,6 @@ A software tool for predicting metabolites from SMILES-formatted chemical inputs
 
 * Type: Not available
 
-* Contact: Not available
-
 * API Type: 
 
 * Categories: To be added
@@ -74,8 +72,6 @@ A software tool for predicting metabolites from SMILES-formatted chemical inputs
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.1186/s13321-018-0324-5](https://doi.org/10.1186/s13321-018-0324-5)
 

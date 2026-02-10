@@ -64,8 +64,6 @@ An online service for analyzing transcriptomic data in the context of molecular 
 
 * Type: internal
 
-* Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
-
 * API Type: 
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An online service for analyzing transcriptomic data in the context of molecular 
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Maastricht University](maastrichtuniversity.nl)
 
 * Citation: [](https://doi.org/)
 

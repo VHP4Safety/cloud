@@ -63,8 +63,6 @@ A software tool for high-dimensional dose-response modeling and analysis.
 
 * Type: external
 
-* Contact: Scott Auerbach (auerbachs@niehs.nih.gov)
-
 * API Type: 
 
 * Categories: To be added
@@ -74,8 +72,6 @@ A software tool for high-dimensional dose-response modeling and analysis.
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: []()
 
 * Citation: [10.1186/1471-2164-8-387](https://doi.org/10.1186/1471-2164-8-387)
 

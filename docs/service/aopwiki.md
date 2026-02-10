@@ -65,8 +65,6 @@ A graphical interface for creating, preloading and exporting SPARQL queries tail
 
 * Type: internal
 
-* Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
-
 * API Type: SPARQL endpoint
 
 * Categories: To be added
@@ -76,8 +74,6 @@ A graphical interface for creating, preloading and exporting SPARQL queries tail
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: [10.1089/aivt.2021.0010](https://doi.org/10.1089/aivt.2021.0010)
 

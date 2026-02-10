@@ -62,8 +62,6 @@ An online service for conduction of literature review, data extraction and syste
 
 * Type: external
 
-* Contact: Insilica.co (info@insilica.co)
-
 * API Type: REST
 
 * Categories: To be added
@@ -73,8 +71,6 @@ An online service for conduction of literature review, data extraction and syste
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.3389/frai.2021.685298](https://doi.org/10.3389/frai.2021.685298)
 

@@ -65,8 +65,6 @@ A framework for mapping identifiers across biological databases and related sour
 
 * Type: internal
 
-* Contact: Not available
-
 * API Type: REST
 
 * Categories: To be added
@@ -76,8 +74,6 @@ A framework for mapping identifiers across biological databases and related sour
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.1186/1471-2105-11-5](https://doi.org/10.1186/1471-2105-11-5)
 

@@ -63,8 +63,6 @@ A tool that supports Adverse Outcome Pathway (AOP) development by extracting key
 
 * Type: internal
 
-* Contact: Marc Teunis (marc.teunis@hu.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ A tool that supports Adverse Outcome Pathway (AOP) development by extracting key
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: Not available
 

@@ -62,8 +62,6 @@ A Java library for chem- and bioinformatics, with functionality to read/write ch
 
 * Type: Not available
 
-* Contact: Egon Willighagen (egon.willighagen@maastrichtuniversity.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -73,8 +71,6 @@ A Java library for chem- and bioinformatics, with functionality to read/write ch
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
 

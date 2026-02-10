@@ -65,8 +65,6 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 * Type: internal
 
-* Contact: Ivo Djidrovski (i.djidrovski@uu.nl)
-
 * API Type: 
 
 * Categories: To be added
@@ -76,8 +74,6 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Utrecht University / VHP4Safety](https://www.uu.nl/)
 
 * Citation: [10.1016/j.comtox.2025.100395](https://doi.org/10.1016/j.comtox.2025.100395)
 

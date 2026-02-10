@@ -64,8 +64,6 @@ An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecu
 
 * Type: internal
 
-* Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
-
 * API Type: SPARQL
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecu
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Maastricht University]()
 
 * Citation: [10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)
 

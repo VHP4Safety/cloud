@@ -63,8 +63,6 @@ A webservice for prediction of protein-structure and reactivity based (P450) sit
 
 * Type: internal
 
-* Contact: David Poole (d.a.poole@vu.nl)
-
 * API Type: REST
 
 * Categories: To be added
@@ -74,8 +72,6 @@ A webservice for prediction of protein-structure and reactivity based (P450) sit
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: Not available
 

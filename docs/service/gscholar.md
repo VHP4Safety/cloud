@@ -63,8 +63,6 @@ An online search engine for (scientific) literature.
 
 * Type: external
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ An online search engine for (scientific) literature.
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Google](https://google.com/)
 
 * Citation: Not available
 

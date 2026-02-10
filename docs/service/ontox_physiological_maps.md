@@ -63,8 +63,6 @@ Maps for illustrating biological processes behind toxicological risks using a st
 
 * Type: external
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ Maps for illustrating biological processes behind toxicological risks using a st
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.14573/altex.2412241](https://doi.org/10.14573/altex.2412241)
 

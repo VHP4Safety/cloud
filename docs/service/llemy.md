@@ -63,8 +63,6 @@ An online tool for answering questions about lipid metabolism and related toxico
 
 * Type: pilot
 
-* Contact: Marie Corradi (marie.corradi@hu.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ An online tool for answering questions about lipid metabolism and related toxico
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Hogeschool Utrecht](https://www.hu.nl/)
 
 * Citation: Not available
 

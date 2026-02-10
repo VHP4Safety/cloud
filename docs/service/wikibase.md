@@ -64,8 +64,6 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 
 * Type: internal
 
-* Contact: Egon Willighagen (egon.willighagen@maastrichtuniversity.nl)
-
 * API Type: SPARQL
 
 * Categories: To be added
@@ -75,8 +73,6 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.5281/zenodo.13864849](https://doi.org/10.5281/zenodo.13864849)
 

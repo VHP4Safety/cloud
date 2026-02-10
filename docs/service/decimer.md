@@ -64,8 +64,6 @@ An online service for automatically extracting chemical structure depictiions fr
 
 * Type: external
 
-* Contact: Kohulan Rajan (kohulan.rajan@uni-jena.de)
-
 * API Type: 
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An online service for automatically extracting chemical structure depictiions fr
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Steinbeck Group at the Friedrich Schiller University Jena](https://cheminf.uni-jena.de/research/deep-learning/)
 
 * Citation: [10.1186/s13321-021-00538-8](https://doi.org/10.1186/s13321-021-00538-8)
 

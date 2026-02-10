@@ -64,8 +64,6 @@ A Dutch online resource for gathering data on the pharmacology, adverse effects,
 
 * Type: Not available
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ A Dutch online resource for gathering data on the pharmacology, adverse effects,
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Zorginstituut Nederland](https://www.farmacotherapeutischkompas.nl/algemeen/contact)
 
 * Citation: Not available
 

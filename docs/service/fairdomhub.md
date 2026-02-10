@@ -64,8 +64,6 @@ A web-accessible registry for managing, sharing and organising research data and
 
 * Type: Not available
 
-* Contact: FAIRDOM (community@fair-dom.org)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ A web-accessible registry for managing, sharing and organising research data and
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [FAIRDOM](https://fair-dom.org/)
 
 * Citation: [10.1093/nar/gkw1032](https://doi.org/10.1093/nar/gkw1032)
 

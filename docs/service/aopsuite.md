@@ -64,8 +64,6 @@ A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway
 
 * Type: internal
 
-* Contact: Javier Millán Acosta (javier.millanacosta@maastrichtuniversity.nl)
-
 * API Type: REST API, Flask
 
 * Categories: To be added
@@ -75,8 +73,6 @@ A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: Not available
 

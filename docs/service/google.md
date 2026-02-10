@@ -63,8 +63,6 @@ Online search engine for Google.
 
 * Type: external
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ Online search engine for Google.
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Google](https://google.com/)
 
 * Citation: Not available
 

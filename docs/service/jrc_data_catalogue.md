@@ -64,8 +64,6 @@ An in-house data inventory produced by the Joint Research Centre (JRC) for provi
 
 * Type: Not available
 
-* Contact: Not available
-
 * API Type: https://data.jrc.ec.europa.eu/docs/index.html
 
 * Categories: To be added
@@ -75,8 +73,6 @@ An in-house data inventory produced by the Joint Research Centre (JRC) for provi
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [European Commission](https://commission.europa.eu/about-european-commission/contact_en)
 
 * Citation: [10.3030/681002](https://doi.org/10.3030/681002)
 

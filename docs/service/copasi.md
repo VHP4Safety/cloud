@@ -63,8 +63,6 @@ An open-source software for simulating, analyzing and visualizing biochemical ne
 
 * Type: Not available
 
-* Contact: The COPASI Project (http://copasi.org/About/Team/)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ An open-source software for simulating, analyzing and visualizing biochemical ne
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.1093/bioinformatics/btl485](https://doi.org/10.1093/bioinformatics/btl485)
 

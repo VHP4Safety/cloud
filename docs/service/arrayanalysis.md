@@ -65,8 +65,6 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 
 * Type: internal
 
-* Contact: Jarno Koetsier (jarno.koetsier@maastrichtuniversity.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -76,8 +74,6 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: [10.1093/nar/gkt293](https://doi.org/10.1093/nar/gkt293)
 

@@ -64,8 +64,6 @@ A web application for visualization of Adverse Outcome Pathway (AOP) networks an
 
 * Type: internal
 
-* Contact: Not available
-
 * API Type: Not available
 
 * Categories: To be added
@@ -75,8 +73,6 @@ A web application for visualization of Adverse Outcome Pathway (AOP) networks an
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: Not available
 

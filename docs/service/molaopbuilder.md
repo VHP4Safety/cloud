@@ -65,8 +65,6 @@ A web application for mapping Key Events from Adverse Outcome Pathways to WikiPa
 
 * Type: internal
 
-* Contact: Marvin Martens (marvin.martens@maastrichtuniversity.nl)
-
 * API Type: REST
 
 * Categories: To be added
@@ -76,8 +74,6 @@ A web application for mapping Key Events from Adverse Outcome Pathways to WikiPa
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [Department of Translational Genomics (TGX), Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: [](https://doi.org/)
 

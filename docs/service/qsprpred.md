@@ -65,8 +65,6 @@ An online tool for chemical activity prediction for various endpoints using targ
 
 * Type: internal
 
-* Contact: Linde Schoenmaker (l.schoenmaker@lacdr.leidenuniv.nl)
-
 * API Type: 
 
 * Categories: To be added
@@ -76,8 +74,6 @@ An online tool for chemical activity prediction for various endpoints using targ
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: Not available
 
 * Citation: [10.26434/chemrxiv-2025-jr9v7](https://doi.org/10.26434/chemrxiv-2025-jr9v7)
 

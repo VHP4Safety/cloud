@@ -63,8 +63,6 @@ A collection of ontology with names, abrreviations and definitions of the termin
 
 * Type: internal
 
-* Contact: Ozan Cinar (ozan.cinar@maastrichtuniversity.nl)
-
 * API Type: Not available
 
 * Categories: To be added
@@ -74,8 +72,6 @@ A collection of ontology with names, abrreviations and definitions of the termin
 * Relevant VHP4Safety Use Case: To be added
 
 ## Technical Tool Specifications
-
-* Provider: [The Department of Translational Genomics, Maastricht University](https://www.maastrichtuniversity.nl/research/translational-genomics)
 
 * Citation: [10.14573/altex.2407211](https://doi.org/10.14573/altex.2407211)
 
