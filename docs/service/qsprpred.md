@@ -13,9 +13,9 @@ An online tool for chemical activity prediction for various endpoints using targ
 
 ## Contact
 
-**Contact Person(s):** Linde Schoenmaker (l.schoenmaker@lacdr.leidenuniv.nl)
+**Contact Person(s):** Gerard van Westen (gerard@gjpvanwesten.nl), Linde Schoenmaker (l.schoenmaker@lacdr.leidenuniv.nl)
 
-**Provider Institute:** Department of Medicinal Chemistry,Leiden University
+**Provider Institute:** [Department of Medicinal Chemistry, Leiden University](https://www.universiteitleiden.nl/en/science/drug-research/medicinal-chemistry)
 
 ## Documentation
 
