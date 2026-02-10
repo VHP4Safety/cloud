@@ -268,14 +268,16 @@ for (i in 1:length(service_metadata)) {
   if(!is.null(provider_name) & !is.null(provider_url)) {
     if(length(provider_name) > 0 & length(provider_url)) {
       provider_text <- paste0("[", provider_name, "](", provider_url, ")")
+      system(paste0("echo \"**Provider Institute:** ", provider_text, "\" >> ", target))
     }
   } else if(!is.null(provider_name)) {
     provider_text <- provider_name
+    system(paste0("echo \"**Provider Institute:** ", provider_text, "\" >> ", target))
   } else if(!is.null(provider_url)) {
     provider_text <- paste0("[", provider_url, "](", provider_url, ")")
+    system(paste0("echo \"**Provider Institute:** ", provider_text, "\" >> ", target))
   }
   
-  system(paste0("echo \"**Provider Institute:** ", provider_text, "\" >> ", target))
   system(paste0("echo \"\" >> ", target))
   
   
