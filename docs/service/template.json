@@ -58,9 +58,9 @@
 
   "provider": {
     "contact": {
-      "_ins_name": "The name of a person from the organization that provide the service.",
+      "_ins_name": "The name of a person from the organization that provide the service. More than one contact information can be provided by putting a ';' between their names (e.g. author1;author2). Please be careful to give an email address for each contact person in the next field, otherwise the contact information may not be displayed correctly.",
       "name": "",
-      "_ins_email": "The email of the person whose name given above.",
+      "_ins_email": "The email(s) of the person(s) whose name(s) given above. More than one contact information can be provided by putting a ';' between their email addresses (e.g. author1@mail.com;author2@mail.com). Please be careful to give an email address for each contact person in the previous field, otherwise the contact information may not be displayed correctly.",
       "email": ""
     },
 
@@ -86,9 +86,9 @@
 
   "_ins_intro": "Information regarding an available demo documentation available on the docs repo.",
   "intro": {
-    "_ins_title": "The title of the intro on the VHP4Safety platform. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
+    "_ins_title": "The title of the intro on the VHP4Safety platform. Multiple entries should be separated by a ';' without any spaces between them (e.g., title1;title2). Note that, ideally, the number of titles should be equal to the number of urls.",
     "title": "",
-    "_ins_url": "Link to the intro on the VHP4Safety platform. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
+    "_ins_url": "Link to the intro on the VHP4Safety platform. Multiple entries should be separated by a ';' without any spaces between them (e.g., link1;link2). Note that, ideally, the number of titles should be equal to the number of urls.",
     "url": ""
   },
 
