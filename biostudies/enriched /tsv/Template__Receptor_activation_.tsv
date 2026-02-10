@@ -1,0 +1,62 @@
+Submission	S-VHPS15
+Title	Thyroid Hormone Receptor Activation Assay: Measurement of transcriptional response to T3 in neuronal cell cultures
+ReleaseDate	2026-06-01
+AttachTo	VHP4Safety
+
+Study	
+Title	Thyroid Hormone Receptor Activation Assay: Measurement of transcriptional response to T3 in neuronal cell cultures
+ReleaseDate	2026-06-01
+Description	Part of the development of an in vitro testing battery aimed at evaluating thyroid hormone (TH)-mediated developmental neurotoxicity.
+Organism	Homo sapiens (human)
+License	CC BY 4.0
+[URL]	https://creativecommons.org/licenses/by/4.0/legalcode
+Bioassay	Genetic transcription
+[Ontology]	BAO
+[TermId]	BAO_0002488
+Organ	Brain
+Tissue	Neural tissue
+Adverse outcome Pathway	[Placeholder]
+[URL]	https://aopwiki.org/aops/
+AOP event	Tr alpha
+[URL]	https://aopwiki.org/events/
+
+Link	https://docs.vhp4safety.nl/en/latest/
+Description	Documentation page VHP4Safety
+
+Link	https://platform.vhp4safety.nl/
+Description	VHP4Safety platform
+
+author
+Name	Nathalie Dierichs
+E-mail	nathalie.dierichs@rivm.nl
+Email	nathalie.dierichs@rivm.nl
+Role	Data producer
+<affiliation>	o1
+ORCID	0009-0000-5074-6239
+
+author
+Name	Jente Houweling
+E-mail	jente.houweling@rivm.nl
+ORCID	0009-0005-3680-0645
+Email	jente.houweling@rivm.nl
+Role	Data steward
+<affiliation>	o1
+
+organisation	o1
+Name	Centre for Health Protection, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands
+
+Funding
+Agency	NWA
+grant_id	1292.19.272
+
+Cell lines[]	Cell line	RRID	Supplier
+	SK-N-AS	CVCL_1700	ATCC
+
+Chemicals[]	Chemical	CAS	CompoundWikiID
+	NH-3	447415-26-1	Q1882
+	Silychristin	33889-69-9	Q5049
+	TBBPA	79-94-7	Q82
+
+Experimental design[]	Time point	Time point_unit	Replicates	Detection instrument	Instrument manufacturer	Measured entity	Measured entity_unit	Substrate	Endpoint	Endpoint_unit
+	6	hours	3	QuantStudio 7 Flex 		∆∆CT	∆∆CT		KLF9 expression	Fold change
+
