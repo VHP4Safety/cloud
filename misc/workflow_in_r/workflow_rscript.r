@@ -190,6 +190,8 @@ system(paste0("echo \"\" >> ", target))
 source("add_tess_html.r")
 source("add_script.r")
 
+i <- 39 # R-ODAF
+
 for (i in 1:length(service_metadata)) {
   
   # Setting the name of the object to be created.
@@ -236,6 +238,46 @@ for (i in 1:length(service_metadata)) {
     }
   }
   system(paste0("echo \"\" >> ", target))
+  
+  
+  system(paste0("echo \"## Contact\" >> ", target))
+  system(paste0("echo \"\" >> ", target))
+  
+  contact_persons <- service_metadata[[i]][["provider"]][["contact"]][["name"]]
+  contact_emails  <- service_metadata[[i]][["provider"]][["contact"]][["email"]]
+  if(!is.null(contact_persons) & !is.null(contact_emails)) {
+    contact_persons <- unlist(strsplit(contact_persons, ";"))
+    contact_emails  <- unlist(strsplit(contact_emails, ";")) 
+    if(length(contact_persons) == length(contact_emails)) {
+      contact_text <- paste0(contact_persons, " (", contact_emails, ")", collapse=", ")
+    } else {
+      contact_text <- paste0(paste0(contact_persons, collapse=", "), " (", paste0(contact_emails, collapse=", "), ")")
+    }
+  } else if(!is.null(contact_persons)) {
+    contact_text <- paste(contact_persons, collapse=", ")
+  } else if(!is.null(contact_emails)) {
+    contact_text <- paste(contact_emails, collapse=", ")
+  }
+  
+  system(paste0("echo \"**Contact Person(s):** ", contact_text, "\" >> ", target))
+  system(paste0("echo \"\" >> ", target))
+  
+  provider_name <- service_metadata[[i]][["provider"]][["name"]]
+  provider_url  <- service_metadata[[i]][["provider"]][["url"]]
+  
+  if(!is.null(provider_name) & !is.null(provider_url)) {
+    if(length(provider_name) > 0 & length(provider_url)) {
+      provider_text <- paste0("[", provider_name, "](", provider_url, ")")
+    }
+  } else if(!is.null(provider_name)) {
+    provider_text <- provider_name
+  } else if(!is.null(provider_url)) {
+    provider_text <- paste0("[", provider_url, "](", provider_url, ")")
+  }
+  
+  system(paste0("echo \"**Provider Institute:** ", provider_text, "\" >> ", target))
+  system(paste0("echo \"\" >> ", target))
+  
   
   #### VHP4Safety Documentation
   
