@@ -32,6 +32,16 @@
     "biotools": "cdk_depict",
     "tess": "cdk depict"
   },
+  "Other": {
+    "wikipedia": "Chemistry_Development_Kit"
+  },
+  "NAM-validation": {
+    "NAM-stage-1": "yes",
+    "NAM-stage-2": "yes",
+    "NAM-stage-3": "yes",
+    "NAM-stage-4": "yes",
+    "NAM-stage-5": "yes"
+  },
   "regulatory-question": {
     "1a": "false",
     "1b": "false",
