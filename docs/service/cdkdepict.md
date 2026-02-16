@@ -93,7 +93,7 @@ A webservice for generating chemical structure images from SMILES inputs.
 
 * RSD: Not available
 
-* Wikipedia: Not available
+* Wikipedia: [Chemistry_Development_Kit](Chemistry_Development_Kit)
 
 <script type="application/ld+json">
   {
