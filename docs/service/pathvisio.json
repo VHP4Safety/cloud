@@ -1,0 +1,46 @@
+
+{
+  "id": "pathvisio",
+  "service": "PathVisio",
+  "description": "Desktop software to visualize, edit, and draw new pathways, which can be exported in the GPML format, for example, to WikiPathways.",
+  "screenshot": "pcbi.1004085.g004.png",
+  "url": "https://pathvisio.org/",
+  "doi": "10.1371/journal.pcbi.1004085",
+  "instance": {
+    "type": "external",
+    "license": "Apache-2.0 license",
+    "version": "3.3",
+    "source": "https://github.com/PathVisio/pathvisio"
+  },
+
+  "provider": {
+    "contact": {
+      "name": "Martina Kutmon"
+    },
+    "name": "Maastricht Centre for Systems Biology and Bioinformatics",
+    "url": "https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology-and-bioinformatics"
+  },
+
+  "access": {
+    "login": "no"
+  },
+
+  "_ins_ELIXIR": "Information regarding sources available on ELIXIR.",
+  "ELIXIR": {
+    "biotools": "pathvisio",
+    "tess": "pathvisio"
+  },
+
+  "Other": {
+    "wikipedia": "PathVisio",
+    "rsd": "pathvisio"
+  },
+
+  "NAM-validation": {
+    "NAM-stage-1": "true",
+    "NAM-stage-2": "false",
+    "NAM-stage-3": "false",
+    "NAM-stage-4": "false",
+    "NAM-stage-5": "false"
+  }
+}
