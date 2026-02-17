@@ -267,6 +267,14 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 ------------------------
 
+![PathVisio logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/pcbi.1004085.g004.png)
+
+## PathVisio
+
+Desktop software to visualize, edit, and draw new pathways, which can be exported in the GPML format, for example, to WikiPathways. [[more information](service/pathvisio.md)]
+
+------------------------
+
 ## qAOP-App
 
 An interactive tool for visualizing and predicting key events (KEs) and adverse outcomes (AOs) over time using ODE-based qAOP models, illustrated with VHP4Safety case studies. [[more information](service/qaop_app.md)]

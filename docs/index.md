@@ -185,6 +185,10 @@ A software for supporting chemical hazard assessment and enhancing mechanistic k
 
 Maps for illustrating biological processes behind toxicological risks using a standardized graphical notation. [[more information](service/ontox_physiological_maps.md)]
 
+#### PathVisio
+
+Desktop software to visualize, edit, and draw new pathways, which can be exported in the GPML format, for example, to WikiPathways. [[more information](service/pathvisio.md)]
+
 #### SysRev
 
 An online service for conduction of literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
