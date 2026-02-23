@@ -634,7 +634,7 @@
     "description": "An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq differential expression analysis for regulatory toxicology applications.",
     "html_name": "r_odaf.html",
     "md_file_name": "r_odaf.md",
-    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "png_file_name": "r_odaf.png",
     "stage": "Toxicodynamics/AOP",
     "main_url": "no_url",
     "inst_url": "https://r-odaf.nl/",
