@@ -5,6 +5,7 @@
   "description": "An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq differential expression analysis for regulatory toxicology applications.",
   "stage": "Toxicodynamics/AOP",
   "substage": "Transcriptomics / Differential Expression",
+  "screenshot": "rodaf.png",
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
@@ -91,6 +92,7 @@
     "3b": "false"
   }
 }
+
 
 
 
