@@ -289,6 +289,8 @@ An online tool for chemical activity prediction for various endpoints using targ
 
 ------------------------
 
+![R-ODAF Shiny logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/r_odaf.png)
+
 ## R-ODAF Shiny
 
 An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq differential expression analysis for regulatory toxicology applications. [[more information](service/r_odaf.md)]
