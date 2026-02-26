@@ -76,11 +76,11 @@ Intracellular measurements are determined in cell lysates using LCMS, normalized
 
 #### P-gp Staining
 
-Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](p_gp_staining.md)]
+Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](method-148.md)]
 
 #### P-gp Staining
 
-Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](method-148.md)]
+Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](p_gp_staining.md)]
 
 ### Other Methods
 
