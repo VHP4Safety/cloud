@@ -1,0 +1,38 @@
+{
+  "id": "asreview",
+  "service": "ASReview",
+  "description": "Open-source active-learning software for transparent and efficient systematic literature reviews.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+  "substage": "https://vhp4safety.github.io/glossary#VHP0000053",
+  "url": "https://asreview.nl/",
+  "doi": "10.1038/s42256-020-00287-7",
+  "source": "https://github.com/asreview/asreview",
+  "license": "Apache-2.0",
+  "instance": {
+    "type": "external"
+  },
+  "provider": {
+    "contact": {
+      "name": "ASReview Team",
+      "email": "asreview@uu.nl"
+    }
+  },
+  "access": {
+    "API": "Python",
+    "login": "No",
+    "packages": {
+      "Python": "https://github.com/asreview/asreview"
+    }
+  },
+  "ELIXIR": {
+    "biotools": "asreview"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
+  }
+}

@@ -45,6 +45,12 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 
 ------------------------
 
+## ASReview
+
+Open-source active-learning software for transparent and efficient systematic literature reviews. [[more information](service/asreview.md)]
+
+------------------------
+
 ![BioModels logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/biomodels.png)
 
 ## BioModels
@@ -305,7 +311,7 @@ A webservice for prediction of protein-structure and reactivity based (P450) sit
 
 ## SysRev
 
-An online service for conduction of literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
+An online (proprietary) service for literature review, data extraction and systematic review; consider ASReview as the preferred open-source alternative. [[more information](service/sysrev.md)]
 
 ------------------------
 
