@@ -4,6 +4,7 @@ aopsuite	AOP-Suite		https://aopsuite.cloud.vhp4safety.nl/
 aopwiki	AOP-Wiki Snorql UI	https://aopwiki.rdf.bigcat-bioinformatics.org/	https://aopwiki.rdf.bigcat-bioinformatics.org/
 aopwikiapi	AOP-Wiki API	https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries	https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries
 arrayanalysis	ArrayAnalysis	https://arrayanalysis.org/	https://arrayanalysis.vhp4safety.nl/
+asreview	ASReview	https://asreview.nl/	NA
 biomodels	BioModels	https://www.ebi.ac.uk/biomodels/	NA
 biotransformer	BioTransformer	https://biotransformer.ca/	NA
 bmdexpress_3	BMDExpress-3	https://github.com/auerbachs/BMDExpress-3	NA
@@ -40,7 +41,6 @@ qaop_app	qAOP-App	https://qaop.vhp4safety.nl/	https://qaop.vhp4safety.nl/
 qsprpred	QSPRpred	https://qsprpred.cloud.vhp4safety.nl/	https://qsprpred.cloud.vhp4safety.nl/
 r_odaf	R-ODAF Shiny	NA	https://r-odaf.nl/
 sombie	SOM Prediction	https://sombie.cloud.vhp4safety.nl/	https://sombie.cloud.vhp4safety.nl/
-asreview	ASReview	https://asreview.nl/	NA
 sysrev	SysRev	https://sysrev.com/	NA
 toxtemp_assistant	ToxTempAssistant	https://toxtempassistant.vhp4safety.nl/	https://toxtempassistant.vhp4safety.nl/
 txg_mapr	TXG-MAPr	https://txg-mapr.eu/	NA

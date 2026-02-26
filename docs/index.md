@@ -121,6 +121,10 @@ A web application for visualization of Adverse Outcome Pathway (AOP) networks an
 
 ### External Services
 
+#### ASReview
+
+Open-source active-learning software for transparent and efficient systematic literature reviews. [[more information](service/asreview.md)]
+
 #### BMDExpress-3
 
 A software tool for high-dimensional dose-response modeling and analysis. [[more information](service/bmdexpress_3.md)]
@@ -191,7 +195,7 @@ Desktop software to visualize, edit, and draw new pathways, which can be exporte
 
 #### SysRev
 
-An online service for conduction of literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
+An online (proprietary) service for literature review, data extraction and systematic review; consider ASReview as the preferred open-source alternative. [[more information](service/sysrev.md)]
 
 ------------------------------------------
 
