@@ -1,0 +1,67 @@
+Submission	S-VHPS14
+Title	Whole-cell Metabolism Assay: Measurement of thyroid hormone biotransformation in neuronal cell culture
+ReleaseDate	2026-06-01
+AttachTo	VHP4Safety
+
+Study	
+Title	Whole-cell Metabolism Assay: Measurement of thyroid hormone biotransformation in neuronal cell culture
+ReleaseDate	2026-06-01
+Description	
+Organism	Homo sapiens (human)
+License	CC BY 4.0
+[URL]	https://creativecommons.org/licenses/by/4.0/legalcode
+Bioassay	
+Organ	Brain
+Tissue	Neural tissue
+Adverse outcome Pathway	placeholder
+[URL]	https://aopwiki.org/aops/
+AOP event	D3
+[URL]	https://aopwiki.org/events/
+
+Link	https://docs.vhp4safety.nl/en/latest/
+Description	Documentation page VHP4Safety
+
+Link	https://platform.vhp4safety.nl/
+Description	VHP4Safety platform
+
+Link	https://www.ebi.ac.uk/biostudies/vhp4safety/studies/S-VHPS5
+Description	Associated study
+
+author
+Name	Nathalie Dierichs
+E-mail	nathalie.dierichs@rivm.nl
+Email	nathalie.dierichs@rivm.nl
+Role	Data producer
+<affiliation>	o1
+ORCID	0009-0000-5074-6239
+
+author
+Name	Jente Houweling
+E-mail	jente.houweling@rivm.nl
+ORCID	0009-0005-3680-0645
+Email	jente.houweling@rivm.nl
+Role	Data steward
+<affiliation>	o1
+
+organisation	o1
+Name	Centre for Health Protection, National Institute for Public Health and the Environment (RIVM), Bilthoven, the Netherlands
+
+Funding
+Agency	NWA
+grant_id	1292.19.272
+
+Cell lines[]	Cell line	RRID	Supplier
+	SK-N-AS	CVCL_1700	ATCC
+	MO3.13	CVCL_D357	Cedarlane Laboratories
+
+Chemicals[]	Chemical	CAS	CompoundWikiID
+	BSP (sulfobromophthalein sodium)	123359-42-2	
+	Chlorpyrifos	2921-88-2	Q4722
+	Iopanoic acid	96-83-3	Q1879
+	Silychristin	33889-69-9	Q5049
+	TBBPA	79-94-7	Q82
+	Xanthohumol 	6754-58-1	Q4753
+
+Experimental design[]	Time point	Time point_unit	Replicates	Detection instrument	Instrument manufacturer	Measured entity	Measured entity_unit	Substrate	Endpoint	Endpoint_unit
+	24	hours	2	Waters Acquitytm Premier UPLC + RAMONA star (Elisia Raytest)		AUC (Area under curve)	AUC (Area under curve)	1 nM T3	Conversion of T3 into metabolites T2 and T1	%
+
