@@ -8,7 +8,7 @@ This catalog contains experimental methods and protocols used in VHP4Safety rese
 
 [Request a new method](https://github.com/VHP4Safety/cloud/issues/new/choose) | [Browse all methods](https://github.com/VHP4Safety/cloud/tree/main/docs/methods)
 
-## Available Methods (18)
+## Available Methods (19)
 
 ### AOP Methods
 
@@ -43,6 +43,10 @@ mitochondrial membrane potential assay (Vendor: Thermofisher) [[more information
 #### MitoTracker Deep Red FM assay
 
 Fluorescent-based assay to label mitochondria (Vendor: ThermoFisher Scientific) [[more information](mitotracker_deep_red_fm_assay.md)]
+
+#### Resazurine assay
+
+Fluorometric method to measure cell viability through enzymatic reduction of resazurin to resorufin by viable cells (Vendor: ThermoFisher Scientific) [[more information](resazurine_assay.md)]
 
 ### AOP, Adverse Outcome Methods
 
