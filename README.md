@@ -3,6 +3,10 @@
 Repository to document the services on the VHP4Safety Cloud, see this [index](docs/index.md)
 or the [online website](https://vhp4safety.github.io/cloud/).
 
+## Adding new methods
+* Post an issue requesting a new method
+* For maintainers: add the [`method-approved-for-pr` label](https://github.com/VHP4Safety/cloud/issues?q=is%3Aissue%20state%3Aopen%20label%3Amethod-approved-for-pr) when the generated JSON looks right.
+
 ## Adding new services
 
 * copy the `docs/services/template.json` file and adapt the content to the new service
