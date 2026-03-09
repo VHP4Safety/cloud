@@ -8,7 +8,7 @@ This catalog contains experimental methods and protocols used in VHP4Safety rese
 
 [Request a new method](https://github.com/VHP4Safety/cloud/issues/new/choose) | [Browse all methods](https://github.com/VHP4Safety/cloud/tree/main/docs/methods)
 
-## Available Methods (19)
+## Available Methods (20)
 
 ### AOP Methods
 
@@ -35,6 +35,10 @@ immunofluorescent detection of collagen - 1 (Vendor: Thermofisher) [[more inform
 #### KIM-1 staining
 
 KIM-1 staining is an immunofluorescent staining of kidney injury molecule 1, an protein that is expressed when kidney injury takes place (Vendor: ThermoFisher Scientific) [[more information](kim_1_staining.md)]
+
+#### Lactate assay
+
+Detection of L-lactate in biological samples (Vendor: Sigma-Aldrich) [[more information](lactate_assay.md)]
 
 #### MitoProbe™ JC-1 Assay Kit
 
