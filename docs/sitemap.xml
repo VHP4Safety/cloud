@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- Sitemap created on 2026-02-26 12:11:49.195241. -->
+<!-- Sitemap created on 2026-03-17 11:19:31.623153. -->
 
 <!-- parsing file: docs/service/aop-builder.json -->
 <url>
@@ -249,6 +249,12 @@
 <!-- parsing file: docs/service/r_odaf.json -->
 <url>
   <loc>https://cloud.vhp4safety.nl/service/r_odaf.html</loc>
+  <priority>1.00</priority>
+  <changefreq>weekly</changefreq>
+</url>
+<!-- parsing file: docs/service/robot.json -->
+<url>
+  <loc>https://cloud.vhp4safety.nl/service/robot.html</loc>
   <priority>1.00</priority>
   <changefreq>weekly</changefreq>
 </url>

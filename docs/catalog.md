@@ -303,6 +303,12 @@ An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq
 
 ------------------------
 
+## ROBOT
+
+Research Object Builder for Open Toxicology. [[more information](service/robot.md)]
+
+------------------------
+
 ## SOM Prediction
 
 A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism. [[more information](service/sombie.md)]
