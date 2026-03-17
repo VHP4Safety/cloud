@@ -662,6 +662,23 @@
     "reg_q_3a": "false",
     "reg_q_3b": "false"
   },
+  "robot": {
+    "id": "robot",
+    "service": "ROBOT",
+    "description": "Research Object Builder for Open Toxicology.",
+    "html_name": "robot.html",
+    "md_file_name": "robot.md",
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "Unknown",
+    "main_url": "no_url",
+    "inst_url": "https://robot.vhp4safety.nl/ui",
+    "reg_q_1a": "",
+    "reg_q_1b": "",
+    "reg_q_2a": "",
+    "reg_q_2b": "",
+    "reg_q_3a": "",
+    "reg_q_3b": ""
+  },
   "sombie": {
     "id": "sombie",
     "service": "SOM Prediction",
