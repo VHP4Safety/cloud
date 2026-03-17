@@ -1,0 +1,121 @@
+
+{
+  "id": "robot",
+  "service": "ROBOT",
+  "description": "Research Object Builder for Open Toxicology.",
+  "stage": "",
+  "substage": "",
+  "screenshot": "",
+  "url": "",
+  "doi": "",
+  "release_notes": "",
+  "instance": {
+    "type": "internal",
+    "vhp-platform": "development",
+    "url": "https://robot.vhp4safety.nl/ui",
+    "license": "MIT",
+    "version": "1.0",
+    "source": "https://github.com/abhishek-chattopadhyay/robot",
+    "docker": "",
+    "TRL": ""
+  },
+
+  "provider": {
+    "contact": {
+      "name": "Abhishek Chattopadhyay ",
+      "email": "a.chattopadhyay@maastrichtuniversity.nl"
+    },
+
+    "name": "Maastricht University",
+    "url": "https://www.maastrichtuniversity.nl/"
+  },
+
+  "access": {
+    "API": "",
+    "login": "No",
+    "packages": {
+      "R": "",
+      "Python": ""
+    }
+  },
+
+  "intro": {
+    "title": "Introduction to Research Object Builder for Open Toxicology (ROBOT)",
+    "url": "https://github.com/abhishek-chattopadhyay/robot/blob/main/README.md"
+  },
+
+  "demo": {
+    "title": "",
+    "url": ""
+  },
+
+  "workflow": {
+    "title": "",
+    "url": ""
+  },
+
+  "_ins_ELIXIR": "Information regarding sources available on ELIXIR.",
+  "ELIXIR": {
+    "biotools": "",
+    "tess": "",
+    "fairsharing": ""
+  },
+
+  "Other": {
+    "wikipedia": "",
+    "rsd": ""
+  },
+
+
+  "_ins_NAM-validation": "Information about NAM validation stage as described in the 2017 RIVM report (https://www.rivm.nl/documenten/landschap-3v-methoden-risicobeoordeling-chemische-stoffen), Answer whether the service has completed the stage using as 'yes' or 'no'.",
+  "NAM-validation": {
+    "_ins_NAM-stage1": "Stage 1: Research & development.",
+    "NAM-stage-1": "",
+
+    "_ins_NAM-stage2": "Stage 2: Validation.",
+    "NAM-stage-2": "",
+
+    "_ins_NAM-stage3": "Stage 3: Evaluation.",
+    "NAM-stage-3": "",
+
+    "_ins_NAM-stage4": "Stage 4: Acceptation.",
+    "NAM-stage-4": "",
+
+    "_ins_NAM-stage5": "Stage 5: Implementation.",
+    "NAM-stage-5": ""
+  },
+
+  "_ins_VHP-persona": "Whether the service is used by one or more of the VHP persona's. Answer as 'true' or 'false' (e.g., persona-1: 'true' to attribute a service to a persona).",
+  "VHP-persona": {
+    "persona-1": "",
+    "persona-2": "",
+    "persona-3": ""
+  },
+
+  "_ins_regulatory-question": "Whether the service is relevant to any of the regulatory questions (https://docs.vhp4safety.nl/en/latest/introduction/case_studies_and_regulatory_questions.html). Answer either 'true' or 'false'",
+  "regulatory-question": {
+    "_cs_1": "Kidney case study",
+    
+    "_ins_1a": "1a: What is a safe dose for cisplatin/tacrolimus in patients with respect to chronic kidney disease?",
+    "1a": "",
+
+    "_ins_1b": "1b: How can we take into account variability in activity/expression of P-gp in patients that underwent a transplantation?",
+    "1b": "",
+
+    "_cs_2": "Parkinson case study",
+    
+    "_ins_2a": "2a: Can compound X cause Parkinson’s Disease?",
+    "2a": "",
+
+    "_ins_2b": "2b: Can we identify groups at extra risk to develop Parkinson’s Disease after exposure to compound X?",
+    "2b": "",
+
+    "_cs_3": "Thyroid Hormone Case Study",
+    
+    "_ins_3a": "3a: What information about a substance do we need to give an advice to women in their early pregnancy to decide whether the substance can be used?",
+    "3a": "",
+
+    "_ins_3b": "3b: Does compound X influence the thyroid-mediated brain development in the fetus resulting in cognitive impairment in children?",
+    "3b": ""
+  }
+}
