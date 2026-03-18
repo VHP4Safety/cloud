@@ -5,6 +5,7 @@
   "description": "A collection of ontology with names, abrreviations and definitions of the terminology that is used within the VHP4Safety project.",
   "stage": "Other",
   "substage": "Other",
+  "screenshot": "vhp_glossary.png",
   "url": "https://glossary.vhp4safety.nl/",
   "doi": "10.14573/altex.2407211",
   "release_notes": "https://github.com/VHP4Safety/glossary/commits/main/",
@@ -17,11 +18,11 @@
   },
   "provider": {
     "contact": {
-      "name": "Ozan Cinar",
-      "email": "ozan.cinar@maastrichtuniversity.nl"
+      "name": "VHP4Safety",
+      "email": "vhp4safety@uu.nl"
     },
-    "name": "The Department of Translational Genomics, Maastricht University",
-    "url": "https://www.maastrichtuniversity.nl/research/translational-genomics"
+    "name": "VHP4Safety Project",
+    "url": "https://vhp4safety.nl/"
   },
   "access": {
     "login": "no"
