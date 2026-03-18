@@ -337,6 +337,8 @@ An online application for implementation of weighted gene co-expression network 
 
 ------------------------
 
+![VHP4Safety Glossary logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/vhp_glossary.png)
+
 ## VHP4Safety Glossary
 
 A collection of ontology with names, abrreviations and definitions of the terminology that is used within the VHP4Safety project. [[more information](service/vhp_glossary.md)]
