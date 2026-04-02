@@ -9,7 +9,7 @@
   "instance": {
     "type": "external",
     "license": "GNU General Public License v3.0",
-    "url": "http://flame.cloud.vhp4safety.nl:8098/",
+    "url": "http://flame.cloud.vhp4safety.nl/",
     "version": "1.2.0",
     "source": "https://github.com/phi-grib/flame",
     "docker": "https://hub.docker.com/r/mpastorphi/flame"
