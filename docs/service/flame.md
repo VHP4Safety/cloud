@@ -8,7 +8,7 @@ An open source web application for building predictive models from biologically 
 
 **Main Webpage:** [https://phi.upf.edu/phi/index.php/software/flame/](https://phi.upf.edu/phi/index.php/software/flame/)
 
-**Tool Webpage:** [http://flame.cloud.vhp4safety.nl:8098/](http://flame.cloud.vhp4safety.nl:8098/)
+**Tool Webpage:** [http://flame.cloud.vhp4safety.nl/](http://flame.cloud.vhp4safety.nl/)
 
 ## Contact
 
@@ -55,7 +55,7 @@ An open source web application for building predictive models from biologically 
 
 * Sub-Stage: 
 
-* Development Cloud: [http://flame.cloud.vhp4safety.nl:8098/](http://flame.cloud.vhp4safety.nl:8098/) 
+* Development Cloud: [http://flame.cloud.vhp4safety.nl/](http://flame.cloud.vhp4safety.nl/) 
 
 * Login Required: Not available
 
@@ -103,6 +103,6 @@ An open source web application for building predictive models from biologically 
     "@id" : "https://vhp4safety.github.io/cloud/service/flame",
     "name": "Flame",
     "description": "An open source web application for building predictive models from biologically annotated chemical structures using predefined workflows.",
-    "url": "http://flame.cloud.vhp4safety.nl:8098/"
+    "url": "http://flame.cloud.vhp4safety.nl/"
   }
 </script>
