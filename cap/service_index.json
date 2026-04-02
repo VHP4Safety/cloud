@@ -382,7 +382,7 @@
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
     "main_url": "https://phi.upf.edu/phi/index.php/software/flame/",
-    "inst_url": "http://flame.cloud.vhp4safety.nl:8098/",
+    "inst_url": "http://flame.cloud.vhp4safety.nl/",
     "reg_q_1a": "false",
     "reg_q_1b": "false",
     "reg_q_2a": "false",
