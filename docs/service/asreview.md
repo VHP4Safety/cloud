@@ -50,7 +50,7 @@ Open-source active-learning software for transparent and efficient systematic li
 
 ## VHP4Safety Service Metadata
 
-* Stage: Other
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000053
 

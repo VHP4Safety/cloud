@@ -52,7 +52,7 @@ A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000156
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 

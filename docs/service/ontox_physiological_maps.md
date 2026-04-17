@@ -51,9 +51,9 @@ Maps for illustrating biological processes behind toxicological risks using a st
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000156
+* Stage: Not available
 
-* Sub-Stage: 
+* Sub-Stage: Not available
 
 * Development Cloud: Not available
 

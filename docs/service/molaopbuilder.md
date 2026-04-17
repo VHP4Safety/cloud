@@ -53,7 +53,7 @@ A web application for mapping Key Events from Adverse Outcome Pathways to WikiPa
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000156
+* Stage: 
 
 * Sub-Stage: 
 

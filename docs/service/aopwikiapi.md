@@ -53,7 +53,7 @@ A REST API for creating and accessing content in the AOP-Wiki database.
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000156
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 

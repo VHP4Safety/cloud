@@ -51,7 +51,7 @@ An online database from the NIH Office of Dietary Supplements that lets you expl
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000154
+* Stage: external exposure
 
 * Sub-Stage: compound characteristics
 

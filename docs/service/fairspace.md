@@ -52,7 +52,7 @@ An open source RDF-based data management platform for importing and exporting re
 
 ## VHP4Safety Service Metadata
 
-* Stage: Other
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000049
 

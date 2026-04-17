@@ -52,7 +52,7 @@ An online service for analyzing transcriptomic data in the context of molecular 
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000156
+* Stage: 
 
 * Sub-Stage: 
 

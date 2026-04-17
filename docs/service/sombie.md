@@ -51,7 +51,7 @@ A webservice for prediction of protein-structure and reactivity based (P450) sit
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000155
+* Stage: https://vhp4safety.github.io/glossary#VHP0000056
 
 * Sub-Stage: 
 

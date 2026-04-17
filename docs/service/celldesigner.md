@@ -52,7 +52,7 @@ An intuitive user interface for creating gene-regulatory and biochemical network
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000156
+* Stage: https://vhp4safety.github.io/glossary#VHP0000102
 
 * Sub-Stage: 
 

@@ -53,7 +53,7 @@ A webservice for generating chemical structure images from SMILES inputs.
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000153
+* Stage: https://vhp4safety.github.io/glossary#VHP0000149
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
