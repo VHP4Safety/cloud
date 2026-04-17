@@ -2,7 +2,7 @@
   "id": "aop-builder",
   "service": "AOP-Builder",
   "description": "A tool that supports Adverse Outcome Pathway (AOP) development by extracting key scientific entities and their relationships from literature.",
-  "stage":"https://vhp4safety.github.io/glossary#VHP0000102",
+  "stage":"https://vhp4safety.github.io/glossary#VHP0000156",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "url": "https://crebuilder.vhp4safety.nl",
   "instance": {

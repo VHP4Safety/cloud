@@ -3,7 +3,7 @@
   "id": "toxtemp_assistant",
   "service": "ToxTempAssistant",
   "description": "An online tool for harmonizing in vitro toxicity test methods using Large Language Models, based on the ToxTemp template where it extracts details from protocols, publications or lab notes to create structured draft responses.",
-  "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+  "stage": "Other",
   "substage": "",
   "screenshot": "toxtemp_assistant.png",
   "url": "https://toxtempassistant.vhp4safety.nl/",

@@ -2,7 +2,7 @@
   "id": "asreview",
   "service": "ASReview",
   "description": "Open-source active-learning software for transparent and efficient systematic literature reviews.",
-  "stage": "https://vhp4safety.github.io/glossary#VHP0000149",
+  "stage": "Other",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000053",
   "url": "https://asreview.nl/",
   "doi": "10.1038/s42256-020-00287-7",

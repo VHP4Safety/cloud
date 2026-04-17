@@ -2,7 +2,7 @@
   "id": "ema_documents",
   "service": "European Medicines Agency Documents",
   "description": "An online repository for inventarisation of official reports from the European Medicines Agency concerning chemical evaluation and safety monitoring.",
-  "stage": "external exposure",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000154",
   "substage": "compound characteristics",
   "screenshot": "ema_documents.png",
   "url": "https://www.ema.europa.eu/en/search",

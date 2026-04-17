@@ -3,7 +3,7 @@
   "id": "endocrine_disruptome",
   "service": "Endocrine Disruptome",
   "description": "An open source, user friendly and web based prediction tool that uses molecular docking to predict binding of compounds to 14 different nuclear receptors.",
-  "stage": "",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
   "substage": "",
   "screenshot": "",
   "url": "http://endocrinedisruptome.ki.si/",

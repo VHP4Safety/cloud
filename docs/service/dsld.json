@@ -5,7 +5,7 @@
   "service": "NIH Dietary Supplement Label Database",
   "description": "An online database from the NIH Office of Dietary Supplements that lets you explore information from more than 200,000 dietary supplement labels sold in the United States.",
 
-  "stage": "external exposure",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000154",
   "substage": "compound characteristics",
 
   "url": "https://dsld.od.nih.gov/",
