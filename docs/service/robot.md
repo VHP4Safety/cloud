@@ -51,7 +51,7 @@ Research Object Builder for Open Toxicology.
 
 ## VHP4Safety Service Metadata
 
-* Stage: 
+* Stage: Other
 
 * Sub-Stage: 
 

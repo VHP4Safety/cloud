@@ -52,7 +52,7 @@ An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq
 
 ## VHP4Safety Service Metadata
 
-* Stage: Toxicodynamics/AOP
+* Stage: Other
 
 * Sub-Stage: Transcriptomics / Differential Expression
 

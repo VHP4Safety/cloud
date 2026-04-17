@@ -50,9 +50,9 @@ A Java library for chem- and bioinformatics, with functionality to read/write ch
 
 ## VHP4Safety Service Metadata
 
-* Stage: Not available
+* Stage: https://vhp4safety.github.io/glossary#VHP0000153
 
-* Sub-Stage: Not available
+* Sub-Stage: 
 
 * Development Cloud: Not available
 

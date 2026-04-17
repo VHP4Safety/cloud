@@ -51,7 +51,7 @@ Online search engine for Google.
 
 ## VHP4Safety Service Metadata
 
-* Stage: generic
+* Stage: Other
 
 * Sub-Stage: mechanisms of toxicity / compound characteristics
 
