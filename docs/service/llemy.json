@@ -8,7 +8,7 @@
   "release_notes": "2025-09-02: Pilot instance; added disclaimer & license surfacing; streamlined login/API-key flow.",
   "instance": {
     "type": "pilot",
-    "deployment_docs": "https://github.com/ontox-project/Llemy"
+    "deployment_docs": "https://github.com/ontox-project/Llemy",
     "vhp-platform": "independent",
     "url": "https://llemy.vhp4safety.nl/",
     "license": "Apache-2.0",
