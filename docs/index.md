@@ -199,7 +199,7 @@ Desktop software to visualize, edit, and draw new pathways, which can be exporte
 
 #### SysRev
 
-An online (proprietary) service for literature review, data extraction and systematic review; consider ASReview as the preferred open-source alternative. [[more information](service/sysrev.md)]
+An online service for conduction of literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
 
 ------------------------------------------
 
