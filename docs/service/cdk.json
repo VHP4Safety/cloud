@@ -5,6 +5,10 @@
   "stage": "https://vhp4safety.github.io/glossary#VHP0000153",
   "url": "http://cdk.github.io/",
   "doi": "10.1186/s13321-017-0220-4",
+  "instance": {
+    "type": "external",
+    "url": "http://cdk.github.io/"
+  },
   "provider": {
     "contact": {
       "name": "Egon Willighagen",

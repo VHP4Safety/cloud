@@ -101,10 +101,6 @@ A webservice for prediction of protein-structure and reactivity based (P450) sit
 
 An online tool for harmonizing in vitro toxicity test methods using Large Language Models, based on the ToxTemp template where it extracts details from protocols, publications or lab notes to create structured draft responses. [[more information](service/toxtemp_assistant.md)]
 
-#### TXG-MAPr
-
-An online application for implementation of weighted gene co-expression network analysis (WGCNA) derived from publicly available transcriptomic datasets from the TG-GATEs database. [[more information](service/txg_mapr.md)]
-
 #### VHP4Safety Glossary
 
 A collection of ontology with names, abrreviations and definitions of the terminology that is used within the VHP4Safety project. [[more information](service/vhp_glossary.md)]
@@ -112,10 +108,6 @@ A collection of ontology with names, abrreviations and definitions of the termin
 #### VHP4Safety Wikibase
 
 A Wikibase instance for storing and presenting information about toxic, safe and potentially toxic compounds related to the VHP4Safety project. [[more information](service/wikibase.md)]
-
-#### WikiPathways - AOP Portal
-
-An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecular basis of AOPs and their key events (KEs). [[more information](service/wikipathways_aop.md)]
 
 #### xploreaop
 
@@ -132,6 +124,10 @@ Open-source active-learning software for transparent and efficient systematic li
 #### BMDExpress-3
 
 A software tool for high-dimensional dose-response modeling and analysis. [[more information](service/bmdexpress_3.md)]
+
+#### The Chemistry Development Kit
+
+A Java library for chem- and bioinformatics, with functionality to read/write chemical structures, calculate molecular descriptors, physicochemical properties, substructure and similarity searching, and much more. [[more information](service/cdk.md)]
 
 #### CellDesigner
 
@@ -200,6 +196,14 @@ Desktop software to visualize, edit, and draw new pathways, which can be exporte
 #### SysRev
 
 An online service for conduction of literature review, data extraction and systematic review. [[more information](service/sysrev.md)]
+
+#### TXG-MAPr
+
+An online application for implementation of weighted gene co-expression network analysis (WGCNA) derived from publicly available transcriptomic datasets from the TG-GATEs database. [[more information](service/txg_mapr.md)]
+
+#### WikiPathways - AOP Portal
+
+An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecular basis of AOPs and their key events (KEs). [[more information](service/wikipathways_aop.md)]
 
 ------------------------------------------
 

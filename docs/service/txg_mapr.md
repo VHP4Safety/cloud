@@ -9,6 +9,7 @@ An online application for implementation of weighted gene co-expression network 
 
 **Main Webpage:** [https://txg-mapr.eu/](https://txg-mapr.eu/)
 
+**Tool Webpage:** [https://txg-mapr.eu/](https://txg-mapr.eu/)
 
 ## Contact
 
@@ -56,13 +57,13 @@ An online application for implementation of weighted gene co-expression network 
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000018
 
-* Development Cloud: Not available
+* Development Cloud: [https://txg-mapr.eu/](https://txg-mapr.eu/) 
 
 * Login Required: Yes
 
 * TRL: Not available
 
-* Type: internal
+* Type: external
 
 * API Type: Not available
 
@@ -104,6 +105,6 @@ An online application for implementation of weighted gene co-expression network 
     "@id" : "https://vhp4safety.github.io/cloud/service/txg_mapr",
     "name": "TXG-MAPr",
     "description": "An online application for implementation of weighted gene co-expression network analysis (WGCNA) derived from publicly available transcriptomic datasets from the TG-GATEs database.",
-    "url": ""
+    "url": "https://txg-mapr.eu/"
   }
 </script>

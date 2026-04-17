@@ -9,6 +9,7 @@
   "doi": "10.1371/journal.pcbi.1004085",
   "instance": {
     "type": "external",
+    "url": "https://pathvisio.org/",
     "license": "Apache-2.0 license",
     "version": "3.3",
     "source": "https://github.com/PathVisio/pathvisio"

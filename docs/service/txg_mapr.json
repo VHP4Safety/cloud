@@ -8,8 +8,9 @@
   "url": "https://txg-mapr.eu/",
   "doi": "10.1007/s00204-021-03141-w",
   "instance": {
-    "type": "internal",
+    "type": "external",
     "vhp-platform": "External",
+    "url": "https://txg-mapr.eu/",
     "license": "Proprietary"
   },
   "provider": {

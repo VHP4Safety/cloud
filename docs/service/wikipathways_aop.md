@@ -9,6 +9,7 @@ An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecu
 
 **Main Webpage:** [https://aop.wikipathways.org/](https://aop.wikipathways.org/)
 
+**Tool Webpage:** [https://aop.wikipathways.org/](https://aop.wikipathways.org/)
 
 ## Contact
 
@@ -56,13 +57,13 @@ An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecu
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: []() 
+* Development Cloud: [https://aop.wikipathways.org/](https://aop.wikipathways.org/) 
 
 * Login Required: No
 
 * TRL: 
 
-* Type: internal
+* Type: external
 
 * API Type: SPARQL
 
@@ -104,6 +105,6 @@ An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecu
     "@id" : "https://vhp4safety.github.io/cloud/service/wikipathways_aop",
     "name": "WikiPathways - AOP Portal",
     "description": "An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecular basis of AOPs and their key events (KEs).",
-    "url": ""
+    "url": "https://aop.wikipathways.org/"
   }
 </script>

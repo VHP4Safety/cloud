@@ -8,6 +8,7 @@ A Java library for chem- and bioinformatics, with functionality to read/write ch
 
 **Main Webpage:** [http://cdk.github.io/](http://cdk.github.io/)
 
+**Tool Webpage:** [http://cdk.github.io/](http://cdk.github.io/)
 
 ## Contact
 
@@ -54,13 +55,13 @@ A Java library for chem- and bioinformatics, with functionality to read/write ch
 
 * Sub-Stage: 
 
-* Development Cloud: Not available
+* Development Cloud: [http://cdk.github.io/](http://cdk.github.io/) 
 
 * Login Required: Not available
 
 * TRL: Not available
 
-* Type: Not available
+* Type: external
 
 * API Type: Not available
 
@@ -102,6 +103,6 @@ A Java library for chem- and bioinformatics, with functionality to read/write ch
     "@id" : "https://vhp4safety.github.io/cloud/service/cdk",
     "name": "The Chemistry Development Kit",
     "description": "A Java library for chem- and bioinformatics, with functionality to read/write chemical structures, calculate molecular descriptors, physicochemical properties, substructure and similarity searching, and much more.",
-    "url": ""
+    "url": "http://cdk.github.io/"
   }
 </script>

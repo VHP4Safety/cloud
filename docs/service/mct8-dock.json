@@ -7,9 +7,9 @@
   "url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing",
   "doi": "",
   "instance": {
-    "type": "External",
+    "type": "internal",
     "vhp-platform": "Development",
-    "url": "",
+    "url": "https://mct8-docking.vhp4safety.nl/#docking",
     "TRL": ""
   },
   "intro": {

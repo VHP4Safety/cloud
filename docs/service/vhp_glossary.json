@@ -13,6 +13,7 @@
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
+    "url": "https://glossary.vhp4safety.nl/",
     "license": "CC-BY 4.0 International",
     "source": "https://github.com/VHP4Safety/glossary"
   },

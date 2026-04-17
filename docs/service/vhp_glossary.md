@@ -9,6 +9,7 @@ A collection of ontology with names, abrreviations and definitions of the termin
 
 **Main Webpage:** [https://glossary.vhp4safety.nl/](https://glossary.vhp4safety.nl/)
 
+**Tool Webpage:** [https://glossary.vhp4safety.nl/](https://glossary.vhp4safety.nl/)
 
 ## Contact
 
@@ -56,7 +57,7 @@ A collection of ontology with names, abrreviations and definitions of the termin
 
 * Sub-Stage: Other
 
-* Development Cloud: Not available
+* Development Cloud: [https://glossary.vhp4safety.nl/](https://glossary.vhp4safety.nl/) 
 
 * Login Required: no
 
@@ -104,6 +105,6 @@ A collection of ontology with names, abrreviations and definitions of the termin
     "@id" : "https://vhp4safety.github.io/cloud/service/vhp_glossary",
     "name": "VHP4Safety Glossary",
     "description": "A collection of ontology with names, abrreviations and definitions of the terminology that is used within the VHP4Safety project.",
-    "url": ""
+    "url": "https://glossary.vhp4safety.nl/"
   }
 </script>
