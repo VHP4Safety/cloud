@@ -3,7 +3,7 @@
   "id": "oqt_assistant",
   "service": "O-QT — OECD QSAR Toolbox AI Assistant",
   "description": "An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess hazards and generate AI-based summary reports.",
-  "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000153",
   "substage": "prototype",
   "screenshot": "oqt_assistant.png",
   "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant",

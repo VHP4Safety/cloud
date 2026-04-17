@@ -2,7 +2,7 @@
   "id": "aopsuite",
   "service": "AOP-Suite",
   "description": "A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway (AOP) networks.",
-  "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "aopsuite.png",
   "url": "",

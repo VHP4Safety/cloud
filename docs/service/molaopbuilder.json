@@ -15,7 +15,7 @@
   "description": "A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings.",
 
   "_ins_stage": "Stage / place in the workflow categories",
-  "stage": "",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
 
   "_ins_substage": "Substage for the category",
   "substage": "",

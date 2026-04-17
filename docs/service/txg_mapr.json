@@ -2,7 +2,7 @@
   "id": "txg_mapr",
   "service": "TXG-MAPr",
   "description": "An online application for implementation of weighted gene co-expression network analysis (WGCNA) derived from publicly available transcriptomic datasets from the TG-GATEs database.",
-  "stage":"https://vhp4safety.github.io/glossary#VHP0000102",
+  "stage":"https://vhp4safety.github.io/glossary#VHP0000156",
   "substage": "https://vhp4safety.github.io/glossary#VHP0000018",  
   "screenshot": "txg_mapr.png",
   "url": "https://txg-mapr.eu/",

@@ -2,6 +2,7 @@
   "id": "copasi",
   "service": "COPASI",
   "description": "An open-source software for simulating, analyzing and visualizing biochemical networks using a wide range of methods.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
   "screenshot": "copasi.png",
   "url": "http://copasi.org/",
   "provider": {

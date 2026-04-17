@@ -2,7 +2,7 @@
   "id": "mct8-dock",
   "service": "MCT8 Docking for MIE Discovery",
   "description": "A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation.",
-  "stage": "",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
   "substage": "", 
   "url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing",
   "doi": "",

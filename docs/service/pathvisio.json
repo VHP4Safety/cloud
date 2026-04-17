@@ -3,6 +3,7 @@
   "id": "pathvisio",
   "service": "PathVisio",
   "description": "Desktop software to visualize, edit, and draw new pathways, which can be exported in the GPML format, for example, to WikiPathways.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
   "screenshot": "pcbi.1004085.g004.png",
   "url": "https://pathvisio.org/",
   "doi": "10.1371/journal.pcbi.1004085",

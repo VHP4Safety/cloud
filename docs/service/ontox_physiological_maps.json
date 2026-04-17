@@ -2,6 +2,7 @@
   "id": "ontox_physiological_maps",
   "service": "ONTOX Physiological Maps",
   "description": "Maps for illustrating biological processes behind toxicological risks using a standardized graphical notation.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
   "url": "https://sites.google.com/view/ontox-maps/home",
   "doi": "10.14573/altex.2412241",
   "instance": {
