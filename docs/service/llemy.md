@@ -73,7 +73,7 @@ An online tool for answering questions about lipid metabolism and related toxico
 
 ## Technical Tool Specifications
 
-* Citation: Not available
+* Citation: [10.64898/2026.03.10.710813](https://doi.org/10.64898/2026.03.10.710813)
 
 * Version: 0.1.0
 
