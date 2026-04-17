@@ -61,6 +61,10 @@ A framework for mapping identifiers across biological databases and related sour
 
 A webservice for generating chemical structure images from SMILES inputs. [[more information](service/cdkdepict.md)]
 
+#### MCT8 Docking for MIE Discovery
+
+A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation. [[more information](service/mct8-dock.md)]
+
 #### MolAOP analyser
 
 An online service for analyzing transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs), supporting data upload or demo datasets for gene selection, visualization and Key Event (KE) enrichment analysis. [[more information](service/molaopanalyser.md)]
@@ -176,10 +180,6 @@ An online search engine for (scientific) literature. [[more information](service
 #### Llemy
 
 An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries. [[more information](service/llemy.md)]
-
-#### MCT8 Docking for MIE Discovery
-
-A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation. [[more information](service/mct8-dock.md)]
 
 #### The OECD QSAR Toolbox
 

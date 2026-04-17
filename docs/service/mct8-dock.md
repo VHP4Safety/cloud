@@ -8,7 +8,7 @@ A Python-based notebook for identifying potential MCT8 inhibitors and related mo
 
 **Main Webpage:** [https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing](https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing)
 
-**Tool Webpage:** [https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing](https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing)
+**Tool Webpage:** [https://mct8-docking.vhp4safety.nl/#docking](https://mct8-docking.vhp4safety.nl/#docking)
 
 ## Contact
 
@@ -56,13 +56,13 @@ A Python-based notebook for identifying potential MCT8 inhibitors and related mo
 
 * Sub-Stage: 
 
-* Development Cloud: [https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing](https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing) 
+* Development Cloud: [https://mct8-docking.vhp4safety.nl/#docking](https://mct8-docking.vhp4safety.nl/#docking) 
 
 * Login Required: No
 
 * TRL: 
 
-* Type: External
+* Type: internal
 
 * API Type: Not available
 
@@ -104,6 +104,6 @@ A Python-based notebook for identifying potential MCT8 inhibitors and related mo
     "@id" : "https://vhp4safety.github.io/cloud/service/mct8-dock",
     "name": "MCT8 Docking for MIE Discovery",
     "description": "A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation.",
-    "url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing"
+    "url": "https://mct8-docking.vhp4safety.nl/#docking"
   }
 </script>
