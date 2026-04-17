@@ -444,7 +444,7 @@
   "llemy": {
     "id": "llemy",
     "service": "Llemy",
-    "description": "An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries.",
+    "description": "An agent system for answering specialized questions on physiological maps by combining structured knowledge from user-selected MINERVA API maps. Llemy is a prototype application that provides an interface for querying and retrieving information from MINERVA project maps. It uses a two-agent workflow: Minerva Agent: Fetches and processes the full map data from a user-selected MINERVA project. Synthesis Agent: Generates an answer to the user question based on the map data.",
     "html_name": "llemy.html",
     "md_file_name": "llemy.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
