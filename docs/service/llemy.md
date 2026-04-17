@@ -11,7 +11,7 @@ An online tool for answering questions about lipid metabolism and related toxico
 
 ## Contact
 
-**Contact Person(s):** Marie Corradi (marie.corradi@hu.nl)
+**Contact Person(s):** Marc Teunis (marc.teunis@hu.nl)
 
 **Provider Institute:** [Hogeschool Utrecht](https://www.hu.nl/)
 
