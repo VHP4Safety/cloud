@@ -699,7 +699,7 @@
   "sysrev": {
     "id": "sysrev",
     "service": "SysRev",
-    "description": "An online (proprietary) service for literature review, data extraction and systematic review; consider ASReview as the preferred open-source alternative.",
+    "description": "An online service for conduction of literature review, data extraction and systematic review.",
     "html_name": "sysrev.html",
     "md_file_name": "sysrev.md",
     "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
