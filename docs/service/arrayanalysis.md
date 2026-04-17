@@ -53,7 +53,7 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 
 ## VHP4Safety Service Metadata
 
-* Stage: NA
+* Stage: Other
 
 * Sub-Stage: NA
 

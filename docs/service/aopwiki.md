@@ -53,7 +53,7 @@ A graphical interface for creating, preloading and exporting SPARQL queries tail
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000102
+* Stage: https://vhp4safety.github.io/glossary#VHP0000156
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 

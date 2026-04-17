@@ -52,7 +52,7 @@ A web-accessible registry for managing, sharing and organising research data and
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000149
+* Stage: Other
 
 * Sub-Stage: 
 

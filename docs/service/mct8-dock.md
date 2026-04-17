@@ -51,7 +51,7 @@ A Python-based notebook for identifying potential MCT8 inhibitors and related mo
 
 ## VHP4Safety Service Metadata
 
-* Stage: 
+* Stage: https://vhp4safety.github.io/glossary#VHP0000156
 
 * Sub-Stage: 
 

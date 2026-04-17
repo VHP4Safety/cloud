@@ -52,9 +52,9 @@ Desktop software to visualize, edit, and draw new pathways, which can be exporte
 
 ## VHP4Safety Service Metadata
 
-* Stage: Not available
+* Stage: https://vhp4safety.github.io/glossary#VHP0000156
 
-* Sub-Stage: Not available
+* Sub-Stage: 
 
 * Development Cloud: Not available
 
