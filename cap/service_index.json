@@ -441,6 +441,23 @@
     "reg_q_3a": "false",
     "reg_q_3b": "false"
   },
+  "llemy": {
+    "id": "llemy",
+    "service": "Llemy",
+    "description": "An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries.",
+    "html_name": "llemy.html",
+    "md_file_name": "llemy.md",
+    "png_file_name": "https://github.com/VHP4Safety/ui-design/blob/main/static/images/logo.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000102",
+    "main_url": "no_url",
+    "inst_url": "https://llemy.vhp4safety.nl/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "true",
+    "reg_q_2b": "true",
+    "reg_q_3a": "false",
+    "reg_q_3b": "true"
+  },
   "mct8-dock": {
     "id": "mct8-dock",
     "service": "MCT8 Docking for MIE Discovery",
