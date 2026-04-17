@@ -9,6 +9,7 @@ Desktop software to visualize, edit, and draw new pathways, which can be exporte
 
 **Main Webpage:** [https://pathvisio.org/](https://pathvisio.org/)
 
+**Tool Webpage:** [https://pathvisio.org/](https://pathvisio.org/)
 
 ## Contact
 
@@ -56,7 +57,7 @@ Desktop software to visualize, edit, and draw new pathways, which can be exporte
 
 * Sub-Stage: 
 
-* Development Cloud: Not available
+* Development Cloud: [https://pathvisio.org/](https://pathvisio.org/) 
 
 * Login Required: no
 
@@ -104,6 +105,6 @@ Desktop software to visualize, edit, and draw new pathways, which can be exporte
     "@id" : "https://vhp4safety.github.io/cloud/service/pathvisio",
     "name": "PathVisio",
     "description": "Desktop software to visualize, edit, and draw new pathways, which can be exported in the GPML format, for example, to WikiPathways.",
-    "url": ""
+    "url": "https://pathvisio.org/"
   }
 </script>

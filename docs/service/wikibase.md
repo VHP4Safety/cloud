@@ -9,6 +9,7 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 
 **Main Webpage:** [https://compoundcloud.wikibase.cloud/](https://compoundcloud.wikibase.cloud/)
 
+**Tool Webpage:** [https://compoundcloud.wikibase.cloud/](https://compoundcloud.wikibase.cloud/)
 
 ## Contact
 
@@ -56,7 +57,7 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 
-* Development Cloud: Not available
+* Development Cloud: [https://compoundcloud.wikibase.cloud/](https://compoundcloud.wikibase.cloud/) 
 
 * Login Required: No
 
@@ -104,6 +105,6 @@ A Wikibase instance for storing and presenting information about toxic, safe and
     "@id" : "https://vhp4safety.github.io/cloud/service/wikibase",
     "name": "VHP4Safety Wikibase",
     "description": "A Wikibase instance for storing and presenting information about toxic, safe and potentially toxic compounds related to the VHP4Safety project.",
-    "url": ""
+    "url": "https://compoundcloud.wikibase.cloud/"
   }
 </script>
