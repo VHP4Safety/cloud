@@ -52,7 +52,7 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 
 ## VHP4Safety Service Metadata
 
-* Stage: https://vhp4safety.github.io/glossary#VHP0000149
+* Stage: Other
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000148
 

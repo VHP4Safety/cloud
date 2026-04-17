@@ -51,7 +51,7 @@ An online search engine for (scientific) literature.
 
 ## VHP4Safety Service Metadata
 
-* Stage: generic
+* Stage: Other
 
 * Sub-Stage: mechanisms of toxicity / compound characteristics
 

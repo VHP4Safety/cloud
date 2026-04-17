@@ -52,7 +52,7 @@ An online repository for inventarisation of official reports from the European M
 
 ## VHP4Safety Service Metadata
 
-* Stage: external exposure
+* Stage: https://vhp4safety.github.io/glossary#VHP0000154
 
 * Sub-Stage: compound characteristics
 
