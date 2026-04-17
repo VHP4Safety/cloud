@@ -34,6 +34,9 @@
 
   "instance": {
 
+    "_ins_deployment_docs": "Where are the deployment instructions located?",
+    "deployment_docs": "",
+
     "_ins_type": "Whether the instance 'internal' or 'external'",
     "type": "",
 
