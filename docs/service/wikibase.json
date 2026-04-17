@@ -8,7 +8,8 @@
   "url": "https://compoundcloud.wikibase.cloud/",
   "doi": "10.5281/zenodo.13864849",
   "instance": {
-    "type": "internal"
+    "type": "internal",
+    "url": "https://compoundcloud.wikibase.cloud/"
   },
   "provider": {
     "contact": {
