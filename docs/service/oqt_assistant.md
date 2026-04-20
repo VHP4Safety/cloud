@@ -9,7 +9,6 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 **Main Webpage:** [https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant](https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant)
 
-**Tool Webpage:** [https://o-qt-oecd.vhp4safety.nl/](https://o-qt-oecd.vhp4safety.nl/)
 
 ## Contact
 
@@ -57,7 +56,7 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 * Sub-Stage: prototype
 
-* Development Cloud: [https://o-qt-oecd.vhp4safety.nl/](https://o-qt-oecd.vhp4safety.nl/) 
+* Development Cloud: []() 
 
 * Login Required: Requires a locally installed OECD QSAR Toolbox with Web API enabled on Windows; set QSAR_TOOLBOX_API_URL. Provide an OpenAI API key for AI analysis.
 
@@ -105,6 +104,6 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
     "@id" : "https://vhp4safety.github.io/cloud/service/oqt_assistant",
     "name": "O-QT — OECD QSAR Toolbox AI Assistant",
     "description": "An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess hazards and generate AI-based summary reports.",
-    "url": "https://o-qt-oecd.vhp4safety.nl/"
+    "url": ""
   }
 </script>
