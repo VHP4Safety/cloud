@@ -12,7 +12,7 @@
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
-    "url": "https://o-qt-oecd.vhp4safety.nl/",
+    "url": "",
     "license": "Apache-2.0",
     "version": "0.1.0",
     "source": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant",
