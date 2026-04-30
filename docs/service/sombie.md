@@ -6,9 +6,8 @@
 A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism.
 
 
-**Main Webpage:** [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)
 
-**Tool Webpage:** [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/)
+**Tool Webpage:** [https://colab.research.google.com/github/VHP4Safety/vhp4safety-docs/blob/main/tutorials/sombie/site_of_metabolism_prediction.ipynb](https://colab.research.google.com/github/VHP4Safety/vhp4safety-docs/blob/main/tutorials/sombie/site_of_metabolism_prediction.ipynb)
 
 ## Contact
 
@@ -55,7 +54,7 @@ A webservice for prediction of protein-structure and reactivity based (P450) sit
 
 * Sub-Stage: 
 
-* Development Cloud: [https://sombie.cloud.vhp4safety.nl/](https://sombie.cloud.vhp4safety.nl/) 
+* Development Cloud: [https://colab.research.google.com/github/VHP4Safety/vhp4safety-docs/blob/main/tutorials/sombie/site_of_metabolism_prediction.ipynb](https://colab.research.google.com/github/VHP4Safety/vhp4safety-docs/blob/main/tutorials/sombie/site_of_metabolism_prediction.ipynb) 
 
 * Login Required: No
 
@@ -103,6 +102,6 @@ A webservice for prediction of protein-structure and reactivity based (P450) sit
     "@id" : "https://vhp4safety.github.io/cloud/service/sombie",
     "name": "SOM Prediction",
     "description": "A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism.",
-    "url": "https://sombie.cloud.vhp4safety.nl/"
+    "url": "https://colab.research.google.com/github/VHP4Safety/vhp4safety-docs/blob/main/tutorials/sombie/site_of_metabolism_prediction.ipynb"
   }
 </script>

@@ -41,7 +41,7 @@ qaop_app	qAOP-App	https://qaop.vhp4safety.nl/	https://qaop.vhp4safety.nl/
 qsprpred	QSPRpred	https://qsprpred.cloud.vhp4safety.nl/	https://qsprpred.cloud.vhp4safety.nl/
 r_odaf	R-ODAF Shiny	NA	https://r-odaf.nl/
 robot	ROBOT		https://robot.vhp4safety.nl/ui
-sombie	SOM Prediction	https://sombie.cloud.vhp4safety.nl/	https://sombie.cloud.vhp4safety.nl/
+sombie	SOM Prediction		https://colab.research.google.com/github/VHP4Safety/vhp4safety-docs/blob/main/tutorials/sombie/site_of_metabolism_prediction.ipynb
 sysrev	SysRev	https://sysrev.com/	NA
 toxtemp_assistant	ToxTempAssistant	https://toxtempassistant.vhp4safety.nl/	https://toxtempassistant.vhp4safety.nl/
 txg_mapr	TXG-MAPr	https://txg-mapr.eu/	https://txg-mapr.eu/
