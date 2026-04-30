@@ -1,6 +1,6 @@
 ID	Name	URL	CloudURL
 aop-builder	AOP-Builder	https://crebuilder.vhp4safety.nl	https://crebuilder.vhp4safety.nl
-aopsuite	AOP-Suite		https://aopsuite.cloud.vhp4safety.nl/
+aopsuite	AOP-Suite	https://aopsuite.cloud.vhp4safety.nl/	https://aopsuite.cloud.vhp4safety.nl/
 aopwiki	AOP-Wiki Snorql UI	https://aopwiki.rdf.bigcat-bioinformatics.org/	https://aopwiki.rdf.bigcat-bioinformatics.org/
 aopwikiapi	AOP-Wiki API	https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries	https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries
 arrayanalysis	ArrayAnalysis	https://arrayanalysis.org/	https://arrayanalysis.vhp4safety.nl/
