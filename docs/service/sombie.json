@@ -3,11 +3,11 @@
   "service": "SOM Prediction",
   "description": "A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000155",
-  "url": "https://sombie.cloud.vhp4safety.nl/",
+  "url": "",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
-    "url": "https://sombie.cloud.vhp4safety.nl/",
+    "url": "https://colab.research.google.com/github/VHP4Safety/vhp4safety-docs/blob/main/tutorials/sombie/site_of_metabolism_prediction.ipynb",
     "TRL": "Integrated application"
   },
   "intro": {
