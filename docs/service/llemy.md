@@ -5,6 +5,7 @@
 
 An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries.
 
+![Llemy logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/llemy.png)
 
 
 **Tool Webpage:** [https://llemy.vhp4safety.nl/](https://llemy.vhp4safety.nl/)

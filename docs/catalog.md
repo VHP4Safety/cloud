@@ -209,6 +209,8 @@ An in-house data inventory produced by the Joint Research Centre (JRC) for provi
 
 ------------------------
 
+![Llemy logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/llemy.png)
+
 ## Llemy
 
 An online tool for answering questions about lipid metabolism and related toxicology/biology using MINERVA pathway knowledge, live web research and AI-generated summaries. [[more information](service/llemy.md)]
