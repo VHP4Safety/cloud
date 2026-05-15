@@ -8,7 +8,7 @@ A tool that supports Adverse Outcome Pathway (AOP) development by extracting key
 
 **Main Webpage:** [https://crebuilder.vhp4safety.nl](https://crebuilder.vhp4safety.nl)
 
-**Tool Webpage:** [https://crebuilder.vhp4safety.nl](https://crebuilder.vhp4safety.nl)
+**Tool Webpage:** [https://github.com/VHP4Safety/aop-builder](https://github.com/VHP4Safety/aop-builder)
 
 ## Contact
 
@@ -55,7 +55,7 @@ A tool that supports Adverse Outcome Pathway (AOP) development by extracting key
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: [https://crebuilder.vhp4safety.nl](https://crebuilder.vhp4safety.nl) 
+* Development Cloud: [https://github.com/VHP4Safety/aop-builder](https://github.com/VHP4Safety/aop-builder) 
 
 * Login Required: Not available
 
@@ -103,6 +103,6 @@ A tool that supports Adverse Outcome Pathway (AOP) development by extracting key
     "@id" : "https://vhp4safety.github.io/cloud/service/aop-builder",
     "name": "AOP-Builder",
     "description": "A tool that supports Adverse Outcome Pathway (AOP) development by extracting key scientific entities and their relationships from literature.",
-    "url": "https://crebuilder.vhp4safety.nl"
+    "url": "https://github.com/VHP4Safety/aop-builder"
   }
 </script>
