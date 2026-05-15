@@ -7,7 +7,7 @@
   "url": "https://crebuilder.vhp4safety.nl",
   "instance": {
     "type": "internal",
-    "url": "https://crebuilder.vhp4safety.nl",
+    "url": "https://github.com/VHP4Safety/aop-builder",
     "license": "CC-BY NC 4.0",
     "version": "1.0"
   },
