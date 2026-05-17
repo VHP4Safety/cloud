@@ -12,7 +12,7 @@
     "vhp-platform": "Development",
     "url": "https://cdkdepict.cloud.vhp4safety.nl/",
     "license": "LGPL 2.1",
-    "version": "1.9.3",
+    "version": "1.14",
     "source": "https://github.com/cdk/depict",
     "docker": "https://hub.docker.com/r/simolecule/cdkdepict",
     "TRL": "TRL 8 - system complete and qualified"
