@@ -57,10 +57,6 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 
 A framework for mapping identifiers across biological databases and related sources. [[more information](service/bridgedb.md)]
 
-#### CDK Depict
-
-A webservice for generating chemical structure images from SMILES inputs. [[more information](service/cdkdepict.md)]
-
 #### MCT8 Docking for MIE Discovery
 
 A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation. [[more information](service/mct8-dock.md)]
@@ -132,6 +128,10 @@ A software tool for high-dimensional dose-response modeling and analysis. [[more
 #### The Chemistry Development Kit
 
 A Java library for chem- and bioinformatics, with functionality to read/write chemical structures, calculate molecular descriptors, physicochemical properties, substructure and similarity searching, and much more. [[more information](service/cdk.md)]
+
+#### CDK Depict
+
+A webservice for generating chemical structure images from SMILES inputs. [[more information](service/cdkdepict.md)]
 
 #### CellDesigner
 

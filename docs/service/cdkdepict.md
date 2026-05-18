@@ -63,7 +63,7 @@ A webservice for generating chemical structure images from SMILES inputs.
 
 * TRL: TRL 8 - system complete and qualified
 
-* Type: internal
+* Type: external
 
 * API Type: REST
 
@@ -77,7 +77,7 @@ A webservice for generating chemical structure images from SMILES inputs.
 
 * Citation: [10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
 
-* Version: 1.9.3
+* Version: 1.14
 
 * License: LGPL 2.1
 
