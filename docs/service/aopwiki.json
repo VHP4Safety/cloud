@@ -7,6 +7,7 @@
   "screenshot": "aopwiki.png",
   "url": "https://aopwiki.rdf.bigcat-bioinformatics.org/",
   "doi": "10.1089/aivt.2021.0010",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
@@ -25,7 +26,8 @@
   "provider": {
     "contact": {
       "name": "Marvin Martens",
-      "email": "marvin.martens@maastrichtuniversity.nl"
+      "email": "marvin.martens@maastrichtuniversity.nl",
+      "vhp-partner": ""
     },
     "url": "https://www.maastrichtuniversity.nl/research/translational-genomics",
     "name": "Department of Translational Genomics, Maastricht University"

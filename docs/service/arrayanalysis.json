@@ -7,6 +7,7 @@
   "url": "https://arrayanalysis.org/",
   "screenshot": "arrayanalysis.png",
   "doi": "10.1093/nar/gkt293",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
@@ -19,7 +20,8 @@
   "provider": {
     "contact": {
       "name": "Jarno Koetsier",
-      "email": "jarno.koetsier@maastrichtuniversity.nl"
+      "email": "jarno.koetsier@maastrichtuniversity.nl",
+      "vhp-partner": "Maastricht University"
     },
     "url": "https://www.maastrichtuniversity.nl/research/translational-genomics",
     "name": "Department of Translational Genomics, Maastricht University"

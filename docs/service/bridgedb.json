@@ -7,6 +7,7 @@
   "screenshot": "bridgedb.png",
   "url": "https://www.bridgedb.org/",
   "doi": "10.1186/1471-2105-11-5",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
@@ -26,7 +27,8 @@
   },
   "provider": {
     "contact": {
-      "name": "Egon Willighagen"
+      "name": "Egon Willighagen",
+      "vhp-partner": "Maastricht University"
     },
     "name": "Department of Translational Genomics, Maastricht University"
   },

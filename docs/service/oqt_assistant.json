@@ -9,6 +9,7 @@
   "url": "https://github.com/VHP4Safety/O-QT-OECD-QSAR-Toolbox-AI-assistant",
   "doi": "10.1016/j.comtox.2025.100395",
   "release_notes": "2025-09-05: Initial registry entry. Clarified EULA constraints; added Docker usage note (assistant only).",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
@@ -22,7 +23,8 @@
   "provider": {
     "contact": {
       "name": "Ivo Djidrovski",
-      "email": "i.djidrovski@uu.nl"
+      "email": "i.djidrovski@uu.nl",
+      "vhp-partner": ""
     },
     "name": "Utrecht University / VHP4Safety",
     "url": "https://www.uu.nl/"

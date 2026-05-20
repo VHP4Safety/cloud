@@ -6,6 +6,7 @@
   "stage": "Other",
   "substage": "Transcriptomics / Differential Expression",
   "screenshot": "r_odaf.png",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
@@ -20,7 +21,8 @@
   "provider": {
   "contact": {
     "name": "VHP4Safety Support;Saad Lodhi;Danyel Jennen",
-    "email": "vhp4safety@uu.nl;saad.lodhi@maastrichtuniversity.nl;danyel.jennen@maastrichtuniversity.nl"
+    "email": "vhp4safety@uu.nl;saad.lodhi@maastrichtuniversity.nl;danyel.jennen@maastrichtuniversity.nl",
+    "vhp-partner": ""
   },
   "additional_contacts": [
     {

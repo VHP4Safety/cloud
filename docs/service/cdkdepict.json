@@ -7,6 +7,7 @@
   "screenshot": "cdkdepict.png",
   "url": "https://www.simolecule.com/cdkdepict/depict.html",
   "doi": "10.1186/s13321-017-0220-4",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "external",
     "vhp-platform": "Development",
@@ -20,7 +21,8 @@
   "provider": {
     "contact": {
       "name": "Egon Willighagen",
-      "email": "egon.willighagen@maastrichtuniversity.nl"
+      "email": "egon.willighagen@maastrichtuniversity.nl",
+      "vhp-partner": ""
     },
     "name": "simolecule"
   },

@@ -8,6 +8,7 @@
   "url": "http://oppbk.cloud.vhp4safety.nl/",
   "doi": "10.1021/acs.est.4c06534",
   
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
@@ -17,7 +18,8 @@
   "provider": {
     "contact": {
       "name": "Thijs Moerenhout",
-      "email": "thijs.moerenhout@wur.nl"
+      "email": "thijs.moerenhout@wur.nl",
+      "vhp-partner": ""
     }
   },
   "regulatory-question": {

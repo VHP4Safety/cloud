@@ -6,6 +6,7 @@
   "substage":"",
   "screenshot": "qsprpred.png",
   "url": "https://qsprpred.cloud.vhp4safety.nl/",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
@@ -18,7 +19,8 @@
   "provider": {
     "contact": {
       "name": "Gerard van Westen;Linde Schoenmaker",
-      "email": "gerard@gjpvanwesten.nl;l.schoenmaker@lacdr.leidenuniv.nl"
+      "email": "gerard@gjpvanwesten.nl;l.schoenmaker@lacdr.leidenuniv.nl",
+      "vhp-partner": ""
     },
     "name": "Department of Medicinal Chemistry, Leiden University",
     "url": "https://www.universiteitleiden.nl/en/science/drug-research/medicinal-chemistry"

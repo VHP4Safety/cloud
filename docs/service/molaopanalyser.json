@@ -8,6 +8,7 @@
     "url": "https://molaop-analyser.vhp4safety.nl/",
     "doi": "",
     "release_notes": "",
+    "developed-by-VHP": "true",
     "instance": {
         "type": "internal",
         "vhp-platform": "development",
@@ -21,7 +22,8 @@
     "provider": {
         "contact": {
             "name": "Marvin Martens",
-            "email": "marvin.martens@maastrichtuniversity.nl"
+            "email": "marvin.martens@maastrichtuniversity.nl",
+            "vhp-partner": "Maastricht University"
         },
         "name": "Maastricht University",
         "url": "maastrichtuniversity.nl"

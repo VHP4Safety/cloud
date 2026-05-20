@@ -9,6 +9,7 @@
   "url": "",
   "doi": "",
   "release_notes": "",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
@@ -23,7 +24,8 @@
   "provider": {
     "contact": {
       "name": "Abhishek Chattopadhyay ",
-      "email": "a.chattopadhyay@maastrichtuniversity.nl"
+      "email": "a.chattopadhyay@maastrichtuniversity.nl",
+      "vhp-partner": ""
     },
 
     "name": "Maastricht University",
