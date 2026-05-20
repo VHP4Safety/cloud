@@ -9,6 +9,7 @@
   "url": "https://qsar.food.dtu.dk/",
   "doi": "10.1016/j.toxlet.2016.06.1479",
   "release_notes": "",
+  "developed-by-VHP": "false",
   "instance": {
     "type": "external",
     "vhp-platform": "",

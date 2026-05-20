@@ -11,6 +11,8 @@
 
   "url": "https://www.farmacotherapeutischkompas.nl/",
 
+  "developed-by-VHP": "false",
+
   "provider": {
     "name": "Zorginstituut Nederland",
     "url": "https://www.farmacotherapeutischkompas.nl/algemeen/contact"

@@ -7,6 +7,7 @@
   "screenshot": "wikipathways_aop.png",
   "url": "https://aop.wikipathways.org/",
   "doi": "10.3389/fgene.2018.00661",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "External",
@@ -20,7 +21,8 @@
   "provider": {
     "contact": {
       "name": "Marvin Martens",
-      "email": "marvin.martens@maastrichtuniversity.nl"
+      "email": "marvin.martens@maastrichtuniversity.nl",
+      "vhp-partner": "Maastricht University"
     },
     "url": "",
     "name": "Maastricht University"

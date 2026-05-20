@@ -5,6 +5,7 @@
   "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
   "screenshot": "copasi.png",
   "url": "http://copasi.org/",
+  "developed-by-VHP": "false",
   "provider": {
     "contact": {
       "name": "The COPASI Project",

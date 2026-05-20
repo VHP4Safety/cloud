@@ -6,6 +6,7 @@
   "substage":"",
   "screenshot": "oecd_qsar_toolbox.png",
   "url": "https://qsartoolbox.org/",
+  "developed-by-VHP": "false",
   "instance": {
     "type": "external",
     "vhp-platform": "",

@@ -6,6 +6,7 @@
   "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
   "substage": "prototype",
   "release_notes": "2025-09-02: Pilot instance; added disclaimer & license surfacing; streamlined login/API-key flow.",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "pilot",
     "deployment_docs": "https://github.com/ontox-project/Llemy",
@@ -19,7 +20,8 @@
   "provider": {
     "contact": {
       "name": "Marc Teunis",
-      "email": "marc.teunis@hu.nl"
+      "email": "marc.teunis@hu.nl",
+      "vhp-partner": "Hogeschool Utrecht"
     },
     "name": "Hogeschool Utrecht",
     "url": "https://www.hu.nl/"
