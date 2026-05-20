@@ -5,7 +5,7 @@
   "stage":"https://vhp4safety.github.io/glossary#VHP0000156",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "aopbuilder.png",
-  "url": "https://crebuilder.vhp4safety.nl",
+  "url": "https://github.com/VHP4Safety/aop-builder",
   "instance": {
     "type": "internal",
     "url": "https://github.com/VHP4Safety/aop-builder",
