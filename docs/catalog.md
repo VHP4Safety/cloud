@@ -7,6 +7,8 @@
 
 Below you find an overview of services available in the context of the VHP4Safety Platform. [Additional services have been suggested](https://github.com/VHP4Safety/cloud/labels/service) and users can [request additional services](https://github.com/VHP4Safety/cloud/issues/new/choose).
 
+![AOP-Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopbuilder.png)
+
 ## AOP-Builder
 
 A tool that supports Adverse Outcome Pathway (AOP) development by extracting key scientific entities and their relationships from literature. [[more information](service/aop-builder.md)]

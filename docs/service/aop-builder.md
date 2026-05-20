@@ -5,8 +5,9 @@
 
 A tool that supports Adverse Outcome Pathway (AOP) development by extracting key scientific entities and their relationships from literature.
 
+![AOP-Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aop-builder.png)
 
-**Main Webpage:** [https://crebuilder.vhp4safety.nl](https://crebuilder.vhp4safety.nl)
+**Main Webpage:** [https://github.com/VHP4Safety/aop-builder](https://github.com/VHP4Safety/aop-builder)
 
 **Tool Webpage:** [https://github.com/VHP4Safety/aop-builder](https://github.com/VHP4Safety/aop-builder)
 
