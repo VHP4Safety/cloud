@@ -32,6 +32,7 @@
   "_ins_release_notes": "A url where there are release notes regarding the service.",
   "release_notes": "https://github.com/marvinm2/KE-WP-mapping/releases",
 
+  "developed-by-VHP": "true",
   "instance": {
 
     "_ins_type": "Whether the instance 'internal' or 'external'",
@@ -61,7 +62,8 @@
       "_ins_name": "The name of a person from the organization that provide the service.",
       "name": "Marvin Martens",
       "_ins_email": "The email of the person whose name given above.",
-      "email": "marvin.martens@maastrichtuniversity.nl"
+      "email": "marvin.martens@maastrichtuniversity.nl",
+      "vhp-partner": "Maastricht University"
     },
 
     "_ins_name": "The name of the organization that provide the service.",

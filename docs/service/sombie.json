@@ -4,6 +4,7 @@
   "description": "A webservice for prediction of protein-structure and reactivity based (P450) site-of-metabolism.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000155",
   "url": "https://sombie.cloud.vhp4safety.nl/",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
@@ -17,7 +18,8 @@
   "provider": {
     "contact": {
       "name": "David Poole",
-      "email": "d.a.poole@vu.nl"
+      "email": "d.a.poole@vu.nl",
+      "vhp-partner": ""
     }
   },
   "access": {

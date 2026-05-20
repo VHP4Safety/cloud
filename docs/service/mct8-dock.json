@@ -6,6 +6,7 @@
   "substage": "", 
   "url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing",
   "doi": "",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "External",
     "vhp-platform": "Development",
@@ -20,7 +21,8 @@
     "name": "David Poole",
     "contact": {
       "name": "David Poole",
-      "email": "d.a.poole@vu.nl"
+      "email": "d.a.poole@vu.nl",
+      "vhp-partner": ""
     }
   },
   "access": {

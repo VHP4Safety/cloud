@@ -7,6 +7,7 @@
   "screenshot": "pcbi.1004085.g004.png",
   "url": "https://pathvisio.org/",
   "doi": "10.1371/journal.pcbi.1004085",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "external",
     "license": "Apache-2.0 license",
@@ -16,7 +17,8 @@
 
   "provider": {
     "contact": {
-      "name": "Martina Kutmon"
+      "name": "Martina Kutmon",
+      "vhp-partner": ""
     },
     "name": "Maastricht Centre for Systems Biology and Bioinformatics",
     "url": "https://www.maastrichtuniversity.nl/research/maastricht-centre-systems-biology-and-bioinformatics"

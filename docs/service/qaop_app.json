@@ -5,6 +5,7 @@
   "stage":"https://vhp4safety.github.io/glossary#VHP0000156",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "url": "https://qaop.vhp4safety.nl/",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
@@ -18,7 +19,8 @@
   "provider": {
     "contact": {
       "name": "Filippo Di Tillio",
-      "email": "f.di.tillio@lacdr.leidenuniv.nl"
+      "email": "f.di.tillio@lacdr.leidenuniv.nl",
+      "vhp-partner": "Leiden University"
     },
     "name": "Leiden University",
     "url": "https://www.universiteitleiden.nl/en"

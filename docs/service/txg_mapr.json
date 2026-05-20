@@ -7,6 +7,7 @@
   "screenshot": "txg_mapr.png",
   "url": "https://txg-mapr.eu/",
   "doi": "10.1007/s00204-021-03141-w",
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "External",
@@ -15,7 +16,8 @@
   "provider": {
     "contact": {
       "name": "Steven J. Kunnen",
-      "email": "s.j.kunnen@lacdr.leidenuniv.nl"
+      "email": "s.j.kunnen@lacdr.leidenuniv.nl",
+      "vhp-partner": ""
     },
     "name": "Leiden University"
   },

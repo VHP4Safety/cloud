@@ -10,6 +10,7 @@
   "doi": "10.14573/altex.2407211",
   "release_notes": "https://github.com/VHP4Safety/glossary/commits/main/",
 
+  "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
@@ -19,7 +20,8 @@
   "provider": {
     "contact": {
       "name": "VHP4Safety",
-      "email": "vhp4safety@uu.nl"
+      "email": "vhp4safety@uu.nl",
+      "vhp-partner": ""
     },
     "name": "VHP4Safety Project",
     "url": "https://vhp4safety.nl/"

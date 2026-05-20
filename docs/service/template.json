@@ -32,6 +32,9 @@
   "_ins_release_notes": "A url where there are release notes regarding the service.",
   "release_notes": "",
 
+  "_ins_developed-by-VHP": "Whether the service was developed by a VHP4Safety partner. Answer 'true' or 'false'.",
+  "developed-by-VHP": "",
+
   "instance": {
 
     "_ins_deployment_docs": "Where are the deployment instructions located?",
@@ -64,7 +67,10 @@
       "_ins_name": "The name of a person from the organization that provide the service. More than one contact information can be provided by putting a ';' between their names (e.g. author1;author2). Please be careful to give an email address for each contact person in the next field, otherwise the contact information may not be displayed correctly.",
       "name": "",
       "_ins_email": "The email(s) of the person(s) whose name(s) given above. More than one contact information can be provided by putting a ';' between their email addresses (e.g. author1@mail.com;author2@mail.com). Please be careful to give an email address for each contact person in the previous field, otherwise the contact information may not be displayed correctly.",
-      "email": ""
+      "email": "",
+
+      "_ins_vhp-partner": "The VHP4Safety partner organisation(s) that developed the service. Multiple partners separated by ';' without spaces (e.g., partner1;partner2). Leave empty for services not developed by a VHP partner.",
+      "vhp-partner": ""
     },
 
     "_ins_name": "The name of the organization that provide the service.",
