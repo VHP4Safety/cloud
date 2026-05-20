@@ -12,6 +12,8 @@
 
   "url": "https://google.com/",
 
+  "developed-by-VHP": "false",
+
   "instance": {
     "type": "external"
   },

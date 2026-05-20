@@ -7,6 +7,7 @@
   "screenshot": "jrc_data_catalogue.png", 
   "url": "https://data.jrc.ec.europa.eu/",
   "doi": "10.3030/681002",
+  "developed-by-VHP": "false",
   "provider": {
     "contact": {
       "email": "jrc-data-support@ec.europa.eu"

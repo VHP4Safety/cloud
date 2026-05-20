@@ -8,6 +8,7 @@
   "doi": "10.1038/s42256-020-00287-7",
   "source": "https://github.com/asreview/asreview",
   "license": "Apache-2.0",
+  "developed-by-VHP": "false",
   "instance": {
     "type": "external"
   },

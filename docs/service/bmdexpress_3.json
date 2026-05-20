@@ -9,6 +9,7 @@
   "url": "https://github.com/auerbachs/BMDExpress-3",
   "doi": "10.1186/1471-2164-8-387",
   "release_notes": "https://github.com/auerbachs/BMDExpress-3?tab=readme-ov-file#updates-in-bmdexpress-3",
+  "developed-by-VHP": "false",
   "instance": {
     "type": "external",
     "license": "",
