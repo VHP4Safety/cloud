@@ -9,6 +9,7 @@ An online repository for inventarisation of official reports from the European M
 
 **Main Webpage:** [https://www.ema.europa.eu/en/search](https://www.ema.europa.eu/en/search)
 
+**Tool Webpage:** [https://www.ema.europa.eu/](https://www.ema.europa.eu/)
 
 ## Contact
 
@@ -56,13 +57,13 @@ An online repository for inventarisation of official reports from the European M
 
 * Sub-Stage: compound characteristics
 
-* Development Cloud: Not available
+* Development Cloud: [https://www.ema.europa.eu/](https://www.ema.europa.eu/) 
 
 * Login Required: no
 
 * TRL: Not available
 
-* Type: Not available
+* Type: external
 
 * API Type: Not available
 
@@ -104,6 +105,6 @@ An online repository for inventarisation of official reports from the European M
     "@id" : "https://vhp4safety.github.io/cloud/service/ema_documents",
     "name": "European Medicines Agency Documents",
     "description": "An online repository for inventarisation of official reports from the European Medicines Agency concerning chemical evaluation and safety monitoring.",
-    "url": ""
+    "url": "https://www.ema.europa.eu/"
   }
 </script>

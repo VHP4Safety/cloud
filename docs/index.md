@@ -157,6 +157,10 @@ An online service for automatically extracting chemical structure depictiions fr
 
 An online database from the NIH Office of Dietary Supplements that lets you explore information from more than 200,000 dietary supplement labels sold in the United States. [[more information](service/dsld.md)]
 
+#### European Medicines Agency Documents
+
+An online repository for inventarisation of official reports from the European Medicines Agency concerning chemical evaluation and safety monitoring. [[more information](service/ema_documents.md)]
+
 #### Endocrine Disruptome
 
 An open source, user friendly and web based prediction tool that uses molecular docking to predict binding of compounds to 14 different nuclear receptors. [[more information](service/endocrine_disruptome.md)]
