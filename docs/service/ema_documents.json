@@ -6,11 +6,11 @@
   "substage": "compound characteristics",
   "screenshot": "ema_documents.png",
   "url": "https://www.ema.europa.eu/en/search",
-
-
   "developed-by-VHP": "false",
-
-
+  "instance": {
+    "type": "external",
+    "url": "https://www.ema.europa.eu/"
+  },
   "provider": {
     "url": "https://www.ema.europa.eu/",
     "name": "European Medicines Agency"
