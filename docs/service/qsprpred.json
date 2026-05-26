@@ -6,6 +6,7 @@
   "substage":"",
   "screenshot": "qsprpred.png",
   "url": "https://qsprpred.cloud.vhp4safety.nl/",
+  "deployment_docs": "https://github.com/VHP4Safety/QSPRpred-Docker#flask-application-deployment-with-docker",
   "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
@@ -30,7 +31,7 @@
     "url": "https://github.com/VHP4Safety/vhp4safety-docs/blob/main/tutorials/qsprpred_app/qsprpred_tutorial.md"
   },
   "access": {
-    "API": "",
+    "API": "REST",
     "login": "No"
   },
   "ELIXIR": {

@@ -1,21 +1,25 @@
 {
   "id": "mct8-dock",
   "service": "MCT8 Docking for MIE Discovery",
-  "description": "A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation.",
+  "description": "A Jupyter notebook (and Flask web application) for predicting binding affinity of compounds to the MCT8 (SLC16A2) thyroid-hormone transporter using neural-network–enhanced molecular docking (Gnina), to flag candidate Molecular Initiating Events in the developmental thyroid-toxicity case study.",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
-  "substage": "", 
-  "url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing",
+  "substage": "",
+  "screenshot": "mct8-dock.png",
+  "url": "https://mct8-docking.vhp4safety.nl/",
   "doi": "",
+  "deployment_docs": "https://github.com/VHP4Safety/MCT8-docking#quick-start",
   "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
     "url": "https://mct8-docking.vhp4safety.nl/#docking",
+    "license": "MIT",
+    "source": "https://github.com/VHP4Safety/MCT8-docking",
     "TRL": ""
   },
   "intro": {
-    "title": "SOM Prediction: Site-of-Metabolism Prediction",
-    "url": "https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing"
+    "title": "MCT8 Docking documentation",
+    "url": "https://mct8-docking.vhp4safety.nl/#documentation"
   },
   "provider": {
     "name": "David Poole",
@@ -26,6 +30,7 @@
     }
   },
   "access": {
+    "API": "REST",
     "login": "No"
   },
   "ELIXIR": {

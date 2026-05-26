@@ -1,16 +1,24 @@
 {
   "id": "qaop_app",
   "service": "qAOP-App",
-  "description": "An interactive tool for visualizing and predicting key events (KEs) and adverse outcomes (AOs) over time using ODE-based qAOP models, illustrated with VHP4Safety case studies.",
+  "description": "An interactive tool for predicting key events (KEs) and adverse outcomes (AOs) over time using ODE-based qAOP models, currently illustrated with cisplatin-induced nephrotoxicity (in vitro RPTEC/TERT1 and in vivo rat kidney models) from the VHP4Safety kidney case study.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000156",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
+  "screenshot": "qaop_app.png",
   "url": "https://qaop.vhp4safety.nl/",
+  "deployment_docs": "https://github.com/VHP4Safety/qAOP-app#-docker-deployment-recommended",
   "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "development",
     "url": "https://qaop.vhp4safety.nl/",
-    "source": "https://github.com/VHP4Safety/qAOP-app"
+    "license": "MIT",
+    "source": "https://github.com/VHP4Safety/qAOP-app",
+    "docker": "https://github.com/VHP4Safety/qAOP-app/pkgs/container/qaop-app"
+  },
+  "access": {
+    "API": "REST",
+    "login": "No"
   },
   "intro": {
     "title": "qAOP App: Predicting Key Events and Adverse Outcomes Over Time",
