@@ -12,7 +12,7 @@
   "service": "Molecular AOP Builder",
 
   "_ins_description": "A short description for the service.",
-  "description": "A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings.",
+  "description": "A curator-in-the-loop web application that maps AOP Key Events to WikiPathways pathways, Gene Ontology biological-process terms, and Reactome pathways using BioBERT semantic similarity, with gene-overlap context and an admin review workflow before mappings enter the public REST API.",
 
   "_ins_stage": "Stage / place in the workflow categories",
   "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
@@ -25,6 +25,9 @@
 
   "_ins_url": "The original URL to the service.",
   "url": "https://github.com/marvinm2/KE-WP-mapping",
+
+  "_ins_deployment_docs": "URL with deployment / install documentation.",
+  "deployment_docs": "https://github.com/marvinm2/KE-WP-mapping#quick-start",
 
   "_ins_doi": "The DOI of the document (article, preprint, etc.) related to the service.",
   "doi": "",
@@ -51,7 +54,7 @@
     "source": "https://github.com/marvinm2/KE-WP-mapping",
 
     "_ins_docker": "Link to the repository with service's Docker container.",
-    "docker": "https://github.com/marvinm2/KE-WP-mapping",
+    "docker": "https://github.com/marvinm2/KE-WP-mapping/pkgs/container/ke-wp-mapping",
 
     "_ins_TRL": "Technology Readiness Level. For details, please see: https://en.wikipedia.org/wiki/Technology_readiness_level",
     "TRL": ""
@@ -89,9 +92,9 @@
   "_ins_intro": "Information regarding an available demo documentation available on the docs repo.",
   "intro": {
     "_ins_title": "The title of the intro on the VHP4Safety platform. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
-    "title": "",
+    "title": "Molecular AOP Builder documentation;Public REST API (Swagger)",
     "_ins_url": "Link to the intro on the VHP4Safety platform. Multiple entries should be separated by a ';' without any spaces between them. Note that, ideally, the number of titles should be equal to the number of urls.",
-    "url": ""
+    "url": "https://molaop-builder.vhp4safety.nl/documentation;https://molaop-builder.vhp4safety.nl/api/docs"
   },
 
   "demo": {

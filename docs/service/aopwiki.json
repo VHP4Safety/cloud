@@ -1,17 +1,19 @@
 {
   "id": "aopwiki",
   "service": "AOP-Wiki Snorql UI",
-  "description": "A graphical interface for creating, preloading and exporting SPARQL queries tailored to your usecases.",
+  "description": "A web-based SPARQL query interface for the AOP-Wiki RDF endpoint, with CodeMirror syntax highlighting, on-the-fly example queries pulled from GitHub, shareable permalinks, and CSV/JSON/XML export.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000156",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "aopwiki.png",
   "url": "https://aopwiki.rdf.bigcat-bioinformatics.org/",
   "doi": "10.1089/aivt.2021.0010",
+  "deployment_docs": "https://github.com/marvinm2/aopwiki-snorql-extended#quick-start",
   "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
     "url": "https://aopwiki.rdf.bigcat-bioinformatics.org/",
+    "license": "GPL-3.0",
     "source": "https://github.com/marvinm2/aopwiki-snorql-extended",
     "docker": "https://hub.docker.com/r/aammar/snorql-httpd"
   },

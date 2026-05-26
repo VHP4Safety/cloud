@@ -1,13 +1,14 @@
 {
     "id": "molaopanalyser",
     "service": "MolAOP analyser",
-    "description": "An online service for analyzing transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs), supporting data upload or demo datasets for gene selection, visualization and Key Event (KE) enrichment analysis.",
+    "description": "A web application for Key Event enrichment analysis on transcriptomic data in the context of molecular AOPs, with Fisher's exact and GSEA tests (FDR-corrected), interactive volcano plots, batch comparisons across conditions, and Cytoscape-based AOP network visualization with gene-expression overlays.",
     "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
-    "substage": "",
-    "screenshot": "",
+    "substage": "https://vhp4safety.github.io/glossary#VHP0000023",
+    "screenshot": "molaopanalyser.png",
     "url": "https://molaop-analyser.vhp4safety.nl/",
     "doi": "",
     "release_notes": "",
+    "deployment_docs": "https://github.com/marvinm2/molAOP-analyser#readme",
     "developed-by-VHP": "true",
     "instance": {
         "type": "internal",
@@ -16,7 +17,7 @@
         "license": "",
         "version": "",
         "source": "https://github.com/marvinm2/molAOP-analyser",
-        "docker": "",
+        "docker": "https://github.com/marvinm2/molAOP-analyser/pkgs/container/molaop-analyser",
         "TRL": ""
     },
     "provider": {
@@ -29,16 +30,16 @@
         "url": "maastrichtuniversity.nl"
     },
     "access": {
-        "API": "",
-        "login": "",
+        "API": "REST",
+        "login": "No",
         "packages": {
             "R": "",
             "Python": ""
         }
     },
     "intro": {
-        "title": "Molecular Adverse Outcome Pathway analyser tutorial",
-        "url": "https://docs.vhp4safety.nl/en/latest/tutorials/molaopanalyser/molaopanalyser.html"
+        "title": "Molecular AOP analyser documentation;Molecular Adverse Outcome Pathway analyser tutorial",
+        "url": "https://molaop-analyser.vhp4safety.nl/documentation;https://docs.vhp4safety.nl/en/latest/tutorials/molaopanalyser/molaopanalyser.html"
     },
     "demo": {
         "title": "",

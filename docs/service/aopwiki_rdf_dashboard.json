@@ -1,0 +1,45 @@
+{
+  "id": "aopwiki_rdf_dashboard",
+  "service": "AOP-Wiki RDF Dashboard",
+  "description": "A web dashboard for monitoring and analysing the AOP-Wiki RDF knowledge base over time, with entity counts, Key Event component distributions, ontology usage, AOP completeness, network density, and author contributions, plus CSV download of every plot's underlying data.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000156",
+  "substage": "https://vhp4safety.github.io/glossary#VHP0000023",
+  "screenshot": "aopwiki_rdf_dashboard.png",
+  "url": "https://aopwiki-dashboard.vhp4safety.nl/",
+  "doi": "",
+  "deployment_docs": "https://github.com/marvinm2/AOP-Wiki-RDF-dashboard/blob/main/DEPLOY.md",
+  "developed-by-VHP": "true",
+  "instance": {
+    "type": "internal",
+    "vhp-platform": "Development",
+    "url": "https://aopwiki-dashboard.vhp4safety.nl/",
+    "license": "MIT",
+    "source": "https://github.com/marvinm2/AOP-Wiki-RDF-dashboard",
+    "docker": ""
+  },
+  "intro": {
+    "title": "AOP-Wiki RDF Dashboard user guide",
+    "url": "https://github.com/marvinm2/AOP-Wiki-RDF-dashboard/blob/main/USER_GUIDE.md"
+  },
+  "provider": {
+    "contact": {
+      "name": "Marvin Martens",
+      "email": "marvin.martens@maastrichtuniversity.nl",
+      "vhp-partner": "Maastricht University"
+    },
+    "url": "https://www.maastrichtuniversity.nl/research/translational-genomics",
+    "name": "Department of Translational Genomics, Maastricht University"
+  },
+  "access": {
+    "API": "",
+    "login": "No"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
+  }
+}
