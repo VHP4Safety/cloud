@@ -65,7 +65,7 @@ An online tool for chemical activity prediction for various endpoints using targ
 
 * Type: internal
 
-* API Type: 
+* API Type: REST
 
 * Categories: To be added
 

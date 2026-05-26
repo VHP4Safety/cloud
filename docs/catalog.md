@@ -23,11 +23,19 @@ A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway
 
 ------------------------
 
+![AOP-Wiki RDF Dashboard logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki_rdf_dashboard.png)
+
+## AOP-Wiki RDF Dashboard
+
+A web dashboard for monitoring and analysing the AOP-Wiki RDF knowledge base over time, with entity counts, Key Event component distributions, ontology usage, AOP completeness, network density, and author contributions, plus CSV download of every plot's underlying data. [[more information](service/aopwiki_rdf_dashboard.md)]
+
+------------------------
+
 ![AOP-Wiki Snorql UI logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwiki.png)
 
 ## AOP-Wiki Snorql UI
 
-A graphical interface for creating, preloading and exporting SPARQL queries tailored to your usecases. [[more information](service/aopwiki.md)]
+A web-based SPARQL query interface for the AOP-Wiki RDF endpoint, with CodeMirror syntax highlighting, on-the-fly example queries pulled from GitHub, shareable permalinks, and CSV/JSON/XML export. [[more information](service/aopwiki.md)]
 
 ------------------------
 
@@ -35,7 +43,7 @@ A graphical interface for creating, preloading and exporting SPARQL queries tail
 
 ## AOP-Wiki API
 
-A REST API for creating and accessing content in the AOP-Wiki database. [[more information](service/aopwikiapi.md)]
+A grlc-generated REST API that exposes a curated set of SPARQL queries against the AOP-Wiki RDF endpoint as Swagger-documented HTTP endpoints, giving programmatic access to AOP-Wiki content without writing SPARQL. [[more information](service/aopwikiapi.md)]
 
 ------------------------
 
@@ -219,15 +227,19 @@ An online tool for answering questions about lipid metabolism and related toxico
 
 ------------------------
 
+![MCT8 Docking for MIE Discovery logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/mct8-dock.png)
+
 ## MCT8 Docking for MIE Discovery
 
-A Python-based notebook for identifying potential MCT8 inhibitors and related molecular events linked to developmental thyroid toxicity from maternal thyroid hormone deprivation. [[more information](service/mct8-dock.md)]
+A Jupyter notebook (and Flask web application) for predicting binding affinity of compounds to the MCT8 (SLC16A2) thyroid-hormone transporter using neural-network–enhanced molecular docking (Gnina), to flag candidate Molecular Initiating Events in the developmental thyroid-toxicity case study. [[more information](service/mct8-dock.md)]
 
 ------------------------
 
+![MolAOP analyser logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/molaopanalyser.png)
+
 ## MolAOP analyser
 
-An online service for analyzing transcriptomic data in the context of molecular Adverse Outcome Pathways (AOPs), supporting data upload or demo datasets for gene selection, visualization and Key Event (KE) enrichment analysis. [[more information](service/molaopanalyser.md)]
+A web application for Key Event enrichment analysis on transcriptomic data in the context of molecular AOPs, with Fisher's exact and GSEA tests (FDR-corrected), interactive volcano plots, batch comparisons across conditions, and Cytoscape-based AOP network visualization with gene-expression overlays. [[more information](service/molaopanalyser.md)]
 
 ------------------------
 
@@ -235,7 +247,7 @@ An online service for analyzing transcriptomic data in the context of molecular 
 
 ## Molecular AOP Builder
 
-A web application for mapping Key Events from Adverse Outcome Pathways to WikiPathways and Gene Ontology Biological Process terms, using intelligent suggestions based on gene overlap, text similarity, and BioBERT semantic embeddings. [[more information](service/molaopbuilder.md)]
+A curator-in-the-loop web application that maps AOP Key Events to WikiPathways pathways, Gene Ontology biological-process terms, and Reactome pathways using BioBERT semantic similarity, with gene-overlap context and an admin review workflow before mappings enter the public REST API. [[more information](service/molaopbuilder.md)]
 
 ------------------------
 
@@ -285,9 +297,11 @@ Desktop software to visualize, edit, and draw new pathways, which can be exporte
 
 ------------------------
 
+![qAOP-App logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/qaop_app.png)
+
 ## qAOP-App
 
-An interactive tool for visualizing and predicting key events (KEs) and adverse outcomes (AOs) over time using ODE-based qAOP models, illustrated with VHP4Safety case studies. [[more information](service/qaop_app.md)]
+An interactive tool for predicting key events (KEs) and adverse outcomes (AOs) over time using ODE-based qAOP models, currently illustrated with cisplatin-induced nephrotoxicity (in vitro RPTEC/TERT1 and in vivo rat kidney models) from the VHP4Safety kidney case study. [[more information](service/qaop_app.md)]
 
 ------------------------
 

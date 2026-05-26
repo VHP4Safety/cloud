@@ -1,6 +1,7 @@
 ID	Name	URL	CloudURL
 aop-builder	AOP-Builder	https://github.com/VHP4Safety/aop-builder	https://github.com/VHP4Safety/aop-builder
 aopsuite	AOP-Suite	https://aopsuite.cloud.vhp4safety.nl/	https://aopsuite.cloud.vhp4safety.nl/
+aopwiki_rdf_dashboard	AOP-Wiki RDF Dashboard	https://aopwiki-dashboard.vhp4safety.nl/	https://aopwiki-dashboard.vhp4safety.nl/
 aopwiki	AOP-Wiki Snorql UI	https://aopwiki.rdf.bigcat-bioinformatics.org/	https://aopwiki.rdf.bigcat-bioinformatics.org/
 aopwikiapi	AOP-Wiki API	https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries	https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries
 arrayanalysis	ArrayAnalysis	https://arrayanalysis.org/	https://arrayanalysis.vhp4safety.nl/
@@ -28,7 +29,7 @@ google	Google Search	https://google.com/	NA
 gscholar	Google Scholar	https://scholar.google.com/	NA
 jrc_data_catalogue	Joint Research Centre Data Catalogue	https://data.jrc.ec.europa.eu/	NA
 llemy	Llemy	NA	https://llemy.vhp4safety.nl/
-mct8-dock	MCT8 Docking for MIE Discovery	https://colab.research.google.com/drive/1vhy61p0z_AGnSEidwD83RwBzsW2AxAAT?usp=sharing	https://mct8-docking.vhp4safety.nl/#docking
+mct8-dock	MCT8 Docking for MIE Discovery	https://mct8-docking.vhp4safety.nl/	https://mct8-docking.vhp4safety.nl/#docking
 molaopanalyser	MolAOP analyser	https://molaop-analyser.vhp4safety.nl/	https://molaop-analyser.vhp4safety.nl/
 molaopbuilder	Molecular AOP Builder	https://github.com/marvinm2/KE-WP-mapping	https://molaop-builder.vhp4safety.nl/
 oecd_qsar_toolbox	The OECD QSAR Toolbox	https://qsartoolbox.org/	
