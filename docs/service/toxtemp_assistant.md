@@ -21,11 +21,11 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 
 #### VHP4Safety Documentation
 
-* Service Introduction: []() 
+* Service Introduction: To be added
 
-* Workflow: []() 
+* Workflow: To be added
 
-* Demo: []() 
+* Demo: To be added
 
 <h4 id='tess-widget-materials-header'></h4>
 
@@ -59,13 +59,13 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 
 * Development Cloud: [https://toxtempassistant.vhp4safety.nl/](https://toxtempassistant.vhp4safety.nl/) 
 
-* Login Required: 
+* Login Required: Not available
 
 * TRL: TRL6
 
 * Type: internal
 
-* API Type: 
+* API Type: Not available
 
 * Categories: To be added
 
@@ -85,11 +85,11 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 
 * Docker: [https://github.com/johannehouweling/ToxTempAssistant](https://github.com/johannehouweling/ToxTempAssistant)
 
-* Bio.tools: [](https://bio.tools/)
+* Bio.tools: Not available
 
-* FAIRsharing: []()
+* FAIRsharing: Not available
 
-* TeSS: []()
+* TeSS: Not available
 
 * RSD: [toxtempassistant](toxtempassistant)
 
