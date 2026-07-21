@@ -7,7 +7,7 @@ A curator-in-the-loop web application that maps AOP Key Events to WikiPathways p
 
 ![Molecular AOP Builder logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/molaopbuilder.png)
 
-**Main Webpage:** [https://github.com/marvinm2/KE-WP-mapping](https://github.com/marvinm2/KE-WP-mapping)
+**Main Webpage:** [https://github.com/marvinm2/molAOP-builder](https://github.com/marvinm2/molAOP-builder)
 
 **Tool Webpage:** [https://molaop-builder.vhp4safety.nl/](https://molaop-builder.vhp4safety.nl/)
 
@@ -59,7 +59,7 @@ A curator-in-the-loop web application that maps AOP Key Events to WikiPathways p
 
 * Development Cloud: [https://molaop-builder.vhp4safety.nl/](https://molaop-builder.vhp4safety.nl/) 
 
-* Login Required: true
+* Login Required: false
 
 * TRL: 
 
@@ -77,13 +77,13 @@ A curator-in-the-loop web application that maps AOP Key Events to WikiPathways p
 
 * Citation: [](https://doi.org/)
 
-* Version: 2.3.0
+* Version: 2.8.0
 
 * License: GPL-2.0
 
-* Source Code: [https://github.com/marvinm2/KE-WP-mapping](https://github.com/marvinm2/KE-WP-mapping)
+* Source Code: [https://github.com/marvinm2/molAOP-builder](https://github.com/marvinm2/molAOP-builder)
 
-* Docker: [https://github.com/marvinm2/KE-WP-mapping/pkgs/container/ke-wp-mapping](https://github.com/marvinm2/KE-WP-mapping/pkgs/container/ke-wp-mapping)
+* Docker: [https://github.com/marvinm2/molAOP-builder/pkgs/container/molaop-builder](https://github.com/marvinm2/molAOP-builder/pkgs/container/molaop-builder)
 
 * Bio.tools: [](https://bio.tools/)
 
