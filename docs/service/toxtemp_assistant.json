@@ -29,26 +29,9 @@
     "name": "Maastricht University",
     "url": "https://www.maastrichtuniversity.nl/"
   },
-  "access": {
-    "API": "",
-    "login": ""
-  },
-  "intro": {
-    "title": "",
-    "url": ""
-  },
-  "demo": {
-    "title": "",
-    "url": ""
-  },
-  "workflow": {
-    "title": "",
-    "url": ""
-  },
-  "ELIXIR": {
-    "biotools": "",
-    "tess": "",
-    "fairsharing": ""
+  "peertube": {
+    "title": "ToxTempAssistant Tutorial Video",
+    "url": "https://video.edu.nl/videos/embed/mXiqzVCSYytLb4i2YgT7a6"
   },
   "Other": {
     "wikipedia": "",
