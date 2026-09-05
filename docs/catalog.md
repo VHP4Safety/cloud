@@ -235,9 +235,9 @@ A Jupyter notebook (and Flask web application) for predicting binding affinity o
 
 ------------------------
 
-![MolAOP analyser logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/molaopanalyser.png)
+![Molecular AOP Analyser logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/molaopanalyser.png)
 
-## MolAOP analyser
+## Molecular AOP Analyser
 
 A web application for Key Event enrichment analysis on transcriptomic data in the context of molecular AOPs, with Fisher's exact and GSEA tests (FDR-corrected), interactive volcano plots, batch comparisons across conditions, and Cytoscape-based AOP network visualization with gene-expression overlays. [[more information](service/molaopanalyser.md)]
 
@@ -247,7 +247,7 @@ A web application for Key Event enrichment analysis on transcriptomic data in th
 
 ## Molecular AOP Builder
 
-A curator-in-the-loop web application that maps AOP Key Events to WikiPathways pathways, Gene Ontology biological-process terms, and Reactome pathways using BioBERT semantic similarity, with gene-overlap context and an admin review workflow before mappings enter the public REST API. [[more information](service/molaopbuilder.md)]
+A curator-in-the-loop web application for building molecular Adverse Outcome Pathways. Maps AOP Key Events to WikiPathways pathways, Gene Ontology Biological Process and Molecular Function terms, and Reactome pathways, with candidates ranked by BioBERT semantic similarity to the Key Event. Curators assign a confidence level through a structured rubric and an admin approves each mapping before it enters the public REST API; approved mappings are exportable as GMT, RDF/Turtle, CSV and JSON, and are deposited to Zenodo under a persistent concept DOI. [[more information](service/molaopbuilder.md)]
 
 ------------------------
 
