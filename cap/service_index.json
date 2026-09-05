@@ -494,7 +494,7 @@
   },
   "molaopanalyser": {
     "id": "molaopanalyser",
-    "service": "MolAOP analyser",
+    "service": "Molecular AOP Analyser",
     "description": "A web application for Key Event enrichment analysis on transcriptomic data in the context of molecular AOPs, with Fisher's exact and GSEA tests (FDR-corrected), interactive volcano plots, batch comparisons across conditions, and Cytoscape-based AOP network visualization with gene-expression overlays.",
     "html_name": "molaopanalyser.html",
     "md_file_name": "molaopanalyser.md",
@@ -512,7 +512,7 @@
   "molaopbuilder": {
     "id": "molaopbuilder",
     "service": "Molecular AOP Builder",
-    "description": "A curator-in-the-loop web application that maps AOP Key Events to WikiPathways pathways, Gene Ontology biological-process terms, and Reactome pathways using BioBERT semantic similarity, with gene-overlap context and an admin review workflow before mappings enter the public REST API.",
+    "description": "A curator-in-the-loop web application for building molecular Adverse Outcome Pathways. Maps AOP Key Events to WikiPathways pathways, Gene Ontology Biological Process and Molecular Function terms, and Reactome pathways, with candidates ranked by BioBERT semantic similarity to the Key Event. Curators assign a confidence level through a structured rubric and an admin approves each mapping before it enters the public REST API; approved mappings are exportable as GMT, RDF/Turtle, CSV and JSON, and are deposited to Zenodo under a persistent concept DOI.",
     "html_name": "molaopbuilder.html",
     "md_file_name": "molaopbuilder.md",
     "png_file_name": "molaopbuilder.png",
