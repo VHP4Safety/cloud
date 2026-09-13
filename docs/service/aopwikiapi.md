@@ -7,9 +7,9 @@ A grlc-generated REST API that exposes a curated set of SPARQL queries against t
 
 ![AOP-Wiki API logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/aopwikiapi.png)
 
-**Main Webpage:** [https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries)
+**Main Webpage:** [https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/](https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/)
 
-**Tool Webpage:** [https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries)
+**Tool Webpage:** [https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/](https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/)
 
 ## Contact
 
@@ -21,7 +21,7 @@ A grlc-generated REST API that exposes a curated set of SPARQL queries against t
 
 #### VHP4Safety Documentation
 
-* Service Introduction: [Swagger UI for the AOP-Wiki API](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries), [AOP-Wiki SPARQL query collection (source)](https://github.com/marvinm2/AOPWikiQueries)
+* Service Introduction: [Swagger UI for the AOP-Wiki API](https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/), [AOP-Wiki SPARQL query collection (source)](https://github.com/marvinm2/AOPWikiQueries)
 
 * Workflow: To be added
 
@@ -57,7 +57,7 @@ A grlc-generated REST API that exposes a curated set of SPARQL queries against t
 
 * Sub-Stage: https://vhp4safety.github.io/glossary#VHP0000023
 
-* Development Cloud: [https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries](https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries) 
+* Development Cloud: [https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/](https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/) 
 
 * Login Required: No
 
@@ -105,6 +105,6 @@ A grlc-generated REST API that exposes a curated set of SPARQL queries against t
     "@id" : "https://vhp4safety.github.io/cloud/service/aopwikiapi",
     "name": "AOP-Wiki API",
     "description": "A grlc-generated REST API that exposes a curated set of SPARQL queries against the AOP-Wiki RDF endpoint as Swagger-documented HTTP endpoints, giving programmatic access to AOP-Wiki content without writing SPARQL.",
-    "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries"
+    "url": "https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/"
   }
 </script>
