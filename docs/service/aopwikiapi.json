@@ -5,20 +5,20 @@
   "stage":"https://vhp4safety.github.io/glossary#VHP0000156",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "aopwikiapi.png",
-  "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries",
+  "url": "https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/",
   "deployment_docs": "https://github.com/CLARIAH/grlc#deployment",
   "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
-    "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries",
+    "url": "https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/",
     "license": "MIT",
     "source": "https://github.com/marvinm2/AOPWikiQueries",
     "docker": "https://hub.docker.com/r/clariah/grlc"
   },
   "intro": {
     "title": "Swagger UI for the AOP-Wiki API;AOP-Wiki SPARQL query collection (source)",
-    "url": "https://aopwiki-api.cloud.vhp4safety.nl/api/marvinm2/AOPWikiQueries;https://github.com/marvinm2/AOPWikiQueries"
+    "url": "https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/;https://github.com/marvinm2/AOPWikiQueries"
   },
   "provider": {
     "contact": {
