@@ -43,7 +43,7 @@ A web-based SPARQL query interface for the AOP-Wiki RDF endpoint, with CodeMirro
 
 ## AOP-Wiki API
 
-A grlc-generated REST API that exposes a curated set of SPARQL queries against the AOP-Wiki RDF endpoint as Swagger-documented HTTP endpoints, giving programmatic access to AOP-Wiki content without writing SPARQL. [[more information](service/aopwikiapi.md)]
+A REST API for the AOP-Wiki RDF data that returns AOPs, Key Events, Key Event Relationships, stressors, chemicals and genes as JSON or CSV, documented with OpenAPI (Swagger UI), giving programmatic access to AOP-Wiki content without writing SPARQL. [[more information](service/aopwikiapi.md)]
 
 ------------------------
 

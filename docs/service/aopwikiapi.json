@@ -1,24 +1,24 @@
 {
   "id": "aopwikiapi",
   "service": "AOP-Wiki API",
-  "description": "A grlc-generated REST API that exposes a curated set of SPARQL queries against the AOP-Wiki RDF endpoint as Swagger-documented HTTP endpoints, giving programmatic access to AOP-Wiki content without writing SPARQL.",
+  "description": "A REST API for the AOP-Wiki RDF data that returns AOPs, Key Events, Key Event Relationships, stressors, chemicals and genes as JSON or CSV, documented with OpenAPI (Swagger UI), giving programmatic access to AOP-Wiki content without writing SPARQL.",
   "stage":"https://vhp4safety.github.io/glossary#VHP0000156",
   "substage":"https://vhp4safety.github.io/glossary#VHP0000023",
   "screenshot": "aopwikiapi.png",
-  "url": "https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/",
-  "deployment_docs": "https://github.com/CLARIAH/grlc#deployment",
+  "url": "https://aopwiki.rdf.bigcat-bioinformatics.org/api/docs",
+  "deployment_docs": "https://github.com/marvinm2/AOP-Wiki-API#readme",
   "developed-by-VHP": "true",
   "instance": {
     "type": "internal",
     "vhp-platform": "Development",
-    "url": "https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/",
+    "url": "https://aopwiki.rdf.bigcat-bioinformatics.org/api/docs",
     "license": "MIT",
-    "source": "https://github.com/marvinm2/AOPWikiQueries",
-    "docker": "https://hub.docker.com/r/clariah/grlc"
+    "source": "https://github.com/marvinm2/AOP-Wiki-API",
+    "docker": "https://github.com/marvinm2/AOP-Wiki-API/pkgs/container/aop-wiki-api"
   },
   "intro": {
-    "title": "Swagger UI for the AOP-Wiki API;AOP-Wiki SPARQL query collection (source)",
-    "url": "https://aopwiki.api.bigcat-bioinformatics.org/api-git/marvinm2/AOPWikiQueries/;https://github.com/marvinm2/AOPWikiQueries"
+    "title": "Swagger UI for the AOP-Wiki API;AOP-Wiki API (source)",
+    "url": "https://aopwiki.rdf.bigcat-bioinformatics.org/api/docs;https://github.com/marvinm2/AOP-Wiki-API"
   },
   "provider": {
     "contact": {
@@ -30,7 +30,7 @@
     "name": "Department of Translational Genomics, Maastricht University"
   },
   "access": {
-    "API": "REST API -- Swagger UI",
+    "API": "REST API -- OpenAPI (Swagger UI)",
     "login": "No"
   },
   "ELIXIR": {
