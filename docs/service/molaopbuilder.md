@@ -77,7 +77,7 @@ A curator-in-the-loop web application for building molecular Adverse Outcome Pat
 
 * Citation: [](https://doi.org/)
 
-* Version: 2.9.0
+* Version: 2.10.0
 
 * License: GPL-2.0-only
 

@@ -77,7 +77,7 @@ A web application for Key Event enrichment analysis on transcriptomic data in th
 
 * Citation: [](https://doi.org/)
 
-* Version: 5.0.0
+* Version: 6.1.0
 
 * License: GPL-2.0-only
 
