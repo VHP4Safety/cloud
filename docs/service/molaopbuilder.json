@@ -48,7 +48,7 @@
     "url": "https://molaop-builder.vhp4safety.nl/",
 
     "license": "GPL-2.0-only",
-    "version": "2.9.0",
+    "version": "2.10.0",
 
     "ins_source": "Link to the source material of the service.",
     "source": "https://github.com/marvinm2/molAOP-builder",

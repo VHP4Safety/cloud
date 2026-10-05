@@ -15,7 +15,7 @@
         "vhp-platform": "development",
         "url": "https://molaop-analyser.vhp4safety.nl/",
         "license": "GPL-2.0-only",
-        "version": "5.0.0",
+        "version": "6.1.0",
         "source": "https://github.com/marvinm2/molAOP-analyser",
         "docker": "https://github.com/marvinm2/molAOP-analyser/pkgs/container/molaop-analyser",
         "TRL": ""
