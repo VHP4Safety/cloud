@@ -46,6 +46,8 @@ jobs:
           done
 
       - name: Commit and push generated documentation
+        # A pull_request checkout is a detached merge commit, so there is no branch to push to.
+        if: github.event_name != 'pull_request'
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
