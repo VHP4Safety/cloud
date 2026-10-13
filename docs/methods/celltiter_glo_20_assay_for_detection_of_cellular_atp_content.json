@@ -2,9 +2,14 @@
   "id": "celltiter_glo_20_assay_for_detection_of_cellular_atp_content",
   "method": "CellTiter-Glo\u00ae 2.0 assay for detection of cellular ATP content",
   "issue_number": 168,
-  "assay_name_content": "CellTiter-Glo\u00ae 2.0 Cell Viability Assay",
+  "assay_name_content": "CellTiter-Glo 2.0 Cell Viability Assay",
   "data_producer_content": "Julia Meerman",
+  "available_sop_or_protocol_content": "_No response_",
   "method_description_content": "Luminescence-based detection of cellular ATP content",
+  "case_study_content": "parkinson",
+  "http": "//www.bioassayontology.org/bao#BAO_0000682",
+  "ontology_term_url": "http://www.bioassayontology.org/bao#BAO_0000682",
+  "regulatory_question_content": "Q1",
   "type_content": "_No response_",
   "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
   "relevant_aop_wiki_key_event(s)_to_the_assay_content": "KE177",
@@ -16,9 +21,6 @@
   "citation_content": "_No response_",
   "vhp4safety_workflow_stage_content": "AOP",
   "workflow_substage_content": "Mitochondrial dysfunction",
-  "available_sop_or_protocol_content": "No response",
-  "ontology_term_content": "No response",
-  "regulatory_question_content": "Q1",
-  "case_study_content": "parkinson",
-  "timestamp": "2025-09-29T13:54:19.128661Z"
+  "ontology_term_content": "http://www.bioassayontology.org/bao#BAO_0000682",
+  "timestamp": "2026-10-13T14:24:25.928232Z"
 }
