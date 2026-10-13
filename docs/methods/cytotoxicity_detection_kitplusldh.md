@@ -16,15 +16,15 @@ Fluorescence-based detection of LDH
 
 * **Workflow Substage:** Dose-response toxicity
 
-* **Case Study:** thyroid
+* **Case Study:** kidney
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q2
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** Cytotoxicity Detection KitPLUS (LDH)
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 
@@ -32,7 +32,7 @@ Fluorescence-based detection of LDH
 
 * **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [_No response_](_No response_)
+* **Ontology Term:** [http://purl.obolibrary.org/obo/OBI_0003761](http://purl.obolibrary.org/obo/OBI_0003761)
 
 * **Citation:** _No response_
 

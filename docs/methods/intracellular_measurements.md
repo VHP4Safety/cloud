@@ -16,15 +16,15 @@ Intracellular measurements are determined in cell lysates using LCMS, normalized
 
 * **Workflow Substage:** _No response_
 
-* **Case Study:** thyroid
+* **Case Study:** _No response_
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** _No response_
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** Intracellular measurements
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 
@@ -32,7 +32,7 @@ Intracellular measurements are determined in cell lysates using LCMS, normalized
 
 * **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [_No response_](_No response_)
+* **Ontology Term:** [http://purl.obolibrary.org/obo/CHMO_0000524](http://purl.obolibrary.org/obo/CHMO_0000524)
 
 * **Citation:** _No response_
 

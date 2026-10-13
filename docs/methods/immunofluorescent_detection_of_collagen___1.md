@@ -16,15 +16,15 @@ immunofluorescent detection of collagen - 1
 
 * **Workflow Substage:** Increase fibrosis
 
-* **Case Study:** thyroid
+* **Case Study:** kidney
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q2
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** Immunofluorescent detection of collagen-1
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 
@@ -32,7 +32,7 @@ immunofluorescent detection of collagen - 1
 
 * **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [_No response_](_No response_)
+* **Ontology Term:** [http://www.ebi.ac.uk/efo/EFO_0022944](http://www.ebi.ac.uk/efo/EFO_0022944)
 
 * **Citation:** _No response_
 

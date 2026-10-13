@@ -30,9 +30,9 @@ Colorimetric determination of lactate dehydrogenase (LDH) activity
 
 * **Relevant AOP Wiki Adverse Outcome Pathway(s):** AOP464
 
-* **Available SOP or Protocol:** No response
+* **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [No response](No response)
+* **Ontology Term:** [_No response_](_No response_)
 
 * **Citation:** _No response_
 

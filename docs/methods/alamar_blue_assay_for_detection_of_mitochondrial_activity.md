@@ -18,7 +18,7 @@ Fluorescence-based detection of mitochondrial metabolic activity
 
 * **Case Study:** parkinson
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q1, Q2
 
 ## Additional Information
 
@@ -30,7 +30,7 @@ Fluorescence-based detection of mitochondrial metabolic activity
 
 * **Relevant AOP Wiki Adverse Outcome Pathway(s):** AOP464
 
-* **Available SOP or Protocol:** No response
+* **Available SOP or Protocol:** _No response_
 
 * **Ontology Term:** [http://purl.enanomapper.org/onto/ENM_8000224](http://purl.enanomapper.org/onto/ENM_8000224)
 
