@@ -14,17 +14,17 @@ mitochondrial membrane potential assay
 
 * **VHP4Safety Workflow Stage:** AOP
 
-* **Workflow Substage:** Mitochondrial dysfuntion
+* **Workflow Substage:** Mitochondrial dysfunction
 
-* **Case Study:** thyroid
+* **Case Study:** _No response_
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** _No response_
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** MitoProbe JC-1 Assay Kit
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 
@@ -32,7 +32,7 @@ mitochondrial membrane potential assay
 
 * **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [_No response_](_No response_)
+* **Ontology Term:** [http://www.bioassayontology.org/bao#BAO_0002190](http://www.bioassayontology.org/bao#BAO_0002190)
 
 * **Citation:** _No response_
 

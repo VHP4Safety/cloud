@@ -12,19 +12,19 @@ next-generation sequencing technique used to quantify and identify RNA molecules
 
 * **Catalog Webpage:** Not available
 
-* **VHP4Safety Workflow Stage:** _No response_
+* **VHP4Safety Workflow Stage:** AOP
 
 * **Workflow Substage:** _No response_
 
-* **Case Study:** thyroid
+* **Case Study:** kidney
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q2
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** RNA-sequencing
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 
@@ -32,7 +32,7 @@ next-generation sequencing technique used to quantify and identify RNA molecules
 
 * **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [_No response_](_No response_)
+* **Ontology Term:** [http://purl.obolibrary.org/obo/OBI_0003090](http://purl.obolibrary.org/obo/OBI_0003090)
 
 * **Citation:** _No response_
 

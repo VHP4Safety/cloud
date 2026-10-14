@@ -18,7 +18,7 @@ Fluorescence-based determination of cell membrane damage
 
 * **Case Study:** parkinson
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q1, Q2
 
 ## Additional Information
 
@@ -30,9 +30,9 @@ Fluorescence-based determination of cell membrane damage
 
 * **Relevant AOP Wiki Adverse Outcome Pathway(s):** AOP464
 
-* **Available SOP or Protocol:** No response
+* **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [No response](No response)
+* **Ontology Term:** [_No response_](_No response_)
 
 * **Citation:** _No response_
 
