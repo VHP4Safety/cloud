@@ -156,6 +156,8 @@ jobs:
         EOF
             
     - name: Commit generated index
+      # A pull_request checkout is a detached merge commit, so there is no branch to push to.
+      if: github.event_name != 'pull_request'
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
