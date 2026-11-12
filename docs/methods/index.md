@@ -8,7 +8,7 @@ This catalog contains experimental methods and protocols used in VHP4Safety rese
 
 [Request a new method](https://github.com/VHP4Safety/cloud/issues/new/choose) | [Browse all methods](https://github.com/VHP4Safety/cloud/tree/main/docs/methods)
 
-## Available Methods (20)
+## Available Methods (21)
 
 ### AOP Methods
 
@@ -78,17 +78,21 @@ Fluorescent - based detection of lysosomes (Vendor: Thermofisher) [[more informa
 
 ### Kinetics Methods
 
+#### inTESTine™
+
+Method description not available (Vendor: TNO) [[more information](intestine.md)]
+
 #### Intracellular measurements
 
 Intracellular measurements are determined in cell lysates using LCMS, normalized by protein expression that has been measured by 2D Quant (Vendor: Cytiva) [[more information](intracellular_measurements.md)]
 
 #### P-gp Staining
 
-Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](method-148.md)]
+Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](p_gp_staining.md)]
 
 #### P-gp Staining
 
-Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](p_gp_staining.md)]
+Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus (Vendor: Proteintech) [[more information](method-148.md)]
 
 ### Other Methods
 
