@@ -1,0 +1,44 @@
+{
+  "id": "expoportal",
+  "service": "ExpoPortal (OntoPortal)",
+  "description": "An OntoPortal ontology repository for exposome-relevant ontologies, set up at BioHackathon Europe 2026 (project 19). Browse and search ontologies, annotate text, explore mappings between ontologies and check FAIR scores (O'FAIRe). Programmatic access through the OntoPortal REST API (free account API key) and a read-only MCP server for LLM agents at https://expoportal.biohackeu.bigcat-bioinformatics.org/mcp.",
+  "stage": "https://vhp4safety.github.io/glossary#VHP0000154",
+  "substage": "https://vhp4safety.github.io/glossary#VHP0000047",
+  "screenshot": "expoportal.png",
+  "url": "https://expoportal.biohackeu.bigcat-bioinformatics.org/",
+  "doi": "10.1093/nar/gkp440",
+  "developed-by-VHP": "false",
+  "instance": {
+    "type": "internal",
+    "vhp-platform": "Development",
+    "url": "https://expoportal.biohackeu.bigcat-bioinformatics.org/",
+    "license": "BSD-2-Clause",
+    "version": "AgroPortal OntoPortal images (master, November 2026)",
+    "source": "https://github.com/agroportal/ontoportal_docker",
+    "docker": "https://hub.docker.com/u/agroportal"
+  },
+  "provider": {
+    "contact": {
+      "name": "Marvin Martens;Egon Willighagen",
+      "email": "marvin.martens@maastrichtuniversity.nl;egon.willighagen@maastrichtuniversity.nl",
+      "vhp-partner": "Maastricht University"
+    },
+    "name": "Department of Translational Genomics, Maastricht University",
+    "url": "https://www.maastrichtuniversity.nl/research/translational-genomics"
+  },
+  "access": {
+    "API": "REST API (OntoPortal API, free account API key); MCP server (read-only, no login)",
+    "login": "REST API: API key; MCP: no"
+  },
+  "ELIXIR": {
+    "tess": "OntoPortal"
+  },
+  "regulatory-question": {
+    "1a": "false",
+    "1b": "false",
+    "2a": "false",
+    "2b": "false",
+    "3a": "false",
+    "3b": "false"
+  }
+}
