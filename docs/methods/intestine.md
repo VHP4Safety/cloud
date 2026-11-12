@@ -18,7 +18,7 @@ TNO recently developed InTESTine™ in order to study the absorption and translo
 
 * **Case Study:** thyroid
 
-* **Regulatory Question:** Not available
+* **Regulatory Question:** Q2
 
 ## Additional Information
 
