@@ -78,9 +78,9 @@ Fluorescent - based detection of lysosomes (Vendor: Thermofisher) [[more informa
 
 ### Kinetics Methods
 
-#### inTESTine™
+#### InTESTine™ Physiologically relevant intestinal tissue model
 
-Method description not available (Vendor: TNO) [[more information](intestine.md)]
+TNO recently developed InTESTine™ in order to study the absorption and translocation of pharmaceutical, biological and nutritional compounds across... (Vendor: TNO) [[more information](intestine.md)]
 
 #### Intracellular measurements
 
