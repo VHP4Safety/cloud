@@ -8,7 +8,7 @@ This catalog contains experimental methods and protocols used in VHP4Safety rese
 
 [Request a new method](https://github.com/VHP4Safety/cloud/issues/new/choose) | [Browse all methods](https://github.com/VHP4Safety/cloud/tree/main/docs/methods)
 
-## Available Methods (20)
+## Available Methods (21)
 
 ### AOP Methods
 
@@ -77,6 +77,10 @@ Colorimetric determination of lactate dehydrogenase (LDH) activity (Vendor: Roch
 Fluorescent - based detection of lysosomes (Vendor: Thermofisher) [[more information](lysotracker_green_dnd_26.md)]
 
 ### Kinetics Methods
+
+#### InTESTine™ Physiologically relevant intestinal tissue model
+
+TNO recently developed InTESTine™ in order to study the absorption and translocation of pharmaceutical, biological and nutritional compounds across... (Vendor: TNO) [[more information](intestine.md)]
 
 #### Intracellular measurements
 
