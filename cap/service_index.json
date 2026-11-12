@@ -628,6 +628,23 @@
     "reg_q_3a": "false",
     "reg_q_3b": "false"
   },
+  "proast": {
+    "id": "proast",
+    "service": "PROAST",
+    "description": "PROAST is a software package for the statistical analysis of dose-response data. Its main purpose is dose-response modelling of toxicological data, and the derivation of a Benchmark dose (BMDL) in human risk assessment (or an ECx in ecotoxicological risk assessment). More generally, it can be used for (nonlinear) regression (with covariates). It can be run as webapplication or be installed on your own machine using R.",
+    "html_name": "proast.html",
+    "md_file_name": "proast.md",
+    "png_file_name": "proast.png",
+    "stage": "Other",
+    "main_url": "https://www.rivm.nl/en/proast",
+    "inst_url": "no_url",
+    "reg_q_1a": "true",
+    "reg_q_1b": "false",
+    "reg_q_2a": "true",
+    "reg_q_2b": "true",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
+  },
   "qaop_app": {
     "id": "qaop_app",
     "service": "qAOP-App",
