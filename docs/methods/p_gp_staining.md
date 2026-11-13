@@ -16,15 +16,15 @@ Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus
 
 * **Workflow Substage:** _No response_
 
-* **Case Study:** thyroid
+* **Case Study:** kidney
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q2
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** P-gp Staining
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 
@@ -32,7 +32,7 @@ Immunofluorescent staining of P-gp protein, the efflux transporter of tacrolimus
 
 * **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [_No response_](_No response_)
+* **Ontology Term:** [http://www.ebi.ac.uk/efo/EFO_0022944](http://www.ebi.ac.uk/efo/EFO_0022944)
 
 * **Citation:** _No response_
 

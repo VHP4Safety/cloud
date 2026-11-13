@@ -18,7 +18,7 @@ Fluorescence-based detection of reactive oxygen species production
 
 * **Case Study:** parkinson
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q1, Q2
 
 ## Additional Information
 
@@ -30,9 +30,9 @@ Fluorescence-based detection of reactive oxygen species production
 
 * **Relevant AOP Wiki Adverse Outcome Pathway(s):** AOP464
 
-* **Available SOP or Protocol:** No response
+* **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [No response](No response)
+* **Ontology Term:** [http://www.bioassayontology.org/bao#BAO_0002168](http://www.bioassayontology.org/bao#BAO_0002168)
 
 * **Citation:** _No response_
 

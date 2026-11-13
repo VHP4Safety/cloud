@@ -16,15 +16,15 @@ A Non-Lytic Fluorescence Assay That Measures the Relative Number of Viable Cells
 
 * **Workflow Substage:** Increased Apoptosis
 
-* **Case Study:** thyroid
+* **Case Study:** kidney
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q2
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** CellTiter-Fluor
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 
@@ -32,7 +32,7 @@ A Non-Lytic Fluorescence Assay That Measures the Relative Number of Viable Cells
 
 * **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [_No response_](_No response_)
+* **Ontology Term:** [http://www.bioassayontology.org/bao#BAO_0140046](http://www.bioassayontology.org/bao#BAO_0140046)
 
 * **Citation:** _No response_
 

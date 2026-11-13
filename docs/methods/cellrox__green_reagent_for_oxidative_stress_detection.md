@@ -14,17 +14,17 @@ ROS detection by fluorescent probe
 
 * **VHP4Safety Workflow Stage:** AOP
 
-* **Workflow Substage:** _ROS increase_
+* **Workflow Substage:** ROS increase
 
-* **Case Study:** thyroid
+* **Case Study:** kidney
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q2
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** CellROX Green Reagent for oxidative stress detection
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 
@@ -32,7 +32,7 @@ ROS detection by fluorescent probe
 
 * **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [_No response_](_No response_)
+* **Ontology Term:** [http://www.bioassayontology.org/bao#BAO_0002168](http://www.bioassayontology.org/bao#BAO_0002168)
 
 * **Citation:** _No response_
 
