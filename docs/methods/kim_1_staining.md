@@ -16,15 +16,15 @@ KIM-1 staining is an immunofluorescent staining of kidney injury molecule 1, an 
 
 * **Workflow Substage:** _No response_
 
-* **Case Study:** thyroid
+* **Case Study:** _No response_
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** _No response_
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** KIM-1 staining
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 
@@ -32,7 +32,7 @@ KIM-1 staining is an immunofluorescent staining of kidney injury molecule 1, an 
 
 * **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [_No response_](_No response_)
+* **Ontology Term:** [http://www.ebi.ac.uk/efo/EFO_0022944](http://www.ebi.ac.uk/efo/EFO_0022944)
 
 * **Citation:** _No response_
 

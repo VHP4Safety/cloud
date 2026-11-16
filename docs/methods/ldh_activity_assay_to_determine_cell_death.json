@@ -4,7 +4,11 @@
   "issue_number": 169,
   "assay_name_content": "Cytotoxicity Detection Kit (LDH)",
   "data_producer_content": "Julia Meerman",
+  "available_sop_or_protocol_content": "_No response_",
   "method_description_content": "Colorimetric determination of lactate dehydrogenase (LDH) activity",
+  "case_study_content": "parkinson",
+  "ontology_term_content": "_No response_",
+  "regulatory_question_content": "Q1",
   "http": "//www.bioassayontology.org/bao#BAO_0013056",
   "type_url": "http://www.bioassayontology.org/bao#BAO_0013056",
   "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
@@ -17,9 +21,5 @@
   "citation_content": "_No response_",
   "vhp4safety_workflow_stage_content": "Adverse Outcome",
   "workflow_substage_content": "Cell death, Adverse outcome",
-  "available_sop_or_protocol_content": "No response",
-  "ontology_term_content": "No response",
-  "regulatory_question_content": "Q1",
-  "case_study_content": "parkinson",
-  "timestamp": "2025-09-29T13:54:24.660514Z"
+  "timestamp": "2026-10-13T14:24:25.928232Z"
 }

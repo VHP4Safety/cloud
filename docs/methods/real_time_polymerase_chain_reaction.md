@@ -16,15 +16,15 @@ Technology used for measuring RNA using PCR
 
 * **Workflow Substage:** _No response_
 
-* **Case Study:** thyroid
+* **Case Study:** kidney
 
-* **Regulatory Question:** Q1
+* **Regulatory Question:** Q2
 
 ## Additional Information
 
-* **Assay Name:** Not available
+* **Assay Name:** Real-time polymerase chain reaction
 
-* **Data Producer:** Not available
+* **Data Producer:** _No response_
 
 * **Relevant AOP Wiki Key Event(s):** _No response_
 

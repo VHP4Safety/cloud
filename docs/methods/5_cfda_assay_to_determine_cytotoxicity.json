@@ -4,9 +4,13 @@
   "issue_number": 170,
   "assay_name_content": "5-CFDA, AM (5-Carboxyfluorescein Diacetate, Acetoxymethyl Ester)",
   "data_producer_content": "Julia Meerman",
+  "available_sop_or_protocol_content": "_No response_",
   "method_description_content": "Fluorescence-based determination of cell membrane damage",
+  "case_study_content": "parkinson",
+  "ontology_term_content": "_No response_",
+  "regulatory_question_content": "Q1, Q2",
   "type_content": "_No response_",
-  "relevant_vhp4safety_regulatory_question(s)_content": "_No response_",
+  "relevant_vhp4safety_regulatory_question(s)_content": "Life Course Pesticide Exposure and Neurodegenerative Disease (a), Life Course Pesticide Exposure and Neurodegenerative Disease (b)",
   "relevant_aop_wiki_key_event(s)_to_the_assay_content": "KE1825",
   "relevant_aop_wiki_adverse_outcome_pathway(s)_to_the_assay_content": "AOP464",
   "vendor_content": "Invitrogen",
@@ -16,9 +20,5 @@
   "citation_content": "_No response_",
   "vhp4safety_workflow_stage_content": "Adverse Outcome",
   "workflow_substage_content": "Cell death, Adverse outcome",
-  "available_sop_or_protocol_content": "No response",
-  "ontology_term_content": "No response",
-  "regulatory_question_content": "Q1",
-  "case_study_content": "parkinson",
-  "timestamp": "2025-09-29T13:52:50.256831Z"
+  "timestamp": "2026-10-13T14:24:25.928232Z"
 }

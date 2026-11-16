@@ -22,7 +22,7 @@ Luminescence-based detection of cellular ATP content
 
 ## Additional Information
 
-* **Assay Name:** CellTiter-Glo® 2.0 Cell Viability Assay
+* **Assay Name:** CellTiter-Glo 2.0 Cell Viability Assay
 
 * **Data Producer:** Julia Meerman
 
@@ -30,9 +30,9 @@ Luminescence-based detection of cellular ATP content
 
 * **Relevant AOP Wiki Adverse Outcome Pathway(s):** AOP464
 
-* **Available SOP or Protocol:** No response
+* **Available SOP or Protocol:** _No response_
 
-* **Ontology Term:** [No response](No response)
+* **Ontology Term:** [http://www.bioassayontology.org/bao#BAO_0000682](http://www.bioassayontology.org/bao#BAO_0000682)
 
 * **Citation:** _No response_
 
