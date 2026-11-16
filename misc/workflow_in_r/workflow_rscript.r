@@ -426,6 +426,14 @@ for (i in 1:length(service_metadata)) {
   }
   system(paste0("echo \"\" >> ", target))
   
+  # MCP
+  if (!is.null(service_metadata[[i]][["mcp"]][["URL"]])) {
+    system(paste0("echo \"* MCP: ", service_metadata[[i]][["mcp"]][["URL"]], "\" >> ", target))
+  } else {
+    system(paste0("echo \"* MCP: Not available\" >> ", target))
+  }
+  system(paste0("echo \"\" >> ", target))
+
   # Categories
   # if (!is.null(service_metadata[[i]][["access"]][["API"]])) {
   #   system(paste0("echo \"* API Type: ", service_metadata[[i]][["access"]][["API"]], "\" >> ", target))
