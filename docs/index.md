@@ -61,6 +61,10 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 
 A framework for mapping identifiers across biological databases and related sources. [[more information](service/bridgedb.md)]
 
+#### ExpoPortal (OntoPortal)
+
+An OntoPortal ontology repository for exposome-relevant ontologies, set up at BioHackathon Europe 2026 (project 19). Browse and search ontologies, annotate text, explore mappings between ontologies and check FAIR scores (O'FAIRe). Programmatic access through the OntoPortal REST API (free account API key) and a read-only MCP server for LLM agents at https://expoportal.biohackeu.bigcat-bioinformatics.org/mcp. [[more information](service/expoportal.md)]
+
 #### MCT8 Docking for MIE Discovery
 
 A Jupyter notebook (and Flask web application) for predicting binding affinity of compounds to the MCT8 (SLC16A2) thyroid-hormone transporter using neural-network–enhanced molecular docking (Gnina), to flag candidate Molecular Initiating Events in the developmental thyroid-toxicity case study. [[more information](service/mct8-dock.md)]

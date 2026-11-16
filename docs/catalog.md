@@ -169,6 +169,14 @@ An open source, user friendly and web based prediction tool that uses molecular 
 
 ------------------------
 
+![ExpoPortal (OntoPortal) logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/expoportal.png)
+
+## ExpoPortal (OntoPortal)
+
+An OntoPortal ontology repository for exposome-relevant ontologies, set up at BioHackathon Europe 2026 (project 19). Browse and search ontologies, annotate text, explore mappings between ontologies and check FAIR scores (O'FAIRe). Programmatic access through the OntoPortal REST API (free account API key) and a read-only MCP server for LLM agents at https://expoportal.biohackeu.bigcat-bioinformatics.org/mcp. [[more information](service/expoportal.md)]
+
+------------------------
+
 ![FAIRDOMHub logo](https://raw.githubusercontent.com/VHP4Safety/cloud/main/docs/service/fairdomhub.png)
 
 ## FAIRDOMHub
