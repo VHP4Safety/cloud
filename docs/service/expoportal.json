@@ -30,6 +30,9 @@
     "API": "REST API (OntoPortal API, free account API key); MCP server (read-only, no login)",
     "login": "REST API: API key; MCP: no"
   },
+  "mcp": {
+    "URL": "https://expoportal.biohackeu.bigcat-bioinformatics.org/mcp"
+  },
   "ELIXIR": {
     "tess": "OntoPortal"
   },
