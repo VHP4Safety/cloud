@@ -339,6 +339,23 @@
     "reg_q_3a": "true",
     "reg_q_3b": "true"
   },
+  "expoportal": {
+    "id": "expoportal",
+    "service": "ExpoPortal (OntoPortal)",
+    "description": "An OntoPortal ontology repository for exposome-relevant ontologies, set up at BioHackathon Europe 2026 (project 19). Browse and search ontologies, annotate text, explore mappings between ontologies and check FAIR scores (O'FAIRe). Programmatic access through the OntoPortal REST API (free account API key) and a read-only MCP server for LLM agents at https://expoportal.biohackeu.bigcat-bioinformatics.org/mcp.",
+    "html_name": "expoportal.html",
+    "md_file_name": "expoportal.md",
+    "png_file_name": "expoportal.png",
+    "stage": "https://vhp4safety.github.io/glossary#VHP0000154",
+    "main_url": "https://expoportal.biohackeu.bigcat-bioinformatics.org/",
+    "inst_url": "https://expoportal.biohackeu.bigcat-bioinformatics.org/",
+    "reg_q_1a": "false",
+    "reg_q_1b": "false",
+    "reg_q_2a": "false",
+    "reg_q_2b": "false",
+    "reg_q_3a": "false",
+    "reg_q_3b": "false"
+  },
   "fairdomhub": {
     "id": "fairdomhub",
     "service": "FAIRDOMHub",
