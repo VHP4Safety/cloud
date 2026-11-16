@@ -67,6 +67,8 @@ A REST API for the AOP-Wiki RDF data that returns AOPs, Key Events, Key Event Re
 
 * API Type: REST API -- OpenAPI (Swagger UI)
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

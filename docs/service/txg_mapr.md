@@ -67,6 +67,8 @@ An online application for implementation of weighted gene co-expression network 
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

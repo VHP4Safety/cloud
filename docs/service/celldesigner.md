@@ -66,6 +66,8 @@ An intuitive user interface for creating gene-regulatory and biochemical network
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

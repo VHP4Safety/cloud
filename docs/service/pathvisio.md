@@ -67,6 +67,8 @@ Desktop software to visualize, edit, and draw new pathways, which can be exporte
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

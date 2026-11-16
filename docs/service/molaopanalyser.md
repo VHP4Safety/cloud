@@ -67,6 +67,8 @@ A web application for Key Event enrichment analysis on transcriptomic data in th
 
 * API Type: REST
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

@@ -66,6 +66,8 @@ An online tool for answering questions about lipid metabolism and related toxico
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

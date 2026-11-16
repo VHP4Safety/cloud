@@ -67,6 +67,8 @@ An online tool for harmonizing in vitro toxicity test methods using Large Langua
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

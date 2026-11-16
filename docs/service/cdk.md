@@ -65,6 +65,8 @@ A Java library for chem- and bioinformatics, with functionality to read/write ch
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

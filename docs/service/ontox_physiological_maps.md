@@ -65,6 +65,8 @@ Maps for illustrating biological processes behind toxicological risks using a st
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

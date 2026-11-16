@@ -67,6 +67,8 @@ A web-based SPARQL query interface for the AOP-Wiki RDF endpoint, with CodeMirro
 
 * API Type: SPARQL endpoint
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

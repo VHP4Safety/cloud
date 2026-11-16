@@ -66,6 +66,8 @@ An R Shiny interface for the R-ODAF framework that provides standardised RNA-seq
 
 * API Type: 
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

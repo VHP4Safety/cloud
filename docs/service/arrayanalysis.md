@@ -67,6 +67,8 @@ A user-interface for preprocessing and statistically analyzing RNA-sequencing an
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

@@ -67,6 +67,8 @@ An online repository for inventarisation of official reports from the European M
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

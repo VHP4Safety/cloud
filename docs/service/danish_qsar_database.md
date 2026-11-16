@@ -65,6 +65,8 @@ A freely available (Q)SAR tool for substance evaluations that includes estimates
 
 * API Type: 
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

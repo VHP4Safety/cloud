@@ -67,6 +67,8 @@ A Wikibase instance for storing and presenting information about toxic, safe and
 
 * API Type: SPARQL
 
+* MCP: https://wb-mcp.wmcloud.org/chemical-compounds-of-interest/mcp/
+
 * Categories: To be added
 
 * Targeted Users: To be added

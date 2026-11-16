@@ -64,6 +64,8 @@ Open-source active-learning software for transparent and efficient systematic li
 
 * API Type: Python
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

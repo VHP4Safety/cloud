@@ -66,6 +66,8 @@ A repository dedicated to the inventory and acquisition of high-quality mathemat
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

@@ -66,6 +66,8 @@ A tool that supports Adverse Outcome Pathway (AOP) development by extracting key
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

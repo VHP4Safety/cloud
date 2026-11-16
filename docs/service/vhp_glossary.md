@@ -67,6 +67,8 @@ A collection of ontology with names, abrreviations and definitions of the termin
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

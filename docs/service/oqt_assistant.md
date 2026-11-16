@@ -66,6 +66,8 @@ An online assistant for using the OECD QSAR Toolbox to analyze chemicals, assess
 
 * API Type: 
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

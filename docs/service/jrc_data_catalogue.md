@@ -66,6 +66,8 @@ An in-house data inventory produced by the Joint Research Centre (JRC) for provi
 
 * API Type: https://data.jrc.ec.europa.eu/docs/index.html
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

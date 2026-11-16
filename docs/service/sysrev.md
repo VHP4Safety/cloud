@@ -64,6 +64,8 @@ An online service for conduction of literature review, data extraction and syste
 
 * API Type: REST
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

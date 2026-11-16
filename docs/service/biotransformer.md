@@ -65,6 +65,8 @@ A software tool for predicting metabolites from SMILES-formatted chemical inputs
 
 * API Type: 
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

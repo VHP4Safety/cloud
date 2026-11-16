@@ -65,6 +65,8 @@ An online service for parsing chemical IUPAC names into a machine-readable chemi
 
 * API Type: 
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

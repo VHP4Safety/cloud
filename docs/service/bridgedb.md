@@ -67,6 +67,8 @@ A framework for mapping identifiers across biological databases and related sour
 
 * API Type: REST
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

@@ -66,6 +66,8 @@ An open source RDF-based data management platform for importing and exporting re
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

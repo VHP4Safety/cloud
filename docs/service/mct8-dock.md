@@ -67,6 +67,8 @@ A Jupyter notebook (and Flask web application) for predicting binding affinity o
 
 * API Type: REST
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

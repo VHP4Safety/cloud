@@ -66,6 +66,8 @@ A web application for visualization of Adverse Outcome Pathway (AOP) networks an
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

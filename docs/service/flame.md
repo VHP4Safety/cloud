@@ -65,6 +65,8 @@ An open source web application for building predictive models from biologically 
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

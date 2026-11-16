@@ -67,6 +67,8 @@ An Adverse Outcome Pathway (AOP) portal on WikiPathways for exploring the molecu
 
 * API Type: SPARQL
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

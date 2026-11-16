@@ -67,6 +67,8 @@ An interactive tool for predicting key events (KEs) and adverse outcomes (AOs) o
 
 * API Type: REST
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

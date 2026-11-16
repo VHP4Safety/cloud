@@ -66,6 +66,8 @@ An online model for predicting water-octanol distribution coefficient (logD) of 
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

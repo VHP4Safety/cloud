@@ -65,6 +65,8 @@ An open-source software for simulating, analyzing and visualizing biochemical ne
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

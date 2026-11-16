@@ -66,6 +66,8 @@ A software for supporting chemical hazard assessment and enhancing mechanistic k
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

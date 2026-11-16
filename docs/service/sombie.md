@@ -64,6 +64,8 @@ A webservice for prediction of protein-structure and reactivity based (P450) sit
 
 * API Type: REST
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

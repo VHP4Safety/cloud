@@ -67,6 +67,8 @@ A webservice for generating chemical structure images from SMILES inputs.
 
 * API Type: REST
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

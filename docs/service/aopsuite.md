@@ -67,6 +67,8 @@ A web-based tool for building, visualizing and analyzing Adverse Outcome Pathway
 
 * API Type: REST API, Flask
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

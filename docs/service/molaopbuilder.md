@@ -67,6 +67,8 @@ A curator-in-the-loop web application for building molecular Adverse Outcome Pat
 
 * API Type: REST
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

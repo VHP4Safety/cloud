@@ -66,6 +66,8 @@ An online database for searching chemical, toxicity and exposure information.
 
 * API Type: Not available
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

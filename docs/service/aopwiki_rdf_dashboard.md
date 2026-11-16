@@ -67,6 +67,8 @@ A web dashboard for monitoring and analysing the AOP-Wiki RDF knowledge base ove
 
 * API Type: 
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

@@ -65,6 +65,8 @@ An open source, user friendly and web based prediction tool that uses molecular 
 
 * API Type: 
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added

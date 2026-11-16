@@ -66,6 +66,8 @@ An online service for automatically extracting chemical structure depictiions fr
 
 * API Type: 
 
+* MCP: Not available
+
 * Categories: To be added
 
 * Targeted Users: To be added
