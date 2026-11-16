@@ -67,7 +67,7 @@ An OntoPortal ontology repository for exposome-relevant ontologies, set up at Bi
 
 * API Type: REST API (OntoPortal API, free account API key); MCP server (read-only, no login)
 
-* MCP: Not available
+* MCP: https://expoportal.biohackeu.bigcat-bioinformatics.org/mcp
 
 * Categories: To be added
 
